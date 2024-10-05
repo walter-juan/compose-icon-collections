@@ -11,7 +11,7 @@ plugins {
     alias(libs.plugins.jetbrains.compose.compiler)
 }
 
-version = "1.0.0"
+version = "3.19.0"
 group = "com.woowla.compose.icon.collections"
 
 kotlin {

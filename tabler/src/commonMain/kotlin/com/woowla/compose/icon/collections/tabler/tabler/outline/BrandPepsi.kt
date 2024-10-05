@@ -1,0 +1,46 @@
+package com.woowla.compose.icon.collections.tabler.tabler.outline
+
+import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.graphics.PathFillType.Companion.NonZero
+import androidx.compose.ui.graphics.SolidColor
+import androidx.compose.ui.graphics.vector.ImageVector
+import androidx.compose.ui.graphics.vector.ImageVector.Builder
+import androidx.compose.ui.graphics.vector.path
+import androidx.compose.ui.unit.dp
+import com.woowla.compose.icon.collections.tabler.tabler.OutlineGroup
+import androidx.compose.ui.graphics.StrokeCap.Companion.Round as strokeCapRound
+import androidx.compose.ui.graphics.StrokeJoin.Companion.Round as strokeJoinRound
+
+public val OutlineGroup.BrandPepsi: ImageVector
+    get() {
+        if (_brandPepsi != null) {
+            return _brandPepsi!!
+        }
+        _brandPepsi = Builder(name = "BrandPepsi", defaultWidth = 24.0.dp, defaultHeight = 24.0.dp,
+                viewportWidth = 24.0f, viewportHeight = 24.0f).apply {
+            path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
+                    strokeLineWidth = 2.0f, strokeLineCap = strokeCapRound, strokeLineJoin =
+                    strokeJoinRound, strokeLineMiter = 4.0f, pathFillType = NonZero) {
+                moveTo(12.0f, 12.0f)
+                moveToRelative(-9.0f, 0.0f)
+                arcToRelative(9.0f, 9.0f, 0.0f, true, false, 18.0f, 0.0f)
+                arcToRelative(9.0f, 9.0f, 0.0f, true, false, -18.0f, 0.0f)
+            }
+            path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
+                    strokeLineWidth = 2.0f, strokeLineCap = strokeCapRound, strokeLineJoin =
+                    strokeJoinRound, strokeLineMiter = 4.0f, pathFillType = NonZero) {
+                moveTo(4.0f, 16.0f)
+                curveToRelative(5.713f, -2.973f, 11.0f, -3.5f, 13.449f, -11.162f)
+            }
+            path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
+                    strokeLineWidth = 2.0f, strokeLineCap = strokeCapRound, strokeLineJoin =
+                    strokeJoinRound, strokeLineMiter = 4.0f, pathFillType = NonZero) {
+                moveTo(5.0f, 17.5f)
+                curveToRelative(5.118f, -2.859f, 15.0f, 0.0f, 14.0f, -11.0f)
+            }
+        }
+        .build()
+        return _brandPepsi!!
+    }
+
+private var _brandPepsi: ImageVector? = null

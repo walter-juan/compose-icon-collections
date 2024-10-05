@@ -1,0 +1,151 @@
+package com.woowla.compose.icon.collections.tabler.tabler.filled
+
+import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.graphics.PathFillType.Companion.NonZero
+import androidx.compose.ui.graphics.SolidColor
+import androidx.compose.ui.graphics.StrokeCap.Companion.Butt
+import androidx.compose.ui.graphics.StrokeJoin.Companion.Miter
+import androidx.compose.ui.graphics.vector.ImageVector
+import androidx.compose.ui.graphics.vector.ImageVector.Builder
+import androidx.compose.ui.graphics.vector.path
+import androidx.compose.ui.unit.dp
+import com.woowla.compose.icon.collections.tabler.tabler.FilledGroup
+
+public val FilledGroup.Car: ImageVector
+    get() {
+        if (_car != null) {
+            return _car!!
+        }
+        _car = Builder(name = "Car", defaultWidth = 24.0.dp, defaultHeight = 24.0.dp, viewportWidth
+                = 24.0f, viewportHeight = 24.0f).apply {
+            path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
+                    strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
+                    pathFillType = NonZero) {
+                moveTo(17.0f, 14.0f)
+                arcToRelative(3.0f, 3.0f, 0.0f, false, true, 2.685f, 4.34f)
+                lineToRelative(-0.067f, 0.126f)
+                lineToRelative(-0.1f, 0.165f)
+                lineToRelative(-0.141f, 0.2f)
+                lineToRelative(-0.116f, 0.141f)
+                lineToRelative(-0.116f, 0.126f)
+                arcToRelative(3.0f, 3.0f, 0.0f, false, true, -0.388f, 0.334f)
+                lineToRelative(-0.149f, 0.1f)
+                lineToRelative(-0.089f, 0.055f)
+                quadToRelative(-0.052f, 0.032f, -0.107f, 0.06f)
+                lineToRelative(-0.17f, 0.085f)
+                lineToRelative(-0.175f, 0.073f)
+                lineToRelative(-0.104f, 0.037f)
+                lineToRelative(-0.17f, 0.052f)
+                lineToRelative(-0.172f, 0.042f)
+                lineToRelative(-0.183f, 0.032f)
+                lineToRelative(-0.075f, 0.01f)
+                quadToRelative(-0.09f, 0.011f, -0.18f, 0.016f)
+                lineToRelative(-0.183f, 0.006f)
+                lineToRelative(-0.183f, -0.006f)
+                lineToRelative(-0.18f, -0.016f)
+                lineToRelative(-0.192f, -0.03f)
+                lineToRelative(-0.17f, -0.036f)
+                lineToRelative(-0.18f, -0.051f)
+                lineToRelative(-0.058f, -0.019f)
+                arcToRelative(3.0f, 3.0f, 0.0f, false, true, -0.174f, -0.065f)
+                lineToRelative(-0.161f, -0.072f)
+                lineToRelative(-0.168f, -0.087f)
+                lineToRelative(-0.053f, -0.03f)
+                quadToRelative(-0.122f, -0.072f, -0.237f, -0.156f)
+                lineToRelative(-0.16f, -0.124f)
+                lineToRelative(-0.15f, -0.134f)
+                lineToRelative(-0.129f, -0.129f)
+                lineToRelative(-0.066f, -0.073f)
+                lineToRelative(-0.1f, -0.12f)
+                lineToRelative(-0.12f, -0.165f)
+                lineToRelative(-0.074f, -0.113f)
+                lineToRelative(-0.063f, -0.108f)
+                lineToRelative(-0.067f, -0.126f)
+                arcToRelative(3.0f, 3.0f, 0.0f, false, true, -0.315f, -1.34f)
+                arcToRelative(3.0f, 3.0f, 0.0f, false, true, 3.0f, -3.0f)
+                moveToRelative(-10.0f, 0.0f)
+                arcToRelative(3.0f, 3.0f, 0.0f, false, true, 2.685f, 4.34f)
+                lineToRelative(-0.067f, 0.126f)
+                lineToRelative(-0.1f, 0.165f)
+                lineToRelative(-0.141f, 0.2f)
+                lineToRelative(-0.116f, 0.141f)
+                lineToRelative(-0.116f, 0.126f)
+                arcToRelative(3.0f, 3.0f, 0.0f, false, true, -0.388f, 0.334f)
+                lineToRelative(-0.149f, 0.1f)
+                lineToRelative(-0.089f, 0.055f)
+                quadToRelative(-0.052f, 0.032f, -0.107f, 0.06f)
+                lineToRelative(-0.17f, 0.085f)
+                lineToRelative(-0.175f, 0.073f)
+                lineToRelative(-0.104f, 0.037f)
+                lineToRelative(-0.17f, 0.052f)
+                lineToRelative(-0.172f, 0.042f)
+                lineToRelative(-0.183f, 0.032f)
+                lineToRelative(-0.075f, 0.01f)
+                quadToRelative(-0.09f, 0.011f, -0.18f, 0.016f)
+                lineToRelative(-0.183f, 0.006f)
+                lineToRelative(-0.183f, -0.006f)
+                lineToRelative(-0.18f, -0.016f)
+                lineToRelative(-0.192f, -0.03f)
+                lineToRelative(-0.17f, -0.036f)
+                lineToRelative(-0.18f, -0.051f)
+                lineToRelative(-0.058f, -0.019f)
+                arcToRelative(3.0f, 3.0f, 0.0f, false, true, -0.174f, -0.065f)
+                lineToRelative(-0.161f, -0.072f)
+                lineToRelative(-0.168f, -0.087f)
+                lineToRelative(-0.053f, -0.03f)
+                quadToRelative(-0.122f, -0.072f, -0.237f, -0.156f)
+                lineToRelative(-0.16f, -0.124f)
+                lineToRelative(-0.15f, -0.134f)
+                lineToRelative(-0.129f, -0.129f)
+                lineToRelative(-0.066f, -0.073f)
+                lineToRelative(-0.1f, -0.12f)
+                lineToRelative(-0.12f, -0.165f)
+                lineToRelative(-0.074f, -0.113f)
+                lineToRelative(-0.063f, -0.108f)
+                lineToRelative(-0.067f, -0.126f)
+                arcToRelative(3.0f, 3.0f, 0.0f, false, true, -0.315f, -1.34f)
+                arcToRelative(3.0f, 3.0f, 0.0f, false, true, 3.0f, -3.0f)
+                moveToRelative(7.0f, -9.0f)
+                arcToRelative(1.0f, 1.0f, 0.0f, false, true, 0.694f, 0.28f)
+                lineToRelative(0.087f, 0.095f)
+                lineToRelative(3.699f, 4.625f)
+                horizontalLineToRelative(0.52f)
+                arcToRelative(3.0f, 3.0f, 0.0f, false, true, 2.995f, 2.824f)
+                lineToRelative(0.005f, 0.176f)
+                verticalLineToRelative(4.0f)
+                arcToRelative(1.0f, 1.0f, 0.0f, false, true, -1.0f, 1.0f)
+                horizontalLineToRelative(-0.126f)
+                quadToRelative(0.125f, -0.48f, 0.126f, -1.0f)
+                arcToRelative(4.0f, 4.0f, 0.0f, true, false, -7.874f, 1.0f)
+                horizontalLineToRelative(-2.252f)
+                quadToRelative(0.124f, -0.48f, 0.126f, -1.0f)
+                arcToRelative(4.0f, 4.0f, 0.0f, true, false, -7.874f, 1.0f)
+                horizontalLineToRelative(-0.126f)
+                arcToRelative(1.0f, 1.0f, 0.0f, false, true, -1.0f, -1.0f)
+                verticalLineToRelative(-6.0f)
+                lineToRelative(0.007f, -0.117f)
+                lineToRelative(0.008f, -0.056f)
+                lineToRelative(0.017f, -0.078f)
+                lineToRelative(0.012f, -0.036f)
+                lineToRelative(0.014f, -0.05f)
+                lineToRelative(2.014f, -5.034f)
+                arcToRelative(1.0f, 1.0f, 0.0f, false, true, 0.928f, -0.629f)
+                close()
+                moveTo(7.0f, 16.0f)
+                arcToRelative(1.0f, 1.0f, 0.0f, true, false, 0.0f, 2.0f)
+                arcToRelative(1.0f, 1.0f, 0.0f, false, false, 0.0f, -2.0f)
+                moveToRelative(10.0f, 0.0f)
+                arcToRelative(1.0f, 1.0f, 0.0f, true, false, 0.0f, 2.0f)
+                arcToRelative(1.0f, 1.0f, 0.0f, false, false, 0.0f, -2.0f)
+                moveToRelative(-3.48f, -9.0f)
+                horizontalLineToRelative(-0.52f)
+                verticalLineToRelative(3.0f)
+                horizontalLineToRelative(2.92f)
+                close()
+            }
+        }
+        .build()
+        return _car!!
+    }
+
+private var _car: ImageVector? = null
