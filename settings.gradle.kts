@@ -1,4 +1,4 @@
-rootProject.name = "Composeiconcollections"
+rootProject.name = "compose-icon-collections"
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 
 pluginManagement {
