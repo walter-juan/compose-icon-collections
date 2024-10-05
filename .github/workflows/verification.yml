@@ -1,0 +1,39 @@
+name: Verification
+
+on:
+  pull_request:
+  workflow_dispatch:
+  workflow_call:
+
+permissions:
+  contents: read
+
+jobs:
+  verification:
+    name: Run the tests
+    strategy:
+      matrix:
+        include:
+          - target: iosSimulatorArm64Test
+            os: macos-latest
+          - target: iosX64Test
+            os: macos-latest
+          - target: jvmTest
+            os: ubuntu-latest
+          - target: wasmJsTest
+            os: ubuntu-latest
+          - target: testDebugUnitTest
+            os: ubuntu-latest
+          - target: testReleaseUnitTest
+            os: ubuntu-latest
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: 17
+      - uses: gradle/actions/wrapper-validation@v3
+      - name: Test
+        run: ./gradlew ${{ matrix.target }}

@@ -1,0 +1,95 @@
+name: Publish
+run-name: Publish ${{ inputs.module }}
+
+on:
+  workflow_dispatch:
+    inputs:
+      module:
+        type: choice
+        description: Which module to publish?
+        required: true
+        options:
+          - octicons
+          - tabler
+
+permissions:
+  contents: write
+
+env:
+  ORG_GRADLE_PROJECT_mavenCentralUsername: '${{ secrets.MAVEN_CENTRAL_USERNAME }}'
+  ORG_GRADLE_PROJECT_mavenCentralPassword: '${{ secrets.MAVEN_CENTRAL_PASSWORD }}'
+  ORG_GRADLE_PROJECT_signingInMemoryKey: '${{ secrets.SIGNING_KEY }}'
+  ORG_GRADLE_PROJECT_signingInMemoryKeyId: '${{ secrets.SIGNING_KEY_ID }}'
+  ORG_GRADLE_PROJECT_signingInMemoryKeyPassword: '${{ secrets.SIGNING_KEY_PASSWORD }}'
+
+jobs:
+  verification:
+    name: Verification
+    uses: ./.github/workflows/verification.yml
+  create-tag:
+    name: Create Tag
+    if: ${{ github.ref_name == 'main' }}
+    needs: verification
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Create Tag
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const path = require('path');
+            
+            const module = '${{ inputs.module }}';
+            const modulePath = path.join(process.env.GITHUB_WORKSPACE, module, 'build.gradle.kts');
+            const fileContent = fs.readFileSync(modulePath, 'utf8');
+            const versionMatch = fileContent.match(/^version\s*=\s*["']([^"']+)["']/m);
+            if (!versionMatch) {
+              throw new Error('Version not found');
+            }
+            const version = versionMatch[1];
+            
+            if (version) {
+              const tagName = `${module}-${version}`;
+              console.log(`Creating tag: ${tagName}`);
+              github.rest.git.createRef({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                ref: `refs/tags/${tagName}`,
+                sha: context.sha
+              });
+            } else {
+              throw new Error('Version not found');
+            }
+  publish:
+    name: Publish to Maven Central
+    if: ${{ github.ref_name == 'main' }}
+    needs: [verification, create-tag]
+    strategy:
+      matrix:
+        include:
+          - target: publishIosArm64PublicationToMavenCentralRepository
+            os: macos-latest
+          - target: publishIosX64PublicationToMavenCentralRepository
+            os: macos-latest
+          - target: publishIosSimulatorArm64PublicationToMavenCentralRepository
+            os: macos-latest
+          - target: publishAndroidReleasePublicationToMavenCentralRepository
+            os: ubuntu-latest
+          - target: publishJvmPublicationToMavenCentralRepository
+            os: ubuntu-latest
+          - target: publishKotlinMultiplatformPublicationToMavenCentralRepository
+            os: ubuntu-latest
+          - target: publishWasmJsPublicationToMavenCentralRepository
+            os: ubuntu-latest
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: 17
+      - uses: gradle/actions/wrapper-validation@v3
+      - name: Publish
+        run: ./gradlew ${{ inputs.module }}:${{ matrix.target }} --no-configuration-cache
