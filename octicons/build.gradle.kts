@@ -1,5 +1,6 @@
 import br.com.devsrsouza.svg2compose.Svg2Compose
 import br.com.devsrsouza.svg2compose.VectorType
+import com.vanniktech.maven.publish.SonatypeHost
 import org.jetbrains.kotlin.gradle.ExperimentalKotlinGradlePluginApi
 import org.jetbrains.kotlin.gradle.ExperimentalWasmDsl
 import org.jetbrains.kotlin.gradle.dsl.JvmTarget
@@ -9,6 +10,7 @@ plugins {
     alias(libs.plugins.android.library)
     alias(libs.plugins.jetbrains.compose)
     alias(libs.plugins.jetbrains.compose.compiler)
+    alias(libs.plugins.vanniktech.maven.publish)
 }
 
 version = "19.11.0"
@@ -57,6 +59,38 @@ android {
     }
 }
 
+mavenPublishing {
+    coordinates(project.group.toString(), project.name, project.version.toString())
+
+    publishToMavenCentral(SonatypeHost.CENTRAL_PORTAL, automaticRelease = false)
+    signAllPublications()
+
+    pom {
+        name = project.name
+        description = "The ${project.name} icons for Jetpack Compose"
+        inceptionYear = "2024"
+        url = "https://github.com/walter-juan/compose-icon-collections"
+        licenses {
+            license {
+                name = "The MIT License"
+                url = "https://opensource.org/licenses/MIT"
+                distribution = "repo"
+            }
+        }
+        developers {
+            developer {
+                id = "walter-juan"
+                name = "Walter Juan"
+                url.set("https://github.com/walter-juan/")
+            }
+        }
+        scm {
+            url = "https://github.com/walter-juan/compose-icon-collections"
+            connection = "scm:git:git://github.com/walter-juan/compose-icon-collections.git"
+            developerConnection = "scm:git:ssh://git@github.com/walter-juan/compose-icon-collections.git"
+        }
+    }
+}
 
 tasks.register("download-icons") {
     val srcDir = layout.projectDirectory.dir("src/commonMain/kotlin").asFile
