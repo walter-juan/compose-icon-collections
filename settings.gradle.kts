@@ -29,3 +29,4 @@ dependencyResolutionManagement {
 }
 
 include(":sample:composeApp")
+include(":octicons")
