@@ -1,4 +1,4 @@
-package com.woowla.compose.icons.collections.sample
+package com.woowla.compose.icon.collections.sample
 
 import android.os.Build
 

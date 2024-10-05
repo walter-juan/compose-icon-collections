@@ -1,4 +1,4 @@
-package com.woowla.compose.icons.collections.sample
+package com.woowla.compose.icon.collections.sample
 
 class JVMPlatform: Platform {
     override val name: String = "Java ${System.getProperty("java.version")}"

@@ -75,7 +75,7 @@ kotlin {
 }
 
 android {
-    namespace = "com.woowla.compose.icons.collections.sample"
+    namespace = "com.woowla.compose.icon.collections.sample"
     compileSdk = libs.versions.android.compileSdk.get().toInt()
 
     sourceSets["main"].manifest.srcFile("src/androidMain/AndroidManifest.xml")
@@ -83,7 +83,7 @@ android {
     sourceSets["main"].resources.srcDirs("src/commonMain/resources")
 
     defaultConfig {
-        applicationId = "com.woowla.compose.icons.collections.sample"
+        applicationId = "com.woowla.compose.icon.collections.sample"
         minSdk = libs.versions.android.minSdk.get().toInt()
         targetSdk = libs.versions.android.targetSdk.get().toInt()
         versionCode = 1
@@ -113,11 +113,11 @@ android {
 
 compose.desktop {
     application {
-        mainClass = "com.woowla.compose.icons.collections.sample.MainKt"
+        mainClass = "com.woowla.compose.icon.collections.sample.MainKt"
 
         nativeDistributions {
             targetFormats(TargetFormat.Dmg, TargetFormat.Msi, TargetFormat.Deb)
-            packageName = "com.woowla.compose.icons.collections.sample"
+            packageName = "com.woowla.compose.icon.collections.sample"
             packageVersion = "1.0.0"
         }
     }

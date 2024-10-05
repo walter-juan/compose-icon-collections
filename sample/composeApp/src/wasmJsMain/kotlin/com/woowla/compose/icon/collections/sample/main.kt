@@ -1,4 +1,4 @@
-package com.woowla.compose.icons.collections.sample
+package com.woowla.compose.icon.collections.sample
 
 import androidx.compose.ui.ExperimentalComposeUiApi
 import androidx.compose.ui.window.ComposeViewport

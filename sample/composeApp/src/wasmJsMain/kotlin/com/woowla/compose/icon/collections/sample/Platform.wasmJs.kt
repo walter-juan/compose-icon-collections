@@ -1,4 +1,4 @@
-package com.woowla.compose.icons.collections.sample
+package com.woowla.compose.icon.collections.sample
 
 class WasmPlatform: Platform {
     override val name: String = "Web with Kotlin/Wasm"
