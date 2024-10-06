@@ -30,6 +30,14 @@ kotlin {
 }
 ```
 
+In your code, use the icons like this:
+
+```kotlin
+Icon(imageVector = Octicons.Home16, contentDescription = null)
+Icon(imageVector = Tabler.Filled.HospitalCircle, contentDescription = null)
+Icon(imageVector = Tabler.Outline.HospitalCircle, contentDescription = null)
+```
+
 ## Icon packs
 
 - Tabler: https://github.com/tabler/tabler-icons
@@ -39,7 +47,7 @@ The same version numbers as the official icon packs have been followed
 
 | Name     | Version | License                                                                    |
 |----------|---------|----------------------------------------------------------------------------|
-| tabler   | 3.19.0  | [MIT license](https://github.com/tabler/tabler-icons/blob/v3.14.0/LICENSE) |
+| tabler   | 3.19.0  | [MIT license](https://github.com/tabler/tabler-icons/blob/v3.19.0/LICENSE) |
 | octicons | 19.11.0 | [MIT license](https://github.com/primer/octicons/blob/v19.11.0/LICENSE)    |
 
 ## Development
