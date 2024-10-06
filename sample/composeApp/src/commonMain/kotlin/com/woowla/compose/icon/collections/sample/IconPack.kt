@@ -1,7 +1,7 @@
 package com.woowla.compose.icons.sample
 
-enum class IconPack(name: String) {
-    Octicons(name = "Octicons"),
-    TablerFilled(name = "Tabler.Filled"),
-    TablerOutline(name = "Tabler.Outline"),
+enum class IconPack(val packName: String) {
+    Octicons(packName = "Octicons"),
+    TablerFilled(packName = "Tabler.Filled"),
+    TablerOutline(packName = "Tabler.Outline"),
 }

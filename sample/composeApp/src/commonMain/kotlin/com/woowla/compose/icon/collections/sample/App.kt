@@ -168,7 +168,7 @@ fun Icons(
                     ) {
                         Icon(imageVector = icon, contentDescription = null)
                         Spacer(modifier = Modifier.width(4.dp))
-                        Text("${selectedIconPack.name}.${icon.name}")
+                        Text("${selectedIconPack.packName}.${icon.name}")
                     }
                 }
             }
