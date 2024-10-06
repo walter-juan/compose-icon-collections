@@ -1,21 +1,81 @@
-This is a Kotlin Multiplatform project targeting Android, iOS, Web, Desktop.
+# Compose icon collections
 
-* `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
-  It contains several subfolders:
-  - `commonMain` is for code that’s common for all targets.
-  - Other folders are for Kotlin code that will be compiled for only the platform indicated in the folder name.
-    For example, if you want to use Apple’s CoreCrypto for the iOS part of your Kotlin app,
-    `iosMain` would be the right folder for such calls.
+![Platform](https://img.shields.io/badge/Platform-ComposeMultiplatform-brightgreen.svg)
+[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-* `/iosApp` contains iOS applications. Even if you’re sharing your UI with Compose Multiplatform, 
-  you need this entry point for your iOS app. This is also where you should add SwiftUI code for your project.
+Compose Multiplatform open source icon collections
 
+## How to use it
 
-Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html),
-[Compose Multiplatform](https://github.com/JetBrains/compose-multiplatform/#compose-multiplatform),
-[Kotlin/Wasm](https://kotl.in/wasm/)…
+Available in [Maven Central](https://central.sonatype.com/namespace/com.woowla.compose.icon.collections)
 
-We would appreciate your feedback on Compose/Web and Kotlin/Wasm in the public Slack channel [#compose-web](https://slack-chats.kotlinlang.org/c/compose-web).
-If you face any issues, please report them on [GitHub](https://github.com/JetBrains/compose-multiplatform/issues).
+```kotlin
+repositories {
+    mavenCentral()
+}
+```
 
-You can open the web application by running the `:composeApp:wasmJsBrowserDevelopmentRun` Gradle task.
+Add it to your project, see the table below for the corresponding version.
+
+```kotlin
+kotlin {
+   sourceSets {
+      commonMain {
+         dependencies {
+            implementation("com.woowla.compose.icon.collections:tabler:{version}")
+            implementation("com.woowla.compose.icon.collections:octicons:{version}")
+         }
+      }
+   }
+}
+```
+
+## Icon packs
+
+- Tabler: https://github.com/tabler/tabler-icons
+- Octicons: https://github.com/primer/octicons
+
+The same version numbers as the official icon packs have been followed
+
+| Name     | Version | License                                                                    |
+|----------|---------|----------------------------------------------------------------------------|
+| tabler   | 3.19.0  | [MIT license](https://github.com/tabler/tabler-icons/blob/v3.14.0/LICENSE) |
+| octicons | 19.11.0 | [MIT license](https://github.com/primer/octicons/blob/v19.11.0/LICENSE)    |
+
+## Development
+
+### Requirements
+
+- Android Studio
+- [Kotlin Multiplatform Plugin](https://plugins.jetbrains.com/plugin/14936-kotlin-multiplatform)
+- Java 17
+
+### Update the icons
+
+1. Run the icon download task
+2. Change the version in `build.gradle` from the updated modules
+3. Update [README.md](README.md) with the new version in *Icon packs* section
+
+### Add new icons
+
+1. Create a new module by copying the `build.gradle` from another module
+2. Create a `download-icons` task
+3. Add new input choice in [deploy.yml](.github/workflows/publish.yml)
+4. Add a new entry in the *Icon packs* section
+5. Update the sample
+
+### Gradle tasks
+
+- The folder [.run](.run) contains all the necessary tasks to download the icons and run the sample apps (Android/iOS/Desktop/Web)
+- Download icon ones:
+  - `./gradlew <module>:download-icons`
+  - `./gradlew download-icons`
+
+## Useful links
+
+- [How to run and create multiplatform project](https://www.jetbrains.com/help/kotlin-multiplatform-dev/compose-multiplatform-create-first-app.html)
+- Multiplatform library template, [from Kotlin](https://github.com/Kotlin/multiplatform-library-template)
+- Multiplatform library template, [from github.com/Tweener/kmplate-lib](https://github.com/Tweener/kmplate-lib)
+- [Multiplatform app template](https://kmp.jetbrains.com/)
+- [Publish Kotlin/Wasm to GitHub Pages](https://kotlinlang.org/docs/wasm-get-started.html#publish-on-github-pages)
+- [SVG to compose](https://github.com/DevSrSouza/svg-to-compose)
