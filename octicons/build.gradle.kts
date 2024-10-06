@@ -62,7 +62,7 @@ android {
 mavenPublishing {
     coordinates(project.group.toString(), project.name, project.version.toString())
 
-    publishToMavenCentral(SonatypeHost.CENTRAL_PORTAL, automaticRelease = false)
+    publishToMavenCentral(SonatypeHost.CENTRAL_PORTAL, automaticRelease = true)
     signAllPublications()
 
     pom {
