@@ -1,0 +1,64 @@
+package com.woowla.compose.icon.collections.remix.remix.document
+
+import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.graphics.PathFillType.Companion.NonZero
+import androidx.compose.ui.graphics.SolidColor
+import androidx.compose.ui.graphics.StrokeCap.Companion.Butt
+import androidx.compose.ui.graphics.StrokeJoin.Companion.Miter
+import androidx.compose.ui.graphics.vector.ImageVector
+import androidx.compose.ui.graphics.vector.ImageVector.Builder
+import androidx.compose.ui.graphics.vector.path
+import androidx.compose.ui.unit.dp
+import com.woowla.compose.icon.collections.remix.remix.DocumentGroup
+
+public val DocumentGroup.FilePpt2Fill: ImageVector
+    get() {
+        if (_filePpt2Fill != null) {
+            return _filePpt2Fill!!
+        }
+        _filePpt2Fill = Builder(name = "FilePpt2Fill", defaultWidth = 24.0.dp, defaultHeight =
+                24.0.dp, viewportWidth = 24.0f, viewportHeight = 24.0f).apply {
+            path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
+                    strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
+                    pathFillType = NonZero) {
+                moveTo(17.0f, 3.0f)
+                horizontalLineTo(21.0f)
+                curveTo(21.552f, 3.0f, 22.0f, 3.448f, 22.0f, 4.0f)
+                verticalLineTo(20.0f)
+                curveTo(22.0f, 20.552f, 21.552f, 21.0f, 21.0f, 21.0f)
+                horizontalLineTo(17.0f)
+                verticalLineTo(3.0f)
+                close()
+                moveTo(2.859f, 2.877f)
+                lineTo(15.429f, 1.082f)
+                curveTo(15.703f, 1.042f, 15.956f, 1.232f, 15.995f, 1.506f)
+                curveTo(15.998f, 1.529f, 16.0f, 1.553f, 16.0f, 1.576f)
+                verticalLineTo(22.424f)
+                curveTo(16.0f, 22.7f, 15.776f, 22.924f, 15.5f, 22.924f)
+                curveTo(15.476f, 22.924f, 15.453f, 22.922f, 15.429f, 22.918f)
+                lineTo(2.859f, 21.123f)
+                curveTo(2.366f, 21.052f, 2.0f, 20.63f, 2.0f, 20.133f)
+                verticalLineTo(3.867f)
+                curveTo(2.0f, 3.37f, 2.366f, 2.948f, 2.859f, 2.877f)
+                close()
+                moveTo(5.0f, 8.0f)
+                verticalLineTo(16.0f)
+                horizontalLineTo(7.0f)
+                verticalLineTo(14.0f)
+                horizontalLineTo(13.0f)
+                verticalLineTo(8.0f)
+                horizontalLineTo(5.0f)
+                close()
+                moveTo(7.0f, 10.0f)
+                horizontalLineTo(11.0f)
+                verticalLineTo(12.0f)
+                horizontalLineTo(7.0f)
+                verticalLineTo(10.0f)
+                close()
+            }
+        }
+        .build()
+        return _filePpt2Fill!!
+    }
+
+private var _filePpt2Fill: ImageVector? = null
