@@ -31,3 +31,4 @@ dependencyResolutionManagement {
 include(":sample:composeApp")
 include(":octicons")
 include(":tabler")
+include(":remix")

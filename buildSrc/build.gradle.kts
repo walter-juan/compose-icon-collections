@@ -1,5 +1,6 @@
 plugins {
     `kotlin-dsl`
+    alias(libs.plugins.kotlin.serialization)
 }
 
 repositories {
@@ -10,9 +11,9 @@ repositories {
 }
 
 dependencies {
-    val ktor_version = "2.3.12"
-    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.5.1")
-    implementation("io.ktor:ktor-client-core:$ktor_version")
-    implementation("io.ktor:ktor-client-cio:$ktor_version")
-    implementation("com.github.walter-juan:svg-to-compose:0.9.1")
+    implementation(libs.kotlinx.serialization.json)
+    implementation(libs.ktor.client.core)
+    implementation(libs.ktor.client.cio)
+    implementation(libs.svgToCompose)
+    implementation(libs.kotlinpoet)
 }
