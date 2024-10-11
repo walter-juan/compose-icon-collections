@@ -1,15 +1,17 @@
 package com.woowla.compose.icon.collections.tabler.tabler.outline
 
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.graphics.PathFillType
 import androidx.compose.ui.graphics.PathFillType.Companion.NonZero
 import androidx.compose.ui.graphics.SolidColor
+import androidx.compose.ui.graphics.StrokeCap
+import androidx.compose.ui.graphics.StrokeCap.Companion.Round
+import androidx.compose.ui.graphics.StrokeJoin
 import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.graphics.vector.ImageVector.Builder
 import androidx.compose.ui.graphics.vector.path
 import androidx.compose.ui.unit.dp
 import com.woowla.compose.icon.collections.tabler.tabler.OutlineGroup
-import androidx.compose.ui.graphics.StrokeCap.Companion.Round as strokeCapRound
-import androidx.compose.ui.graphics.StrokeJoin.Companion.Round as strokeJoinRound
 
 public val OutlineGroup.BubbleTea2: ImageVector
     get() {
@@ -19,8 +21,8 @@ public val OutlineGroup.BubbleTea2: ImageVector
         _bubbleTea2 = Builder(name = "BubbleTea2", defaultWidth = 24.0.dp, defaultHeight = 24.0.dp,
                 viewportWidth = 24.0f, viewportHeight = 24.0f).apply {
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 2.0f, strokeLineCap = strokeCapRound, strokeLineJoin =
-                    strokeJoinRound, strokeLineMiter = 4.0f, pathFillType = NonZero) {
+                    strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
+                    StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(17.95f, 9.0f)
                 lineToRelative(-1.478f, 8.69f)
                 curveToRelative(-0.25f, 1.463f, -0.374f, 2.195f, -0.936f, 2.631f)
@@ -29,28 +31,28 @@ public val OutlineGroup.BubbleTea2: ImageVector
                 lineToRelative(-1.478f, -8.689f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 2.0f, strokeLineCap = strokeCapRound, strokeLineJoin =
-                    strokeJoinRound, strokeLineMiter = 4.0f, pathFillType = NonZero) {
+                    strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
+                    StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(6.0f, 9.0f)
                 lineToRelative(0.514f, -1.286f)
                 arcToRelative(5.908f, 5.908f, 0.0f, false, true, 10.972f, 0.0f)
                 lineToRelative(0.514f, 1.286f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 2.0f, strokeLineCap = strokeCapRound, strokeLineJoin =
-                    strokeJoinRound, strokeLineMiter = 4.0f, pathFillType = NonZero) {
+                    strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
+                    StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(5.0f, 9.0f)
                 horizontalLineToRelative(14.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 2.0f, strokeLineCap = strokeCapRound, strokeLineJoin =
-                    strokeJoinRound, strokeLineMiter = 4.0f, pathFillType = NonZero) {
+                    strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
+                    StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(12.0f, 9.0f)
                 lineToRelative(4.0f, -7.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 2.0f, strokeLineCap = strokeCapRound, strokeLineJoin =
-                    strokeJoinRound, strokeLineMiter = 4.0f, pathFillType = NonZero) {
+                    strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
+                    StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(7.0f, 14.0f)
                 curveToRelative(0.593f, 0.642f, 1.484f, 1.017f, 2.5f, 1.0f)
                 curveToRelative(1.016f, 0.017f, 1.907f, -0.358f, 2.5f, -1.0f)

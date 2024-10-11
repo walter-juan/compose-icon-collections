@@ -1,15 +1,17 @@
 package com.woowla.compose.icon.collections.tabler.tabler.outline
 
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.graphics.PathFillType
 import androidx.compose.ui.graphics.PathFillType.Companion.NonZero
 import androidx.compose.ui.graphics.SolidColor
+import androidx.compose.ui.graphics.StrokeCap
+import androidx.compose.ui.graphics.StrokeCap.Companion.Round
+import androidx.compose.ui.graphics.StrokeJoin
 import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.graphics.vector.ImageVector.Builder
 import androidx.compose.ui.graphics.vector.path
 import androidx.compose.ui.unit.dp
 import com.woowla.compose.icon.collections.tabler.tabler.OutlineGroup
-import androidx.compose.ui.graphics.StrokeCap.Companion.Round as strokeCapRound
-import androidx.compose.ui.graphics.StrokeJoin.Companion.Round as strokeJoinRound
 
 public val OutlineGroup.BrandAmongUs: ImageVector
     get() {
@@ -19,8 +21,8 @@ public val OutlineGroup.BrandAmongUs: ImageVector
         _brandAmongUs = Builder(name = "BrandAmongUs", defaultWidth = 24.0.dp, defaultHeight =
                 24.0.dp, viewportWidth = 24.0f, viewportHeight = 24.0f).apply {
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 2.0f, strokeLineCap = strokeCapRound, strokeLineJoin =
-                    strokeJoinRound, strokeLineMiter = 4.0f, pathFillType = NonZero) {
+                    strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
+                    StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(10.646f, 12.774f)
                 curveToRelative(-1.939f, 0.396f, -4.467f, 0.317f, -6.234f, -0.601f)
                 curveToRelative(-2.454f, -1.263f, -1.537f, -4.66f, 1.423f, -4.982f)
@@ -30,8 +32,8 @@ public val OutlineGroup.BrandAmongUs: ImageVector
                 close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 2.0f, strokeLineCap = strokeCapRound, strokeLineJoin =
-                    strokeJoinRound, strokeLineMiter = 4.0f, pathFillType = NonZero) {
+                    strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
+                    StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(5.84f, 7.132f)
                 curveToRelative(0.083f, -0.564f, 0.214f, -1.12f, 0.392f, -1.661f)
                 curveToRelative(0.456f, -0.936f, 1.095f, -2.068f, 3.985f, -2.456f)
@@ -43,8 +45,8 @@ public val OutlineGroup.BrandAmongUs: ImageVector
                 curveToRelative(-0.552f, -2.386f, -0.262f, -5.894f, 0.204f, -8.481f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 2.0f, strokeLineCap = strokeCapRound, strokeLineJoin =
-                    strokeJoinRound, strokeLineMiter = 4.0f, pathFillType = NonZero) {
+                    strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
+                    StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(17.0f, 10.0f)
                 curveToRelative(0.991f, 0.163f, 2.105f, 0.383f, 3.069f, 0.67f)
                 curveToRelative(0.255f, 0.13f, 0.52f, 0.275f, 0.534f, 0.505f)

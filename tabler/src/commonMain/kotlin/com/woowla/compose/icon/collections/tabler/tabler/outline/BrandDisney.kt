@@ -1,15 +1,17 @@
 package com.woowla.compose.icon.collections.tabler.tabler.outline
 
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.graphics.PathFillType
 import androidx.compose.ui.graphics.PathFillType.Companion.NonZero
 import androidx.compose.ui.graphics.SolidColor
+import androidx.compose.ui.graphics.StrokeCap
+import androidx.compose.ui.graphics.StrokeCap.Companion.Round
+import androidx.compose.ui.graphics.StrokeJoin
 import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.graphics.vector.ImageVector.Builder
 import androidx.compose.ui.graphics.vector.path
 import androidx.compose.ui.unit.dp
 import com.woowla.compose.icon.collections.tabler.tabler.OutlineGroup
-import androidx.compose.ui.graphics.StrokeCap.Companion.Round as strokeCapRound
-import androidx.compose.ui.graphics.StrokeJoin.Companion.Round as strokeJoinRound
 
 public val OutlineGroup.BrandDisney: ImageVector
     get() {
@@ -19,8 +21,8 @@ public val OutlineGroup.BrandDisney: ImageVector
         _brandDisney = Builder(name = "BrandDisney", defaultWidth = 24.0.dp, defaultHeight =
                 24.0.dp, viewportWidth = 24.0f, viewportHeight = 24.0f).apply {
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 2.0f, strokeLineCap = strokeCapRound, strokeLineJoin =
-                    strokeJoinRound, strokeLineMiter = 4.0f, pathFillType = NonZero) {
+                    strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
+                    StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(3.22f, 5.838f)
                 curveToRelative(-1.307f, -0.15f, -1.22f, -0.578f, -1.22f, -0.794f)
                 curveToRelative(0.0f, -0.216f, 0.424f, -1.044f, 4.34f, -1.044f)
@@ -32,8 +34,8 @@ public val OutlineGroup.BrandDisney: ImageVector
                 curveToRelative(0.0f, 0.5f, -0.074f, 1.229f, -1.0f, 1.5f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 2.0f, strokeLineCap = strokeCapRound, strokeLineJoin =
-                    strokeJoinRound, strokeLineMiter = 4.0f, pathFillType = NonZero) {
+                    strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
+                    StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(10.02f, 8.0f)
                 arcToRelative(505.153f, 505.153f, 0.0f, false, false, 0.0f, 13.0f)
             }

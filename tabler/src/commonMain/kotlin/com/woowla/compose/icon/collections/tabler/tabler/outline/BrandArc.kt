@@ -1,15 +1,17 @@
 package com.woowla.compose.icon.collections.tabler.tabler.outline
 
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.graphics.PathFillType
 import androidx.compose.ui.graphics.PathFillType.Companion.NonZero
 import androidx.compose.ui.graphics.SolidColor
+import androidx.compose.ui.graphics.StrokeCap
+import androidx.compose.ui.graphics.StrokeCap.Companion.Round
+import androidx.compose.ui.graphics.StrokeJoin
 import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.graphics.vector.ImageVector.Builder
 import androidx.compose.ui.graphics.vector.path
 import androidx.compose.ui.unit.dp
 import com.woowla.compose.icon.collections.tabler.tabler.OutlineGroup
-import androidx.compose.ui.graphics.StrokeCap.Companion.Round as strokeCapRound
-import androidx.compose.ui.graphics.StrokeJoin.Companion.Round as strokeJoinRound
 
 public val OutlineGroup.BrandArc: ImageVector
     get() {
@@ -19,8 +21,8 @@ public val OutlineGroup.BrandArc: ImageVector
         _brandArc = Builder(name = "BrandArc", defaultWidth = 24.0.dp, defaultHeight = 24.0.dp,
                 viewportWidth = 24.0f, viewportHeight = 24.0f).apply {
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 2.0f, strokeLineCap = strokeCapRound, strokeLineJoin =
-                    strokeJoinRound, strokeLineMiter = 4.0f, pathFillType = NonZero) {
+                    strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
+                    StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(4.687f, 14.694f)
                 lineToRelative(-0.987f, 2.103f)
                 curveToRelative(-0.502f, 1.07f, -0.125f, 2.387f, 0.908f, 2.945f)
@@ -28,8 +30,8 @@ public val OutlineGroup.BrandArc: ImageVector
                 lineToRelative(0.9f, -1.92f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 2.0f, strokeLineCap = strokeCapRound, strokeLineJoin =
-                    strokeJoinRound, strokeLineMiter = 4.0f, pathFillType = NonZero) {
+                    strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
+                    StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(18.317f, 14.576f)
                 curveToRelative(1.818f, -1.6f, 3.16f, -3.78f, 3.64f, -6.217f)
                 curveToRelative(0.235f, -1.194f, -0.525f, -2.351f, -1.695f, -2.586f)
@@ -38,8 +40,8 @@ public val OutlineGroup.BrandArc: ImageVector
                 curveToRelative(-0.208f, 1.054f, -0.695f, 2.037f, -1.366f, 2.872f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 2.0f, strokeLineCap = strokeCapRound, strokeLineJoin =
-                    strokeJoinRound, strokeLineMiter = 4.0f, pathFillType = NonZero) {
+                    strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
+                    StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(12.68f, 12.759f)
                 arcToRelative(5.4f, 5.4f, 0.0f, false, true, -1.283f, 0.157f)
                 curveToRelative(-0.336f, 0.0f, -0.683f, -0.04f, -1.03f, -0.115f)
@@ -53,8 +55,8 @@ public val OutlineGroup.BrandArc: ImageVector
                 arcToRelative(9.8f, 9.8f, 0.0f, false, false, 3.162f, -0.537f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 2.0f, strokeLineCap = strokeCapRound, strokeLineJoin =
-                    strokeJoinRound, strokeLineMiter = 4.0f, pathFillType = NonZero) {
+                    strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
+                    StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(10.37f, 12.801f)
                 lineToRelative(0.943f, -2.013f)
                 curveToRelative(0.09f, -0.19f, 0.357f, -0.19f, 0.446f, 0.0f)
