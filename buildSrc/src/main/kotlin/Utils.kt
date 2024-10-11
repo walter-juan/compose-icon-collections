@@ -4,6 +4,7 @@ import io.ktor.client.engine.cio.*
 import io.ktor.client.request.*
 import io.ktor.client.statement.*
 import io.ktor.utils.io.jvm.javaio.*
+import kotlinx.coroutines.processNextEventInCurrentThread
 import kotlinx.coroutines.runBlocking
 import kotlinx.serialization.json.Json
 import kotlinx.serialization.json.jsonArray
@@ -12,6 +13,8 @@ import kotlinx.serialization.json.jsonPrimitive
 import java.io.File
 import java.util.*
 import java.util.zip.ZipFile
+import kotlin.io.path.listDirectoryEntries
+import kotlin.io.path.moveTo
 
 object Utils {
     /**
@@ -141,33 +144,80 @@ object Utils {
      * Files will be renamed with only letter, numbers and everything else replaced by _
      */
     fun rename(directory: File) {
-        val beforeRename = directory.walkTopDown().filterSvg().count()
-        directory.walkTopDown().filterSvg().forEach { file ->
-            val newFile = file.renameToSupportedFormat()
+        // rename files
+        val files = directory.walkTopDown().toList().filterSvg()
+        val beforeRenameFiles = files.count()
+        files.forEach { file ->
+            val newFile = file.renameToSupportedFormat(camelCase = true)
             if (file != newFile) {
                 file.renameTo(newFile)
             }
         }
-        val afterRename = directory.walkTopDown().filterSvg().count()
+        val afterRenameFiles = directory.walkTopDown().toList().filterSvg().count()
 
-        val diff = beforeRename - afterRename
-        require(diff == 0) {
-            "There have been $diff icons lost from a total of $beforeRename. After renaming they have had the same name as others."
+        val filesDiff = beforeRenameFiles - afterRenameFiles
+        require(filesDiff == 0) {
+            "There have been $filesDiff icons lost from a total of $beforeRenameFiles. After renaming they have had the same name as others."
+        }
+
+        // rename directories
+        val dirs = directory.listFiles()?.toList()?.filterDirectories() ?: listOf()
+        val beforeRenameDirs = dirs.count()
+        dirs.forEach { dir ->
+            val newDir = dir.renameToSupportedFormat(camelCase = false)
+            if (dir != newDir) {
+                dir.renameTo(newDir)
+            }
+        }
+        val afterRenameDirs = directory.listFiles()?.toList()?.filterDirectories()?.count() ?: 0
+        val dirsDiff = beforeRenameDirs - afterRenameDirs
+        require(dirsDiff == 0) {
+            "There have been $dirsDiff folders lost from a total of $beforeRenameDirs. After renaming they have had the same name as others."
+        }
+    }
+
+    fun String.renameToSupportedFormat(camelCase: Boolean): String {
+        val newFileNameWithoutExtension = this
+            .replace("&", "_and_")
+            .replace(Regex("""[^a-zA-Z\d]"""), "_")
+            .replace(Regex("""^\d"""), "_")
+            .replace(Regex("""_+"""), "_")
+            .trim('_')
+            .lowercase()
+
+        return if (camelCase) {
+            newFileNameWithoutExtension
+                .snakeToCamelCase()
+                .capitalize()
+        } else {
+            newFileNameWithoutExtension
         }
     }
 
     /**
      * Rename to a supported format
      */
-    fun File.renameToSupportedFormat(): File {
-        val newFileNameWithoutExtension = this
+    fun File.renameToSupportedFormat(camelCase: Boolean): File {
+        var newFileNameWithoutExtension = this
             .nameWithoutExtension
+            .replace("&", "_and_")
             .replace(Regex("""[^a-zA-Z\d]"""), "_")
             .replace(Regex("""^\d"""), "_")
+            .replace(Regex("""_+"""), "_")
             .trim('_')
-            .snakeToCamelCase()
-            .capitalize()
-        return File(this.parentFile, "$newFileNameWithoutExtension.$extension")
+            .lowercase()
+
+        if (camelCase) {
+            newFileNameWithoutExtension = newFileNameWithoutExtension
+                .snakeToCamelCase()
+                .capitalize()
+        }
+
+        return if (this.extension.isNotBlank()){
+            File(this.parentFile, "$newFileNameWithoutExtension.$extension")
+        } else {
+            File(this.parentFile, newFileNameWithoutExtension)
+        }
     }
 
     /**
@@ -178,14 +228,23 @@ object Utils {
     }
 
     fun String.snakeToCamelCase(): String {
-        val pattern = """_[a-z\d]""".toRegex()
+        val pattern = """_[a-zA-Z\d]""".toRegex()
         return replace(pattern) { it.value.last().uppercase() }
     }
 
     /**
      * Filter only the SVG files
      */
-    fun Sequence<File>.filterSvg(): Sequence<File> {
+    fun Iterable<File>.filterSvg(): Iterable<File> {
         return filter { it.isFile && it.name.endsWith(".svg") }
     }
+
+    /**
+     * Filter only the directories
+     */
+    fun Iterable<File>.filterDirectories(): Iterable<File> {
+        return filter { it.isDirectory }
+    }
+
+
 }
