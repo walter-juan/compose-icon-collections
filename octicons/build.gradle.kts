@@ -1,5 +1,3 @@
-import br.com.devsrsouza.svg2compose.Svg2Compose
-import br.com.devsrsouza.svg2compose.VectorType
 import com.vanniktech.maven.publish.SonatypeHost
 import org.jetbrains.kotlin.gradle.ExperimentalKotlinGradlePluginApi
 import org.jetbrains.kotlin.gradle.ExperimentalWasmDsl
@@ -13,7 +11,7 @@ plugins {
     alias(libs.plugins.vanniktech.maven.publish)
 }
 
-version = "19.11.0"
+version = "19.11.0-b"
 group = "com.woowla.compose.icon.collections"
 
 kotlin {
@@ -93,50 +91,53 @@ mavenPublishing {
 }
 
 tasks.register("download-icons") {
-    val srcDir = layout.projectDirectory.dir("src/commonMain/kotlin").asFile
-    val downloadsDir = project.rootDir.resolve("downloads").resolve("octicons")
-    val downloadedFile = downloadsDir.resolve("icons.zip")
-    val unzippedFile = downloadsDir.resolve("unzipped")
+    val ghUser = "primer"
+    val ghRepo = "octicons"
+    val ghIconsDir = "icons"
+    val accessorName = "Octicons"
+    val applicationIconPackage = "com.woowla.compose.icon.collections.octicons"
+    val licenseFile = "LICENSE"
+    val iconsPackName = "Octicons"
 
+    val projectName = project.name
+    val srcDir = layout.projectDirectory.dir("src/commonMain/kotlin").asFile
+    val projectRootDir = project.rootDir
+    val downloadsDir = projectRootDir.resolve("downloads")
+    val docsDir = projectRootDir.resolve("docs")
+
+    outputs.cacheIf { false }
     outputs.dir(downloadsDir)
-    outputs.dir(unzippedFile)
 
     doLast {
-        downloadsDir.mkdirs()
-        unzippedFile.mkdirs()
-
-        println("Downloading...")
-        val tag = Utils.githubZipballDownload(
-            repo = "primer",
-            project = "octicons",
-            downloadedFile = downloadedFile,
+        // generate icons
+        val generateIconsResult = IconsGenerator.generateIcons(
+            downloadsDir = downloadsDir,
+            ghUser = ghUser,
+            ghRepo = ghRepo,
+            ghIconsDir = ghIconsDir,
+            applicationIconPackage = applicationIconPackage,
+            accessorName = accessorName,
+            outputDir = srcDir,
         )
-        println("Downloaded version $tag")
 
-        println("Unzipping...")
-
-        Utils.unzip(zipFile = downloadedFile.absolutePath, destinationDir = unzippedFile.absolutePath)
-
-        require(unzippedFile.listFiles()?.count { it.isDirectory } == 1) { "Multiple directories found" }
-        val vectorsDir = unzippedFile.listFiles()?.first { it.isDirectory }?.resolve("icons")
-        requireNotNull(vectorsDir) { "icons dir not found" }
-
-        println("Renaming...")
-        Utils.rename(vectorsDir)
-
-        println("Converting...")
-        Svg2Compose.parse(
-            applicationIconPackage = "com.woowla.compose.icon.collections.octicons",
-            accessorName = "Octicons",
-            outputSourceDirectory = srcDir,
-            vectorsDirectory = vectorsDir,
-            type = VectorType.SVG,
-            iconNameTransformer = { name, group -> name.removePrefix(group) },
-            allAssetsPropertyName = "AllIcons",
-            generatePreview = false,
+        // generate documentation
+        val licenseContent = generateIconsResult.repoDir.resolve(licenseFile).readText(Charsets.UTF_8)
+        val rawGithubRepository = "https://raw.githubusercontent.com/$ghUser/$ghRepo/${generateIconsResult.tag}"
+        IconsGenerator.generateDocs(
+            parsingResult = generateIconsResult.parsingResult,
+            rawGithubRepository = rawGithubRepository,
+            repoDir = generateIconsResult.repoDir,
+            docsDir = docsDir,
+            iconsPackName = iconsPackName,
+            projectName = projectName,
+            license = licenseContent,
         )
 
         println("Removing...")
-        downloadsDir.deleteRecursively()
+        generateIconsResult.projectDownloadsDir.deleteRecursively()
+
+        println("==== RESULTS ====")
+        println("Tag [${generateIconsResult.tag}]")
+        println("=================")
     }
 }
