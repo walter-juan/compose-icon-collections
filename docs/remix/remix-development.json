@@ -1,0 +1,234 @@
+[
+    {
+        "name": "Remix.Development.Bug2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/bug-2-line.svg"
+    },
+    {
+        "name": "Remix.Development.TerminalBoxFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/terminal-box-fill.svg"
+    },
+    {
+        "name": "Remix.Development.GitClosePullRequestLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/git-close-pull-request-line.svg"
+    },
+    {
+        "name": "Remix.Development.CommandFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/command-fill.svg"
+    },
+    {
+        "name": "Remix.Development.JavascriptFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/javascript-fill.svg"
+    },
+    {
+        "name": "Remix.Development.GitRepositoryCommitsFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/git-repository-commits-fill.svg"
+    },
+    {
+        "name": "Remix.Development.GitMergeFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/git-merge-fill.svg"
+    },
+    {
+        "name": "Remix.Development.CodeSSlashLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/code-s-slash-line.svg"
+    },
+    {
+        "name": "Remix.Development.PuzzleFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/puzzle-fill.svg"
+    },
+    {
+        "name": "Remix.Development.CommandLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/command-line.svg"
+    },
+    {
+        "name": "Remix.Development.GitForkLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/git-fork-line.svg"
+    },
+    {
+        "name": "Remix.Development.GitRepositoryLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/git-repository-line.svg"
+    },
+    {
+        "name": "Remix.Development.CodeSSlashFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/code-s-slash-fill.svg"
+    },
+    {
+        "name": "Remix.Development.ParenthesesFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/parentheses-fill.svg"
+    },
+    {
+        "name": "Remix.Development.BugLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/bug-line.svg"
+    },
+    {
+        "name": "Remix.Development.GitRepositoryCommitsLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/git-repository-commits-line.svg"
+    },
+    {
+        "name": "Remix.Development.BugFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/bug-fill.svg"
+    },
+    {
+        "name": "Remix.Development.GitPrDraftFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/git-pr-draft-fill.svg"
+    },
+    {
+        "name": "Remix.Development.GitRepositoryFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/git-repository-fill.svg"
+    },
+    {
+        "name": "Remix.Development.GitRepositoryPrivateFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/git-repository-private-fill.svg"
+    },
+    {
+        "name": "Remix.Development.Html5Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/html5-fill.svg"
+    },
+    {
+        "name": "Remix.Development.Html5Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/html5-line.svg"
+    },
+    {
+        "name": "Remix.Development.Css3Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/css3-line.svg"
+    },
+    {
+        "name": "Remix.Development.CodeSFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/code-s-fill.svg"
+    },
+    {
+        "name": "Remix.Development.Puzzle2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/puzzle-2-fill.svg"
+    },
+    {
+        "name": "Remix.Development.Puzzle2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/puzzle-2-line.svg"
+    },
+    {
+        "name": "Remix.Development.Css3Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/css3-fill.svg"
+    },
+    {
+        "name": "Remix.Development.GitCommitFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/git-commit-fill.svg"
+    },
+    {
+        "name": "Remix.Development.GitClosePullRequestFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/git-close-pull-request-fill.svg"
+    },
+    {
+        "name": "Remix.Development.GitPullRequestFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/git-pull-request-fill.svg"
+    },
+    {
+        "name": "Remix.Development.GitMergeLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/git-merge-line.svg"
+    },
+    {
+        "name": "Remix.Development.PuzzleLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/puzzle-line.svg"
+    },
+    {
+        "name": "Remix.Development.TerminalWindowLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/terminal-window-line.svg"
+    },
+    {
+        "name": "Remix.Development.TerminalLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/terminal-line.svg"
+    },
+    {
+        "name": "Remix.Development.CursorLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/cursor-line.svg"
+    },
+    {
+        "name": "Remix.Development.GitBranchLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/git-branch-line.svg"
+    },
+    {
+        "name": "Remix.Development.JavascriptLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/javascript-line.svg"
+    },
+    {
+        "name": "Remix.Development.TerminalFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/terminal-fill.svg"
+    },
+    {
+        "name": "Remix.Development.CodeLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/code-line.svg"
+    },
+    {
+        "name": "Remix.Development.TerminalWindowFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/terminal-window-fill.svg"
+    },
+    {
+        "name": "Remix.Development.ParenthesesLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/parentheses-line.svg"
+    },
+    {
+        "name": "Remix.Development.GitPullRequestLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/git-pull-request-line.svg"
+    },
+    {
+        "name": "Remix.Development.TerminalBoxLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/terminal-box-line.svg"
+    },
+    {
+        "name": "Remix.Development.BracesFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/braces-fill.svg"
+    },
+    {
+        "name": "Remix.Development.BracketsLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/brackets-line.svg"
+    },
+    {
+        "name": "Remix.Development.GitCommitLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/git-commit-line.svg"
+    },
+    {
+        "name": "Remix.Development.CodeSLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/code-s-line.svg"
+    },
+    {
+        "name": "Remix.Development.BracketsFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/brackets-fill.svg"
+    },
+    {
+        "name": "Remix.Development.CodeFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/code-fill.svg"
+    },
+    {
+        "name": "Remix.Development.GitForkFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/git-fork-fill.svg"
+    },
+    {
+        "name": "Remix.Development.GitBranchFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/git-branch-fill.svg"
+    },
+    {
+        "name": "Remix.Development.Bug2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/bug-2-fill.svg"
+    },
+    {
+        "name": "Remix.Development.BracesLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/braces-line.svg"
+    },
+    {
+        "name": "Remix.Development.CursorFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/cursor-fill.svg"
+    },
+    {
+        "name": "Remix.Development.CodeBoxLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/code-box-line.svg"
+    },
+    {
+        "name": "Remix.Development.GitPrDraftLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/git-pr-draft-line.svg"
+    },
+    {
+        "name": "Remix.Development.CodeBoxFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/code-box-fill.svg"
+    },
+    {
+        "name": "Remix.Development.GitRepositoryPrivateLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Development/git-repository-private-line.svg"
+    }
+]

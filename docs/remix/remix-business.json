@@ -1,0 +1,810 @@
+[
+    {
+        "name": "Remix.Business.PieChartLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/pie-chart-line.svg"
+    },
+    {
+        "name": "Remix.Business.Archive2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/archive-2-fill.svg"
+    },
+    {
+        "name": "Remix.Business.CalendarTodoLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/calendar-todo-line.svg"
+    },
+    {
+        "name": "Remix.Business.BarChartBoxLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/bar-chart-box-line.svg"
+    },
+    {
+        "name": "Remix.Business.BarChart2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/bar-chart-2-line.svg"
+    },
+    {
+        "name": "Remix.Business.BarChartBoxFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/bar-chart-box-fill.svg"
+    },
+    {
+        "name": "Remix.Business.AtFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/at-fill.svg"
+    },
+    {
+        "name": "Remix.Business.ArchiveDrawerLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/archive-drawer-line.svg"
+    },
+    {
+        "name": "Remix.Business.MedalFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/medal-fill.svg"
+    },
+    {
+        "name": "Remix.Business.Window2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/window-2-line.svg"
+    },
+    {
+        "name": "Remix.Business.MailFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/mail-fill.svg"
+    },
+    {
+        "name": "Remix.Business.MailSendLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/mail-send-line.svg"
+    },
+    {
+        "name": "Remix.Business.CalendarScheduleFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/calendar-schedule-fill.svg"
+    },
+    {
+        "name": "Remix.Business.Window2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/window-2-fill.svg"
+    },
+    {
+        "name": "Remix.Business.MailLockFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/mail-lock-fill.svg"
+    },
+    {
+        "name": "Remix.Business.Bookmark3Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/bookmark-3-fill.svg"
+    },
+    {
+        "name": "Remix.Business.PieChartBoxLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/pie-chart-box-line.svg"
+    },
+    {
+        "name": "Remix.Business.ReplyFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/reply-fill.svg"
+    },
+    {
+        "name": "Remix.Business.HonourLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/honour-line.svg"
+    },
+    {
+        "name": "Remix.Business.CalculatorLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/calculator-line.svg"
+    },
+    {
+        "name": "Remix.Business.MailUnreadLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/mail-unread-line.svg"
+    },
+    {
+        "name": "Remix.Business.PassExpiredLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/pass-expired-line.svg"
+    },
+    {
+        "name": "Remix.Business.AwardLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/award-line.svg"
+    },
+    {
+        "name": "Remix.Business.GlobalLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/global-line.svg"
+    },
+    {
+        "name": "Remix.Business.Inbox2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/inbox-2-fill.svg"
+    },
+    {
+        "name": "Remix.Business.StackFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/stack-fill.svg"
+    },
+    {
+        "name": "Remix.Business.ServiceLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/service-line.svg"
+    },
+    {
+        "name": "Remix.Business.CreativeCommonsByLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/creative-commons-by-line.svg"
+    },
+    {
+        "name": "Remix.Business.DonutChartLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/donut-chart-line.svg"
+    },
+    {
+        "name": "Remix.Business.Briefcase3Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/briefcase-3-line.svg"
+    },
+    {
+        "name": "Remix.Business.CalendarLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/calendar-line.svg"
+    },
+    {
+        "name": "Remix.Business.LineChartLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/line-chart-line.svg"
+    },
+    {
+        "name": "Remix.Business.ProfileLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/profile-line.svg"
+    },
+    {
+        "name": "Remix.Business.InboxFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/inbox-fill.svg"
+    },
+    {
+        "name": "Remix.Business.TrademarkLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/trademark-line.svg"
+    },
+    {
+        "name": "Remix.Business.MailCloseLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/mail-close-line.svg"
+    },
+    {
+        "name": "Remix.Business.PrinterCloudLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/printer-cloud-line.svg"
+    },
+    {
+        "name": "Remix.Business.Slideshow2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/slideshow-2-fill.svg"
+    },
+    {
+        "name": "Remix.Business.ShakeHandsLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/shake-hands-line.svg"
+    },
+    {
+        "name": "Remix.Business.VerifiedBadgeFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/verified-badge-fill.svg"
+    },
+    {
+        "name": "Remix.Business.Projector2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/projector-2-line.svg"
+    },
+    {
+        "name": "Remix.Business.InboxArchiveLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/inbox-archive-line.svg"
+    },
+    {
+        "name": "Remix.Business.CalendarTodoFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/calendar-todo-fill.svg"
+    },
+    {
+        "name": "Remix.Business.InboxUnarchiveFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/inbox-unarchive-fill.svg"
+    },
+    {
+        "name": "Remix.Business.PassPendingLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/pass-pending-line.svg"
+    },
+    {
+        "name": "Remix.Business.MailOpenFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/mail-open-fill.svg"
+    },
+    {
+        "name": "Remix.Business.CustomerService2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/customer-service-2-line.svg"
+    },
+    {
+        "name": "Remix.Business.RegisteredFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/registered-fill.svg"
+    },
+    {
+        "name": "Remix.Business.CloudOffLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/cloud-off-line.svg"
+    },
+    {
+        "name": "Remix.Business.ProjectorFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/projector-fill.svg"
+    },
+    {
+        "name": "Remix.Business.Slideshow4Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/slideshow-4-fill.svg"
+    },
+    {
+        "name": "Remix.Business.MailCloseFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/mail-close-fill.svg"
+    },
+    {
+        "name": "Remix.Business.Briefcase4Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/briefcase-4-line.svg"
+    },
+    {
+        "name": "Remix.Business.WindowLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/window-line.svg"
+    },
+    {
+        "name": "Remix.Business.SendPlaneFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/send-plane-fill.svg"
+    },
+    {
+        "name": "Remix.Business.CreativeCommonsSaLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/creative-commons-sa-line.svg"
+    },
+    {
+        "name": "Remix.Business.InboxUnarchiveLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/inbox-unarchive-line.svg"
+    },
+    {
+        "name": "Remix.Business.PassValidFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/pass-valid-fill.svg"
+    },
+    {
+        "name": "Remix.Business.MailVolumeLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/mail-volume-line.svg"
+    },
+    {
+        "name": "Remix.Business.PieChart2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/pie-chart-2-line.svg"
+    },
+    {
+        "name": "Remix.Business.Medal2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/medal-2-line.svg"
+    },
+    {
+        "name": "Remix.Business.ReplyAllLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/reply-all-line.svg"
+    },
+    {
+        "name": "Remix.Business.LinksFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/links-fill.svg"
+    },
+    {
+        "name": "Remix.Business.SeoFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/seo-fill.svg"
+    },
+    {
+        "name": "Remix.Business.SendPlane2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/send-plane-2-fill.svg"
+    },
+    {
+        "name": "Remix.Business.Calendar2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/calendar-2-line.svg"
+    },
+    {
+        "name": "Remix.Business.MailDownloadLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/mail-download-line.svg"
+    },
+    {
+        "name": "Remix.Business.IdCardFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/id-card-fill.svg"
+    },
+    {
+        "name": "Remix.Business.RecordMailFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/record-mail-fill.svg"
+    },
+    {
+        "name": "Remix.Business.Slideshow3Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/slideshow-3-fill.svg"
+    },
+    {
+        "name": "Remix.Business.MedalLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/medal-line.svg"
+    },
+    {
+        "name": "Remix.Business.CopyleftLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/copyleft-line.svg"
+    },
+    {
+        "name": "Remix.Business.MailOpenLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/mail-open-line.svg"
+    },
+    {
+        "name": "Remix.Business.CloudOffFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/cloud-off-fill.svg"
+    },
+    {
+        "name": "Remix.Business.PassExpiredFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/pass-expired-fill.svg"
+    },
+    {
+        "name": "Remix.Business.Briefcase3Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/briefcase-3-fill.svg"
+    },
+    {
+        "name": "Remix.Business.Slideshow4Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/slideshow-4-line.svg"
+    },
+    {
+        "name": "Remix.Business.ReplyAllFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/reply-all-fill.svg"
+    },
+    {
+        "name": "Remix.Business.BarChartHorizontalLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/bar-chart-horizontal-line.svg"
+    },
+    {
+        "name": "Remix.Business.ArchiveFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/archive-fill.svg"
+    },
+    {
+        "name": "Remix.Business.Archive2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/archive-2-line.svg"
+    },
+    {
+        "name": "Remix.Business.BarChartHorizontalFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/bar-chart-horizontal-fill.svg"
+    },
+    {
+        "name": "Remix.Business.Briefcase2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/briefcase-2-fill.svg"
+    },
+    {
+        "name": "Remix.Business.MegaphoneFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/megaphone-fill.svg"
+    },
+    {
+        "name": "Remix.Business.InboxLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/inbox-line.svg"
+    },
+    {
+        "name": "Remix.Business.BarChartFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/bar-chart-fill.svg"
+    },
+    {
+        "name": "Remix.Business.GlobalFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/global-fill.svg"
+    },
+    {
+        "name": "Remix.Business.Briefcase2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/briefcase-2-line.svg"
+    },
+    {
+        "name": "Remix.Business.InboxArchiveFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/inbox-archive-fill.svg"
+    },
+    {
+        "name": "Remix.Business.VerifiedBadgeLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/verified-badge-line.svg"
+    },
+    {
+        "name": "Remix.Business.PrinterFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/printer-fill.svg"
+    },
+    {
+        "name": "Remix.Business.Briefcase4Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/briefcase-4-fill.svg"
+    },
+    {
+        "name": "Remix.Business.Briefcase5Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/briefcase-5-fill.svg"
+    },
+    {
+        "name": "Remix.Business.Bookmark2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/bookmark-2-fill.svg"
+    },
+    {
+        "name": "Remix.Business.CalendarCloseLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/calendar-close-line.svg"
+    },
+    {
+        "name": "Remix.Business.ArchiveDrawerFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/archive-drawer-fill.svg"
+    },
+    {
+        "name": "Remix.Business.BarChartGroupedFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/bar-chart-grouped-fill.svg"
+    },
+    {
+        "name": "Remix.Business.ArchiveStackFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/archive-stack-fill.svg"
+    },
+    {
+        "name": "Remix.Business.MailForbidLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/mail-forbid-line.svg"
+    },
+    {
+        "name": "Remix.Business.CalendarEventLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/calendar-event-line.svg"
+    },
+    {
+        "name": "Remix.Business.AttachmentLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/attachment-line.svg"
+    },
+    {
+        "name": "Remix.Business.Medal2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/medal-2-fill.svg"
+    },
+    {
+        "name": "Remix.Business.AdvertisementFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/advertisement-fill.svg"
+    },
+    {
+        "name": "Remix.Business.TriangularFlagLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/triangular-flag-line.svg"
+    },
+    {
+        "name": "Remix.Business.PieChartFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/pie-chart-fill.svg"
+    },
+    {
+        "name": "Remix.Business.BarChartGroupedLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/bar-chart-grouped-line.svg"
+    },
+    {
+        "name": "Remix.Business.MailStarLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/mail-star-line.svg"
+    },
+    {
+        "name": "Remix.Business.MailLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/mail-line.svg"
+    },
+    {
+        "name": "Remix.Business.CreativeCommonsNdFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/creative-commons-nd-fill.svg"
+    },
+    {
+        "name": "Remix.Business.StackLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/stack-line.svg"
+    },
+    {
+        "name": "Remix.Business.ProfileFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/profile-fill.svg"
+    },
+    {
+        "name": "Remix.Business.Bookmark3Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/bookmark-3-line.svg"
+    },
+    {
+        "name": "Remix.Business.BarChartLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/bar-chart-line.svg"
+    },
+    {
+        "name": "Remix.Business.BookmarkFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/bookmark-fill.svg"
+    },
+    {
+        "name": "Remix.Business.MailLockLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/mail-lock-line.svg"
+    },
+    {
+        "name": "Remix.Business.SendPlane2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/send-plane-2-line.svg"
+    },
+    {
+        "name": "Remix.Business.MailForbidFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/mail-forbid-fill.svg"
+    },
+    {
+        "name": "Remix.Business.MailUnreadFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/mail-unread-fill.svg"
+    },
+    {
+        "name": "Remix.Business.LinksLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/links-line.svg"
+    },
+    {
+        "name": "Remix.Business.PrinterLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/printer-line.svg"
+    },
+    {
+        "name": "Remix.Business.LineChartFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/line-chart-fill.svg"
+    },
+    {
+        "name": "Remix.Business.MailSettingsFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/mail-settings-fill.svg"
+    },
+    {
+        "name": "Remix.Business.CopyleftFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/copyleft-fill.svg"
+    },
+    {
+        "name": "Remix.Business.WindowFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/window-fill.svg"
+    },
+    {
+        "name": "Remix.Business.ArchiveStackLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/archive-stack-line.svg"
+    },
+    {
+        "name": "Remix.Business.MegaphoneLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/megaphone-line.svg"
+    },
+    {
+        "name": "Remix.Business.CloudLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/cloud-line.svg"
+    },
+    {
+        "name": "Remix.Business.IdCardLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/id-card-line.svg"
+    },
+    {
+        "name": "Remix.Business.CalendarCheckLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/calendar-check-line.svg"
+    },
+    {
+        "name": "Remix.Business.CustomerService2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/customer-service-2-fill.svg"
+    },
+    {
+        "name": "Remix.Business.ServiceFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/service-fill.svg"
+    },
+    {
+        "name": "Remix.Business.BriefcaseFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/briefcase-fill.svg"
+    },
+    {
+        "name": "Remix.Business.CalendarScheduleLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/calendar-schedule-line.svg"
+    },
+    {
+        "name": "Remix.Business.CreativeCommonsZeroFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/creative-commons-zero-fill.svg"
+    },
+    {
+        "name": "Remix.Business.ReplyLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/reply-line.svg"
+    },
+    {
+        "name": "Remix.Business.BookmarkLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/bookmark-line.svg"
+    },
+    {
+        "name": "Remix.Business.Slideshow2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/slideshow-2-line.svg"
+    },
+    {
+        "name": "Remix.Business.BubbleChartFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/bubble-chart-fill.svg"
+    },
+    {
+        "name": "Remix.Business.Flag2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/flag-2-line.svg"
+    },
+    {
+        "name": "Remix.Business.RegisteredLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/registered-line.svg"
+    },
+    {
+        "name": "Remix.Business.PassValidLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/pass-valid-line.svg"
+    },
+    {
+        "name": "Remix.Business.CalendarCheckFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/calendar-check-fill.svg"
+    },
+    {
+        "name": "Remix.Business.PieChart2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/pie-chart-2-fill.svg"
+    },
+    {
+        "name": "Remix.Business.SendPlaneLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/send-plane-line.svg"
+    },
+    {
+        "name": "Remix.Business.AttachmentFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/attachment-fill.svg"
+    },
+    {
+        "name": "Remix.Business.MailCheckLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/mail-check-line.svg"
+    },
+    {
+        "name": "Remix.Business.MailCheckFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/mail-check-fill.svg"
+    },
+    {
+        "name": "Remix.Business.SeoLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/seo-line.svg"
+    },
+    {
+        "name": "Remix.Business.Calendar2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/calendar-2-fill.svg"
+    },
+    {
+        "name": "Remix.Business.RecordMailLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/record-mail-line.svg"
+    },
+    {
+        "name": "Remix.Business.CreativeCommonsLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/creative-commons-line.svg"
+    },
+    {
+        "name": "Remix.Business.SlideshowLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/slideshow-line.svg"
+    },
+    {
+        "name": "Remix.Business.MailStarFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/mail-star-fill.svg"
+    },
+    {
+        "name": "Remix.Business.CopyrightLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/copyright-line.svg"
+    },
+    {
+        "name": "Remix.Business.FlagLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/flag-line.svg"
+    },
+    {
+        "name": "Remix.Business.BarChart2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/bar-chart-2-fill.svg"
+    },
+    {
+        "name": "Remix.Business.TrademarkFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/trademark-fill.svg"
+    },
+    {
+        "name": "Remix.Business.SlideshowFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/slideshow-fill.svg"
+    },
+    {
+        "name": "Remix.Business.Projector2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/projector-2-fill.svg"
+    },
+    {
+        "name": "Remix.Business.CalculatorFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/calculator-fill.svg"
+    },
+    {
+        "name": "Remix.Business.MailVolumeFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/mail-volume-fill.svg"
+    },
+    {
+        "name": "Remix.Business.Bookmark2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/bookmark-2-line.svg"
+    },
+    {
+        "name": "Remix.Business.CreativeCommonsSaFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/creative-commons-sa-fill.svg"
+    },
+    {
+        "name": "Remix.Business.MailAddFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/mail-add-fill.svg"
+    },
+    {
+        "name": "Remix.Business.BriefcaseLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/briefcase-line.svg"
+    },
+    {
+        "name": "Remix.Business.CustomerServiceFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/customer-service-fill.svg"
+    },
+    {
+        "name": "Remix.Business.MailAddLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/mail-add-line.svg"
+    },
+    {
+        "name": "Remix.Business.Inbox2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/inbox-2-line.svg"
+    },
+    {
+        "name": "Remix.Business.AdvertisementLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/advertisement-line.svg"
+    },
+    {
+        "name": "Remix.Business.CustomerServiceLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/customer-service-line.svg"
+    },
+    {
+        "name": "Remix.Business.CreativeCommonsNdLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/creative-commons-nd-line.svg"
+    },
+    {
+        "name": "Remix.Business.Slideshow3Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/slideshow-3-line.svg"
+    },
+    {
+        "name": "Remix.Business.FlagFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/flag-fill.svg"
+    },
+    {
+        "name": "Remix.Business.CalendarEventFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/calendar-event-fill.svg"
+    },
+    {
+        "name": "Remix.Business.Flag2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/flag-2-fill.svg"
+    },
+    {
+        "name": "Remix.Business.CalendarFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/calendar-fill.svg"
+    },
+    {
+        "name": "Remix.Business.TriangularFlagFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/triangular-flag-fill.svg"
+    },
+    {
+        "name": "Remix.Business.PieChartBoxFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/pie-chart-box-fill.svg"
+    },
+    {
+        "name": "Remix.Business.CalendarCloseFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/calendar-close-fill.svg"
+    },
+    {
+        "name": "Remix.Business.CreativeCommonsNcLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/creative-commons-nc-line.svg"
+    },
+    {
+        "name": "Remix.Business.HonourFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/honour-fill.svg"
+    },
+    {
+        "name": "Remix.Business.MailSendFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/mail-send-fill.svg"
+    },
+    {
+        "name": "Remix.Business.ProjectorLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/projector-line.svg"
+    },
+    {
+        "name": "Remix.Business.ArchiveLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/archive-line.svg"
+    },
+    {
+        "name": "Remix.Business.CopyrightFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/copyright-fill.svg"
+    },
+    {
+        "name": "Remix.Business.CreativeCommonsZeroLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/creative-commons-zero-line.svg"
+    },
+    {
+        "name": "Remix.Business.MailDownloadFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/mail-download-fill.svg"
+    },
+    {
+        "name": "Remix.Business.PresentationFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/presentation-fill.svg"
+    },
+    {
+        "name": "Remix.Business.CreativeCommonsByFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/creative-commons-by-fill.svg"
+    },
+    {
+        "name": "Remix.Business.ShakeHandsFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/shake-hands-fill.svg"
+    },
+    {
+        "name": "Remix.Business.Briefcase5Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/briefcase-5-line.svg"
+    },
+    {
+        "name": "Remix.Business.AwardFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/award-fill.svg"
+    },
+    {
+        "name": "Remix.Business.PresentationLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/presentation-line.svg"
+    },
+    {
+        "name": "Remix.Business.MailSettingsLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/mail-settings-line.svg"
+    },
+    {
+        "name": "Remix.Business.PrinterCloudFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/printer-cloud-fill.svg"
+    },
+    {
+        "name": "Remix.Business.CreativeCommonsFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/creative-commons-fill.svg"
+    },
+    {
+        "name": "Remix.Business.AtLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/at-line.svg"
+    },
+    {
+        "name": "Remix.Business.BubbleChartLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/bubble-chart-line.svg"
+    },
+    {
+        "name": "Remix.Business.DonutChartFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/donut-chart-fill.svg"
+    },
+    {
+        "name": "Remix.Business.CloudFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/cloud-fill.svg"
+    },
+    {
+        "name": "Remix.Business.PassPendingFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/pass-pending-fill.svg"
+    },
+    {
+        "name": "Remix.Business.CreativeCommonsNcFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Business/creative-commons-nc-fill.svg"
+    }
+]

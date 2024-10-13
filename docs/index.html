@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Compose icon collections</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="container">
+    <h1>Compose icon collections</h1>
+    <p>Compose Multiplatform open source icon collections, <a href="https://github.com/walter-juan/compose-icon-collections" target="_blank">GitHub repository</a></p>
+    <div class="controls">
+        <select id="iconPack"></select>
+        <select id="category" style="display: none;"></select>
+        <input type="text" id="search" placeholder="Search icons...">
+    </div>
+    <div class="license-container">
+        <pre id="license"></pre>
+        <button id="toggleLicense">Read More</button>
+    </div>
+    <table id="iconTable">
+        <thead>
+        <tr>
+            <th>Icon</th>
+            <th>Name</th>
+            <th>Icon</th>
+            <th>Name</th>
+        </tr>
+        </thead>
+        <tbody id="iconList"></tbody>
+    </table>
+</div>
+<script src="script.js"></script>
+</body>
+</html>

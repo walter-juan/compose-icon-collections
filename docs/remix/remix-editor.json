@@ -1,0 +1,562 @@
+[
+    {
+        "name": "Remix.Editor.LinkUnlink",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/link-unlink.svg"
+    },
+    {
+        "name": "Remix.Editor.SplitCellsHorizontal",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/split-cells-horizontal.svg"
+    },
+    {
+        "name": "Remix.Editor.CodeView",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/code-view.svg"
+    },
+    {
+        "name": "Remix.Editor.SortAlphabetAsc",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/sort-alphabet-asc.svg"
+    },
+    {
+        "name": "Remix.Editor.FontSansSerif",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/font-sans-serif.svg"
+    },
+    {
+        "name": "Remix.Editor.ListCheck2",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/list-check-2.svg"
+    },
+    {
+        "name": "Remix.Editor.H4",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/h-4.svg"
+    },
+    {
+        "name": "Remix.Editor.InputCursorMove",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/input-cursor-move.svg"
+    },
+    {
+        "name": "Remix.Editor.TextSnippet",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/text-snippet.svg"
+    },
+    {
+        "name": "Remix.Editor.CalendarView",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/calendar-view.svg"
+    },
+    {
+        "name": "Remix.Editor.Number4",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/number-4.svg"
+    },
+    {
+        "name": "Remix.Editor.FontSans",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/font-sans.svg"
+    },
+    {
+        "name": "Remix.Editor.PinyinInput",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/pinyin-input.svg"
+    },
+    {
+        "name": "Remix.Editor.ListOrdered2",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/list-ordered-2.svg"
+    },
+    {
+        "name": "Remix.Editor.SquareRoot",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/square-root.svg"
+    },
+    {
+        "name": "Remix.Editor.TableView",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/table-view.svg"
+    },
+    {
+        "name": "Remix.Editor.Text",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/text.svg"
+    },
+    {
+        "name": "Remix.Editor.SlideshowView",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/slideshow-view.svg"
+    },
+    {
+        "name": "Remix.Editor.DropdownList",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/dropdown-list.svg"
+    },
+    {
+        "name": "Remix.Editor.IndentIncrease",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/indent-increase.svg"
+    },
+    {
+        "name": "Remix.Editor.Number6",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/number-6.svg"
+    },
+    {
+        "name": "Remix.Editor.FontSize",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/font-size.svg"
+    },
+    {
+        "name": "Remix.Editor.TextWrap",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/text-wrap.svg"
+    },
+    {
+        "name": "Remix.Editor.SortAlphabetDesc",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/sort-alphabet-desc.svg"
+    },
+    {
+        "name": "Remix.Editor.NodeTree",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/node-tree.svg"
+    },
+    {
+        "name": "Remix.Editor.Number3",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/number-3.svg"
+    },
+    {
+        "name": "Remix.Editor.SingleQuotesR",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/single-quotes-r.svg"
+    },
+    {
+        "name": "Remix.Editor.Space",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/space.svg"
+    },
+    {
+        "name": "Remix.Editor.KanbanView",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/kanban-view.svg"
+    },
+    {
+        "name": "Remix.Editor.Table3",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/table-3.svg"
+    },
+    {
+        "name": "Remix.Editor.SortNumberAsc",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/sort-number-asc.svg"
+    },
+    {
+        "name": "Remix.Editor.Superscript2",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/superscript-2.svg"
+    },
+    {
+        "name": "Remix.Editor.H2",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/h-2.svg"
+    },
+    {
+        "name": "Remix.Editor.Paragraph",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/paragraph.svg"
+    },
+    {
+        "name": "Remix.Editor.InsertColumnLeft",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/insert-column-left.svg"
+    },
+    {
+        "name": "Remix.Editor.H3",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/h-3.svg"
+    },
+    {
+        "name": "Remix.Editor.Separator",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/separator.svg"
+    },
+    {
+        "name": "Remix.Editor.PageSeparator",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/page-separator.svg"
+    },
+    {
+        "name": "Remix.Editor.QuestionMark",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/question-mark.svg"
+    },
+    {
+        "name": "Remix.Editor.TextDirectionL",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/text-direction-l.svg"
+    },
+    {
+        "name": "Remix.Editor.ListCheck",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/list-check.svg"
+    },
+    {
+        "name": "Remix.Editor.Omega",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/omega.svg"
+    },
+    {
+        "name": "Remix.Editor.Number9",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/number-9.svg"
+    },
+    {
+        "name": "Remix.Editor.Asterisk",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/asterisk.svg"
+    },
+    {
+        "name": "Remix.Editor.Draggable",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/draggable.svg"
+    },
+    {
+        "name": "Remix.Editor.ListView",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/list-view.svg"
+    },
+    {
+        "name": "Remix.Editor.H5",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/h-5.svg"
+    },
+    {
+        "name": "Remix.Editor.InsertRowTop",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/insert-row-top.svg"
+    },
+    {
+        "name": "Remix.Editor.MindMap",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/mind-map.svg"
+    },
+    {
+        "name": "Remix.Editor.EmphasisCn",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/emphasis-cn.svg"
+    },
+    {
+        "name": "Remix.Editor.CodeBlock",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/code-block.svg"
+    },
+    {
+        "name": "Remix.Editor.InsertRowBottom",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/insert-row-bottom.svg"
+    },
+    {
+        "name": "Remix.Editor.EnglishInput",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/english-input.svg"
+    },
+    {
+        "name": "Remix.Editor.Sketching",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/sketching.svg"
+    },
+    {
+        "name": "Remix.Editor.ListIndefinite",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/list-indefinite.svg"
+    },
+    {
+        "name": "Remix.Editor.FormatClear",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/format-clear.svg"
+    },
+    {
+        "name": "Remix.Editor.H1",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/h-1.svg"
+    },
+    {
+        "name": "Remix.Editor.Number7",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/number-7.svg"
+    },
+    {
+        "name": "Remix.Editor.Superscript",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/superscript.svg"
+    },
+    {
+        "name": "Remix.Editor.ListCheck3",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/list-check-3.svg"
+    },
+    {
+        "name": "Remix.Editor.Number1",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/number-1.svg"
+    },
+    {
+        "name": "Remix.Editor.SortDesc",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/sort-desc.svg"
+    },
+    {
+        "name": "Remix.Editor.Strikethrough",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/strikethrough.svg"
+    },
+    {
+        "name": "Remix.Editor.LineHeight",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/line-height.svg"
+    },
+    {
+        "name": "Remix.Editor.Bold",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/bold.svg"
+    },
+    {
+        "name": "Remix.Editor.TextBlock",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/text-block.svg"
+    },
+    {
+        "name": "Remix.Editor.Translate",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/translate.svg"
+    },
+    {
+        "name": "Remix.Editor.InfoI",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/info-i.svg"
+    },
+    {
+        "name": "Remix.Editor.TextSpacing",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/text-spacing.svg"
+    },
+    {
+        "name": "Remix.Editor.RoundedCorner",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/rounded-corner.svg"
+    },
+    {
+        "name": "Remix.Editor.SortAsc",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/sort-asc.svg"
+    },
+    {
+        "name": "Remix.Editor.WubiInput",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/wubi-input.svg"
+    },
+    {
+        "name": "Remix.Editor.AlignTop",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/align-top.svg"
+    },
+    {
+        "name": "Remix.Editor.Formula",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/formula.svg"
+    },
+    {
+        "name": "Remix.Editor.DeleteColumn",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/delete-column.svg"
+    },
+    {
+        "name": "Remix.Editor.DoubleQuotesL",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/double-quotes-l.svg"
+    },
+    {
+        "name": "Remix.Editor.FontSize2",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/font-size-2.svg"
+    },
+    {
+        "name": "Remix.Editor.Heading",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/heading.svg"
+    },
+    {
+        "name": "Remix.Editor.AiGenerate",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/ai-generate.svg"
+    },
+    {
+        "name": "Remix.Editor.StackedView",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/stacked-view.svg"
+    },
+    {
+        "name": "Remix.Editor.Hashtag",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/hashtag.svg"
+    },
+    {
+        "name": "Remix.Editor.ListOrdered",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/list-ordered.svg"
+    },
+    {
+        "name": "Remix.Editor.Italic",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/italic.svg"
+    },
+    {
+        "name": "Remix.Editor.ListRadio",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/list-radio.svg"
+    },
+    {
+        "name": "Remix.Editor.SlashCommands2",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/slash-commands-2.svg"
+    },
+    {
+        "name": "Remix.Editor.FontMono",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/font-mono.svg"
+    },
+    {
+        "name": "Remix.Editor.QuoteText",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/quote-text.svg"
+    },
+    {
+        "name": "Remix.Editor.MergeCellsVertical",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/merge-cells-vertical.svg"
+    },
+    {
+        "name": "Remix.Editor.Attachment2",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/attachment-2.svg"
+    },
+    {
+        "name": "Remix.Editor.BringForward",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/bring-forward.svg"
+    },
+    {
+        "name": "Remix.Editor.TimelineView",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/timeline-view.svg"
+    },
+    {
+        "name": "Remix.Editor.Functions",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/functions.svg"
+    },
+    {
+        "name": "Remix.Editor.DoubleQuotesR",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/double-quotes-r.svg"
+    },
+    {
+        "name": "Remix.Editor.FontFamily",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/font-family.svg"
+    },
+    {
+        "name": "Remix.Editor.SplitCellsVertical",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/split-cells-vertical.svg"
+    },
+    {
+        "name": "Remix.Editor.FlowChart",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/flow-chart.svg"
+    },
+    {
+        "name": "Remix.Editor.Overline",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/overline.svg"
+    },
+    {
+        "name": "Remix.Editor.AlignRight",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/align-right.svg"
+    },
+    {
+        "name": "Remix.Editor.LinkM",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/link-m.svg"
+    },
+    {
+        "name": "Remix.Editor.Underline",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/underline.svg"
+    },
+    {
+        "name": "Remix.Editor.AlignBottom",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/align-bottom.svg"
+    },
+    {
+        "name": "Remix.Editor.BringToFront",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/bring-to-front.svg"
+    },
+    {
+        "name": "Remix.Editor.OrganizationChart",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/organization-chart.svg"
+    },
+    {
+        "name": "Remix.Editor.Subscript",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/subscript.svg"
+    },
+    {
+        "name": "Remix.Editor.Number5",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/number-5.svg"
+    },
+    {
+        "name": "Remix.Editor.Table2",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/table-2.svg"
+    },
+    {
+        "name": "Remix.Editor.DeleteRow",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/delete-row.svg"
+    },
+    {
+        "name": "Remix.Editor.SendToBack",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/send-to-back.svg"
+    },
+    {
+        "name": "Remix.Editor.SingleQuotesL",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/single-quotes-l.svg"
+    },
+    {
+        "name": "Remix.Editor.TextDirectionR",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/text-direction-r.svg"
+    },
+    {
+        "name": "Remix.Editor.Translate2",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/translate-2.svg"
+    },
+    {
+        "name": "Remix.Editor.Strikethrough2",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/strikethrough-2.svg"
+    },
+    {
+        "name": "Remix.Editor.AlignJustify",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/align-justify.svg"
+    },
+    {
+        "name": "Remix.Editor.AlignLeft",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/align-left.svg"
+    },
+    {
+        "name": "Remix.Editor.AlignCenter",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/align-center.svg"
+    },
+    {
+        "name": "Remix.Editor.Emphasis",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/emphasis.svg"
+    },
+    {
+        "name": "Remix.Editor.AlignVertically",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/align-vertically.svg"
+    },
+    {
+        "name": "Remix.Editor.InsertColumnRight",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/insert-column-right.svg"
+    },
+    {
+        "name": "Remix.Editor.LinkUnlinkM",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/link-unlink-m.svg"
+    },
+    {
+        "name": "Remix.Editor.Number0",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/number-0.svg"
+    },
+    {
+        "name": "Remix.Editor.AB",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/a-b.svg"
+    },
+    {
+        "name": "Remix.Editor.InputField",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/input-field.svg"
+    },
+    {
+        "name": "Remix.Editor.SlashCommands",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/slash-commands.svg"
+    },
+    {
+        "name": "Remix.Editor.ListUnordered",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/list-unordered.svg"
+    },
+    {
+        "name": "Remix.Editor.KanbanView2",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/kanban-view-2.svg"
+    },
+    {
+        "name": "Remix.Editor.Subscript2",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/subscript-2.svg"
+    },
+    {
+        "name": "Remix.Editor.GalleryView",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/gallery-view.svg"
+    },
+    {
+        "name": "Remix.Editor.Link",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/link.svg"
+    },
+    {
+        "name": "Remix.Editor.GalleryView2",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/gallery-view-2.svg"
+    },
+    {
+        "name": "Remix.Editor.MergeCellsHorizontal",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/merge-cells-horizontal.svg"
+    },
+    {
+        "name": "Remix.Editor.SortNumberDesc",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/sort-number-desc.svg"
+    },
+    {
+        "name": "Remix.Editor.FocusMode",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/focus-mode.svg"
+    },
+    {
+        "name": "Remix.Editor.Number2",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/number-2.svg"
+    },
+    {
+        "name": "Remix.Editor.Hand",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/hand.svg"
+    },
+    {
+        "name": "Remix.Editor.IndentDecrease",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/indent-decrease.svg"
+    },
+    {
+        "name": "Remix.Editor.H6",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/h-6.svg"
+    },
+    {
+        "name": "Remix.Editor.FontColor",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/font-color.svg"
+    },
+    {
+        "name": "Remix.Editor.SendBackward",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/send-backward.svg"
+    },
+    {
+        "name": "Remix.Editor.CarouselView",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/carousel-view.svg"
+    },
+    {
+        "name": "Remix.Editor.Number8",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Editor/number-8.svg"
+    }
+]
