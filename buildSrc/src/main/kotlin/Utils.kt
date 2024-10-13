@@ -54,6 +54,34 @@ object Utils {
         }
     }
 
+
+    /**
+     * Download the code from the main branch
+     * @param downloadedFile File where the asset will be downloaded
+     */
+    fun githubDownloadFromBranch(
+        branch: String,
+        repo: String,
+        project: String,
+        downloadedFile: File,
+    ): String {
+        val url = "https://github.com/$repo/$project/archive/refs/heads/$branch.zip"
+        val client = HttpClient(CIO)
+        client.use {
+            println("Download URL: $url")
+
+            // download the asset
+            runBlocking {
+                client.get(url).bodyAsChannel().toInputStream().use { input ->
+                    downloadedFile.outputStream().use { output ->
+                        input.copyTo(output)
+                    }
+                }
+            }
+        }
+        return branch
+    }
+
     /**
      * @param zipFile ZIP file path
      * @param destinationDir Directory where the ZIP file contents will be extracted

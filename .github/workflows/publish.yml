@@ -12,6 +12,7 @@ on:
           - octicons
           - tabler
           - remix
+          - boxicons
 
 permissions:
   contents: write

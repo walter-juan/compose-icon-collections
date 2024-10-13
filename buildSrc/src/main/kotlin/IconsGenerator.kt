@@ -27,6 +27,7 @@ data class GenerateIconsResult(
 object IconsGenerator {
     /**
      * @param ghIconsDir relative icons path from the code
+     * @param branchToDownload optional, set the branch name to download from it instead of the latest release
      */
     fun generateIcons(
         ghUser: String,
@@ -36,6 +37,7 @@ object IconsGenerator {
         applicationIconPackage: String,
         accessorName: String,
         outputDir: File,
+        branchToDownload: String? = null,
     ): GenerateIconsResult {
         val projectDownloadsDir = downloadsDir.resolve("${ghUser}-${ghRepo}")
         val zipFile = projectDownloadsDir.resolve("code.zip")
@@ -45,11 +47,20 @@ object IconsGenerator {
         unzippedDir.mkdirs()
 
         println("Downloading...")
-        val tag = Utils.githubZipballDownload(
-            repo = ghUser,
-            project = ghRepo,
-            downloadedFile = zipFile,
-        )
+        val tag = if (branchToDownload.isNullOrBlank()) {
+            Utils.githubZipballDownload(
+                repo = ghUser,
+                project = ghRepo,
+                downloadedFile = zipFile,
+            )
+        } else {
+            Utils.githubDownloadFromBranch(
+                branch = branchToDownload,
+                repo = ghUser,
+                project = ghRepo,
+                downloadedFile = zipFile,
+            )
+        }
         println("Downloaded version $tag")
 
         println("Unzipping...")
