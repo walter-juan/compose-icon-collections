@@ -12,6 +12,7 @@ on:
           - octicons
           - tabler
           - remix
+          - devicons
 
 permissions:
   contents: write

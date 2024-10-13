@@ -49,6 +49,7 @@ The same version numbers as the official icon packs have been followed
 | [Tabler](https://github.com/tabler/tabler-icons)        | tabler   | 3.19.0-b  | [MIT license](https://github.com/tabler/tabler-icons/blob/v3.19.0/LICENSE)          |
 | [Octicons](https://github.com/primer/octicons)          | octicons | 19.11.0-b | [MIT license](https://github.com/primer/octicons/blob/v19.11.0/LICENSE)             |
 | [Remix Icon](https://github.com/Remix-Design/RemixIcon) | remix    | 4.3.0     | [Apache License 2.0](https://github.com/Remix-Design/RemixIcon/blob/v4.3.0/License) |
+| [Devicon](https://github.com/devicons/devicon)          | devicons | 2.16.0    | [MIT license](https://github.com/devicons/devicon/blob/v2.16.0/LICENSE)              |
 
 ## Development
 

@@ -66,10 +66,13 @@ object IconsGenerator {
             vectorsDirectory = iconsDir,
             type = VectorType.SVG,
             groupNameTransformer = { group ->
-                group.renameToSupportedFormat(camelCase = true)
+                group
+                    .renameToSupportedFormat(camelCase = true)
             },
-            iconNameTransformer = { name, _ ->
-                name.renameToSupportedFormat(camelCase = true)
+            iconNameTransformer = { name, group ->
+                name
+                    .removePrefix(group.lowercase())
+                    .renameToSupportedFormat(camelCase = true)
             },
             allAssetsPropertyName = "AllIcons",
             generatePreview = false,

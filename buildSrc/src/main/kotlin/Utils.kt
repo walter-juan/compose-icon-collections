@@ -13,7 +13,9 @@ import java.util.*
 import java.util.zip.ZipFile
 
 object Utils {
+
     /**
+     * Download the code from the latest release
      * @param downloadedFile File where the asset will be downloaded
      * @return Release tag
      */
