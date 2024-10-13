@@ -18,7 +18,7 @@ async function loadConfig() {
 }
 
 function populateIconPackSelect() {
-    iconPackSelect.innerHTML = config.iconPacks.map(pack =>
+    iconPackSelect.innerHTML = config.iconPacks.sort((a, b) => a.name.localeCompare(b.name)).map(pack =>
         `<option value="${pack.value}" ${pack.value === config.defaultPack ? 'selected' : ''}>${pack.name}</option>`
     ).join('');
 }
@@ -84,7 +84,7 @@ function updateCategoryVisibility() {
     const selectedPack = config.iconPacks.find(p => p.value === iconPackSelect.value);
     if (selectedPack && selectedPack.categories.length > 0) {
         categorySelect.style.display = 'inline-block';
-        categorySelect.innerHTML = selectedPack.categories.map(category =>
+        categorySelect.innerHTML = selectedPack.categories.sort().map(category =>
             `<option value="${category}">${category.charAt(0).toUpperCase() + category.slice(1)}</option>`
         ).join('');
         loadIcons(selectedPack.value, selectedPack.categories[0]);
