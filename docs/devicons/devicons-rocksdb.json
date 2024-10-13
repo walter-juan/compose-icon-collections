@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Devicons.Rocksdb.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/rocksdb/rocksdb-plain.svg"
+    },
+    {
+        "name": "Devicons.Rocksdb.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/rocksdb/rocksdb-line.svg"
+    },
+    {
+        "name": "Devicons.Rocksdb.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/rocksdb/rocksdb-original.svg"
+    }
+]

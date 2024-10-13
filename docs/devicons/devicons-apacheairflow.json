@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Apacheairflow.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/apacheairflow/apacheairflow-original.svg"
+    },
+    {
+        "name": "Devicons.Apacheairflow.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/apacheairflow/apacheairflow-plain.svg"
+    },
+    {
+        "name": "Devicons.Apacheairflow.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/apacheairflow/apacheairflow-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Apacheairflow.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/apacheairflow/apacheairflow-original-wordmark.svg"
+    }
+]

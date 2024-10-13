@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Devicons.Numpy.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/numpy/numpy-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Numpy.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/numpy/numpy-line.svg"
+    },
+    {
+        "name": "Devicons.Numpy.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/numpy/numpy-original.svg"
+    },
+    {
+        "name": "Devicons.Numpy.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/numpy/numpy-plain.svg"
+    },
+    {
+        "name": "Devicons.Numpy.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/numpy/numpy-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Numpy.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/numpy/numpy-line-wordmark.svg"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Maya.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/maya/maya-original.svg"
+    },
+    {
+        "name": "Devicons.Maya.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/maya/maya-plain.svg"
+    },
+    {
+        "name": "Devicons.Maya.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/maya/maya-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Maya.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/maya/maya-original-wordmark.svg"
+    }
+]

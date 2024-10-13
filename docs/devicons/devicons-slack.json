@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Slack.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/slack/slack-original.svg"
+    },
+    {
+        "name": "Devicons.Slack.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/slack/slack-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Slack.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/slack/slack-plain.svg"
+    },
+    {
+        "name": "Devicons.Slack.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/slack/slack-original-wordmark.svg"
+    }
+]

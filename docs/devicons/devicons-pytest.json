@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Pytest.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/pytest/pytest-original.svg"
+    },
+    {
+        "name": "Devicons.Pytest.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/pytest/pytest-plain.svg"
+    },
+    {
+        "name": "Devicons.Pytest.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/pytest/pytest-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Pytest.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/pytest/pytest-plain-wordmark.svg"
+    }
+]

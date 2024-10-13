@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Devicons.Typo3.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/typo3/typo3-line.svg"
+    },
+    {
+        "name": "Devicons.Typo3.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/typo3/typo3-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Typo3.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/typo3/typo3-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Typo3.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/typo3/typo3-original.svg"
+    },
+    {
+        "name": "Devicons.Typo3.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/typo3/typo3-line-wordmark.svg"
+    }
+]

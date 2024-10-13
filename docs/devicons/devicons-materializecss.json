@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Devicons.Materializecss.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/materializecss/materializecss-original.svg"
+    },
+    {
+        "name": "Devicons.Materializecss.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/materializecss/materializecss-plain.svg"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Sequelize.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/sequelize/sequelize-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Sequelize.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/sequelize/sequelize-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Sequelize.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/sequelize/sequelize-original.svg"
+    },
+    {
+        "name": "Devicons.Sequelize.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/sequelize/sequelize-plain.svg"
+    }
+]

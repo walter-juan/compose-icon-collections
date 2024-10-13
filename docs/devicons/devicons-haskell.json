@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Haskell.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/haskell/haskell-plain.svg"
+    },
+    {
+        "name": "Devicons.Haskell.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/haskell/haskell-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Haskell.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/haskell/haskell-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Haskell.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/haskell/haskell-original.svg"
+    }
+]

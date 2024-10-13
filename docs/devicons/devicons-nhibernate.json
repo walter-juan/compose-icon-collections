@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Devicons.Nhibernate.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nhibernate/nhibernate-plain.svg"
+    },
+    {
+        "name": "Devicons.Nhibernate.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nhibernate/nhibernate-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Nhibernate.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nhibernate/nhibernate-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Nhibernate.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nhibernate/nhibernate-line-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Nhibernate.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nhibernate/nhibernate-original.svg"
+    },
+    {
+        "name": "Devicons.Nhibernate.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nhibernate/nhibernate-line.svg"
+    }
+]

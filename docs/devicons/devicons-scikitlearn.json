@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Devicons.Scikitlearn.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/scikitlearn/scikitlearn-line.svg"
+    },
+    {
+        "name": "Devicons.Scikitlearn.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/scikitlearn/scikitlearn-plain.svg"
+    },
+    {
+        "name": "Devicons.Scikitlearn.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/scikitlearn/scikitlearn-original.svg"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Opera.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/opera/opera-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Opera.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/opera/opera-plain.svg"
+    },
+    {
+        "name": "Devicons.Opera.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/opera/opera-original.svg"
+    },
+    {
+        "name": "Devicons.Opera.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/opera/opera-original-wordmark.svg"
+    }
+]

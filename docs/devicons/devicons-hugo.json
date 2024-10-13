@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Hugo.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/hugo/hugo-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Hugo.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/hugo/hugo-plain.svg"
+    },
+    {
+        "name": "Devicons.Hugo.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/hugo/hugo-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Hugo.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/hugo/hugo-original.svg"
+    }
+]

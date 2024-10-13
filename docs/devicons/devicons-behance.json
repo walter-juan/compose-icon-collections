@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Behance.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/behance/behance-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Behance.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/behance/behance-plain.svg"
+    },
+    {
+        "name": "Devicons.Behance.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/behance/behance-original.svg"
+    },
+    {
+        "name": "Devicons.Behance.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/behance/behance-original-wordmark.svg"
+    }
+]

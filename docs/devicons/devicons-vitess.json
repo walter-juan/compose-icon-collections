@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Vitess.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/vitess/vitess-plain.svg"
+    },
+    {
+        "name": "Devicons.Vitess.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/vitess/vitess-original.svg"
+    },
+    {
+        "name": "Devicons.Vitess.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/vitess/vitess-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Vitess.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/vitess/vitess-original-wordmark.svg"
+    }
+]

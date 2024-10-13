@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Devicons.K3s.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/k3s/k3s-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.K3s.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/k3s/k3s-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.K3s.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/k3s/k3s-original.svg"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Android.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/android/android-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Android.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/android/android-plain.svg"
+    },
+    {
+        "name": "Devicons.Android.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/android/android-original.svg"
+    },
+    {
+        "name": "Devicons.Android.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/android/android-plain-wordmark.svg"
+    }
+]

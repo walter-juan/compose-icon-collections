@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Devicons.Vault.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/vault/vault-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Vault.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/vault/vault-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Vault.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/vault/vault-original.svg"
+    }
+]

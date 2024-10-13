@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Devicons.Kubernetes.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/kubernetes/kubernetes-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Kubernetes.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/kubernetes/kubernetes-original.svg"
+    },
+    {
+        "name": "Devicons.Kubernetes.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/kubernetes/kubernetes-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Kubernetes.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/kubernetes/kubernetes-line-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Kubernetes.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/kubernetes/kubernetes-line.svg"
+    },
+    {
+        "name": "Devicons.Kubernetes.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/kubernetes/kubernetes-plain.svg"
+    }
+]

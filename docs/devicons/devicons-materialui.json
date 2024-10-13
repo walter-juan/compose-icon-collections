@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Devicons.Materialui.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/materialui/materialui-original.svg"
+    },
+    {
+        "name": "Devicons.Materialui.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/materialui/materialui-plain.svg"
+    }
+]

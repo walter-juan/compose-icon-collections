@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Devicons.Lua.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/lua/lua-original.svg"
+    },
+    {
+        "name": "Devicons.Lua.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/lua/lua-line.svg"
+    },
+    {
+        "name": "Devicons.Lua.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/lua/lua-plain.svg"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Devicons.Qodana.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/qodana/qodana-original.svg"
+    },
+    {
+        "name": "Devicons.Qodana.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/qodana/qodana-plain.svg"
+    },
+    {
+        "name": "Devicons.Qodana.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/qodana/qodana-plain-wordmark.svg"
+    }
+]

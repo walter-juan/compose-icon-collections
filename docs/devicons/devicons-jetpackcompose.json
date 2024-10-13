@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Devicons.Jetpackcompose.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/jetpackcompose/jetpackcompose-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Jetpackcompose.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/jetpackcompose/jetpackcompose-original.svg"
+    },
+    {
+        "name": "Devicons.Jetpackcompose.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/jetpackcompose/jetpackcompose-line.svg"
+    },
+    {
+        "name": "Devicons.Jetpackcompose.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/jetpackcompose/jetpackcompose-line-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Jetpackcompose.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/jetpackcompose/jetpackcompose-plain.svg"
+    },
+    {
+        "name": "Devicons.Jetpackcompose.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/jetpackcompose/jetpackcompose-original-wordmark.svg"
+    }
+]

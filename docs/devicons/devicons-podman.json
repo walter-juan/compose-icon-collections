@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Podman.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/podman/podman-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Podman.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/podman/podman-original.svg"
+    },
+    {
+        "name": "Devicons.Podman.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/podman/podman-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Podman.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/podman/podman-plain.svg"
+    }
+]

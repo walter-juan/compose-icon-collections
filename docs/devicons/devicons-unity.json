@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Devicons.Unity.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/unity/unity-line.svg"
+    },
+    {
+        "name": "Devicons.Unity.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/unity/unity-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Unity.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/unity/unity-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Unity.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/unity/unity-original.svg"
+    },
+    {
+        "name": "Devicons.Unity.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/unity/unity-line-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Unity.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/unity/unity-plain.svg"
+    }
+]

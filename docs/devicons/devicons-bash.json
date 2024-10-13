@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Devicons.Bash.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/bash/bash-original.svg"
+    },
+    {
+        "name": "Devicons.Bash.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/bash/bash-plain.svg"
+    }
+]

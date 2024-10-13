@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Cosmosdb.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/cosmosdb/cosmosdb-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Cosmosdb.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/cosmosdb/cosmosdb-original.svg"
+    },
+    {
+        "name": "Devicons.Cosmosdb.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/cosmosdb/cosmosdb-plain.svg"
+    },
+    {
+        "name": "Devicons.Cosmosdb.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/cosmosdb/cosmosdb-plain-wordmark.svg"
+    }
+]

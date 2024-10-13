@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Trpc.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/trpc/trpc-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Trpc.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/trpc/trpc-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Trpc.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/trpc/trpc-plain.svg"
+    },
+    {
+        "name": "Devicons.Trpc.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/trpc/trpc-original.svg"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Devicons.Liquibase.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/liquibase/liquibase-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Liquibase.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/liquibase/liquibase-original.svg"
+    }
+]

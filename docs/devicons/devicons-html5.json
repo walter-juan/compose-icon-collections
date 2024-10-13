@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Html5.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/html5/html5-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Html5.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/html5/html5-plain.svg"
+    },
+    {
+        "name": "Devicons.Html5.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/html5/html5-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Html5.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/html5/html5-original.svg"
+    }
+]

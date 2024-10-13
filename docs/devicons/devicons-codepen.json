@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Codepen.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/codepen/codepen-original.svg"
+    },
+    {
+        "name": "Devicons.Codepen.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/codepen/codepen-line.svg"
+    },
+    {
+        "name": "Devicons.Codepen.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/codepen/codepen-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Codepen.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/codepen/codepen-line-wordmark.svg"
+    }
+]

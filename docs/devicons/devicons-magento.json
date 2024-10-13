@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Devicons.Magento.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/magento/magento-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Magento.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/magento/magento-original.svg"
+    },
+    {
+        "name": "Devicons.Magento.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/magento/magento-line-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Magento.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/magento/magento-line.svg"
+    },
+    {
+        "name": "Devicons.Magento.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/magento/magento-plain-wordmark.svg"
+    }
+]

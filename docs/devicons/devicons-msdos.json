@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Devicons.Msdos.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/msdos/msdos-original.svg"
+    },
+    {
+        "name": "Devicons.Msdos.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/msdos/msdos-plain.svg"
+    },
+    {
+        "name": "Devicons.Msdos.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/msdos/msdos-line.svg"
+    }
+]

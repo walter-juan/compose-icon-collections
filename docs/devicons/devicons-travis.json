@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Devicons.Travis.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/travis/travis-line-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Travis.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/travis/travis-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Travis.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/travis/travis-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Travis.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/travis/travis-line.svg"
+    },
+    {
+        "name": "Devicons.Travis.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/travis/travis-original.svg"
+    },
+    {
+        "name": "Devicons.Travis.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/travis/travis-plain.svg"
+    }
+]

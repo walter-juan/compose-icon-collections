@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Devicons.D3js.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/d3js/d3js-plain.svg"
+    },
+    {
+        "name": "Devicons.D3js.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/d3js/d3js-original.svg"
+    }
+]

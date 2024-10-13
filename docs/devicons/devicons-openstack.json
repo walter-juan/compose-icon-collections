@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Devicons.Openstack.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/openstack/openstack-original.svg"
+    },
+    {
+        "name": "Devicons.Openstack.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/openstack/openstack-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Openstack.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/openstack/openstack-original-wordmark.svg"
+    }
+]

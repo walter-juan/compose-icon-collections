@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Devicons.Jetbrains.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/jetbrains/jetbrains-original.svg"
+    },
+    {
+        "name": "Devicons.Jetbrains.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/jetbrains/jetbrains-plain.svg"
+    }
+]

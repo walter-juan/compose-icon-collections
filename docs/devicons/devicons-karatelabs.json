@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Karatelabs.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/karatelabs/karatelabs-plain.svg"
+    },
+    {
+        "name": "Devicons.Karatelabs.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/karatelabs/karatelabs-original.svg"
+    },
+    {
+        "name": "Devicons.Karatelabs.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/karatelabs/karatelabs-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Karatelabs.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/karatelabs/karatelabs-original-wordmark.svg"
+    }
+]

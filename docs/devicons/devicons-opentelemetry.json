@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Opentelemetry.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/opentelemetry/opentelemetry-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Opentelemetry.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/opentelemetry/opentelemetry-plain.svg"
+    },
+    {
+        "name": "Devicons.Opentelemetry.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/opentelemetry/opentelemetry-original.svg"
+    },
+    {
+        "name": "Devicons.Opentelemetry.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/opentelemetry/opentelemetry-original-wordmark.svg"
+    }
+]

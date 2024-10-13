@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Devicons.Wordpress.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/wordpress/wordpress-plain.svg"
+    },
+    {
+        "name": "Devicons.Wordpress.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/wordpress/wordpress-original.svg"
+    },
+    {
+        "name": "Devicons.Wordpress.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/wordpress/wordpress-plain-wordmark.svg"
+    }
+]

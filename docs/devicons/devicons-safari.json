@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Devicons.Safari.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/safari/safari-original.svg"
+    },
+    {
+        "name": "Devicons.Safari.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/safari/safari-line.svg"
+    },
+    {
+        "name": "Devicons.Safari.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/safari/safari-plain.svg"
+    },
+    {
+        "name": "Devicons.Safari.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/safari/safari-line-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Safari.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/safari/safari-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Safari.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/safari/safari-original-wordmark.svg"
+    }
+]

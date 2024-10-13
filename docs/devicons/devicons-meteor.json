@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Meteor.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/meteor/meteor-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Meteor.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/meteor/meteor-plain.svg"
+    },
+    {
+        "name": "Devicons.Meteor.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/meteor/meteor-original.svg"
+    },
+    {
+        "name": "Devicons.Meteor.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/meteor/meteor-plain-wordmark.svg"
+    }
+]

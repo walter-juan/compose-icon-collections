@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Devicons.Vuetify.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/vuetify/vuetify-original.svg"
+    },
+    {
+        "name": "Devicons.Vuetify.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/vuetify/vuetify-plain.svg"
+    },
+    {
+        "name": "Devicons.Vuetify.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/vuetify/vuetify-line.svg"
+    }
+]

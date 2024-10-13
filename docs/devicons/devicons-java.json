@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Java.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/java/java-plain.svg"
+    },
+    {
+        "name": "Devicons.Java.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/java/java-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Java.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/java/java-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Java.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/java/java-original.svg"
+    }
+]

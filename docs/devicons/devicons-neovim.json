@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Devicons.Neovim.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/neovim/neovim-plain.svg"
+    },
+    {
+        "name": "Devicons.Neovim.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/neovim/neovim-line.svg"
+    },
+    {
+        "name": "Devicons.Neovim.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/neovim/neovim-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Neovim.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/neovim/neovim-original.svg"
+    },
+    {
+        "name": "Devicons.Neovim.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/neovim/neovim-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Neovim.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/neovim/neovim-line-wordmark.svg"
+    }
+]

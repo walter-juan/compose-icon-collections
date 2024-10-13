@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Devicons.Json.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/json/json-original.svg"
+    },
+    {
+        "name": "Devicons.Json.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/json/json-plain.svg"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Reactrouter.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/reactrouter/reactrouter-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Reactrouter.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/reactrouter/reactrouter-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Reactrouter.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/reactrouter/reactrouter-original.svg"
+    },
+    {
+        "name": "Devicons.Reactrouter.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/reactrouter/reactrouter-plain.svg"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Devicons.Amazonwebservices.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Amazonwebservices.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/amazonwebservices/amazonwebservices-line-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Amazonwebservices.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Realm.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/realm/realm-original.svg"
+    },
+    {
+        "name": "Devicons.Realm.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/realm/realm-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Realm.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/realm/realm-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Realm.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/realm/realm-plain.svg"
+    }
+]

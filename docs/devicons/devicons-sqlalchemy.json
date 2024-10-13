@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Sqlalchemy.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/sqlalchemy/sqlalchemy-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Sqlalchemy.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/sqlalchemy/sqlalchemy-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Sqlalchemy.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/sqlalchemy/sqlalchemy-original.svg"
+    },
+    {
+        "name": "Devicons.Sqlalchemy.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/sqlalchemy/sqlalchemy-plain.svg"
+    }
+]

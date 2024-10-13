@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Devicons.Dynamodb.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/dynamodb/dynamodb-original.svg"
+    },
+    {
+        "name": "Devicons.Dynamodb.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/dynamodb/dynamodb-plain.svg"
+    }
+]

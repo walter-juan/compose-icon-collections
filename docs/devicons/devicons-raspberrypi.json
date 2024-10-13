@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Devicons.Raspberrypi.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/raspberrypi/raspberrypi-line-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Raspberrypi.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/raspberrypi/raspberrypi-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Raspberrypi.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/raspberrypi/raspberrypi-original.svg"
+    },
+    {
+        "name": "Devicons.Raspberrypi.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/raspberrypi/raspberrypi-line.svg"
+    },
+    {
+        "name": "Devicons.Raspberrypi.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/raspberrypi/raspberrypi-plain.svg"
+    },
+    {
+        "name": "Devicons.Raspberrypi.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/raspberrypi/raspberrypi-original-wordmark.svg"
+    }
+]

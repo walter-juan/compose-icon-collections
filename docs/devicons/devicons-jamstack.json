@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Devicons.Jamstack.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/jamstack/jamstack-original.svg"
+    },
+    {
+        "name": "Devicons.Jamstack.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/jamstack/jamstack-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Jamstack.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/jamstack/jamstack-plain-wordmark.svg"
+    }
+]

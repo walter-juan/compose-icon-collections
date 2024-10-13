@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Woocommerce.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/woocommerce/woocommerce-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Woocommerce.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/woocommerce/woocommerce-original.svg"
+    },
+    {
+        "name": "Devicons.Woocommerce.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/woocommerce/woocommerce-plain.svg"
+    },
+    {
+        "name": "Devicons.Woocommerce.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/woocommerce/woocommerce-plain-wordmark.svg"
+    }
+]

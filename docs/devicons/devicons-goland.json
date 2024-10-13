@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Devicons.Goland.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/goland/goland-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Goland.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/goland/goland-plain.svg"
+    },
+    {
+        "name": "Devicons.Goland.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/goland/goland-original.svg"
+    }
+]

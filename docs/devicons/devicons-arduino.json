@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Arduino.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/arduino/arduino-plain.svg"
+    },
+    {
+        "name": "Devicons.Arduino.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/arduino/arduino-original.svg"
+    },
+    {
+        "name": "Devicons.Arduino.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/arduino/arduino-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Arduino.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/arduino/arduino-plain-wordmark.svg"
+    }
+]

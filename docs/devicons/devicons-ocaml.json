@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Ocaml.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/ocaml/ocaml-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Ocaml.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/ocaml/ocaml-original.svg"
+    },
+    {
+        "name": "Devicons.Ocaml.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/ocaml/ocaml-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Ocaml.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/ocaml/ocaml-plain.svg"
+    }
+]

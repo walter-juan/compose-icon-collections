@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Laravel.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/laravel/laravel-line-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Laravel.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/laravel/laravel-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Laravel.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/laravel/laravel-original.svg"
+    },
+    {
+        "name": "Devicons.Laravel.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/laravel/laravel-line.svg"
+    }
+]

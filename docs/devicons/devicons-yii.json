@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Yii.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/yii/yii-original.svg"
+    },
+    {
+        "name": "Devicons.Yii.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/yii/yii-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Yii.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/yii/yii-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Yii.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/yii/yii-plain.svg"
+    }
+]

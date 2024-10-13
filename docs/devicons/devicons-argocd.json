@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Argocd.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/argocd/argocd-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Argocd.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/argocd/argocd-plain.svg"
+    },
+    {
+        "name": "Devicons.Argocd.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/argocd/argocd-original.svg"
+    },
+    {
+        "name": "Devicons.Argocd.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/argocd/argocd-original-wordmark.svg"
+    }
+]

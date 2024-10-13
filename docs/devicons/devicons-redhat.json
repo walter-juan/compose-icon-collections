@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Redhat.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/redhat/redhat-plain.svg"
+    },
+    {
+        "name": "Devicons.Redhat.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/redhat/redhat-original.svg"
+    },
+    {
+        "name": "Devicons.Redhat.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/redhat/redhat-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Redhat.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/redhat/redhat-original-wordmark.svg"
+    }
+]

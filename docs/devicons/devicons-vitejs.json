@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Devicons.Vitejs.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/vitejs/vitejs-plain.svg"
+    },
+    {
+        "name": "Devicons.Vitejs.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/vitejs/vitejs-original.svg"
+    }
+]

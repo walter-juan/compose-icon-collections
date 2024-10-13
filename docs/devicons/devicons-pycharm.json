@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Pycharm.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/pycharm/pycharm-plain.svg"
+    },
+    {
+        "name": "Devicons.Pycharm.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/pycharm/pycharm-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Pycharm.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/pycharm/pycharm-original.svg"
+    },
+    {
+        "name": "Devicons.Pycharm.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/pycharm/pycharm-plain-wordmark.svg"
+    }
+]

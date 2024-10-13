@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Envoy.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/envoy/envoy-original.svg"
+    },
+    {
+        "name": "Devicons.Envoy.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/envoy/envoy-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Envoy.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/envoy/envoy-plain.svg"
+    },
+    {
+        "name": "Devicons.Envoy.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/envoy/envoy-plain-wordmark.svg"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Devicons.Fedora.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/fedora/fedora-original.svg"
+    },
+    {
+        "name": "Devicons.Fedora.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/fedora/fedora-plain.svg"
+    }
+]

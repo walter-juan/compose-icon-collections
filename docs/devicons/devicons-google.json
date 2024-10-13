@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Google.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/google/google-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Google.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/google/google-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Google.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/google/google-plain.svg"
+    },
+    {
+        "name": "Devicons.Google.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/google/google-original.svg"
+    }
+]

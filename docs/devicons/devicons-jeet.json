@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Jeet.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/jeet/jeet-original.svg"
+    },
+    {
+        "name": "Devicons.Jeet.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/jeet/jeet-plain.svg"
+    },
+    {
+        "name": "Devicons.Jeet.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/jeet/jeet-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Jeet.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/jeet/jeet-plain-wordmark.svg"
+    }
+]

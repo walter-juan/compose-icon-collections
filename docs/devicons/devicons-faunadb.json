@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Faunadb.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/faunadb/faunadb-line-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Faunadb.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/faunadb/faunadb-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Faunadb.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/faunadb/faunadb-original.svg"
+    },
+    {
+        "name": "Devicons.Faunadb.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/faunadb/faunadb-line.svg"
+    }
+]

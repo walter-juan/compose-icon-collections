@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Devicons.Wasm.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/wasm/wasm-original.svg"
+    },
+    {
+        "name": "Devicons.Wasm.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/wasm/wasm-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Wasm.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/wasm/wasm-original-wordmark.svg"
+    }
+]

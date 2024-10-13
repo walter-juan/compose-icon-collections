@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Modx.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/modx/modx-original.svg"
+    },
+    {
+        "name": "Devicons.Modx.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/modx/modx-plain.svg"
+    },
+    {
+        "name": "Devicons.Modx.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/modx/modx-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Modx.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/modx/modx-original-wordmark.svg"
+    }
+]

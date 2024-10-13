@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Devicons.Pytorch.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/pytorch/pytorch-original.svg"
+    },
+    {
+        "name": "Devicons.Pytorch.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/pytorch/pytorch-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Pytorch.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/pytorch/pytorch-original-wordmark.svg"
+    }
+]

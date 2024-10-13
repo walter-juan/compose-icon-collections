@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Devicons.Yunohost.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/yunohost/yunohost-original.svg"
+    },
+    {
+        "name": "Devicons.Yunohost.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/yunohost/yunohost-plain.svg"
+    }
+]

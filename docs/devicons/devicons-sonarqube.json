@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Devicons.Sonarqube.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/sonarqube/sonarqube-line-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Sonarqube.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/sonarqube/sonarqube-line.svg"
+    },
+    {
+        "name": "Devicons.Sonarqube.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/sonarqube/sonarqube-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Sonarqube.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/sonarqube/sonarqube-original.svg"
+    },
+    {
+        "name": "Devicons.Sonarqube.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/sonarqube/sonarqube-plain-wordmark.svg"
+    }
+]

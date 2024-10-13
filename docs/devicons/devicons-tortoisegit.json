@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Devicons.Tortoisegit.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/tortoisegit/tortoisegit-original.svg"
+    },
+    {
+        "name": "Devicons.Tortoisegit.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/tortoisegit/tortoisegit-line.svg"
+    },
+    {
+        "name": "Devicons.Tortoisegit.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/tortoisegit/tortoisegit-plain.svg"
+    }
+]

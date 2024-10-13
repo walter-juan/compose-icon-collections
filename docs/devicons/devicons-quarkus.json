@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Quarkus.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/quarkus/quarkus-plain.svg"
+    },
+    {
+        "name": "Devicons.Quarkus.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/quarkus/quarkus-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Quarkus.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/quarkus/quarkus-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Quarkus.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/quarkus/quarkus-original.svg"
+    }
+]

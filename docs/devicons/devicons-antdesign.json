@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Antdesign.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/antdesign/antdesign-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Antdesign.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/antdesign/antdesign-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Antdesign.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/antdesign/antdesign-original.svg"
+    },
+    {
+        "name": "Devicons.Antdesign.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/antdesign/antdesign-plain.svg"
+    }
+]

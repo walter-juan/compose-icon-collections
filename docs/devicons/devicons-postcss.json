@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Devicons.Postcss.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/postcss/postcss-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Postcss.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/postcss/postcss-original.svg"
+    },
+    {
+        "name": "Devicons.Postcss.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/postcss/postcss-plain-wordmark.svg"
+    }
+]

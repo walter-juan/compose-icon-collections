@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Devicons.Rxjs.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/rxjs/rxjs-original.svg"
+    },
+    {
+        "name": "Devicons.Rxjs.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/rxjs/rxjs-plain.svg"
+    }
+]

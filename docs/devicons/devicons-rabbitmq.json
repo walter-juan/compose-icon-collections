@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Devicons.Rabbitmq.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/rabbitmq/rabbitmq-original.svg"
+    },
+    {
+        "name": "Devicons.Rabbitmq.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/rabbitmq/rabbitmq-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Rabbitmq.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/rabbitmq/rabbitmq-original-wordmark.svg"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Devicons.Blazor.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/blazor/blazor-line.svg"
+    },
+    {
+        "name": "Devicons.Blazor.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/blazor/blazor-original.svg"
+    }
+]

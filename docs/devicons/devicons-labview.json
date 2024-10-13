@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Labview.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/labview/labview-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Labview.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/labview/labview-original.svg"
+    },
+    {
+        "name": "Devicons.Labview.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/labview/labview-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Labview.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/labview/labview-plain.svg"
+    }
+]

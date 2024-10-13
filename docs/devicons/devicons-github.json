@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Devicons.Github.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/github/github-original.svg"
+    },
+    {
+        "name": "Devicons.Github.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/github/github-original-wordmark.svg"
+    }
+]

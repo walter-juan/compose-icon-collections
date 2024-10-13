@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Clion.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/clion/clion-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Clion.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/clion/clion-original.svg"
+    },
+    {
+        "name": "Devicons.Clion.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/clion/clion-plain.svg"
+    },
+    {
+        "name": "Devicons.Clion.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/clion/clion-plain-wordmark.svg"
+    }
+]

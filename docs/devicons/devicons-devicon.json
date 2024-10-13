@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Devicons.Devicon.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/devicon/devicon-original.svg"
+    },
+    {
+        "name": "Devicons.Devicon.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/devicon/devicon-plain.svg"
+    },
+    {
+        "name": "Devicons.Devicon.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/devicon/devicon-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Devicon.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/devicon/devicon-line-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Devicon.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/devicon/devicon-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Devicon.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/devicon/devicon-line.svg"
+    }
+]

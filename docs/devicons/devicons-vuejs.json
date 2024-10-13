@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Devicons.Vuejs.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/vuejs/vuejs-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Vuejs.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/vuejs/vuejs-original.svg"
+    },
+    {
+        "name": "Devicons.Vuejs.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/vuejs/vuejs-plain.svg"
+    },
+    {
+        "name": "Devicons.Vuejs.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/vuejs/vuejs-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Vuejs.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/vuejs/vuejs-line.svg"
+    },
+    {
+        "name": "Devicons.Vuejs.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/vuejs/vuejs-line-wordmark.svg"
+    }
+]

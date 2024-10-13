@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Devicons.Grpc.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/grpc/grpc-original.svg"
+    },
+    {
+        "name": "Devicons.Grpc.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/grpc/grpc-plain.svg"
+    }
+]

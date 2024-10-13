@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Storybook.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/storybook/storybook-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Storybook.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/storybook/storybook-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Storybook.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/storybook/storybook-plain.svg"
+    },
+    {
+        "name": "Devicons.Storybook.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/storybook/storybook-original.svg"
+    }
+]

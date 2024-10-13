@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Devicons.Mysql.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/mysql/mysql-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Mysql.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/mysql/mysql-original.svg"
+    },
+    {
+        "name": "Devicons.Mysql.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/mysql/mysql-original-wordmark.svg"
+    }
+]

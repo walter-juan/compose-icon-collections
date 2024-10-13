@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Nixos.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nixos/nixos-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Nixos.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nixos/nixos-original.svg"
+    },
+    {
+        "name": "Devicons.Nixos.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nixos/nixos-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Nixos.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nixos/nixos-plain.svg"
+    }
+]

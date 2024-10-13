@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Elixir.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/elixir/elixir-plain.svg"
+    },
+    {
+        "name": "Devicons.Elixir.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/elixir/elixir-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Elixir.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/elixir/elixir-original.svg"
+    },
+    {
+        "name": "Devicons.Elixir.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/elixir/elixir-original-wordmark.svg"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Scala.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/scala/scala-plain.svg"
+    },
+    {
+        "name": "Devicons.Scala.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/scala/scala-original.svg"
+    },
+    {
+        "name": "Devicons.Scala.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/scala/scala-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Scala.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/scala/scala-plain-wordmark.svg"
+    }
+]

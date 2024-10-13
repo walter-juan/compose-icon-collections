@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Devicons.Shotgrid.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/shotgrid/shotgrid-original.svg"
+    },
+    {
+        "name": "Devicons.Shotgrid.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/shotgrid/shotgrid-plain.svg"
+    },
+    {
+        "name": "Devicons.Shotgrid.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/shotgrid/shotgrid-original-wordmark.svg"
+    }
+]

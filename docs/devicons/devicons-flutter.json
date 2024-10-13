@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Devicons.Flutter.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/flutter/flutter-plain.svg"
+    },
+    {
+        "name": "Devicons.Flutter.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/flutter/flutter-original.svg"
+    }
+]

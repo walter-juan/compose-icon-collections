@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Devicons.Xml.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/xml/xml-original.svg"
+    },
+    {
+        "name": "Devicons.Xml.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/xml/xml-plain.svg"
+    },
+    {
+        "name": "Devicons.Xml.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/xml/xml-line.svg"
+    }
+]

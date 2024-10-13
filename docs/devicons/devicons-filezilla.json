@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Devicons.Filezilla.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/filezilla/filezilla-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Filezilla.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/filezilla/filezilla-line.svg"
+    },
+    {
+        "name": "Devicons.Filezilla.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/filezilla/filezilla-plain.svg"
+    },
+    {
+        "name": "Devicons.Filezilla.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/filezilla/filezilla-original.svg"
+    },
+    {
+        "name": "Devicons.Filezilla.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/filezilla/filezilla-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Filezilla.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/filezilla/filezilla-line-wordmark.svg"
+    }
+]

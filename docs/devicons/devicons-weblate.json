@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Weblate.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/weblate/weblate-plain.svg"
+    },
+    {
+        "name": "Devicons.Weblate.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/weblate/weblate-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Weblate.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/weblate/weblate-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Weblate.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/weblate/weblate-original.svg"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Devicons.Rstudio.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/rstudio/rstudio-plain.svg"
+    },
+    {
+        "name": "Devicons.Rstudio.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/rstudio/rstudio-original.svg"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Devicons.Ngrx.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/ngrx/ngrx-original.svg"
+    },
+    {
+        "name": "Devicons.Ngrx.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/ngrx/ngrx-plain.svg"
+    }
+]

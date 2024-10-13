@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Devicons.Dropwizard.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/dropwizard/dropwizard-original.svg"
+    },
+    {
+        "name": "Devicons.Dropwizard.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/dropwizard/dropwizard-plain.svg"
+    }
+]

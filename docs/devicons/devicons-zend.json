@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Zend.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/zend/zend-original.svg"
+    },
+    {
+        "name": "Devicons.Zend.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/zend/zend-line-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Zend.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/zend/zend-line.svg"
+    },
+    {
+        "name": "Devicons.Zend.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/zend/zend-original-wordmark.svg"
+    }
+]

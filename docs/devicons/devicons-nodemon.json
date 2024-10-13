@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Devicons.Nodemon.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nodemon/nodemon-line.svg"
+    },
+    {
+        "name": "Devicons.Nodemon.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nodemon/nodemon-original.svg"
+    },
+    {
+        "name": "Devicons.Nodemon.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nodemon/nodemon-plain.svg"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Devicons.Rancher.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/rancher/rancher-original.svg"
+    },
+    {
+        "name": "Devicons.Rancher.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/rancher/rancher-line-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Rancher.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/rancher/rancher-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Rancher.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/rancher/rancher-line.svg"
+    },
+    {
+        "name": "Devicons.Rancher.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/rancher/rancher-plain-wordmark.svg"
+    }
+]

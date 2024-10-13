@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Archlinux.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/archlinux/archlinux-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Archlinux.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/archlinux/archlinux-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Archlinux.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/archlinux/archlinux-plain.svg"
+    },
+    {
+        "name": "Devicons.Archlinux.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/archlinux/archlinux-original.svg"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Devicons.Networkx.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/networkx/networkx-original.svg"
+    },
+    {
+        "name": "Devicons.Networkx.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/networkx/networkx-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Networkx.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/networkx/networkx-line-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Networkx.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/networkx/networkx-line.svg"
+    },
+    {
+        "name": "Devicons.Networkx.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/networkx/networkx-plain.svg"
+    },
+    {
+        "name": "Devicons.Networkx.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/networkx/networkx-plain-wordmark.svg"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Kotlin.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/kotlin/kotlin-plain.svg"
+    },
+    {
+        "name": "Devicons.Kotlin.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/kotlin/kotlin-original.svg"
+    },
+    {
+        "name": "Devicons.Kotlin.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/kotlin/kotlin-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Kotlin.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/kotlin/kotlin-original-wordmark.svg"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Embeddedc.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/embeddedc/embeddedc-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Embeddedc.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/embeddedc/embeddedc-original.svg"
+    },
+    {
+        "name": "Devicons.Embeddedc.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/embeddedc/embeddedc-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Embeddedc.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/embeddedc/embeddedc-plain.svg"
+    }
+]

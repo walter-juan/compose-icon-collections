@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Go.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/go/go-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Go.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/go/go-original.svg"
+    },
+    {
+        "name": "Devicons.Go.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/go/go-line.svg"
+    },
+    {
+        "name": "Devicons.Go.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/go/go-plain.svg"
+    }
+]

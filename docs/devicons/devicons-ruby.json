@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Ruby.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/ruby/ruby-original.svg"
+    },
+    {
+        "name": "Devicons.Ruby.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/ruby/ruby-plain.svg"
+    },
+    {
+        "name": "Devicons.Ruby.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/ruby/ruby-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Ruby.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/ruby/ruby-original-wordmark.svg"
+    }
+]

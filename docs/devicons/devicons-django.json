@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Devicons.Django.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/django/django-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Django.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/django/django-plain.svg"
+    }
+]

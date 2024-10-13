@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Ansible.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/ansible/ansible-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Ansible.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/ansible/ansible-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Ansible.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/ansible/ansible-original.svg"
+    },
+    {
+        "name": "Devicons.Ansible.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/ansible/ansible-plain.svg"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Devicons.Powershell.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/powershell/powershell-plain.svg"
+    },
+    {
+        "name": "Devicons.Powershell.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/powershell/powershell-original.svg"
+    }
+]

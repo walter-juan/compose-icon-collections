@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Devicons.Firebase.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/firebase/firebase-plain.svg"
+    },
+    {
+        "name": "Devicons.Firebase.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/firebase/firebase-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Firebase.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/firebase/firebase-line-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Firebase.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/firebase/firebase-original.svg"
+    },
+    {
+        "name": "Devicons.Firebase.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/firebase/firebase-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Firebase.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/firebase/firebase-line.svg"
+    }
+]

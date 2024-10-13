@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Devicons.Vite.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/vite/vite-original.svg"
+    },
+    {
+        "name": "Devicons.Vite.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/vite/vite-original-wordmark.svg"
+    }
+]
