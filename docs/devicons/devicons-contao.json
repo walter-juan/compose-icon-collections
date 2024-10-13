@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Devicons.Contao.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/contao/contao-original.svg"
+    },
+    {
+        "name": "Devicons.Contao.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/contao/contao-original-wordmark.svg"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Devicons.Clojurescript.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/clojurescript/clojurescript-original.svg"
+    },
+    {
+        "name": "Devicons.Clojurescript.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/clojurescript/clojurescript-plain.svg"
+    }
+]

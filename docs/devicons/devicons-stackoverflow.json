@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Devicons.Stackoverflow.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/stackoverflow/stackoverflow-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Stackoverflow.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/stackoverflow/stackoverflow-plain.svg"
+    },
+    {
+        "name": "Devicons.Stackoverflow.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/stackoverflow/stackoverflow-original.svg"
+    },
+    {
+        "name": "Devicons.Stackoverflow.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/stackoverflow/stackoverflow-line-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Stackoverflow.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/stackoverflow/stackoverflow-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Stackoverflow.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/stackoverflow/stackoverflow-line.svg"
+    }
+]

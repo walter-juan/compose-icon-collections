@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Devicons.Nodewebkit.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nodewebkit/nodewebkit-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Nodewebkit.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nodewebkit/nodewebkit-line.svg"
+    },
+    {
+        "name": "Devicons.Nodewebkit.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nodewebkit/nodewebkit-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Nodewebkit.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nodewebkit/nodewebkit-line-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Nodewebkit.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nodewebkit/nodewebkit-original.svg"
+    },
+    {
+        "name": "Devicons.Nodewebkit.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nodewebkit/nodewebkit-plain.svg"
+    }
+]

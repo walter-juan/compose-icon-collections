@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Devicons.Composer.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/composer/composer-original.svg"
+    },
+    {
+        "name": "Devicons.Composer.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/composer/composer-line-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Composer.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/composer/composer-line.svg"
+    }
+]

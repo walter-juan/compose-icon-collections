@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Devicons.Ember.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/ember/ember-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Ember.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/ember/ember-plain.svg"
+    },
+    {
+        "name": "Devicons.Ember.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/ember/ember-original.svg"
+    }
+]

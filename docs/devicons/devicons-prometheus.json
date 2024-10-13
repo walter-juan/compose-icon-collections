@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Devicons.Prometheus.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/prometheus/prometheus-line.svg"
+    },
+    {
+        "name": "Devicons.Prometheus.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/prometheus/prometheus-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Prometheus.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/prometheus/prometheus-line-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Prometheus.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/prometheus/prometheus-original.svg"
+    },
+    {
+        "name": "Devicons.Prometheus.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/prometheus/prometheus-original-wordmark.svg"
+    }
+]

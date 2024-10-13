@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Ballerina.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/ballerina/ballerina-line.svg"
+    },
+    {
+        "name": "Devicons.Ballerina.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/ballerina/ballerina-line-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Ballerina.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/ballerina/ballerina-original.svg"
+    },
+    {
+        "name": "Devicons.Ballerina.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/ballerina/ballerina-original-wordmark.svg"
+    }
+]

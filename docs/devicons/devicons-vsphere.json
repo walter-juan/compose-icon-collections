@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Devicons.Vsphere.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/vsphere/vsphere-line-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Vsphere.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/vsphere/vsphere-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Vsphere.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/vsphere/vsphere-plain.svg"
+    },
+    {
+        "name": "Devicons.Vsphere.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/vsphere/vsphere-line.svg"
+    },
+    {
+        "name": "Devicons.Vsphere.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/vsphere/vsphere-original.svg"
+    },
+    {
+        "name": "Devicons.Vsphere.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/vsphere/vsphere-original-wordmark.svg"
+    }
+]

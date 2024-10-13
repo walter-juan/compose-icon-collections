@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Opencv.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/opencv/opencv-original.svg"
+    },
+    {
+        "name": "Devicons.Opencv.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/opencv/opencv-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Opencv.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/opencv/opencv-plain.svg"
+    },
+    {
+        "name": "Devicons.Opencv.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/opencv/opencv-plain-wordmark.svg"
+    }
+]

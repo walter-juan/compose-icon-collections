@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Devicons.Confluence.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/confluence/confluence-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Confluence.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/confluence/confluence-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Confluence.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/confluence/confluence-plain.svg"
+    },
+    {
+        "name": "Devicons.Confluence.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/confluence/confluence-line.svg"
+    },
+    {
+        "name": "Devicons.Confluence.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/confluence/confluence-line-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Confluence.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/confluence/confluence-original.svg"
+    }
+]

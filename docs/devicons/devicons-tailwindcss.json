@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Devicons.Tailwindcss.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/tailwindcss/tailwindcss-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Tailwindcss.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/tailwindcss/tailwindcss-original.svg"
+    },
+    {
+        "name": "Devicons.Tailwindcss.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/tailwindcss/tailwindcss-original-wordmark.svg"
+    }
+]

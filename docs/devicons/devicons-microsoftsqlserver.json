@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Devicons.Microsoftsqlserver.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
+    },
+    {
+        "name": "Devicons.Microsoftsqlserver.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-line.svg"
+    },
+    {
+        "name": "Devicons.Microsoftsqlserver.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-line-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Microsoftsqlserver.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
+    },
+    {
+        "name": "Devicons.Microsoftsqlserver.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Microsoftsqlserver.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Devicons.Harvester.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/harvester/harvester-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Harvester.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/harvester/harvester-original.svg"
+    },
+    {
+        "name": "Devicons.Harvester.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/harvester/harvester-original-wordmark.svg"
+    }
+]

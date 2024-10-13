@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Devicons.Consul.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/consul/consul-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Consul.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/consul/consul-original.svg"
+    },
+    {
+        "name": "Devicons.Consul.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/consul/consul-plain-wordmark.svg"
+    }
+]

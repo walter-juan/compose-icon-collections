@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Devicons.Pandas.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/pandas/pandas-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Pandas.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/pandas/pandas-original.svg"
+    },
+    {
+        "name": "Devicons.Pandas.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/pandas/pandas-line-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Pandas.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/pandas/pandas-line.svg"
+    },
+    {
+        "name": "Devicons.Pandas.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/pandas/pandas-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Pandas.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/pandas/pandas-plain.svg"
+    }
+]

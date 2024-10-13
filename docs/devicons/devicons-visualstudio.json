@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Devicons.Visualstudio.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/visualstudio/visualstudio-line.svg"
+    },
+    {
+        "name": "Devicons.Visualstudio.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/visualstudio/visualstudio-plain.svg"
+    },
+    {
+        "name": "Devicons.Visualstudio.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/visualstudio/visualstudio-line-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Visualstudio.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/visualstudio/visualstudio-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Visualstudio.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/visualstudio/visualstudio-original.svg"
+    },
+    {
+        "name": "Devicons.Visualstudio.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/visualstudio/visualstudio-plain-wordmark.svg"
+    }
+]

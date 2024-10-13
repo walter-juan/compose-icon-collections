@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Postgresql.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/postgresql/postgresql-original.svg"
+    },
+    {
+        "name": "Devicons.Postgresql.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/postgresql/postgresql-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Postgresql.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/postgresql/postgresql-plain.svg"
+    },
+    {
+        "name": "Devicons.Postgresql.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/postgresql/postgresql-plain-wordmark.svg"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Devicons.Zig.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/zig/zig-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Zig.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/zig/zig-original.svg"
+    },
+    {
+        "name": "Devicons.Zig.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/zig/zig-plain-wordmark.svg"
+    }
+]

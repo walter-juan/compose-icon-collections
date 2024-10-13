@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Devicons.Nodejs.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nodejs/nodejs-line-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Nodejs.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nodejs/nodejs-line.svg"
+    },
+    {
+        "name": "Devicons.Nodejs.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nodejs/nodejs-plain.svg"
+    },
+    {
+        "name": "Devicons.Nodejs.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nodejs/nodejs-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Nodejs.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nodejs/nodejs-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Nodejs.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nodejs/nodejs-original.svg"
+    }
+]

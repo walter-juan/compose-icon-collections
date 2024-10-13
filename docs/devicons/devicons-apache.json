@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Devicons.Apache.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/apache/apache-original.svg"
+    },
+    {
+        "name": "Devicons.Apache.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/apache/apache-plain.svg"
+    },
+    {
+        "name": "Devicons.Apache.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/apache/apache-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Apache.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/apache/apache-line-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Apache.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/apache/apache-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Apache.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/apache/apache-line.svg"
+    }
+]

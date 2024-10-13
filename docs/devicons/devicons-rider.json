@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Rider.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/rider/rider-plain.svg"
+    },
+    {
+        "name": "Devicons.Rider.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/rider/rider-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Rider.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/rider/rider-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Rider.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/rider/rider-original.svg"
+    }
+]

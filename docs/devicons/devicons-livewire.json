@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Livewire.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/livewire/livewire-original.svg"
+    },
+    {
+        "name": "Devicons.Livewire.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/livewire/livewire-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Livewire.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/livewire/livewire-plain.svg"
+    },
+    {
+        "name": "Devicons.Livewire.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/livewire/livewire-original-wordmark.svg"
+    }
+]

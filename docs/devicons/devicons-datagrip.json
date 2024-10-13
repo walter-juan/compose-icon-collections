@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Devicons.Datagrip.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/datagrip/datagrip-original.svg"
+    },
+    {
+        "name": "Devicons.Datagrip.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/datagrip/datagrip-plain.svg"
+    },
+    {
+        "name": "Devicons.Datagrip.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/datagrip/datagrip-plain-wordmark.svg"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Neo4j.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/neo4j/neo4j-plain.svg"
+    },
+    {
+        "name": "Devicons.Neo4j.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/neo4j/neo4j-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Neo4j.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/neo4j/neo4j-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Neo4j.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/neo4j/neo4j-original.svg"
+    }
+]

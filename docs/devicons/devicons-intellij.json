@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Devicons.Intellij.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/intellij/intellij-plain.svg"
+    },
+    {
+        "name": "Devicons.Intellij.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/intellij/intellij-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Intellij.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/intellij/intellij-original.svg"
+    }
+]

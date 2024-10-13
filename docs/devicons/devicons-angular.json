@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Angular.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/angular/angular-original.svg"
+    },
+    {
+        "name": "Devicons.Angular.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/angular/angular-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Angular.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/angular/angular-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Angular.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/angular/angular-plain.svg"
+    }
+]

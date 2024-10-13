@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Devicons.Ssh.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/ssh/ssh-original.svg"
+    },
+    {
+        "name": "Devicons.Ssh.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/ssh/ssh-original-wordmark.svg"
+    }
+]

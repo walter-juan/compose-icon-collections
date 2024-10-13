@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Kibana.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/kibana/kibana-original.svg"
+    },
+    {
+        "name": "Devicons.Kibana.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/kibana/kibana-plain.svg"
+    },
+    {
+        "name": "Devicons.Kibana.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/kibana/kibana-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Kibana.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/kibana/kibana-plain-wordmark.svg"
+    }
+]

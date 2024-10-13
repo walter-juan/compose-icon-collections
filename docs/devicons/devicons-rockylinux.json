@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Devicons.Rockylinux.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/rockylinux/rockylinux-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Rockylinux.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/rockylinux/rockylinux-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Rockylinux.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/rockylinux/rockylinux-original.svg"
+    }
+]

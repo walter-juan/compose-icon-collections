@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Devicons.Nim.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nim/nim-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Nim.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nim/nim-line-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Nim.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nim/nim-plain.svg"
+    },
+    {
+        "name": "Devicons.Nim.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nim/nim-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Nim.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nim/nim-original.svg"
+    },
+    {
+        "name": "Devicons.Nim.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nim/nim-line.svg"
+    }
+]

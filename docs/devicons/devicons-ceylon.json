@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Ceylon.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/ceylon/ceylon-original.svg"
+    },
+    {
+        "name": "Devicons.Ceylon.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/ceylon/ceylon-plain.svg"
+    },
+    {
+        "name": "Devicons.Ceylon.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/ceylon/ceylon-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Ceylon.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/ceylon/ceylon-plain-wordmark.svg"
+    }
+]

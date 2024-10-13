@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Devicons.Scalingo.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/scalingo/scalingo-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Scalingo.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/scalingo/scalingo-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Scalingo.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/scalingo/scalingo-plain.svg"
+    },
+    {
+        "name": "Devicons.Scalingo.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/scalingo/scalingo-original.svg"
+    },
+    {
+        "name": "Devicons.Scalingo.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/scalingo/scalingo-line.svg"
+    },
+    {
+        "name": "Devicons.Scalingo.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/scalingo/scalingo-line-wordmark.svg"
+    }
+]

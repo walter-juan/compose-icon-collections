@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Devicons.Phpstorm.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/phpstorm/phpstorm-plain.svg"
+    },
+    {
+        "name": "Devicons.Phpstorm.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/phpstorm/phpstorm-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Phpstorm.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/phpstorm/phpstorm-original.svg"
+    }
+]

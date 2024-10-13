@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Pnpm.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/pnpm/pnpm-plain.svg"
+    },
+    {
+        "name": "Devicons.Pnpm.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/pnpm/pnpm-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Pnpm.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/pnpm/pnpm-original.svg"
+    },
+    {
+        "name": "Devicons.Pnpm.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/pnpm/pnpm-original-wordmark.svg"
+    }
+]

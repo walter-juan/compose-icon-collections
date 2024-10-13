@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Centos.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/centos/centos-plain.svg"
+    },
+    {
+        "name": "Devicons.Centos.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/centos/centos-original.svg"
+    },
+    {
+        "name": "Devicons.Centos.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/centos/centos-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Centos.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/centos/centos-plain-wordmark.svg"
+    }
+]

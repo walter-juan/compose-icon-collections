@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Devicons.Vitest.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/vitest/vitest-original.svg"
+    },
+    {
+        "name": "Devicons.Vitest.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/vitest/vitest-plain.svg"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Devicons.Xcode.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/xcode/xcode-original.svg"
+    },
+    {
+        "name": "Devicons.Xcode.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/xcode/xcode-plain.svg"
+    }
+]

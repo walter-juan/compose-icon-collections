@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Svelte.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/svelte/svelte-plain.svg"
+    },
+    {
+        "name": "Devicons.Svelte.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/svelte/svelte-original.svg"
+    },
+    {
+        "name": "Devicons.Svelte.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/svelte/svelte-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Svelte.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/svelte/svelte-original-wordmark.svg"
+    }
+]

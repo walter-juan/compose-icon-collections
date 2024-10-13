@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Couchdb.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/couchdb/couchdb-original.svg"
+    },
+    {
+        "name": "Devicons.Couchdb.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/couchdb/couchdb-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Couchdb.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/couchdb/couchdb-plain.svg"
+    },
+    {
+        "name": "Devicons.Couchdb.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/couchdb/couchdb-plain-wordmark.svg"
+    }
+]

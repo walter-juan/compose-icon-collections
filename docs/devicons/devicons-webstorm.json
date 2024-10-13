@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Webstorm.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/webstorm/webstorm-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Webstorm.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/webstorm/webstorm-plain.svg"
+    },
+    {
+        "name": "Devicons.Webstorm.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/webstorm/webstorm-original.svg"
+    },
+    {
+        "name": "Devicons.Webstorm.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/webstorm/webstorm-original-wordmark.svg"
+    }
+]

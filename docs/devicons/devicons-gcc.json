@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Devicons.Gcc.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/gcc/gcc-original.svg"
+    },
+    {
+        "name": "Devicons.Gcc.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/gcc/gcc-line.svg"
+    },
+    {
+        "name": "Devicons.Gcc.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/gcc/gcc-plain.svg"
+    }
+]

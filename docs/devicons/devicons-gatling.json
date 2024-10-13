@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Devicons.Gatling.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/gatling/gatling-original.svg"
+    },
+    {
+        "name": "Devicons.Gatling.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/gatling/gatling-line-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Gatling.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/gatling/gatling-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Gatling.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/gatling/gatling-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Gatling.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/gatling/gatling-line.svg"
+    }
+]

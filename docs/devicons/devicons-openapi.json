@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Devicons.Openapi.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/openapi/openapi-line.svg"
+    },
+    {
+        "name": "Devicons.Openapi.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/openapi/openapi-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Openapi.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/openapi/openapi-line-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Openapi.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/openapi/openapi-original.svg"
+    },
+    {
+        "name": "Devicons.Openapi.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/openapi/openapi-plain.svg"
+    },
+    {
+        "name": "Devicons.Openapi.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/openapi/openapi-plain-wordmark.svg"
+    }
+]

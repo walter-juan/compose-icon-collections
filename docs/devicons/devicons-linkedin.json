@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Linkedin.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/linkedin/linkedin-plain.svg"
+    },
+    {
+        "name": "Devicons.Linkedin.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/linkedin/linkedin-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Linkedin.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/linkedin/linkedin-original.svg"
+    },
+    {
+        "name": "Devicons.Linkedin.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/linkedin/linkedin-plain-wordmark.svg"
+    }
+]

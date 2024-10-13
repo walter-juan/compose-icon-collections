@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Devicons.Eslint.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/eslint/eslint-line-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Eslint.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/eslint/eslint-original.svg"
+    },
+    {
+        "name": "Devicons.Eslint.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/eslint/eslint-plain.svg"
+    },
+    {
+        "name": "Devicons.Eslint.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/eslint/eslint-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Eslint.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/eslint/eslint-line.svg"
+    },
+    {
+        "name": "Devicons.Eslint.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/eslint/eslint-original-wordmark.svg"
+    }
+]

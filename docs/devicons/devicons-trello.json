@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Devicons.Trello.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/trello/trello-line-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Trello.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/trello/trello-plain.svg"
+    },
+    {
+        "name": "Devicons.Trello.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/trello/trello-original.svg"
+    },
+    {
+        "name": "Devicons.Trello.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/trello/trello-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Trello.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/trello/trello-line.svg"
+    },
+    {
+        "name": "Devicons.Trello.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/trello/trello-plain-wordmark.svg"
+    }
+]

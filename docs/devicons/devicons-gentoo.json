@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Devicons.Gentoo.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/gentoo/gentoo-original.svg"
+    },
+    {
+        "name": "Devicons.Gentoo.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/gentoo/gentoo-plain.svg"
+    },
+    {
+        "name": "Devicons.Gentoo.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/gentoo/gentoo-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Gentoo.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/gentoo/gentoo-line-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Gentoo.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/gentoo/gentoo-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Gentoo.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/gentoo/gentoo-line.svg"
+    }
+]

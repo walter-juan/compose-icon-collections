@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Devicons.Purescript.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/purescript/purescript-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Purescript.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/purescript/purescript-original.svg"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Devicons.Atom.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/atom/atom-original.svg"
+    },
+    {
+        "name": "Devicons.Atom.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/atom/atom-original-wordmark.svg"
+    }
+]

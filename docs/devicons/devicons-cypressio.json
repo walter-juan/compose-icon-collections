@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Devicons.Cypressio.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/cypressio/cypressio-original.svg"
+    },
+    {
+        "name": "Devicons.Cypressio.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/cypressio/cypressio-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Cypressio.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/cypressio/cypressio-line.svg"
+    },
+    {
+        "name": "Devicons.Cypressio.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/cypressio/cypressio-plain.svg"
+    },
+    {
+        "name": "Devicons.Cypressio.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/cypressio/cypressio-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Cypressio.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/cypressio/cypressio-line-wordmark.svg"
+    }
+]

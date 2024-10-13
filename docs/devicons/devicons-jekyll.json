@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Jekyll.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/jekyll/jekyll-original.svg"
+    },
+    {
+        "name": "Devicons.Jekyll.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/jekyll/jekyll-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Jekyll.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/jekyll/jekyll-plain.svg"
+    },
+    {
+        "name": "Devicons.Jekyll.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/jekyll/jekyll-plain-wordmark.svg"
+    }
+]

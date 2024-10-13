@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Devicons.Bower.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/bower/bower-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Bower.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/bower/bower-plain.svg"
+    },
+    {
+        "name": "Devicons.Bower.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/bower/bower-original.svg"
+    },
+    {
+        "name": "Devicons.Bower.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/bower/bower-line.svg"
+    },
+    {
+        "name": "Devicons.Bower.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/bower/bower-line-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Bower.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/bower/bower-original-wordmark.svg"
+    }
+]

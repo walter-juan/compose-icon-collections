@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Devicons.Grunt.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/grunt/grunt-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Grunt.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/grunt/grunt-line.svg"
+    },
+    {
+        "name": "Devicons.Grunt.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/grunt/grunt-original.svg"
+    },
+    {
+        "name": "Devicons.Grunt.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/grunt/grunt-plain.svg"
+    },
+    {
+        "name": "Devicons.Grunt.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/grunt/grunt-line-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Grunt.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/grunt/grunt-original-wordmark.svg"
+    }
+]

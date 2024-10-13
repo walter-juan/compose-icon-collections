@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Devicons.Junit.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/junit/junit-original.svg"
+    },
+    {
+        "name": "Devicons.Junit.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/junit/junit-line.svg"
+    },
+    {
+        "name": "Devicons.Junit.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/junit/junit-line-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Junit.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/junit/junit-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Junit.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/junit/junit-plain.svg"
+    },
+    {
+        "name": "Devicons.Junit.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/junit/junit-original-wordmark.svg"
+    }
+]

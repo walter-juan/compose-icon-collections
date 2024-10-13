@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Devicons.Nextjs.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nextjs/nextjs-original.svg"
+    },
+    {
+        "name": "Devicons.Nextjs.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nextjs/nextjs-plain.svg"
+    },
+    {
+        "name": "Devicons.Nextjs.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nextjs/nextjs-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Nextjs.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nextjs/nextjs-line.svg"
+    },
+    {
+        "name": "Devicons.Nextjs.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nextjs/nextjs-line-wordmark.svg"
+    }
+]

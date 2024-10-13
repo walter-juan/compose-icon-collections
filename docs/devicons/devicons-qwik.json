@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Qwik.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/qwik/qwik-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Qwik.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/qwik/qwik-plain.svg"
+    },
+    {
+        "name": "Devicons.Qwik.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/qwik/qwik-original.svg"
+    },
+    {
+        "name": "Devicons.Qwik.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/qwik/qwik-original-wordmark.svg"
+    }
+]

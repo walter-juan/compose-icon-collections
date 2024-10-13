@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Devicons.Keras.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/keras/keras-line.svg"
+    },
+    {
+        "name": "Devicons.Keras.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/keras/keras-line-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Keras.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/keras/keras-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Keras.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/keras/keras-original.svg"
+    },
+    {
+        "name": "Devicons.Keras.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/keras/keras-plain.svg"
+    },
+    {
+        "name": "Devicons.Keras.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/keras/keras-plain-wordmark.svg"
+    }
+]

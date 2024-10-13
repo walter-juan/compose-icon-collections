@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Gitlab.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/gitlab/gitlab-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Gitlab.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/gitlab/gitlab-original.svg"
+    },
+    {
+        "name": "Devicons.Gitlab.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/gitlab/gitlab-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Gitlab.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/gitlab/gitlab-plain.svg"
+    }
+]

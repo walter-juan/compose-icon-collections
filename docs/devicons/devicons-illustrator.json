@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Devicons.Illustrator.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/illustrator/illustrator-plain.svg"
+    },
+    {
+        "name": "Devicons.Illustrator.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/illustrator/illustrator-line.svg"
+    }
+]

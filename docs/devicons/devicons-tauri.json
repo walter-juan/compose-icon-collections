@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Tauri.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/tauri/tauri-original.svg"
+    },
+    {
+        "name": "Devicons.Tauri.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/tauri/tauri-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Tauri.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/tauri/tauri-plain.svg"
+    },
+    {
+        "name": "Devicons.Tauri.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/tauri/tauri-original-wordmark.svg"
+    }
+]

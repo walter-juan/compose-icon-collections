@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Jupyter.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/jupyter/jupyter-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Jupyter.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/jupyter/jupyter-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Jupyter.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/jupyter/jupyter-original.svg"
+    },
+    {
+        "name": "Devicons.Jupyter.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/jupyter/jupyter-plain.svg"
+    }
+]

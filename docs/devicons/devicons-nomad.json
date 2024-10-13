@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Devicons.Nomad.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nomad/nomad-original.svg"
+    },
+    {
+        "name": "Devicons.Nomad.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nomad/nomad-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Nomad.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nomad/nomad-plain-wordmark.svg"
+    }
+]

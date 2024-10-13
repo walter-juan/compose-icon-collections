@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Rubymine.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/rubymine/rubymine-plain.svg"
+    },
+    {
+        "name": "Devicons.Rubymine.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/rubymine/rubymine-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Rubymine.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/rubymine/rubymine-original.svg"
+    },
+    {
+        "name": "Devicons.Rubymine.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/rubymine/rubymine-plain-wordmark.svg"
+    }
+]

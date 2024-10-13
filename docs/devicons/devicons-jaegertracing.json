@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Jaegertracing.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/jaegertracing/jaegertracing-plain.svg"
+    },
+    {
+        "name": "Devicons.Jaegertracing.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/jaegertracing/jaegertracing-original.svg"
+    },
+    {
+        "name": "Devicons.Jaegertracing.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/jaegertracing/jaegertracing-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Jaegertracing.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/jaegertracing/jaegertracing-plain-wordmark.svg"
+    }
+]

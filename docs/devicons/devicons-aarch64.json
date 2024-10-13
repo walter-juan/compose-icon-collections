@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Devicons.Aarch64.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/aarch64/aarch64-plain.svg"
+    },
+    {
+        "name": "Devicons.Aarch64.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/aarch64/aarch64-original.svg"
+    },
+    {
+        "name": "Devicons.Aarch64.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/aarch64/aarch64-line.svg"
+    }
+]

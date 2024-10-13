@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Devicons.Adonisjs.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/adonisjs/adonisjs-original.svg"
+    },
+    {
+        "name": "Devicons.Adonisjs.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/adonisjs/adonisjs-original-wordmark.svg"
+    }
+]

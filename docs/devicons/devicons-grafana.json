@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Devicons.Grafana.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/grafana/grafana-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Grafana.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/grafana/grafana-plain.svg"
+    },
+    {
+        "name": "Devicons.Grafana.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/grafana/grafana-line-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Grafana.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/grafana/grafana-original.svg"
+    },
+    {
+        "name": "Devicons.Grafana.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/grafana/grafana-line.svg"
+    },
+    {
+        "name": "Devicons.Grafana.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/grafana/grafana-plain-wordmark.svg"
+    }
+]

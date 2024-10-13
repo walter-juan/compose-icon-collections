@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Devicons.Packer.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/packer/packer-plain.svg"
+    },
+    {
+        "name": "Devicons.Packer.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/packer/packer-original.svg"
+    },
+    {
+        "name": "Devicons.Packer.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/packer/packer-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Packer.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/packer/packer-line.svg"
+    },
+    {
+        "name": "Devicons.Packer.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/packer/packer-line-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Packer.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/packer/packer-plain-wordmark.svg"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Devicons.Notion.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/notion/notion-plain.svg"
+    },
+    {
+        "name": "Devicons.Notion.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/notion/notion-line.svg"
+    },
+    {
+        "name": "Devicons.Notion.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/notion/notion-original.svg"
+    }
+]

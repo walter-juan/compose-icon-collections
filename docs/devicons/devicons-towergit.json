@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Towergit.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/towergit/towergit-original.svg"
+    },
+    {
+        "name": "Devicons.Towergit.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/towergit/towergit-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Towergit.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/towergit/towergit-plain.svg"
+    },
+    {
+        "name": "Devicons.Towergit.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/towergit/towergit-original-wordmark.svg"
+    }
+]

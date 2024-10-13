@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Devicons.Knexjs.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/knexjs/knexjs-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Knexjs.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/knexjs/knexjs-original.svg"
+    },
+    {
+        "name": "Devicons.Knexjs.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/knexjs/knexjs-original-wordmark.svg"
+    }
+]

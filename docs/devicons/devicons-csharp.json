@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Devicons.Csharp.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/csharp/csharp-plain.svg"
+    },
+    {
+        "name": "Devicons.Csharp.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/csharp/csharp-original.svg"
+    },
+    {
+        "name": "Devicons.Csharp.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/csharp/csharp-line.svg"
+    }
+]

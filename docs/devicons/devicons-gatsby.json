@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Devicons.Gatsby.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/gatsby/gatsby-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Gatsby.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/gatsby/gatsby-original.svg"
+    },
+    {
+        "name": "Devicons.Gatsby.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/gatsby/gatsby-plain-wordmark.svg"
+    }
+]

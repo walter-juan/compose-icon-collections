@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Devicons.Replit.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/replit/replit-original.svg"
+    },
+    {
+        "name": "Devicons.Replit.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/replit/replit-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Replit.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/replit/replit-original-wordmark.svg"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Devicons.Ohmyzsh.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/ohmyzsh/ohmyzsh-plain.svg"
+    },
+    {
+        "name": "Devicons.Ohmyzsh.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/ohmyzsh/ohmyzsh-original.svg"
+    }
+]

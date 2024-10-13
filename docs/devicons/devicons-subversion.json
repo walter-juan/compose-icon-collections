@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Devicons.Subversion.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/subversion/subversion-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Subversion.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/subversion/subversion-original.svg"
+    },
+    {
+        "name": "Devicons.Subversion.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/subversion/subversion-original-wordmark.svg"
+    }
+]

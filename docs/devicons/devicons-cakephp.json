@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Cakephp.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/cakephp/cakephp-original.svg"
+    },
+    {
+        "name": "Devicons.Cakephp.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/cakephp/cakephp-plain.svg"
+    },
+    {
+        "name": "Devicons.Cakephp.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/cakephp/cakephp-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Cakephp.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/cakephp/cakephp-original-wordmark.svg"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Akka.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/akka/akka-plain.svg"
+    },
+    {
+        "name": "Devicons.Akka.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/akka/akka-original.svg"
+    },
+    {
+        "name": "Devicons.Akka.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/akka/akka-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Akka.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/akka/akka-original-wordmark.svg"
+    }
+]

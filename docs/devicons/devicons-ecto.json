@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Devicons.Ecto.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/ecto/ecto-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Ecto.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/ecto/ecto-original.svg"
+    },
+    {
+        "name": "Devicons.Ecto.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/ecto/ecto-plain-wordmark.svg"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.DotNet.DotNetOriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/dot-net/dot-net-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.DotNet.DotNetPlain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/dot-net/dot-net-plain.svg"
+    },
+    {
+        "name": "Devicons.DotNet.DotNetPlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/dot-net/dot-net-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.DotNet.DotNetOriginal",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/dot-net/dot-net-original.svg"
+    }
+]

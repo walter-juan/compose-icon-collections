@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Heroku.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/heroku/heroku-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Heroku.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/heroku/heroku-original.svg"
+    },
+    {
+        "name": "Devicons.Heroku.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/heroku/heroku-plain.svg"
+    },
+    {
+        "name": "Devicons.Heroku.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/heroku/heroku-plain-wordmark.svg"
+    }
+]

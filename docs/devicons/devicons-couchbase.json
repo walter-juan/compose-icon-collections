@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Devicons.Couchbase.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/couchbase/couchbase-original.svg"
+    },
+    {
+        "name": "Devicons.Couchbase.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/couchbase/couchbase-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Couchbase.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/couchbase/couchbase-plain-wordmark.svg"
+    }
+]

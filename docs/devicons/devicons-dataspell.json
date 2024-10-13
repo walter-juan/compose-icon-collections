@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Dataspell.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/dataspell/dataspell-original.svg"
+    },
+    {
+        "name": "Devicons.Dataspell.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/dataspell/dataspell-plain.svg"
+    },
+    {
+        "name": "Devicons.Dataspell.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/dataspell/dataspell-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Dataspell.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/dataspell/dataspell-plain-wordmark.svg"
+    }
+]

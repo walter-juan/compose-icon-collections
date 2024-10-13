@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Devicons.Bun.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/bun/bun-plain.svg"
+    },
+    {
+        "name": "Devicons.Bun.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/bun/bun-original.svg"
+    },
+    {
+        "name": "Devicons.Bun.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/bun/bun-line.svg"
+    }
+]

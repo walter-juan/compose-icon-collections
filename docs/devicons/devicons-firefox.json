@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Firefox.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/firefox/firefox-original.svg"
+    },
+    {
+        "name": "Devicons.Firefox.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/firefox/firefox-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Firefox.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/firefox/firefox-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Firefox.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/firefox/firefox-plain.svg"
+    }
+]

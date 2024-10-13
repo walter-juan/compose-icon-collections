@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Nuxtjs.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nuxtjs/nuxtjs-original.svg"
+    },
+    {
+        "name": "Devicons.Nuxtjs.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nuxtjs/nuxtjs-plain.svg"
+    },
+    {
+        "name": "Devicons.Nuxtjs.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nuxtjs/nuxtjs-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Nuxtjs.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nuxtjs/nuxtjs-original-wordmark.svg"
+    }
+]

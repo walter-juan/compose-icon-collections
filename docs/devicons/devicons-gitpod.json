@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Gitpod.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/gitpod/gitpod-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Gitpod.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/gitpod/gitpod-original.svg"
+    },
+    {
+        "name": "Devicons.Gitpod.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/gitpod/gitpod-plain.svg"
+    },
+    {
+        "name": "Devicons.Gitpod.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/gitpod/gitpod-plain-wordmark.svg"
+    }
+]

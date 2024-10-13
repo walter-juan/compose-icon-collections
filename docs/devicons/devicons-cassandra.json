@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Cassandra.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/cassandra/cassandra-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Cassandra.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/cassandra/cassandra-plain.svg"
+    },
+    {
+        "name": "Devicons.Cassandra.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/cassandra/cassandra-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Cassandra.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/cassandra/cassandra-original.svg"
+    }
+]

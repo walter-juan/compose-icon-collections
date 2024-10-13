@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Devicons.Jenkins.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/jenkins/jenkins-line.svg"
+    },
+    {
+        "name": "Devicons.Jenkins.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/jenkins/jenkins-original.svg"
+    },
+    {
+        "name": "Devicons.Jenkins.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/jenkins/jenkins-plain.svg"
+    }
+]

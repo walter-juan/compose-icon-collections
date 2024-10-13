@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Devicons.Threejs.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/threejs/threejs-original.svg"
+    },
+    {
+        "name": "Devicons.Threejs.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/threejs/threejs-original-wordmark.svg"
+    }
+]

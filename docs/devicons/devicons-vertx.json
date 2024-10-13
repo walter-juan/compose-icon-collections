@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Devicons.Vertx.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/vertx/vertx-plain.svg"
+    },
+    {
+        "name": "Devicons.Vertx.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/vertx/vertx-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Vertx.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/vertx/vertx-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Vertx.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/vertx/vertx-line-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Vertx.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/vertx/vertx-line.svg"
+    },
+    {
+        "name": "Devicons.Vertx.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/vertx/vertx-original.svg"
+    }
+]

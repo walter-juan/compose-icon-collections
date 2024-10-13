@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Pypi.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/pypi/pypi-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Pypi.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/pypi/pypi-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Pypi.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/pypi/pypi-original.svg"
+    },
+    {
+        "name": "Devicons.Pypi.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/pypi/pypi-plain.svg"
+    }
+]

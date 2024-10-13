@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Devicons.K3os.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/k3os/k3os-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.K3os.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/k3os/k3os-original.svg"
+    },
+    {
+        "name": "Devicons.K3os.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/k3os/k3os-plain-wordmark.svg"
+    },
+    {
+        "name": "Devicons.K3os.Line",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/k3os/k3os-line.svg"
+    },
+    {
+        "name": "Devicons.K3os.LineWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/k3os/k3os-line-wordmark.svg"
+    }
+]

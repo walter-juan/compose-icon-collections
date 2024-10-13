@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Devicons.Clarity.Plain",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/clarity/clarity-plain.svg"
+    },
+    {
+        "name": "Devicons.Clarity.OriginalWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/clarity/clarity-original-wordmark.svg"
+    },
+    {
+        "name": "Devicons.Clarity.Original",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/clarity/clarity-original.svg"
+    },
+    {
+        "name": "Devicons.Clarity.PlainWordmark",
+        "svg": "https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/clarity/clarity-plain-wordmark.svg"
+    }
+]
