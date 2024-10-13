@@ -1,0 +1,3258 @@
+[
+    {
+        "name": "Boxicons.Regular.BxBrain",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-brain.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxNetworkChart",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-network-chart.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxDoughnutChart",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-doughnut-chart.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxChevronUp",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-chevron-up.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxText",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-text.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxHome",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-home.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCalendarMinus",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-calendar-minus.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMouse",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-mouse.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxSupport",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-support.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxSearchAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-search-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBellPlus",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-bell-plus.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxTennisBall",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-tennis-ball.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxShow",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-show.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxAlarmOff",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-alarm-off.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxQrScan",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-qr-scan.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxParty",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-party.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxChild",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-child.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBriefcase",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-briefcase.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCheckShield",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-check-shield.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBookmark",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-bookmark.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCalendarExclamation",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-calendar-exclamation.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBarcode",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-barcode.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxPlusCircle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-plus-circle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxWindowAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-window-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxGlassesAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-glasses-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxSubdirectoryLeft",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-subdirectory-left.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBasketball",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-basketball.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBeer",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-beer.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxRedo",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-redo.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxTv",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-tv.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxGitRepoForked",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-git-repo-forked.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxTrain",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-train.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxLemon",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-lemon.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBone",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-bone.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxErrorCircle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-error-circle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMessageSquareDetail",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-message-square-detail.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxExit",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-exit.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxGridHorizontal",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-grid-horizontal.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxPound",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-pound.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxSpaceBar",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-space-bar.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxSwim",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-swim.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCamera",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-camera.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBus",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-bus.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCurrentLocation",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-current-location.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxPieChart",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-pie-chart.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxChevronsRight",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-chevrons-right.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBarChartSquare",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-bar-chart-square.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCollapse",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-collapse.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxLogOut",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-log-out.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxArrowFromTop",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-arrow-from-top.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBorderLeft",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-border-left.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxLoader",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-loader.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCodeCurly",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-code-curly.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxStreetView",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-street-view.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxNotification",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-notification.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxUpload",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-upload.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxPodcast",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-podcast.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBuildingHouse",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-building-house.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxNoSignal",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-no-signal.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxVideoPlus",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-video-plus.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxSpreadsheet",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-spreadsheet.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCaretLeftCircle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-caret-left-circle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxDockBottom",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-dock-bottom.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMale",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-male.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxImage",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-image.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxStore",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-store.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxListCheck",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-list-check.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCompass",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-compass.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCommentEdit",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-comment-edit.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMessageAltX",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-message-alt-x.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxChevronRight",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-chevron-right.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCookie",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-cookie.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxDisc",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-disc.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxSkipPrevious",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-skip-previous.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxFridge",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-fridge.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCalendarWeek",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-calendar-week.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBookBookmark",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-book-bookmark.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxExpandHorizontal",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-expand-horizontal.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxClinic",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-clinic.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxToggleRight",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-toggle-right.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxUserMinus",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-user-minus.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxStats",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-stats.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBulb",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-bulb.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxFilter",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-filter.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxHdd",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-hdd.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCloudRain",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-cloud-rain.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxStopCircle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-stop-circle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxPhotoAlbum",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-photo-album.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxRefresh",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-refresh.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxRadar",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-radar.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMinusCircle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-minus-circle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxDotsHorizontal",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-dots-horizontal.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxLinkAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-link-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMobileVibration",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-mobile-vibration.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBookAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-book-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxChip",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-chip.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxSortAZ",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-sort-a-z.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxExpand",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-expand.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMessageSquareMinus",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-message-square-minus.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxVerticalCenter",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-vertical-center.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxListPlus",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-list-plus.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCaretUpCircle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-caret-up-circle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCopy",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-copy.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCommentDetail",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-comment-detail.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCaptions",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-captions.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBookContent",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-book-content.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxSkipNext",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-skip-next.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMessageX",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-message-x.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCar",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-car.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxNotificationOff",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-notification-off.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxPlayCircle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-play-circle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxRewind",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-rewind.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCaretDownSquare",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-caret-down-square.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMessageRoundedMinus",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-message-rounded-minus.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxFullscreen",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-fullscreen.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxLayerPlus",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-layer-plus.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxLineChartDown",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-line-chart-down.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxTone",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-tone.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxAlarmExclamation",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-alarm-exclamation.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxSort",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-sort.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxShowAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-show-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxPaperPlane",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-paper-plane.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxAlarmSnooze",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-alarm-snooze.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxRotateLeft",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-rotate-left.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxSelectMultiple",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-select-multiple.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBarChartAlt2",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-bar-chart-alt-2.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxSearchAlt2",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-search-alt-2.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMessageSquareCheck",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-message-square-check.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxVerticalTop",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-vertical-top.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxHeadphone",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-headphone.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBible",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-bible.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxHappyBeaming",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-happy-beaming.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxLaugh",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-laugh.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxX",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-x.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxHappyAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-happy-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxTrip",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-trip.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxAlignLeft",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-align-left.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMessageRoundedCheck",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-message-rounded-check.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCartAdd",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-cart-add.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMessageAltCheck",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-message-alt-check.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMessageSquareError",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-message-square-error.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxListMinus",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-list-minus.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCuboid",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-cuboid.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCross",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-cross.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMobileAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-mobile-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxEraser",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-eraser.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMoon",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-moon.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCaretRightCircle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-caret-right-circle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxTimeFive",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-time-five.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCheckDouble",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-check-double.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxScreenshot",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-screenshot.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxData",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-data.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxChart",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-chart.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCheckboxMinus",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-checkbox-minus.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxRegistered",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-registered.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCalendarAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-calendar-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMessageAltDots",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-message-alt-dots.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMaleSign",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-male-sign.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxLoaderAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-loader-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBrush",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-brush.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxInfoSquare",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-info-square.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxExport",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-export.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxRss",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-rss.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCloudSnow",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-cloud-snow.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxPlusMedical",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-plus-medical.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxGlobeAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-globe-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxFileFind",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-file-find.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxChevronUpSquare",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-chevron-up-square.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBody",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-body.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxPencil",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-pencil.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCreditCardFront",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-credit-card-front.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxNotepad",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-notepad.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMessageRoundedDetail",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-message-rounded-detail.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxDice3",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-dice-3.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxWalk",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-walk.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxPhoneOff",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-phone-off.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxTaskX",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-task-x.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBraille",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-braille.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMessageAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-message-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxTargetLock",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-target-lock.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxArrowToRight",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-arrow-to-right.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxAccessibility",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-accessibility.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCaretUp",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-caret-up.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxInfinite",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-infinite.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxAlbum",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-album.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMeteor",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-meteor.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxDoorOpen",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-door-open.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxArrowFromRight",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-arrow-from-right.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCategoryAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-category-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBug",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-bug.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxAdjust",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-adjust.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCartDownload",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-cart-download.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBaseball",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-baseball.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxLocationPlus",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-location-plus.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxEnvelope",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-envelope.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxSquareRounded",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-square-rounded.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxZoomOut",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-zoom-out.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBuilding",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-building.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCalendarPlus",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-calendar-plus.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMemoryCard",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-memory-card.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxVector",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-vector.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxGame",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-game.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBrightness",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-brightness.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxAt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-at.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBookAdd",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-book-add.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxHomeCircle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-home-circle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxPen",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-pen.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBookmarkMinus",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-bookmark-minus.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxTrim",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-trim.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxLabel",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-label.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxLeftDownArrowCircle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-left-down-arrow-circle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxScan",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-scan.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMessageRoundedAdd",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-message-rounded-add.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxLink",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-link.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxTrafficCone",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-traffic-cone.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxRocket",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-rocket.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMouseAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-mouse-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxFilterAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-filter-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxShare",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-share.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxImages",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-images.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCodeAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-code-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxSignal3",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-signal-3.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxShoppingBag",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-shopping-bag.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCalendarCheck",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-calendar-check.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxKnife",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-knife.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxSignal2",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-signal-2.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxRestaurant",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-restaurant.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxWindows",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-windows.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxHomeAlt2",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-home-alt-2.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMessageAdd",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-message-add.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxHorizontalCenter",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-horizontal-center.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCaretLeft",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-caret-left.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxSpa",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-spa.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCoinStack",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-coin-stack.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxSlideshow",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-slideshow.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxHash",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-hash.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxTrophy",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-trophy.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxStation",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-station.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxRupee",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-rupee.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxReceipt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-receipt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxUserPin",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-user-pin.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxDevices",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-devices.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxStop",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-stop.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxPin",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-pin.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMessageEdit",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-message-edit.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxUnite",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-unite.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxConversation",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-conversation.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxPlanet",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-planet.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCloud",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-cloud.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxGlasses",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-glasses.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxServer",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-server.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxPhoneOutgoing",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-phone-outgoing.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMoneyWithdraw",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-money-withdraw.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCalendarStar",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-calendar-star.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxFoodTag",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-food-tag.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBed",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-bed.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMessageSquare",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-message-square.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCaretDownCircle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-caret-down-circle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxDownArrowAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-down-arrow-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCloset",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-closet.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxRadioCircle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-radio-circle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxDice4",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-dice-4.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxChevronDown",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-chevron-down.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCode",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-code.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCircleQuarter",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-circle-quarter.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBadgeCheck",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-badge-check.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxArrowBack",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-arrow-back.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxTab",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-tab.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCameraHome",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-camera-home.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCarousel",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-carousel.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxJoystick",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-joystick.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxPaste",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-paste.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxDiamond",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-diamond.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCloudDownload",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-cloud-download.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCollection",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-collection.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxShapeSquare",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-shape-square.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxChurch",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-church.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxTerminal",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-terminal.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxLockOpen",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-lock-open.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMath",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-math.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxTired",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-tired.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxSushi",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-sushi.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMedal",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-medal.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCheese",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-cheese.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBall",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-ball.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxTable",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-table.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxFolderMinus",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-folder-minus.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBarcodeReader",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-barcode-reader.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxUpArrow",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-up-arrow.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxSignal5",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-signal-5.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxChalkboard",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-chalkboard.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCreditCard",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-credit-card.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMessageRoundedDots",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-message-rounded-dots.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxClipboard",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-clipboard.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxShield",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-shield.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxSkipNextCircle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-skip-next-circle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxPurchaseTagAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-purchase-tag-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBong",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-bong.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMoviePlay",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-movie-play.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxReplyAll",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-reply-all.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCopyright",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-copyright.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxPieChartAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-pie-chart-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxRadioCircleMarked",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-radio-circle-marked.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxRename",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-rename.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxFolderPlus",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-folder-plus.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxGlobe",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-globe.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCapsule",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-capsule.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxDumbbell",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-dumbbell.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxArrowToLeft",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-arrow-to-left.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxTagAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-tag-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCut",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-cut.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxPackage",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-package.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxLayout",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-layout.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMobile",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-mobile.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxWinkSmile",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-wink-smile.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCube",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-cube.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCoffeeTogo",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-coffee-togo.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxObjectsVerticalCenter",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-objects-vertical-center.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxPolygon",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-polygon.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCrop",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-crop.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxRightIndent",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-right-indent.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxWind",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-wind.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxWindowClose",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-window-close.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBlock",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-block.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxRuler",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-ruler.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxHeart",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-heart.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCommentDots",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-comment-dots.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxLike",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-like.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxAngry",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-angry.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxStoreAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-store-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxFolder",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-folder.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxLockAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-lock-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxSignal4",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-signal-4.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCopyAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-copy-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxShieldQuarter",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-shield-quarter.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCameraMovie",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-camera-movie.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxArchiveOut",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-archive-out.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxExtension",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-extension.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxNavigation",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-navigation.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxRotateRight",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-rotate-right.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxShieldAlt2",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-shield-alt-2.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCodeBlock",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-code-block.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxSlider",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-slider.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMapAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-map-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMessageAltAdd",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-message-alt-add.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxTrashAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-trash-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxSubdirectoryRight",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-subdirectory-right.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxAlarmAdd",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-alarm-add.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBookmarkAltPlus",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-bookmark-alt-plus.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMessage",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-message.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBarChartAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-bar-chart-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxInjection",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-injection.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxUserX",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-user-x.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxHelpCircle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-help-circle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxHomeHeart",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-home-heart.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCommentX",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-comment-x.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxFace",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-face.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxPieChartAlt2",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-pie-chart-alt-2.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxExpandAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-expand-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxObjectsVerticalBottom",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-objects-vertical-bottom.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMehBlank",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-meh-blank.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxHappyHeartEyes",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-happy-heart-eyes.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxTestTube",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-test-tube.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxEdit",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-edit.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxWifi0",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-wifi-0.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCabinet",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-cabinet.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBot",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-bot.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxLowVision",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-low-vision.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxHive",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-hive.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxGasPump",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-gas-pump.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCategory",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-category.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBroadcast",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-broadcast.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxChevronLeftSquare",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-chevron-left-square.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxSortUp",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-sort-up.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxDuplicate",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-duplicate.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxGridSmall",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-grid-small.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxShapeTriangle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-shape-triangle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxUserCheck",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-user-check.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxAperture",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-aperture.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxSliderAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-slider-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMaleFemale",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-male-female.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxTask",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-task.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxObjectsHorizontalLeft",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-objects-horizontal-left.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxSleepy",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-sleepy.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxAbacus",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-abacus.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBusSchool",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-bus-school.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxZoomIn",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-zoom-in.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCoin",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-coin.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMoveHorizontal",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-move-horizontal.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBriefcaseAlt2",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-briefcase-alt-2.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxFirstAid",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-first-aid.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxExitFullscreen",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-exit-fullscreen.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBorderBottom",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-border-bottom.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCircleThreeQuarter",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-circle-three-quarter.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBeenHere",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-been-here.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxChevronsDown",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-chevrons-down.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxLandscape",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-landscape.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxDownvote",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-downvote.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxRepeat",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-repeat.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxLoaderCircle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-loader-circle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCrosshair",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-crosshair.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxRevision",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-revision.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxLayer",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-layer.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxLogIn",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-log-in.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxShekel",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-shekel.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMoveVertical",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-move-vertical.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCloudLightRain",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-cloud-light-rain.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBookHeart",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-book-heart.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxReflectVertical",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-reflect-vertical.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxRadio",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-radio.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMessageSquareEdit",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-message-square-edit.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxDockLeft",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-dock-left.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxStar",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-star.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxUser",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-user.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxFontColor",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-font-color.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxWorld",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-world.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMenuAltRight",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-menu-alt-right.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxRightTopArrowCircle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-right-top-arrow-circle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCalendarX",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-calendar-x.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMessageAltDetail",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-message-alt-detail.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxLeftIndent",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-left-indent.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBell",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-bell.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxAddToQueue",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-add-to-queue.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxDownArrowCircle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-down-arrow-circle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxUpArrowAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-up-arrow-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCalendar",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-calendar.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBorderOuter",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-border-outer.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxLockOpenAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-lock-open-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxChat",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-chat.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxGroup",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-group.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCollapseAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-collapse-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBookmarkHeart",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-bookmark-heart.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMessageRoundedX",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-message-rounded-x.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxUserPlus",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-user-plus.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxRightArrow",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-right-arrow.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxDice1",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-dice-1.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCctv",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-cctv.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBorderNone",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-border-none.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxReply",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-reply.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxTrendingUp",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-trending-up.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCommentMinus",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-comment-minus.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxDollarCircle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-dollar-circle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxGift",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-gift.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxPointer",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-pointer.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBrightnessHalf",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-brightness-half.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxPhoneIncoming",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-phone-incoming.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBookOpen",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-book-open.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxFont",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-font.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxHandicap",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-handicap.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxDislike",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-dislike.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCast",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-cast.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxReflectHorizontal",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-reflect-horizontal.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMenuAltLeft",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-menu-alt-left.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxHourglass",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-hourglass.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxChevronLeft",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-chevron-left.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxTrendingDown",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-trending-down.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCaretRight",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-caret-right.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxEqualizer",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-equalizer.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxWifiOff",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-wifi-off.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxOutline",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-outline.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxPopsicle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-popsicle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxShower",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-shower.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxLock",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-lock.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxTransferAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-transfer-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxWebcam",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-webcam.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCaretRightSquare",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-caret-right-square.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxTrash",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-trash.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxWindowOpen",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-window-open.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxDonateHeart",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-donate-heart.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxVideoRecording",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-video-recording.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxPurchaseTag",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-purchase-tag.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxDna",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-dna.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBookmarkAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-bookmark-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMicrophoneOff",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-microphone-off.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxLibrary",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-library.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxDesktop",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-desktop.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBorderTop",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-border-top.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxChevronsUp",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-chevrons-up.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCommand",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-command.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMobileLandscape",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-mobile-landscape.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBorderRadius",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-border-radius.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxVideoOff",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-video-off.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxDonateBlood",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-donate-blood.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxShuffle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-shuffle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBookmarkAltMinus",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-bookmark-alt-minus.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxRfid",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-rfid.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCameraOff",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-camera-off.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxDialpadAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-dialpad-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxPause",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-pause.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxSearch",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-search.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxGridVertical",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-grid-vertical.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxArch",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-arch.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMoney",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-money.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxEnvelopeOpen",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-envelope-open.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxPulse",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-pulse.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxVial",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-vial.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxHomeSmile",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-home-smile.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCustomize",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-customize.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxShareAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-share-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxStopwatch",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-stopwatch.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxUndo",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-undo.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCableCar",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-cable-car.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBuoy",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-buoy.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBox",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-box.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxExpandVertical",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-expand-vertical.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxDish",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-dish.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxChevronUpCircle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-chevron-up-circle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxPhoneCall",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-phone-call.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxAnchor",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-anchor.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxWifi1",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-wifi-1.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxHotel",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-hotel.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxSidebar",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-sidebar.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMask",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-mask.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCreditCardAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-credit-card-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxNews",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-news.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMessageSquareAdd",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-message-square-add.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxSticker",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-sticker.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxFork",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-fork.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBookReader",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-book-reader.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxFoodMenu",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-food-menu.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBluetooth",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-bluetooth.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxDice5",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-dice-5.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxLeftArrowAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-left-arrow-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxPoll",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-poll.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBook",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-book.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMessageAltMinus",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-message-alt-minus.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxWater",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-water.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxSelection",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-selection.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCircle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-circle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxSun",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-sun.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxGridAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-grid-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBomb",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-bomb.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxIntersect",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-intersect.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxLayerMinus",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-layer-minus.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxReset",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-reset.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxPrinter",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-printer.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxRightDownArrowCircle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-right-down-arrow-circle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMessageDetail",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-message-detail.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBellOff",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-bell-off.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxChevronDownCircle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-chevron-down-circle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxTimer",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-timer.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxSignal1",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-signal-1.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxLogOutCircle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-log-out-circle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxUniversalAccess",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-universal-access.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMinus",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-minus.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCool",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-cool.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCartAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-cart-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxArchiveIn",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-archive-in.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxImageAdd",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-image-add.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCylinder",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-cylinder.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxSprayCan",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-spray-can.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxUserCircle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-user-circle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxUnlink",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-unlink.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCertification",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-certification.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxArrowFromBottom",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-arrow-from-bottom.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxWrench",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-wrench.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxHardHat",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-hard-hat.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBookmarks",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-bookmarks.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxPowerOff",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-power-off.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxFirstPage",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-first-page.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxGitPullRequest",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-git-pull-request.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBadge",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-badge.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCheckboxSquare",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-checkbox-square.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxUnderline",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-underline.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxArrowToBottom",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-arrow-to-bottom.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxSmile",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-smile.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxDockRight",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-dock-right.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBorderInner",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-border-inner.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxArrowToTop",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-arrow-to-top.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxGitCommit",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-git-commit.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxDownload",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-download.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxErrorAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-error-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxRun",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-run.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBowlingBall",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-bowling-ball.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCard",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-card.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBrushAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-brush-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCaretDown",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-caret-down.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCircleHalf",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-circle-half.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxRightArrowCircle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-right-arrow-circle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxGhost",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-ghost.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxWinkTongue",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-wink-tongue.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMessageSquareDots",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-message-square-dots.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxLeaf",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-leaf.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxDownArrow",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-down-arrow.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxComment",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-comment.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxWallet",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-wallet.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxPlay",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-play.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxShapeCircle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-shape-circle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxColor",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-color.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMessageRounded",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-message-rounded.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxLaptop",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-laptop.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMinusBack",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-minus-back.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCandles",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-candles.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxArea",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-area.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMicrophone",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-microphone.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCaretUpSquare",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-caret-up-square.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxNoEntry",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-no-entry.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxWifi",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-wifi.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxAtom",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-atom.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxSave",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-save.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMessageSquareX",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-message-square-x.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxVolumeMute",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-volume-mute.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxFastForwardCircle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-fast-forward-circle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMovie",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-movie.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxFingerprint",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-fingerprint.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxTachometer",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-tachometer.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBellMinus",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-bell-minus.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxTransfer",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-transfer.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxVolume",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-volume.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxDotsVertical",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-dots-vertical.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxExclude",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-exclude.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxAward",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-award.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxRecycle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-recycle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxTime",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-time.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxSquare",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-square.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCake",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-cake.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxHorizontalLeft",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-horizontal-left.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMove",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-move.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxUpsideDown",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-upside-down.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMinusFront",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-minus-front.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxSkipPreviousCircle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-skip-previous-circle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBullseye",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-bullseye.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxSortZA",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-sort-z-a.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBath",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-bath.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxDroplet",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-droplet.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxObjectsHorizontalCenter",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-objects-horizontal-center.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxChevronsLeft",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-chevrons-left.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxDetail",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-detail.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxSortDown",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-sort-down.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxWine",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-wine.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxLeftArrow",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-left-arrow.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBugAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-bug-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxSync",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-sync.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxImport",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-import.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxStrikethrough",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-strikethrough.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxLira",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-lira.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCalendarHeart",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-calendar-heart.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxChevronRightCircle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-chevron-right-circle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMessageDots",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-message-dots.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBracket",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-bracket.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxObjectsHorizontalRight",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-objects-horizontal-right.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxItalic",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-italic.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxXCircle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-x-circle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxScatterChart",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-scatter-chart.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxLinkExternal",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-link-external.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxSortAlt2",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-sort-alt-2.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxAlignRight",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-align-right.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxConfused",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-confused.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCheckSquare",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-check-square.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxWindow",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-window.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxHide",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-hide.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxChevronRightSquare",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-chevron-right-square.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxEuro",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-euro.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxTag",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-tag.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxArrowFromLeft",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-arrow-from-left.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxWon",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-won.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCalculator",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-calculator.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxShieldAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-shield-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCheck",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-check.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBold",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-bold.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBuildings",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-buildings.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxDotsVerticalRounded",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-dots-vertical-rounded.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxAlarm",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-alarm.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxPaint",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-paint.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCoffee",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-coffee.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCommentCheck",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-comment-check.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxListOl",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-list-ol.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxLogInCircle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-log-in-circle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxPyramid",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-pyramid.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxFileBlank",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-file-blank.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxUserVoice",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-user-voice.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCaretLeftSquare",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-caret-left-square.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxChevronLeftCircle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-chevron-left-circle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxDollar",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-dollar.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBattery",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-battery.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxRepost",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-repost.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxLastPage",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-last-page.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxHomeAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-home-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMehAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-meh-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxWalletAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-wallet-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBowlHot",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-bowl-hot.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxAnalyse",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-analyse.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMagnet",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-magnet.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCycling",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-cycling.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMessageAltError",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-message-alt-error.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxDice2",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-dice-2.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBookmarkPlus",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-bookmark-plus.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxDrink",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-drink.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxGitMerge",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-git-merge.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxKey",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-key.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxPhone",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-phone.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxNote",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-note.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxQuestionMark",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-question-mark.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxDotsHorizontalRounded",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-dots-horizontal-rounded.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxHeading",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-heading.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMessageRoundedEdit",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-message-rounded-edit.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxVoicemail",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-voicemail.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBasket",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-basket.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMeh",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-meh.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxImageAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-image-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBarChart",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-bar-chart.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCheckCircle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-check-circle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxWifi2",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-wifi-2.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBandAid",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-band-aid.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxPaperclip",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-paperclip.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxJoystickButton",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-joystick-button.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxVideo",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-video.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMapPin",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-map-pin.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxVolumeLow",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-volume-low.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMenu",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-menu.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxHighlight",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-highlight.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMessageCheck",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-message-check.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMicrochip",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-microchip.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxSad",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-sad.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxGitBranch",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-git-branch.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBowlRice",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-bowl-rice.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxChevronDownSquare",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-chevron-down-square.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxSpeaker",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-speaker.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxRightArrowAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-right-arrow-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCheckbox",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-checkbox.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxInfoCircle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-info-circle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxAlignMiddle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-align-middle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxLineChart",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-line-chart.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCollapseHorizontal",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-collapse-horizontal.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxHeartCircle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-heart-circle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCloudLightning",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-cloud-lightning.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxVerticalBottom",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-vertical-bottom.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMessageRoundedError",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-message-rounded-error.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxListUl",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-list-ul.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxFilm",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-film.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBriefcaseAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-briefcase-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCollapseVertical",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-collapse-vertical.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxHealth",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-health.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCloudDrizzle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-cloud-drizzle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCalendarEdit",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-calendar-edit.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxShieldPlus",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-shield-plus.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCloudUpload",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-cloud-upload.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxEditAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-edit-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxYen",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-yen.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxChair",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-chair.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMerge",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-merge.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxColorFill",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-color-fill.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxPlug",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-plug.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCricketBall",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-cricket-ball.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxDirections",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-directions.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxSend",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-send.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxFile",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-file.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBaguette",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-baguette.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxDialpad",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-dialpad.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCommentError",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-comment-error.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxDice6",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-dice-6.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBlanket",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-blanket.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxRectangle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-rectangle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxArchive",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-archive.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxShieldMinus",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-shield-minus.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCalendarEvent",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-calendar-event.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxFolderOpen",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-folder-open.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMessageMinus",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-message-minus.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxObjectsVerticalTop",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-objects-vertical-top.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxAlignJustify",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-align-justify.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBitcoin",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-bitcoin.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxVolumeFull",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-volume-full.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBoltCircle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-bolt-circle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxRewindCircle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-rewind-circle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxUsb",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-usb.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxIdCard",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-id-card.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxDockTop",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-dock-top.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMusic",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-music.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCheckboxChecked",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-checkbox-checked.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxFontFamily",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-font-family.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxRuble",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-ruble.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxUpArrowCircle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-up-arrow-circle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxPauseCircle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-pause-circle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxHorizontalRight",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-horizontal-right.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxError",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-error.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxPaintRoll",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-paint-roll.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxGitCompare",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-git-compare.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxFastForward",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-fast-forward.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxShieldX",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-shield-x.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxShapePolygon",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-shape-polygon.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMap",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-map.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxGrid",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-grid.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxToggleLeft",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-toggle-left.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxLeftTopArrowCircle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-left-top-arrow-circle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxLeftArrowCircle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-left-arrow-circle.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCommentAdd",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-comment-add.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxFootball",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-football.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCrown",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-crown.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxHeartSquare",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-heart-square.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxFontSize",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-font-size.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxJoystickAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-joystick-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxDizzy",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-dizzy.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxPlus",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-plus.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxColumns",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-columns.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxHappy",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-happy.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCog",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-cog.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxFemaleSign",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-female-sign.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBorderAll",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-border-all.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMessageAltEdit",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-message-alt-edit.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxParagraph",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-paragraph.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxQr",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-qr.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxTaxi",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-taxi.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxPalette",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-palette.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxFemale",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-female.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMailSend",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-mail-send.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxShocked",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-shocked.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxMessageError",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-message-error.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCubeAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-cube-alt.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxUpvote",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-upvote.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxCart",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-cart.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxHistory",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-history.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxBorderRight",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-border-right.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxFlag",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-flag.svg"
+    },
+    {
+        "name": "Boxicons.Regular.BxSitemap",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/regular/bx-sitemap.svg"
+    }
+]

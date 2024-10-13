@@ -40,6 +40,15 @@
                 "outline",
                 "filled"
             ]
+        },
+        {
+            "name": "Boxicons",
+            "value": "boxicons",
+            "categories": [
+                "solid",
+                "logos",
+                "regular"
+            ]
         }
     ]
 }

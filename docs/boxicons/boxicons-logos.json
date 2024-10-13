@@ -1,0 +1,622 @@
+[
+    {
+        "name": "Boxicons.Logos.BxlRedbubble",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-redbubble.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlWordpress",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-wordpress.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlMailchimp",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-mailchimp.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlFlask",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-flask.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlGithub",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-github.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlMeta",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-meta.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlVenmo",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-venmo.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlStackOverflow",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-stack-overflow.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlCodepen",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-codepen.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlWikipedia",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-wikipedia.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlFacebookSquare",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-facebook-square.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlQuora",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-quora.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlWhatsappSquare",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-whatsapp-square.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlPeriscope",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-periscope.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlHtml5",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-html5.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlBaidu",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-baidu.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlTypescript",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-typescript.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlShopify",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-shopify.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlMastercard",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-mastercard.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlDigg",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-digg.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlAdobe",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-adobe.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlBitcoin",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-bitcoin.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlProductHunt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-product-hunt.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlYahoo",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-yahoo.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlPython",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-python.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlGoogle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-google.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlPinterestAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-pinterest-alt.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlAudible",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-audible.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlVisa",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-visa.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlDropbox",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-dropbox.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlVisualStudio",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-visual-studio.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlCss3",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-css3.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlZoom",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-zoom.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlWhatsapp",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-whatsapp.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlDrupal",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-drupal.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlGooglePlus",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-google-plus.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlLinkedin",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-linkedin.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlBootstrap",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-bootstrap.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlDailymotion",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-dailymotion.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlSkype",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-skype.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlInternetExplorer",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-internet-explorer.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlAndroid",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-android.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlDiscord",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-discord.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlTailwindCss",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-tailwind-css.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlMediumSquare",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-medium-square.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlTiktok",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-tiktok.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlDiscourse",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-discourse.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlJava",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-java.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlMediumOld",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-medium-old.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlVuejs",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-vuejs.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlReddit",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-reddit.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlMessenger",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-messenger.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlSketch",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-sketch.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlXing",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-xing.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlPatreon",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-patreon.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlPaypal",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-paypal.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlOkRu",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-ok-ru.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlPhp",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-php.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlEdge",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-edge.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlInstagram",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-instagram.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlStripe",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-stripe.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlFlickrSquare",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-flickr-square.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlSass",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-sass.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlLess",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-less.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlAmazon",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-amazon.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlGooglePlusCircle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-google-plus-circle.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlEbay",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-ebay.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlHeroku",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-heroku.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlFacebook",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-facebook.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlBlender",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-blender.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlMastodon",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-mastodon.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlRedux",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-redux.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlTripAdvisor",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-trip-advisor.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlYelp",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-yelp.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlMedium",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-medium.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlBehance",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-behance.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlNodejs",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-nodejs.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlTrello",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-trello.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlMicrosoft",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-microsoft.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlLinkedinSquare",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-linkedin-square.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlTux",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-tux.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlFigma",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-figma.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlSquarespace",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-squarespace.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlPlayStore",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-play-store.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlBlogger",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-blogger.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlMarkdown",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-markdown.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlAws",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-aws.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlVimeo",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-vimeo.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlDeezer",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-deezer.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlSteam",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-steam.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlChrome",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-chrome.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlUpwork",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-upwork.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlFacebookCircle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-facebook-circle.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlDocker",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-docker.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlUnity",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-unity.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlFlickr",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-flickr.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlNetlify",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-netlify.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlCreativeCommons",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-creative-commons.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlFirefox",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-firefox.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlOpera",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-opera.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlDjango",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-django.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlJavascript",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-javascript.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlInvision",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-invision.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlJsfiddle",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-jsfiddle.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlMongodb",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-mongodb.svg"
+    },
+    {
+        "name": "Boxicons.Logos.Bxl500px",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-500px.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlSpringBoot",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-spring-boot.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlPostgresql",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-postgresql.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlSlack",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-slack.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlTwitch",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-twitch.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlMagento",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-magento.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlAirbnb",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-airbnb.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlInstagramAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-instagram-alt.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlDiscordAlt",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-discord-alt.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlAngular",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-angular.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlApple",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-apple.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlImdb",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-imdb.svg"
+    },
+    {
+        "name": "Boxicons.Logos.Bxl99designs",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-99designs.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlTelegram",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-telegram.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlKickstarter",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-kickstarter.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlGoogleCloud",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-google-cloud.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlYoutube",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-youtube.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlSlackOld",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-slack-old.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlPinterest",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-pinterest.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlJoomla",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-joomla.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlJquery",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-jquery.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlFoursquare",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-foursquare.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlFlutter",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-flutter.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlEtsy",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-etsy.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlAlgolia",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-algolia.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlGraphql",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-graphql.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlSpotify",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-spotify.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlBing",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-bing.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlGoLang",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-go-lang.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlUnsplash",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-unsplash.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlPocket",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-pocket.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlDevTo",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-dev-to.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlKubernetes",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-kubernetes.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlFirebase",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-firebase.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlDribbble",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-dribbble.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlCPlusPlus",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-c-plus-plus.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlMicrosoftTeams",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-microsoft-teams.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlGmail",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-gmail.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlSoundcloud",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-soundcloud.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlWindows",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-windows.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlReact",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-react.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlTwitter",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-twitter.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlSnapchat",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-snapchat.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlDigitalocean",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-digitalocean.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlGit",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-git.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlDeviantart",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-deviantart.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlVk",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-vk.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlTumblr",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-tumblr.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlWix",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-wix.svg"
+    },
+    {
+        "name": "Boxicons.Logos.BxlGitlab",
+        "svg": "https://raw.githubusercontent.com/atisawd/boxicons/master/svg/logos/bxl-gitlab.svg"
+    }
+]
