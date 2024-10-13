@@ -39,6 +39,9 @@ Icon(imageVector = Tabler.Outline.HospitalCircle, contentDescription = null)
 
 ## Icon packs
 
+See all the icons available in: https://walter-juan.github.io/compose-icon-collections/
+
+
 The same version numbers as the official icon packs have been followed
 
 | Icon Pack                                               | Artifact | Version   | License                                                                             |
@@ -67,7 +70,6 @@ The same version numbers as the official icon packs have been followed
 2. Create a `download-icons` task
 3. Add new input choice in [deploy.yml](.github/workflows/publish.yml)
 4. Add a new entry in the *Icon packs* section
-5. Update the sample
 
 ### Gradle tasks
 
