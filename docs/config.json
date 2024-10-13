@@ -1,0 +1,45 @@
+{
+    "defaultPack": "octicons",
+    "iconPacks": [
+        {
+            "name": "Remix icons",
+            "value": "remix",
+            "categories": [
+                "editor",
+                "logos",
+                "map",
+                "food",
+                "development",
+                "others",
+                "business",
+                "buildings",
+                "design",
+                "media",
+                "document",
+                "communication",
+                "finance",
+                "system",
+                "arrows",
+                "userandfaces",
+                "device",
+                "weather",
+                "healthandmedical"
+            ]
+        },
+        {
+            "name": "Octicons",
+            "value": "octicons",
+            "categories": [
+                ""
+            ]
+        },
+        {
+            "name": "Tabler",
+            "value": "tabler",
+            "categories": [
+                "outline",
+                "filled"
+            ]
+        }
+    ]
+}

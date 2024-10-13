@@ -1,0 +1,930 @@
+[
+    {
+        "name": "Remix.Document.FileImageLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-image-line.svg"
+    },
+    {
+        "name": "Remix.Document.FileExcel2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-excel-2-fill.svg"
+    },
+    {
+        "name": "Remix.Document.Folder6Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-6-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FolderInfoLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-info-line.svg"
+    },
+    {
+        "name": "Remix.Document.FileHwpLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-hwp-line.svg"
+    },
+    {
+        "name": "Remix.Document.FolderReduceLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-reduce-line.svg"
+    },
+    {
+        "name": "Remix.Document.FileCloudFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-cloud-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FileUserFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-user-fill.svg"
+    },
+    {
+        "name": "Remix.Document.KeynoteFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/keynote-fill.svg"
+    },
+    {
+        "name": "Remix.Document.File4Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-4-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FileWord2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-word-2-line.svg"
+    },
+    {
+        "name": "Remix.Document.FilePaperLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-paper-line.svg"
+    },
+    {
+        "name": "Remix.Document.FileSearchLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-search-line.svg"
+    },
+    {
+        "name": "Remix.Document.FolderKeyholeFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-keyhole-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FileHistoryFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-history-fill.svg"
+    },
+    {
+        "name": "Remix.Document.Folder2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-2-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FolderFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-fill.svg"
+    },
+    {
+        "name": "Remix.Document.Folder6Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-6-line.svg"
+    },
+    {
+        "name": "Remix.Document.FileChartLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-chart-line.svg"
+    },
+    {
+        "name": "Remix.Document.FileZipFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-zip-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FolderVideoFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-video-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FileShield2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-shield-2-fill.svg"
+    },
+    {
+        "name": "Remix.Document.SurveyFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/survey-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FolderLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-line.svg"
+    },
+    {
+        "name": "Remix.Document.FileUploadFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-upload-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FilePpt2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-ppt-2-line.svg"
+    },
+    {
+        "name": "Remix.Document.Folder4Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-4-line.svg"
+    },
+    {
+        "name": "Remix.Document.StickyNoteFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/sticky-note-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FileList2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-list-2-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FoldersLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folders-line.svg"
+    },
+    {
+        "name": "Remix.Document.File4Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-4-line.svg"
+    },
+    {
+        "name": "Remix.Document.NewspaperFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/newspaper-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FileCopyLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-copy-line.svg"
+    },
+    {
+        "name": "Remix.Document.TaskLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/task-line.svg"
+    },
+    {
+        "name": "Remix.Document.FolderSettingsLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-settings-line.svg"
+    },
+    {
+        "name": "Remix.Document.FileTextFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-text-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FolderAddLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-add-line.svg"
+    },
+    {
+        "name": "Remix.Document.PagesFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/pages-fill.svg"
+    },
+    {
+        "name": "Remix.Document.NewsFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/news-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FileAddFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-add-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FolderCloudLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-cloud-line.svg"
+    },
+    {
+        "name": "Remix.Document.FileListFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-list-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FileDownloadFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-download-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FileSearchFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-search-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FolderCheckLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-check-line.svg"
+    },
+    {
+        "name": "Remix.Document.FileMusicFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-music-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FolderSettingsFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-settings-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FileUnknowLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-unknow-line.svg"
+    },
+    {
+        "name": "Remix.Document.FolderInfoFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-info-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FileLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-line.svg"
+    },
+    {
+        "name": "Remix.Document.FilePdfLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-pdf-line.svg"
+    },
+    {
+        "name": "Remix.Document.BookOpenLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/book-open-line.svg"
+    },
+    {
+        "name": "Remix.Document.FolderUserFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-user-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FileFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FileZipLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-zip-line.svg"
+    },
+    {
+        "name": "Remix.Document.DraftFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/draft-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FileWarningLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-warning-line.svg"
+    },
+    {
+        "name": "Remix.Document.FolderZipFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-zip-fill.svg"
+    },
+    {
+        "name": "Remix.Document.TodoLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/todo-line.svg"
+    },
+    {
+        "name": "Remix.Document.FileTransferLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-transfer-line.svg"
+    },
+    {
+        "name": "Remix.Document.FileHwpFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-hwp-fill.svg"
+    },
+    {
+        "name": "Remix.Document.ContactsBookLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/contacts-book-line.svg"
+    },
+    {
+        "name": "Remix.Document.FolderUploadFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-upload-fill.svg"
+    },
+    {
+        "name": "Remix.Document.BookReadFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/book-read-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FolderTransferFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-transfer-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FolderWarningLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-warning-line.svg"
+    },
+    {
+        "name": "Remix.Document.FilePptLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-ppt-line.svg"
+    },
+    {
+        "name": "Remix.Document.FileTransferFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-transfer-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FolderLockFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-lock-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FileShredFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-shred-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FileInfoFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-info-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FolderShield2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-shield-2-line.svg"
+    },
+    {
+        "name": "Remix.Document.FileVideoFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-video-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FolderChart2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-chart-2-line.svg"
+    },
+    {
+        "name": "Remix.Document.FileWarningFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-warning-fill.svg"
+    },
+    {
+        "name": "Remix.Document.File2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-2-line.svg"
+    },
+    {
+        "name": "Remix.Document.Book3Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/book-3-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FolderSharedLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-shared-line.svg"
+    },
+    {
+        "name": "Remix.Document.FolderChartLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-chart-line.svg"
+    },
+    {
+        "name": "Remix.Document.FileExcelLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-excel-line.svg"
+    },
+    {
+        "name": "Remix.Document.FolderWarningFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-warning-fill.svg"
+    },
+    {
+        "name": "Remix.Document.NumbersLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/numbers-line.svg"
+    },
+    {
+        "name": "Remix.Document.FilePpt2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-ppt-2-fill.svg"
+    },
+    {
+        "name": "Remix.Document.MarkdownFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/markdown-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FileExcel2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-excel-2-line.svg"
+    },
+    {
+        "name": "Remix.Document.BookReadLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/book-read-line.svg"
+    },
+    {
+        "name": "Remix.Document.FolderHistoryFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-history-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FolderLockLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-lock-line.svg"
+    },
+    {
+        "name": "Remix.Document.FileChart2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-chart-2-line.svg"
+    },
+    {
+        "name": "Remix.Document.FileDamageLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-damage-line.svg"
+    },
+    {
+        "name": "Remix.Document.Book3Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/book-3-line.svg"
+    },
+    {
+        "name": "Remix.Document.FilePdf2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-pdf-2-line.svg"
+    },
+    {
+        "name": "Remix.Document.TodoFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/todo-fill.svg"
+    },
+    {
+        "name": "Remix.Document.NewspaperLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/newspaper-line.svg"
+    },
+    {
+        "name": "Remix.Document.FileList3Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-list-3-line.svg"
+    },
+    {
+        "name": "Remix.Document.FolderOpenFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-open-fill.svg"
+    },
+    {
+        "name": "Remix.Document.StickyNoteAddLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/sticky-note-add-line.svg"
+    },
+    {
+        "name": "Remix.Document.ArticleFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/article-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FileWordFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-word-fill.svg"
+    },
+    {
+        "name": "Remix.Document.Book2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/book-2-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FileUploadLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-upload-line.svg"
+    },
+    {
+        "name": "Remix.Document.FileShield2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-shield-2-line.svg"
+    },
+    {
+        "name": "Remix.Document.PagesLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/pages-line.svg"
+    },
+    {
+        "name": "Remix.Document.MarkdownLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/markdown-line.svg"
+    },
+    {
+        "name": "Remix.Document.StickyNote2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/sticky-note-2-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FolderReduceFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-reduce-fill.svg"
+    },
+    {
+        "name": "Remix.Document.ReceiptFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/receipt-fill.svg"
+    },
+    {
+        "name": "Remix.Document.Folder5Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-5-line.svg"
+    },
+    {
+        "name": "Remix.Document.FileForbidLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-forbid-line.svg"
+    },
+    {
+        "name": "Remix.Document.FileMarkedLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-marked-line.svg"
+    },
+    {
+        "name": "Remix.Document.FolderShield2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-shield-2-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FileLockFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-lock-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FileDamageFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-damage-fill.svg"
+    },
+    {
+        "name": "Remix.Document.ContactsBook3Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/contacts-book-3-line.svg"
+    },
+    {
+        "name": "Remix.Document.FileDownloadLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-download-line.svg"
+    },
+    {
+        "name": "Remix.Document.FolderCloudFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-cloud-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FileCodeLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-code-line.svg"
+    },
+    {
+        "name": "Remix.Document.KeynoteLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/keynote-line.svg"
+    },
+    {
+        "name": "Remix.Document.FileTextLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-text-line.svg"
+    },
+    {
+        "name": "Remix.Document.FileExcelFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-excel-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FolderCheckFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-check-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FolderTransferLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-transfer-line.svg"
+    },
+    {
+        "name": "Remix.Document.ContactsBookUploadFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/contacts-book-upload-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FolderAddFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-add-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FileImageFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-image-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FilePdf2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-pdf-2-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FileSettingsLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-settings-line.svg"
+    },
+    {
+        "name": "Remix.Document.FileEditLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-edit-line.svg"
+    },
+    {
+        "name": "Remix.Document.BookFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/book-fill.svg"
+    },
+    {
+        "name": "Remix.Document.ReceiptLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/receipt-line.svg"
+    },
+    {
+        "name": "Remix.Document.FileCopyFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-copy-fill.svg"
+    },
+    {
+        "name": "Remix.Document.Folder5Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-5-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FolderSharedFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-shared-fill.svg"
+    },
+    {
+        "name": "Remix.Document.BillFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/bill-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FolderKeyholeLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-keyhole-line.svg"
+    },
+    {
+        "name": "Remix.Document.FileAddLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-add-line.svg"
+    },
+    {
+        "name": "Remix.Document.FoldersFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folders-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FileGifFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-gif-fill.svg"
+    },
+    {
+        "name": "Remix.Document.DraftLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/draft-line.svg"
+    },
+    {
+        "name": "Remix.Document.ContractFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/contract-fill.svg"
+    },
+    {
+        "name": "Remix.Document.BookOpenFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/book-open-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FileCloseLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-close-line.svg"
+    },
+    {
+        "name": "Remix.Document.FileUserLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-user-line.svg"
+    },
+    {
+        "name": "Remix.Document.FileListLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-list-line.svg"
+    },
+    {
+        "name": "Remix.Document.ArticleLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/article-line.svg"
+    },
+    {
+        "name": "Remix.Document.FileUnknowFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-unknow-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FileMusicLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-music-line.svg"
+    },
+    {
+        "name": "Remix.Document.FileWordLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-word-line.svg"
+    },
+    {
+        "name": "Remix.Document.FileShieldLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-shield-line.svg"
+    },
+    {
+        "name": "Remix.Document.FolderUploadLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-upload-line.svg"
+    },
+    {
+        "name": "Remix.Document.FileCodeFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-code-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FolderDownloadLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-download-line.svg"
+    },
+    {
+        "name": "Remix.Document.FolderReceivedLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-received-line.svg"
+    },
+    {
+        "name": "Remix.Document.FolderImageLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-image-line.svg"
+    },
+    {
+        "name": "Remix.Document.FolderMusicLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-music-line.svg"
+    },
+    {
+        "name": "Remix.Document.BookletLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/booklet-line.svg"
+    },
+    {
+        "name": "Remix.Document.FolderImageFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-image-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FileWord2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-word-2-fill.svg"
+    },
+    {
+        "name": "Remix.Document.BookLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/book-line.svg"
+    },
+    {
+        "name": "Remix.Document.TaskFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/task-fill.svg"
+    },
+    {
+        "name": "Remix.Document.ContactsBook2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/contacts-book-2-fill.svg"
+    },
+    {
+        "name": "Remix.Document.BookletFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/booklet-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FileList3Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-list-3-fill.svg"
+    },
+    {
+        "name": "Remix.Document.ContactsBookUploadLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/contacts-book-upload-line.svg"
+    },
+    {
+        "name": "Remix.Document.FolderZipLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-zip-line.svg"
+    },
+    {
+        "name": "Remix.Document.FileHistoryLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-history-line.svg"
+    },
+    {
+        "name": "Remix.Document.FileCloudLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-cloud-line.svg"
+    },
+    {
+        "name": "Remix.Document.FileList2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-list-2-line.svg"
+    },
+    {
+        "name": "Remix.Document.ContractLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/contract-line.svg"
+    },
+    {
+        "name": "Remix.Document.FilePdfFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-pdf-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FileChartFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-chart-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FolderShieldLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-shield-line.svg"
+    },
+    {
+        "name": "Remix.Document.FileGifLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-gif-line.svg"
+    },
+    {
+        "name": "Remix.Document.FolderVideoLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-video-line.svg"
+    },
+    {
+        "name": "Remix.Document.FileLockLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-lock-line.svg"
+    },
+    {
+        "name": "Remix.Document.StickyNote2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/sticky-note-2-line.svg"
+    },
+    {
+        "name": "Remix.Document.FolderForbidLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-forbid-line.svg"
+    },
+    {
+        "name": "Remix.Document.FileVideoLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-video-line.svg"
+    },
+    {
+        "name": "Remix.Document.Folder4Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-4-fill.svg"
+    },
+    {
+        "name": "Remix.Document.File3Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-3-line.svg"
+    },
+    {
+        "name": "Remix.Document.FolderOpenLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-open-line.svg"
+    },
+    {
+        "name": "Remix.Document.Folder3Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-3-line.svg"
+    },
+    {
+        "name": "Remix.Document.StickyNoteAddFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/sticky-note-add-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FileForbidFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-forbid-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FolderChartFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-chart-fill.svg"
+    },
+    {
+        "name": "Remix.Document.ClipboardLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/clipboard-line.svg"
+    },
+    {
+        "name": "Remix.Document.BookMarkedLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/book-marked-line.svg"
+    },
+    {
+        "name": "Remix.Document.FolderMusicFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-music-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FileEditFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-edit-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FileCloseFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-close-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FileSettingsFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-settings-fill.svg"
+    },
+    {
+        "name": "Remix.Document.File2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-2-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FolderUnknowLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-unknow-line.svg"
+    },
+    {
+        "name": "Remix.Document.FileMarkedFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-marked-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FileReduceFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-reduce-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FileCopy2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-copy-2-line.svg"
+    },
+    {
+        "name": "Remix.Document.FilePptFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-ppt-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FilePaper2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-paper-2-line.svg"
+    },
+    {
+        "name": "Remix.Document.BillLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/bill-line.svg"
+    },
+    {
+        "name": "Remix.Document.ContactsBookFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/contacts-book-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FolderDownloadFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-download-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FolderShieldFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-shield-fill.svg"
+    },
+    {
+        "name": "Remix.Document.ClipboardFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/clipboard-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FilePaper2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-paper-2-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FolderReceivedFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-received-fill.svg"
+    },
+    {
+        "name": "Remix.Document.File3Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-3-fill.svg"
+    },
+    {
+        "name": "Remix.Document.Folder2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-2-line.svg"
+    },
+    {
+        "name": "Remix.Document.FolderChart2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-chart-2-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FolderUnknowFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-unknow-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FileShieldFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-shield-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FileCopy2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-copy-2-fill.svg"
+    },
+    {
+        "name": "Remix.Document.BookMarkedFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/book-marked-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FileInfoLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-info-line.svg"
+    },
+    {
+        "name": "Remix.Document.Book2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/book-2-line.svg"
+    },
+    {
+        "name": "Remix.Document.FileReduceLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-reduce-line.svg"
+    },
+    {
+        "name": "Remix.Document.NumbersFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/numbers-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FolderCloseFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-close-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FileCheckLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-check-line.svg"
+    },
+    {
+        "name": "Remix.Document.FilePaperFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-paper-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FileCheckFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-check-fill.svg"
+    },
+    {
+        "name": "Remix.Document.Folder3Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-3-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FileShredLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-shred-line.svg"
+    },
+    {
+        "name": "Remix.Document.StickyNoteLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/sticky-note-line.svg"
+    },
+    {
+        "name": "Remix.Document.FileChart2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/file-chart-2-fill.svg"
+    },
+    {
+        "name": "Remix.Document.FolderForbidFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-forbid-fill.svg"
+    },
+    {
+        "name": "Remix.Document.ContactsBook2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/contacts-book-2-line.svg"
+    },
+    {
+        "name": "Remix.Document.FolderCloseLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-close-line.svg"
+    },
+    {
+        "name": "Remix.Document.NewsLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/news-line.svg"
+    },
+    {
+        "name": "Remix.Document.ContactsBook3Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/contacts-book-3-fill.svg"
+    },
+    {
+        "name": "Remix.Document.SurveyLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/survey-line.svg"
+    },
+    {
+        "name": "Remix.Document.FolderUserLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-user-line.svg"
+    },
+    {
+        "name": "Remix.Document.FolderHistoryLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Document/folder-history-line.svg"
+    }
+]

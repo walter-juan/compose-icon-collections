@@ -1,0 +1,282 @@
+[
+    {
+        "name": "Remix.Communication.ChatSmileLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-smile-line.svg"
+    },
+    {
+        "name": "Remix.Communication.DiscussLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/discuss-line.svg"
+    },
+    {
+        "name": "Remix.Communication.ChatSettingsLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-settings-line.svg"
+    },
+    {
+        "name": "Remix.Communication.ChatFollowUpLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-follow-up-line.svg"
+    },
+    {
+        "name": "Remix.Communication.Message3Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/message-3-fill.svg"
+    },
+    {
+        "name": "Remix.Communication.EmojiStickerLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/emoji-sticker-line.svg"
+    },
+    {
+        "name": "Remix.Communication.ChatSearchFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-search-fill.svg"
+    },
+    {
+        "name": "Remix.Communication.EmojiStickerFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/emoji-sticker-fill.svg"
+    },
+    {
+        "name": "Remix.Communication.ChatOffFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-off-fill.svg"
+    },
+    {
+        "name": "Remix.Communication.ChatUnreadLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-unread-line.svg"
+    },
+    {
+        "name": "Remix.Communication.Chat1Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-1-fill.svg"
+    },
+    {
+        "name": "Remix.Communication.Chat4Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-4-line.svg"
+    },
+    {
+        "name": "Remix.Communication.ChatPollLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-poll-line.svg"
+    },
+    {
+        "name": "Remix.Communication.Message2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/message-2-fill.svg"
+    },
+    {
+        "name": "Remix.Communication.Chat2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-2-line.svg"
+    },
+    {
+        "name": "Remix.Communication.Chat3Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-3-fill.svg"
+    },
+    {
+        "name": "Remix.Communication.ChatDownloadFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-download-fill.svg"
+    },
+    {
+        "name": "Remix.Communication.ChatQuoteFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-quote-fill.svg"
+    },
+    {
+        "name": "Remix.Communication.ChatPrivateLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-private-line.svg"
+    },
+    {
+        "name": "Remix.Communication.ChatOffLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-off-line.svg"
+    },
+    {
+        "name": "Remix.Communication.ChatSmile2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-smile-2-line.svg"
+    },
+    {
+        "name": "Remix.Communication.ChatUploadFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-upload-fill.svg"
+    },
+    {
+        "name": "Remix.Communication.ChatDeleteFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-delete-fill.svg"
+    },
+    {
+        "name": "Remix.Communication.ChatThreadFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-thread-fill.svg"
+    },
+    {
+        "name": "Remix.Communication.Message3Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/message-3-line.svg"
+    },
+    {
+        "name": "Remix.Communication.ChatQuoteLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-quote-line.svg"
+    },
+    {
+        "name": "Remix.Communication.ChatSmileFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-smile-fill.svg"
+    },
+    {
+        "name": "Remix.Communication.ChatCheckFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-check-fill.svg"
+    },
+    {
+        "name": "Remix.Communication.ChatSmile3Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-smile-3-line.svg"
+    },
+    {
+        "name": "Remix.Communication.ChatPollFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-poll-fill.svg"
+    },
+    {
+        "name": "Remix.Communication.FeedbackLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/feedback-line.svg"
+    },
+    {
+        "name": "Remix.Communication.ChatCheckLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-check-line.svg"
+    },
+    {
+        "name": "Remix.Communication.ChatHeartFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-heart-fill.svg"
+    },
+    {
+        "name": "Remix.Communication.ChatHistoryFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-history-fill.svg"
+    },
+    {
+        "name": "Remix.Communication.MessageFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/message-fill.svg"
+    },
+    {
+        "name": "Remix.Communication.SpeakLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/speak-line.svg"
+    },
+    {
+        "name": "Remix.Communication.ChatNewFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-new-fill.svg"
+    },
+    {
+        "name": "Remix.Communication.VideoChatLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/video-chat-line.svg"
+    },
+    {
+        "name": "Remix.Communication.QuestionnaireFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/questionnaire-fill.svg"
+    },
+    {
+        "name": "Remix.Communication.ChatSettingsFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-settings-fill.svg"
+    },
+    {
+        "name": "Remix.Communication.ChatSmile2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-smile-2-fill.svg"
+    },
+    {
+        "name": "Remix.Communication.QuestionAnswerFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/question-answer-fill.svg"
+    },
+    {
+        "name": "Remix.Communication.ChatHeartLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-heart-line.svg"
+    },
+    {
+        "name": "Remix.Communication.ChatForwardFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-forward-fill.svg"
+    },
+    {
+        "name": "Remix.Communication.Chat3Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-3-line.svg"
+    },
+    {
+        "name": "Remix.Communication.QuestionAnswerLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/question-answer-line.svg"
+    },
+    {
+        "name": "Remix.Communication.ChatUnreadFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-unread-fill.svg"
+    },
+    {
+        "name": "Remix.Communication.ChatDownloadLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-download-line.svg"
+    },
+    {
+        "name": "Remix.Communication.Chat2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-2-fill.svg"
+    },
+    {
+        "name": "Remix.Communication.ChatDeleteLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-delete-line.svg"
+    },
+    {
+        "name": "Remix.Communication.ChatHistoryLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-history-line.svg"
+    },
+    {
+        "name": "Remix.Communication.SpeakFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/speak-fill.svg"
+    },
+    {
+        "name": "Remix.Communication.ChatFollowUpFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-follow-up-fill.svg"
+    },
+    {
+        "name": "Remix.Communication.ChatVoiceLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-voice-line.svg"
+    },
+    {
+        "name": "Remix.Communication.ChatNewLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-new-line.svg"
+    },
+    {
+        "name": "Remix.Communication.Chat1Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-1-line.svg"
+    },
+    {
+        "name": "Remix.Communication.MessageLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/message-line.svg"
+    },
+    {
+        "name": "Remix.Communication.ChatVoiceFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-voice-fill.svg"
+    },
+    {
+        "name": "Remix.Communication.VideoChatFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/video-chat-fill.svg"
+    },
+    {
+        "name": "Remix.Communication.ChatSmile3Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-smile-3-fill.svg"
+    },
+    {
+        "name": "Remix.Communication.FeedbackFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/feedback-fill.svg"
+    },
+    {
+        "name": "Remix.Communication.Message2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/message-2-line.svg"
+    },
+    {
+        "name": "Remix.Communication.ChatThreadLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-thread-line.svg"
+    },
+    {
+        "name": "Remix.Communication.ChatPrivateFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-private-fill.svg"
+    },
+    {
+        "name": "Remix.Communication.Chat4Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-4-fill.svg"
+    },
+    {
+        "name": "Remix.Communication.QuestionnaireLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/questionnaire-line.svg"
+    },
+    {
+        "name": "Remix.Communication.DiscussFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/discuss-fill.svg"
+    },
+    {
+        "name": "Remix.Communication.ChatSearchLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-search-line.svg"
+    },
+    {
+        "name": "Remix.Communication.ChatUploadLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-upload-line.svg"
+    },
+    {
+        "name": "Remix.Communication.ChatForwardLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Communication/chat-forward-line.svg"
+    }
+]
