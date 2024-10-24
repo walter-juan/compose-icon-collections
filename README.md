@@ -1,7 +1,7 @@
 # Compose icon collections
 
 ![Platform](https://img.shields.io/badge/Platform-ComposeMultiplatform-brightgreen.svg)
-[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![MIT License](https://img.shields.io/github/license/walter-juan/compose-icon-collections)](LICENSE)
 
 Compose Multiplatform open source icon collections
 
@@ -44,12 +44,12 @@ See all the icons available in: https://walter-juan.github.io/compose-icon-colle
 
 The same version numbers as the official icon packs have been followed
 
-| Icon Pack                                               | Artifact | Version | License                                                                             |
-|---------------------------------------------------------|----------|---------|-------------------------------------------------------------------------------------|
-| [Tabler](https://github.com/tabler/tabler-icons)        | tabler   | 3.20.0  | [MIT license](https://github.com/tabler/tabler-icons/blob/v3.20.0/LICENSE)          |
-| [Octicons](https://github.com/primer/octicons)          | octicons | 19.12.0 | [MIT license](https://github.com/primer/octicons/blob/v19.12.0/LICENSE)             |
-| [Remix Icon](https://github.com/Remix-Design/RemixIcon) | remix    | 4.4.0   | [Apache License 2.0](https://github.com/Remix-Design/RemixIcon/blob/v4.4.0/License) |
-| [Boxicons](https://github.com/atisawd/boxicons)         | boxicons | 2.1.4   | [MIT license](https://github.com/atisawd/boxicons/blob/master/LICENSE)              |
+| Icon Pack                                               | Artifact | Version                                                                                                                  | License                                                                         |
+|---------------------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| [Tabler](https://github.com/tabler/tabler-icons)        | tabler   | ![Tabler - Maven Central Version](https://img.shields.io/maven-central/v/com.woowla.compose.icon.collections/tabler)     | ![GitHub License](https://img.shields.io/github/license/tabler/tabler-icons)    |
+| [Octicons](https://github.com/primer/octicons)          | octicons | ![Octicons - Maven Central Version](https://img.shields.io/maven-central/v/com.woowla.compose.icon.collections/octicons) | ![GitHub License](https://img.shields.io/github/license/primer/octicons)        |
+| [Remix Icon](https://github.com/Remix-Design/RemixIcon) | remix    | ![Remix - Maven Central Version](https://img.shields.io/maven-central/v/com.woowla.compose.icon.collections/remix)       | ![GitHub License](https://img.shields.io/github/license/Remix-Design/RemixIcon) |
+| [Boxicons](https://github.com/atisawd/boxicons)         | boxicons | ![Boxicons - Maven Central Version](https://img.shields.io/maven-central/v/com.woowla.compose.icon.collections/boxicons) | ![GitHub License](https://img.shields.io/github/license/atisawd/boxicons)       |
 
 ## Development
 

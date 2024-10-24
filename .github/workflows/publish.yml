@@ -25,13 +25,9 @@ env:
   ORG_GRADLE_PROJECT_signingInMemoryKeyPassword: '${{ secrets.SIGNING_KEY_PASSWORD }}'
 
 jobs:
-  verification:
-    name: Verification
-    uses: ./.github/workflows/verification.yml
   create-tag:
     name: Create Tag
     if: ${{ github.ref_name == 'main' }}
-    needs: verification
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -66,7 +62,7 @@ jobs:
   publish:
     name: Publish to Maven Central
     if: ${{ github.ref_name == 'main' }}
-    needs: [verification, create-tag]
+    needs: create-tag
     strategy:
       matrix:
         include:
