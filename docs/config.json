@@ -2,14 +2,6 @@
     "defaultPack": "tabler",
     "iconPacks": [
         {
-            "name": "Tabler",
-            "value": "tabler",
-            "categories": [
-                "outline",
-                "filled"
-            ]
-        },
-        {
             "name": "Boxicons",
             "value": "boxicons",
             "categories": [
@@ -48,6 +40,14 @@
                 "device",
                 "weather",
                 "healthandmedical"
+            ]
+        },
+        {
+            "name": "Tabler",
+            "value": "tabler",
+            "categories": [
+                "outline",
+                "filled"
             ]
         }
     ]
