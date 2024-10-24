@@ -38,7 +38,7 @@ public val BusinessGroup.StackFill: ImageVector
                 curveTo(21.522f, 16.063f, 21.599f, 16.37f, 21.457f, 16.607f)
                 curveTo(21.415f, 16.678f, 21.356f, 16.736f, 21.285f, 16.779f)
                 lineTo(12.514f, 22.041f)
-                curveTo(12.198f, 22.231f, 11.802f, 22.231f, 11.486f, 22.041f)
+                curveTo(12.198f, 22.231f, 11.802f, 22.231f, 11.485f, 22.041f)
                 lineTo(2.715f, 16.779f)
                 curveTo(2.478f, 16.637f, 2.401f, 16.33f, 2.543f, 16.093f)
                 curveTo(2.585f, 16.022f, 2.644f, 15.963f, 2.715f, 15.921f)
@@ -54,7 +54,7 @@ public val BusinessGroup.StackFill: ImageVector
                 lineTo(2.715f, 7.429f)
                 curveTo(2.478f, 7.287f, 2.401f, 6.979f, 2.543f, 6.743f)
                 curveTo(2.585f, 6.672f, 2.644f, 6.613f, 2.715f, 6.571f)
-                lineTo(11.486f, 1.309f)
+                lineTo(11.485f, 1.309f)
                 curveTo(11.802f, 1.119f, 12.198f, 1.119f, 12.514f, 1.309f)
                 close()
             }

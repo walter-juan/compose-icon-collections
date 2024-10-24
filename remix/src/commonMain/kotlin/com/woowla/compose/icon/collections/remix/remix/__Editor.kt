@@ -20,6 +20,7 @@ import com.woowla.compose.icon.collections.remix.remix.editor.CalendarView
 import com.woowla.compose.icon.collections.remix.remix.editor.CarouselView
 import com.woowla.compose.icon.collections.remix.remix.editor.CodeBlock
 import com.woowla.compose.icon.collections.remix.remix.editor.CodeView
+import com.woowla.compose.icon.collections.remix.remix.editor.CustomSize
 import com.woowla.compose.icon.collections.remix.remix.editor.DeleteColumn
 import com.woowla.compose.icon.collections.remix.remix.editor.DeleteRow
 import com.woowla.compose.icon.collections.remix.remix.editor.DoubleQuotesL
@@ -64,7 +65,9 @@ import com.woowla.compose.icon.collections.remix.remix.editor.InsertRowTop
 import com.woowla.compose.icon.collections.remix.remix.editor.Italic
 import com.woowla.compose.icon.collections.remix.remix.editor.KanbanView
 import com.woowla.compose.icon.collections.remix.remix.editor.KanbanView2
+import com.woowla.compose.icon.collections.remix.remix.editor.LetterSpacing2
 import com.woowla.compose.icon.collections.remix.remix.editor.LineHeight
+import com.woowla.compose.icon.collections.remix.remix.editor.LineHeight2
 import com.woowla.compose.icon.collections.remix.remix.editor.Link
 import com.woowla.compose.icon.collections.remix.remix.editor.LinkM
 import com.woowla.compose.icon.collections.remix.remix.editor.LinkUnlink
@@ -140,6 +143,8 @@ import com.woowla.compose.icon.collections.remix.remix.editor.TextWrap
 import com.woowla.compose.icon.collections.remix.remix.editor.TimelineView
 import com.woowla.compose.icon.collections.remix.remix.editor.Translate
 import com.woowla.compose.icon.collections.remix.remix.editor.Translate2
+import com.woowla.compose.icon.collections.remix.remix.editor.TranslateAi
+import com.woowla.compose.icon.collections.remix.remix.editor.TranslateAi2
 import com.woowla.compose.icon.collections.remix.remix.editor.Underline
 import com.woowla.compose.icon.collections.remix.remix.editor.WubiInput
 import kotlin.collections.List as ____KtList
@@ -158,23 +163,24 @@ public val EditorGroup.AllIcons: ____KtList<ImageVector>
     }
     __AllIcons= listOf(AB, AiGenerate, AlignBottom, AlignCenter, AlignJustify, AlignLeft,
         AlignRight, AlignTop, AlignVertically, Asterisk, Attachment2, Bold, BringForward,
-        BringToFront, CalendarView, CarouselView, CodeBlock, CodeView, DeleteColumn, DeleteRow,
-        DoubleQuotesL, DoubleQuotesR, Draggable, DropdownList, Emphasis, EmphasisCn, EnglishInput,
-        FlowChart, FocusMode, FontColor, FontFamily, FontMono, FontSans, FontSansSerif, FontSize,
-        FontSize2, FormatClear, Formula, Functions, GalleryView, GalleryView2, H1, H2, H3, H4, H5,
-        H6, Hand, Hashtag, Heading, IndentDecrease, IndentIncrease, InfoI, InputCursorMove,
-        InputField, InsertColumnLeft, InsertColumnRight, InsertRowBottom, InsertRowTop, Italic,
-        KanbanView, KanbanView2, LineHeight, Link, LinkM, LinkUnlink, LinkUnlinkM, ListCheck,
-        ListCheck2, ListCheck3, ListIndefinite, ListOrdered, ListOrdered2, ListRadio, ListUnordered,
-        ListView, MergeCellsHorizontal, MergeCellsVertical, MindMap, NodeTree, Number0, Number1,
-        Number2, Number3, Number4, Number5, Number6, Number7, Number8, Number9, Omega,
-        OrganizationChart, Overline, PageSeparator, Paragraph, PinyinInput, QuestionMark, QuoteText,
-        RoundedCorner, SendBackward, SendToBack, Separator, SingleQuotesL, SingleQuotesR, Sketching,
-        SlashCommands, SlashCommands2, SlideshowView, SortAlphabetAsc, SortAlphabetDesc, SortAsc,
-        SortDesc, SortNumberAsc, SortNumberDesc, Space, SplitCellsHorizontal, SplitCellsVertical,
-        SquareRoot, StackedView, Strikethrough, Strikethrough2, Subscript, Subscript2, Superscript,
+        BringToFront, CalendarView, CarouselView, CodeBlock, CodeView, CustomSize, DeleteColumn,
+        DeleteRow, DoubleQuotesL, DoubleQuotesR, Draggable, DropdownList, Emphasis, EmphasisCn,
+        EnglishInput, FlowChart, FocusMode, FontColor, FontFamily, FontMono, FontSans,
+        FontSansSerif, FontSize, FontSize2, FormatClear, Formula, Functions, GalleryView,
+        GalleryView2, H1, H2, H3, H4, H5, H6, Hand, Hashtag, Heading, IndentDecrease,
+        IndentIncrease, InfoI, InputCursorMove, InputField, InsertColumnLeft, InsertColumnRight,
+        InsertRowBottom, InsertRowTop, Italic, KanbanView, KanbanView2, LetterSpacing2, LineHeight,
+        LineHeight2, Link, LinkM, LinkUnlink, LinkUnlinkM, ListCheck, ListCheck2, ListCheck3,
+        ListIndefinite, ListOrdered, ListOrdered2, ListRadio, ListUnordered, ListView,
+        MergeCellsHorizontal, MergeCellsVertical, MindMap, NodeTree, Number0, Number1, Number2,
+        Number3, Number4, Number5, Number6, Number7, Number8, Number9, Omega, OrganizationChart,
+        Overline, PageSeparator, Paragraph, PinyinInput, QuestionMark, QuoteText, RoundedCorner,
+        SendBackward, SendToBack, Separator, SingleQuotesL, SingleQuotesR, Sketching, SlashCommands,
+        SlashCommands2, SlideshowView, SortAlphabetAsc, SortAlphabetDesc, SortAsc, SortDesc,
+        SortNumberAsc, SortNumberDesc, Space, SplitCellsHorizontal, SplitCellsVertical, SquareRoot,
+        StackedView, Strikethrough, Strikethrough2, Subscript, Subscript2, Superscript,
         Superscript2, Table2, Table3, TableView, Text, TextBlock, TextDirectionL, TextDirectionR,
-        TextSnippet, TextSpacing, TextWrap, TimelineView, Translate, Translate2, Underline,
-        WubiInput)
+        TextSnippet, TextSpacing, TextWrap, TimelineView, Translate, Translate2, TranslateAi,
+        TranslateAi2, Underline, WubiInput)
     return __AllIcons!!
   }

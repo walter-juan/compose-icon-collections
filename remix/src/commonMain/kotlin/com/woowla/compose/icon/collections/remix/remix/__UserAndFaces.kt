@@ -2,8 +2,12 @@ package com.woowla.compose.icon.collections.remix.remix
 
 import androidx.compose.ui.graphics.vector.ImageVector
 import com.woowla.compose.icon.collections.remix.Remix
+import com.woowla.compose.icon.collections.remix.remix.userandfaces.AccountBox2Fill
+import com.woowla.compose.icon.collections.remix.remix.userandfaces.AccountBox2Line
 import com.woowla.compose.icon.collections.remix.remix.userandfaces.AccountBoxFill
 import com.woowla.compose.icon.collections.remix.remix.userandfaces.AccountBoxLine
+import com.woowla.compose.icon.collections.remix.remix.userandfaces.AccountCircle2Fill
+import com.woowla.compose.icon.collections.remix.remix.userandfaces.AccountCircle2Line
 import com.woowla.compose.icon.collections.remix.remix.userandfaces.AccountCircleFill
 import com.woowla.compose.icon.collections.remix.remix.userandfaces.AccountCircleLine
 import com.woowla.compose.icon.collections.remix.remix.userandfaces.AccountPinBoxFill
@@ -88,6 +92,8 @@ import com.woowla.compose.icon.collections.remix.remix.userandfaces.User6Fill
 import com.woowla.compose.icon.collections.remix.remix.userandfaces.User6Line
 import com.woowla.compose.icon.collections.remix.remix.userandfaces.UserAddFill
 import com.woowla.compose.icon.collections.remix.remix.userandfaces.UserAddLine
+import com.woowla.compose.icon.collections.remix.remix.userandfaces.UserCommunityFill
+import com.woowla.compose.icon.collections.remix.remix.userandfaces.UserCommunityLine
 import com.woowla.compose.icon.collections.remix.remix.userandfaces.UserFill
 import com.woowla.compose.icon.collections.remix.remix.userandfaces.UserFollowFill
 import com.woowla.compose.icon.collections.remix.remix.userandfaces.UserFollowLine
@@ -136,7 +142,8 @@ public val UserAndFacesGroup.AllIcons: ____KtList<ImageVector>
     if (__AllIcons != null) {
       return __AllIcons!!
     }
-    __AllIcons= listOf(AccountBoxFill, AccountBoxLine, AccountCircleFill, AccountCircleLine,
+    __AllIcons= listOf(AccountBox2Fill, AccountBox2Line, AccountBoxFill, AccountBoxLine,
+        AccountCircle2Fill, AccountCircle2Line, AccountCircleFill, AccountCircleLine,
         AccountPinBoxFill, AccountPinBoxLine, AccountPinCircleFill, AccountPinCircleLine, AdminFill,
         AdminLine, AliensFill, AliensLine, BearSmileFill, BearSmileLine, BodyScanFill, BodyScanLine,
         ContactsFill, ContactsLine, CriminalFill, CriminalLine, Emotion2Fill, Emotion2Line,
@@ -149,12 +156,12 @@ public val UserAndFacesGroup.AllIcons: ____KtList<ImageVector>
         Robot3Line, RobotFill, RobotLine, Skull2Fill, Skull2Line, SkullFill, SkullLine, SpyFill,
         SpyLine, StarSmileFill, StarSmileLine, TeamFill, TeamLine, TravestiFill, TravestiLine,
         User2Fill, User2Line, User3Fill, User3Line, User4Fill, User4Line, User5Fill, User5Line,
-        User6Fill, User6Line, UserAddFill, UserAddLine, UserFill, UserFollowFill, UserFollowLine,
-        UserForbidFill, UserForbidLine, UserHeartFill, UserHeartLine, UserLine, UserLocationFill,
-        UserLocationLine, UserMinusFill, UserMinusLine, UserReceived2Fill, UserReceived2Line,
-        UserReceivedFill, UserReceivedLine, UserSearchFill, UserSearchLine, UserSettingsFill,
-        UserSettingsLine, UserShared2Fill, UserShared2Line, UserSharedFill, UserSharedLine,
-        UserSmileFill, UserSmileLine, UserStarFill, UserStarLine, UserUnfollowFill,
-        UserUnfollowLine, UserVoiceFill, UserVoiceLine, WomenFill, WomenLine)
+        User6Fill, User6Line, UserAddFill, UserAddLine, UserCommunityFill, UserCommunityLine,
+        UserFill, UserFollowFill, UserFollowLine, UserForbidFill, UserForbidLine, UserHeartFill,
+        UserHeartLine, UserLine, UserLocationFill, UserLocationLine, UserMinusFill, UserMinusLine,
+        UserReceived2Fill, UserReceived2Line, UserReceivedFill, UserReceivedLine, UserSearchFill,
+        UserSearchLine, UserSettingsFill, UserSettingsLine, UserShared2Fill, UserShared2Line,
+        UserSharedFill, UserSharedLine, UserSmileFill, UserSmileLine, UserStarFill, UserStarLine,
+        UserUnfollowFill, UserUnfollowLine, UserVoiceFill, UserVoiceLine, WomenFill, WomenLine)
     return __AllIcons!!
   }

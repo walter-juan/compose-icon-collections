@@ -10,6 +10,8 @@ import com.woowla.compose.icon.collections.remix.remix.development.Bug2Fill
 import com.woowla.compose.icon.collections.remix.remix.development.Bug2Line
 import com.woowla.compose.icon.collections.remix.remix.development.BugFill
 import com.woowla.compose.icon.collections.remix.remix.development.BugLine
+import com.woowla.compose.icon.collections.remix.remix.development.CodeAiFill
+import com.woowla.compose.icon.collections.remix.remix.development.CodeAiLine
 import com.woowla.compose.icon.collections.remix.remix.development.CodeBoxFill
 import com.woowla.compose.icon.collections.remix.remix.development.CodeBoxLine
 import com.woowla.compose.icon.collections.remix.remix.development.CodeFill
@@ -50,6 +52,8 @@ import com.woowla.compose.icon.collections.remix.remix.development.JavascriptFil
 import com.woowla.compose.icon.collections.remix.remix.development.JavascriptLine
 import com.woowla.compose.icon.collections.remix.remix.development.ParenthesesFill
 import com.woowla.compose.icon.collections.remix.remix.development.ParenthesesLine
+import com.woowla.compose.icon.collections.remix.remix.development.PhpFill
+import com.woowla.compose.icon.collections.remix.remix.development.PhpLine
 import com.woowla.compose.icon.collections.remix.remix.development.Puzzle2Fill
 import com.woowla.compose.icon.collections.remix.remix.development.Puzzle2Line
 import com.woowla.compose.icon.collections.remix.remix.development.PuzzleFill
@@ -75,15 +79,15 @@ public val DevelopmentGroup.AllIcons: ____KtList<ImageVector>
       return __AllIcons!!
     }
     __AllIcons= listOf(BracesFill, BracesLine, BracketsFill, BracketsLine, Bug2Fill, Bug2Line,
-        BugFill, BugLine, CodeBoxFill, CodeBoxLine, CodeFill, CodeLine, CodeSFill, CodeSLine,
-        CodeSSlashFill, CodeSSlashLine, CommandFill, CommandLine, Css3Fill, Css3Line, CursorFill,
-        CursorLine, GitBranchFill, GitBranchLine, GitClosePullRequestFill, GitClosePullRequestLine,
-        GitCommitFill, GitCommitLine, GitForkFill, GitForkLine, GitMergeFill, GitMergeLine,
-        GitPrDraftFill, GitPrDraftLine, GitPullRequestFill, GitPullRequestLine,
-        GitRepositoryCommitsFill, GitRepositoryCommitsLine, GitRepositoryFill, GitRepositoryLine,
-        GitRepositoryPrivateFill, GitRepositoryPrivateLine, Html5Fill, Html5Line, JavascriptFill,
-        JavascriptLine, ParenthesesFill, ParenthesesLine, Puzzle2Fill, Puzzle2Line, PuzzleFill,
-        PuzzleLine, TerminalBoxFill, TerminalBoxLine, TerminalFill, TerminalLine,
-        TerminalWindowFill, TerminalWindowLine)
+        BugFill, BugLine, CodeAiFill, CodeAiLine, CodeBoxFill, CodeBoxLine, CodeFill, CodeLine,
+        CodeSFill, CodeSLine, CodeSSlashFill, CodeSSlashLine, CommandFill, CommandLine, Css3Fill,
+        Css3Line, CursorFill, CursorLine, GitBranchFill, GitBranchLine, GitClosePullRequestFill,
+        GitClosePullRequestLine, GitCommitFill, GitCommitLine, GitForkFill, GitForkLine,
+        GitMergeFill, GitMergeLine, GitPrDraftFill, GitPrDraftLine, GitPullRequestFill,
+        GitPullRequestLine, GitRepositoryCommitsFill, GitRepositoryCommitsLine, GitRepositoryFill,
+        GitRepositoryLine, GitRepositoryPrivateFill, GitRepositoryPrivateLine, Html5Fill, Html5Line,
+        JavascriptFill, JavascriptLine, ParenthesesFill, ParenthesesLine, PhpFill, PhpLine,
+        Puzzle2Fill, Puzzle2Line, PuzzleFill, PuzzleLine, TerminalBoxFill, TerminalBoxLine,
+        TerminalFill, TerminalLine, TerminalWindowFill, TerminalWindowLine)
     return __AllIcons!!
   }

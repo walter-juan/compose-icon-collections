@@ -58,6 +58,8 @@ import com.woowla.compose.icon.collections.remix.remix.healthandmedical.NurseFil
 import com.woowla.compose.icon.collections.remix.remix.healthandmedical.NurseLine
 import com.woowla.compose.icon.collections.remix.remix.healthandmedical.PsychotherapyFill
 import com.woowla.compose.icon.collections.remix.remix.healthandmedical.PsychotherapyLine
+import com.woowla.compose.icon.collections.remix.remix.healthandmedical.PulseAiFill
+import com.woowla.compose.icon.collections.remix.remix.healthandmedical.PulseAiLine
 import com.woowla.compose.icon.collections.remix.remix.healthandmedical.PulseFill
 import com.woowla.compose.icon.collections.remix.remix.healthandmedical.PulseLine
 import com.woowla.compose.icon.collections.remix.remix.healthandmedical.RestTimeFill
@@ -99,9 +101,9 @@ public val HealthAndMedicalGroup.AllIcons: ____KtList<ImageVector>
         HeartPulseFill, HeartPulseLine, HeartsFill, HeartsLine, InfraredThermometerFill,
         InfraredThermometerLine, LungsFill, LungsLine, MedicineBottleFill, MedicineBottleLine,
         MentalHealthFill, MentalHealthLine, MicroscopeFill, MicroscopeLine, NurseFill, NurseLine,
-        PsychotherapyFill, PsychotherapyLine, PulseFill, PulseLine, RestTimeFill, RestTimeLine,
-        StethoscopeFill, StethoscopeLine, SurgicalMaskFill, SurgicalMaskLine, SyringeFill,
-        SyringeLine, TestTubeFill, TestTubeLine, ThermometerFill, ThermometerLine, VirusFill,
-        VirusLine, ZzzFill, ZzzLine)
+        PsychotherapyFill, PsychotherapyLine, PulseAiFill, PulseAiLine, PulseFill, PulseLine,
+        RestTimeFill, RestTimeLine, StethoscopeFill, StethoscopeLine, SurgicalMaskFill,
+        SurgicalMaskLine, SyringeFill, SyringeLine, TestTubeFill, TestTubeLine, ThermometerFill,
+        ThermometerLine, VirusFill, VirusLine, ZzzFill, ZzzLine)
     return __AllIcons!!
   }

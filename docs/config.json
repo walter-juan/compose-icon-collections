@@ -2,6 +2,22 @@
     "defaultPack": "tabler",
     "iconPacks": [
         {
+            "name": "Boxicons",
+            "value": "boxicons",
+            "categories": [
+                "solid",
+                "logos",
+                "regular"
+            ]
+        },
+        {
+            "name": "Octicons",
+            "value": "octicons",
+            "categories": [
+                ""
+            ]
+        },
+        {
             "name": "Remix icons",
             "value": "remix",
             "categories": [
@@ -27,27 +43,11 @@
             ]
         },
         {
-            "name": "Octicons",
-            "value": "octicons",
-            "categories": [
-                ""
-            ]
-        },
-        {
             "name": "Tabler",
             "value": "tabler",
             "categories": [
                 "outline",
                 "filled"
-            ]
-        },
-        {
-            "name": "Boxicons",
-            "value": "boxicons",
-            "categories": [
-                "solid",
-                "logos",
-                "regular"
             ]
         }
     ]

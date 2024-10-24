@@ -1,690 +1,690 @@
 [
     {
         "name": "Remix.Device.UninstallLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/uninstall-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/uninstall-line.svg"
     },
     {
         "name": "Remix.Device.PhoneFindFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/phone-find-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/phone-find-fill.svg"
     },
     {
         "name": "Remix.Device.ComputerFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/computer-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/computer-fill.svg"
     },
     {
         "name": "Remix.Device.Tv2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/tv-2-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/tv-2-line.svg"
     },
     {
         "name": "Remix.Device.AirplayFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/airplay-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/airplay-fill.svg"
     },
     {
         "name": "Remix.Device.SimCardFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/sim-card-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/sim-card-fill.svg"
     },
     {
         "name": "Remix.Device.PhoneFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/phone-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/phone-fill.svg"
     },
     {
         "name": "Remix.Device.KeyboardLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/keyboard-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/keyboard-line.svg"
     },
     {
         "name": "Remix.Device.GpsFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/gps-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/gps-fill.svg"
     },
     {
         "name": "Remix.Device.BatteryLowLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/battery-low-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/battery-low-line.svg"
     },
     {
         "name": "Remix.Device.ComputerLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/computer-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/computer-line.svg"
     },
     {
         "name": "Remix.Device.MacbookFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/macbook-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/macbook-fill.svg"
     },
     {
         "name": "Remix.Device.BluetoothConnectFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/bluetooth-connect-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/bluetooth-connect-fill.svg"
     },
     {
         "name": "Remix.Device.HotspotLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/hotspot-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/hotspot-line.svg"
     },
     {
         "name": "Remix.Device.ServerLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/server-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/server-line.svg"
     },
     {
         "name": "Remix.Device.BarcodeBoxFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/barcode-box-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/barcode-box-fill.svg"
     },
     {
         "name": "Remix.Device.KeyboardBoxFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/keyboard-box-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/keyboard-box-fill.svg"
     },
     {
         "name": "Remix.Device.BluetoothLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/bluetooth-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/bluetooth-line.svg"
     },
     {
         "name": "Remix.Device.GamepadLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/gamepad-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/gamepad-line.svg"
     },
     {
         "name": "Remix.Device.RfidLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/rfid-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/rfid-line.svg"
     },
     {
         "name": "Remix.Device.KeyboardBoxLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/keyboard-box-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/keyboard-box-line.svg"
     },
     {
         "name": "Remix.Device.Save2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/save-2-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/save-2-line.svg"
     },
     {
         "name": "Remix.Device.SaveFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/save-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/save-fill.svg"
     },
     {
         "name": "Remix.Device.SimCardLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/sim-card-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/sim-card-line.svg"
     },
     {
         "name": "Remix.Device.RouterLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/router-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/router-line.svg"
     },
     {
         "name": "Remix.Device.BatteryLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/battery-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/battery-line.svg"
     },
     {
         "name": "Remix.Device.Save3Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/save-3-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/save-3-fill.svg"
     },
     {
         "name": "Remix.Device.InstanceLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/instance-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/instance-line.svg"
     },
     {
         "name": "Remix.Device.GradienterFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/gradienter-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/gradienter-fill.svg"
     },
     {
         "name": "Remix.Device.SdCardLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/sd-card-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/sd-card-line.svg"
     },
     {
         "name": "Remix.Device.BarcodeFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/barcode-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/barcode-fill.svg"
     },
     {
         "name": "Remix.Device.InstallFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/install-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/install-fill.svg"
     },
     {
         "name": "Remix.Device.MacFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/mac-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/mac-fill.svg"
     },
     {
         "name": "Remix.Device.MobileDownloadLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/mobile-download-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/mobile-download-line.svg"
     },
     {
         "name": "Remix.Device.QrCodeFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/qr-code-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/qr-code-fill.svg"
     },
     {
         "name": "Remix.Device.FingerprintFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/fingerprint-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/fingerprint-fill.svg"
     },
     {
         "name": "Remix.Device.SimCard2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/sim-card-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/sim-card-2-fill.svg"
     },
     {
         "name": "Remix.Device.BarcodeLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/barcode-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/barcode-line.svg"
     },
     {
         "name": "Remix.Device.BatteryChargeLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/battery-charge-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/battery-charge-line.svg"
     },
     {
         "name": "Remix.Device.RotateLockLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/rotate-lock-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/rotate-lock-line.svg"
     },
     {
         "name": "Remix.Device.UsbFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/usb-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/usb-fill.svg"
     },
     {
         "name": "Remix.Device.SignalWifi3Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/signal-wifi-3-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/signal-wifi-3-line.svg"
     },
     {
         "name": "Remix.Device.BatteryChargeFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/battery-charge-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/battery-charge-fill.svg"
     },
     {
         "name": "Remix.Device.InstanceFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/instance-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/instance-fill.svg"
     },
     {
         "name": "Remix.Device.ShutDownFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/shut-down-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/shut-down-fill.svg"
     },
     {
         "name": "Remix.Device.PhoneLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/phone-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/phone-line.svg"
     },
     {
         "name": "Remix.Device.Save2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/save-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/save-2-fill.svg"
     },
     {
         "name": "Remix.Device.SdCardMiniFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/sd-card-mini-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/sd-card-mini-fill.svg"
     },
     {
         "name": "Remix.Device.RemoteControlFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/remote-control-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/remote-control-fill.svg"
     },
     {
         "name": "Remix.Device.GamepadFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/gamepad-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/gamepad-fill.svg"
     },
     {
         "name": "Remix.Device.Battery2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/battery-2-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/battery-2-line.svg"
     },
     {
         "name": "Remix.Device.Ram2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/ram-2-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/ram-2-line.svg"
     },
     {
         "name": "Remix.Device.RssLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/rss-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/rss-line.svg"
     },
     {
         "name": "Remix.Device.CellphoneLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/cellphone-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/cellphone-line.svg"
     },
     {
         "name": "Remix.Device.RamLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/ram-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/ram-line.svg"
     },
     {
         "name": "Remix.Device.RestartLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/restart-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/restart-line.svg"
     },
     {
         "name": "Remix.Device.RadarFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/radar-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/radar-fill.svg"
     },
     {
         "name": "Remix.Device.SignalWifiOffLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/signal-wifi-off-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/signal-wifi-off-line.svg"
     },
     {
         "name": "Remix.Device.CpuLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/cpu-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/cpu-line.svg"
     },
     {
         "name": "Remix.Device.Battery2ChargeFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/battery-2-charge-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/battery-2-charge-fill.svg"
     },
     {
         "name": "Remix.Device.UDiskFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/u-disk-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/u-disk-fill.svg"
     },
     {
         "name": "Remix.Device.PhoneFindLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/phone-find-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/phone-find-line.svg"
     },
     {
         "name": "Remix.Device.RemoteControl2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/remote-control-2-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/remote-control-2-line.svg"
     },
     {
         "name": "Remix.Device.BatterySaverLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/battery-saver-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/battery-saver-line.svg"
     },
     {
         "name": "Remix.Device.QrScan2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/qr-scan-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/qr-scan-2-fill.svg"
     },
     {
         "name": "Remix.Device.HardDrive2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/hard-drive-2-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/hard-drive-2-line.svg"
     },
     {
         "name": "Remix.Device.DeviceFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/device-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/device-fill.svg"
     },
     {
         "name": "Remix.Device.SignalWifi3Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/signal-wifi-3-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/signal-wifi-3-fill.svg"
     },
     {
         "name": "Remix.Device.FingerprintLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/fingerprint-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/fingerprint-line.svg"
     },
     {
         "name": "Remix.Device.Tv2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/tv-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/tv-2-fill.svg"
     },
     {
         "name": "Remix.Device.DualSim2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/dual-sim-2-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/dual-sim-2-line.svg"
     },
     {
         "name": "Remix.Device.BatteryShareFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/battery-share-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/battery-share-fill.svg"
     },
     {
         "name": "Remix.Device.BatteryFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/battery-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/battery-fill.svg"
     },
     {
         "name": "Remix.Device.Database2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/database-2-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/database-2-line.svg"
     },
     {
         "name": "Remix.Device.QrScan2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/qr-scan-2-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/qr-scan-2-line.svg"
     },
     {
         "name": "Remix.Device.SignalWifiErrorFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/signal-wifi-error-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/signal-wifi-error-fill.svg"
     },
     {
         "name": "Remix.Device.MouseLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/mouse-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/mouse-line.svg"
     },
     {
         "name": "Remix.Device.UninstallFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/uninstall-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/uninstall-fill.svg"
     },
     {
         "name": "Remix.Device.SignalWifiOffFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/signal-wifi-off-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/signal-wifi-off-fill.svg"
     },
     {
         "name": "Remix.Device.SignalWifiErrorLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/signal-wifi-error-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/signal-wifi-error-line.svg"
     },
     {
         "name": "Remix.Device.SimCard2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/sim-card-2-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/sim-card-2-line.svg"
     },
     {
         "name": "Remix.Device.PhoneLockFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/phone-lock-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/phone-lock-fill.svg"
     },
     {
         "name": "Remix.Device.GradienterLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/gradienter-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/gradienter-line.svg"
     },
     {
         "name": "Remix.Device.MobileDownloadFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/mobile-download-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/mobile-download-fill.svg"
     },
     {
         "name": "Remix.Device.BluetoothConnectLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/bluetooth-connect-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/bluetooth-connect-line.svg"
     },
     {
         "name": "Remix.Device.Dashboard2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/dashboard-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/dashboard-2-fill.svg"
     },
     {
         "name": "Remix.Device.Scan2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/scan-2-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/scan-2-line.svg"
     },
     {
         "name": "Remix.Device.BatterySaverFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/battery-saver-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/battery-saver-fill.svg"
     },
     {
         "name": "Remix.Device.KeyboardFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/keyboard-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/keyboard-fill.svg"
     },
     {
         "name": "Remix.Device.UsbLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/usb-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/usb-line.svg"
     },
     {
         "name": "Remix.Device.WifiLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/wifi-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/wifi-line.svg"
     },
     {
         "name": "Remix.Device.MacbookLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/macbook-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/macbook-line.svg"
     },
     {
         "name": "Remix.Device.HardDrive2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/hard-drive-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/hard-drive-2-fill.svg"
     },
     {
         "name": "Remix.Device.Fingerprint2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/fingerprint-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/fingerprint-2-fill.svg"
     },
     {
         "name": "Remix.Device.RotateLockFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/rotate-lock-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/rotate-lock-fill.svg"
     },
     {
         "name": "Remix.Device.HardDrive3Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/hard-drive-3-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/hard-drive-3-fill.svg"
     },
     {
         "name": "Remix.Device.DeviceRecoverFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/device-recover-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/device-recover-fill.svg"
     },
     {
         "name": "Remix.Device.CpuFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/cpu-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/cpu-fill.svg"
     },
     {
         "name": "Remix.Device.MouseFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/mouse-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/mouse-fill.svg"
     },
     {
         "name": "Remix.Device.RemoteControl2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/remote-control-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/remote-control-2-fill.svg"
     },
     {
         "name": "Remix.Device.Battery2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/battery-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/battery-2-fill.svg"
     },
     {
         "name": "Remix.Device.AirplayLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/airplay-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/airplay-line.svg"
     },
     {
         "name": "Remix.Device.Dashboard3Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/dashboard-3-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/dashboard-3-fill.svg"
     },
     {
         "name": "Remix.Device.HardDrive3Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/hard-drive-3-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/hard-drive-3-line.svg"
     },
     {
         "name": "Remix.Device.DualSim1Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/dual-sim-1-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/dual-sim-1-fill.svg"
     },
     {
         "name": "Remix.Device.SignalWifi2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/signal-wifi-2-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/signal-wifi-2-line.svg"
     },
     {
         "name": "Remix.Device.WirelessChargingFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/wireless-charging-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/wireless-charging-fill.svg"
     },
     {
         "name": "Remix.Device.Save3Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/save-3-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/save-3-line.svg"
     },
     {
         "name": "Remix.Device.Dashboard3Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/dashboard-3-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/dashboard-3-line.svg"
     },
     {
         "name": "Remix.Device.ServerFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/server-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/server-fill.svg"
     },
     {
         "name": "Remix.Device.TvLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/tv-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/tv-line.svg"
     },
     {
         "name": "Remix.Device.HardDriveFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/hard-drive-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/hard-drive-fill.svg"
     },
     {
         "name": "Remix.Device.SignalWifi2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/signal-wifi-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/signal-wifi-2-fill.svg"
     },
     {
         "name": "Remix.Device.BluetoothFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/bluetooth-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/bluetooth-fill.svg"
     },
     {
         "name": "Remix.Device.DatabaseFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/database-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/database-fill.svg"
     },
     {
         "name": "Remix.Device.SdCardFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/sd-card-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/sd-card-fill.svg"
     },
     {
         "name": "Remix.Device.TabletLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/tablet-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/tablet-line.svg"
     },
     {
         "name": "Remix.Device.DatabaseLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/database-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/database-line.svg"
     },
     {
         "name": "Remix.Device.QrScanFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/qr-scan-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/qr-scan-fill.svg"
     },
     {
         "name": "Remix.Device.SensorFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/sensor-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/sensor-fill.svg"
     },
     {
         "name": "Remix.Device.WifiFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/wifi-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/wifi-fill.svg"
     },
     {
         "name": "Remix.Device.BatteryLowFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/battery-low-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/battery-low-fill.svg"
     },
     {
         "name": "Remix.Device.ScanFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/scan-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/scan-fill.svg"
     },
     {
         "name": "Remix.Device.TabletFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/tablet-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/tablet-fill.svg"
     },
     {
         "name": "Remix.Device.CellphoneFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/cellphone-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/cellphone-fill.svg"
     },
     {
         "name": "Remix.Device.CastLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/cast-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/cast-line.svg"
     },
     {
         "name": "Remix.Device.ShutDownLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/shut-down-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/shut-down-line.svg"
     },
     {
         "name": "Remix.Device.RemoteControlLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/remote-control-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/remote-control-line.svg"
     },
     {
         "name": "Remix.Device.CastFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/cast-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/cast-fill.svg"
     },
     {
         "name": "Remix.Device.SignalWifi1Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/signal-wifi-1-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/signal-wifi-1-fill.svg"
     },
     {
         "name": "Remix.Device.QrCodeLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/qr-code-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/qr-code-line.svg"
     },
     {
         "name": "Remix.Device.DualSim2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/dual-sim-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/dual-sim-2-fill.svg"
     },
     {
         "name": "Remix.Device.WifiOffLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/wifi-off-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/wifi-off-line.svg"
     },
     {
         "name": "Remix.Device.HardDriveLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/hard-drive-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/hard-drive-line.svg"
     },
     {
         "name": "Remix.Device.GpsLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/gps-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/gps-line.svg"
     },
     {
         "name": "Remix.Device.WifiOffFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/wifi-off-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/wifi-off-fill.svg"
     },
     {
         "name": "Remix.Device.Dashboard2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/dashboard-2-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/dashboard-2-line.svg"
     },
     {
         "name": "Remix.Device.SaveLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/save-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/save-line.svg"
     },
     {
         "name": "Remix.Device.Battery2ChargeLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/battery-2-charge-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/battery-2-charge-line.svg"
     },
     {
         "name": "Remix.Device.BatteryShareLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/battery-share-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/battery-share-line.svg"
     },
     {
         "name": "Remix.Device.MacLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/mac-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/mac-line.svg"
     },
     {
         "name": "Remix.Device.PhoneLockLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/phone-lock-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/phone-lock-line.svg"
     },
     {
         "name": "Remix.Device.WirelessChargingLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/wireless-charging-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/wireless-charging-line.svg"
     },
     {
         "name": "Remix.Device.BarcodeBoxLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/barcode-box-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/barcode-box-line.svg"
     },
     {
         "name": "Remix.Device.SmartphoneLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/smartphone-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/smartphone-line.svg"
     },
     {
         "name": "Remix.Device.SignalWifiLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/signal-wifi-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/signal-wifi-line.svg"
     },
     {
         "name": "Remix.Device.RamFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/ram-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/ram-fill.svg"
     },
     {
         "name": "Remix.Device.InstallLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/install-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/install-line.svg"
     },
     {
         "name": "Remix.Device.ScanLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/scan-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/scan-line.svg"
     },
     {
         "name": "Remix.Device.SdCardMiniLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/sd-card-mini-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/sd-card-mini-line.svg"
     },
     {
         "name": "Remix.Device.SmartphoneFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/smartphone-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/smartphone-fill.svg"
     },
     {
         "name": "Remix.Device.UDiskLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/u-disk-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/u-disk-line.svg"
     },
     {
         "name": "Remix.Device.RfidFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/rfid-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/rfid-fill.svg"
     },
     {
         "name": "Remix.Device.DeviceLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/device-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/device-line.svg"
     },
     {
         "name": "Remix.Device.Fingerprint2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/fingerprint-2-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/fingerprint-2-line.svg"
     },
     {
         "name": "Remix.Device.RouterFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/router-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/router-fill.svg"
     },
     {
         "name": "Remix.Device.Ram2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/ram-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/ram-2-fill.svg"
     },
     {
         "name": "Remix.Device.DualSim1Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/dual-sim-1-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/dual-sim-1-line.svg"
     },
     {
         "name": "Remix.Device.Database2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/database-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/database-2-fill.svg"
     },
     {
         "name": "Remix.Device.SignalWifiFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/signal-wifi-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/signal-wifi-fill.svg"
     },
     {
         "name": "Remix.Device.BaseStationFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/base-station-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/base-station-fill.svg"
     },
     {
         "name": "Remix.Device.Scan2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/scan-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/scan-2-fill.svg"
     },
     {
         "name": "Remix.Device.QrScanLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/qr-scan-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/qr-scan-line.svg"
     },
     {
         "name": "Remix.Device.RssFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/rss-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/rss-fill.svg"
     },
     {
         "name": "Remix.Device.DeviceRecoverLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/device-recover-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/device-recover-line.svg"
     },
     {
         "name": "Remix.Device.HotspotFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/hotspot-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/hotspot-fill.svg"
     },
     {
         "name": "Remix.Device.BaseStationLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/base-station-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/base-station-line.svg"
     },
     {
         "name": "Remix.Device.TvFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/tv-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/tv-fill.svg"
     },
     {
         "name": "Remix.Device.SignalWifi1Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/signal-wifi-1-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/signal-wifi-1-line.svg"
     },
     {
         "name": "Remix.Device.SensorLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/sensor-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/sensor-line.svg"
     },
     {
         "name": "Remix.Device.RestartFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/restart-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/restart-fill.svg"
     },
     {
         "name": "Remix.Device.RadarLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Device/radar-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Device/radar-line.svg"
     }
 ]

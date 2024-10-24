@@ -34,6 +34,8 @@ import com.woowla.compose.icon.collections.remix.remix.buildings.Home7Fill
 import com.woowla.compose.icon.collections.remix.remix.buildings.Home7Line
 import com.woowla.compose.icon.collections.remix.remix.buildings.Home8Fill
 import com.woowla.compose.icon.collections.remix.remix.buildings.Home8Line
+import com.woowla.compose.icon.collections.remix.remix.buildings.Home9Fill
+import com.woowla.compose.icon.collections.remix.remix.buildings.Home9Line
 import com.woowla.compose.icon.collections.remix.remix.buildings.HomeFill
 import com.woowla.compose.icon.collections.remix.remix.buildings.HomeGearFill
 import com.woowla.compose.icon.collections.remix.remix.buildings.HomeGearLine
@@ -81,10 +83,10 @@ public val BuildingsGroup.AllIcons: ____KtList<ImageVector>
         Building4Fill, Building4Line, BuildingFill, BuildingLine, CommunityFill, CommunityLine,
         GovernmentFill, GovernmentLine, Home2Fill, Home2Line, Home3Fill, Home3Line, Home4Fill,
         Home4Line, Home5Fill, Home5Line, Home6Fill, Home6Line, Home7Fill, Home7Line, Home8Fill,
-        Home8Line, HomeFill, HomeGearFill, HomeGearLine, HomeHeartFill, HomeHeartLine, HomeLine,
-        HomeOfficeFill, HomeOfficeLine, HomeSmile2Fill, HomeSmile2Line, HomeSmileFill,
-        HomeSmileLine, HomeWifiFill, HomeWifiLine, HospitalFill, HospitalLine, HotelFill, HotelLine,
-        SchoolFill, SchoolLine, Store2Fill, Store2Line, Store3Fill, Store3Line, StoreFill,
-        StoreLine, TentFill, TentLine)
+        Home8Line, Home9Fill, Home9Line, HomeFill, HomeGearFill, HomeGearLine, HomeHeartFill,
+        HomeHeartLine, HomeLine, HomeOfficeFill, HomeOfficeLine, HomeSmile2Fill, HomeSmile2Line,
+        HomeSmileFill, HomeSmileLine, HomeWifiFill, HomeWifiLine, HospitalFill, HospitalLine,
+        HotelFill, HotelLine, SchoolFill, SchoolLine, Store2Fill, Store2Line, Store3Fill,
+        Store3Line, StoreFill, StoreLine, TentFill, TentLine)
     return __AllIcons!!
   }

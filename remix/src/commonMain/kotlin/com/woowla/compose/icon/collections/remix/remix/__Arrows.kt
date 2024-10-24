@@ -2,6 +2,8 @@ package com.woowla.compose.icon.collections.remix.remix
 
 import androidx.compose.ui.graphics.vector.ImageVector
 import com.woowla.compose.icon.collections.remix.Remix
+import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowDownBoxFill
+import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowDownBoxLine
 import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowDownCircleFill
 import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowDownCircleLine
 import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowDownDoubleFill
@@ -24,10 +26,14 @@ import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowGoBackFill
 import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowGoBackLine
 import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowGoForwardFill
 import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowGoForwardLine
+import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowLeftBoxFill
+import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowLeftBoxLine
 import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowLeftCircleFill
 import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowLeftCircleLine
 import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowLeftDoubleFill
 import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowLeftDoubleLine
+import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowLeftDownBoxFill
+import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowLeftDownBoxLine
 import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowLeftDownFill
 import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowLeftDownLine
 import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowLeftFill
@@ -36,20 +42,28 @@ import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowLeftRightFill
 import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowLeftRightLine
 import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowLeftSFill
 import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowLeftSLine
+import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowLeftUpBoxFill
+import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowLeftUpBoxLine
 import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowLeftUpFill
 import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowLeftUpLine
 import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowLeftWideFill
 import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowLeftWideLine
+import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowRightBoxFill
+import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowRightBoxLine
 import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowRightCircleFill
 import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowRightCircleLine
 import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowRightDoubleFill
 import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowRightDoubleLine
+import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowRightDownBoxFill
+import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowRightDownBoxLine
 import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowRightDownFill
 import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowRightDownLine
 import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowRightFill
 import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowRightLine
 import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowRightSFill
 import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowRightSLine
+import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowRightUpBoxFill
+import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowRightUpBoxLine
 import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowRightUpFill
 import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowRightUpLine
 import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowRightWideFill
@@ -58,6 +72,8 @@ import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowTurnBackFill
 import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowTurnBackLine
 import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowTurnForwardFill
 import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowTurnForwardLine
+import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowUpBoxFill
+import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowUpBoxLine
 import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowUpCircleFill
 import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowUpCircleLine
 import com.woowla.compose.icon.collections.remix.remix.arrows.ArrowUpDoubleFill
@@ -162,36 +178,39 @@ public val ArrowsGroup.AllIcons: ____KtList<ImageVector>
     if (__AllIcons != null) {
       return __AllIcons!!
     }
-    __AllIcons= listOf(ArrowDownCircleFill, ArrowDownCircleLine, ArrowDownDoubleFill,
-        ArrowDownDoubleLine, ArrowDownFill, ArrowDownLine, ArrowDownSFill, ArrowDownSLine,
-        ArrowDownWideFill, ArrowDownWideLine, ArrowDropDownFill, ArrowDropDownLine,
+    __AllIcons= listOf(ArrowDownBoxFill, ArrowDownBoxLine, ArrowDownCircleFill, ArrowDownCircleLine,
+        ArrowDownDoubleFill, ArrowDownDoubleLine, ArrowDownFill, ArrowDownLine, ArrowDownSFill,
+        ArrowDownSLine, ArrowDownWideFill, ArrowDownWideLine, ArrowDropDownFill, ArrowDropDownLine,
         ArrowDropLeftFill, ArrowDropLeftLine, ArrowDropRightFill, ArrowDropRightLine,
         ArrowDropUpFill, ArrowDropUpLine, ArrowGoBackFill, ArrowGoBackLine, ArrowGoForwardFill,
-        ArrowGoForwardLine, ArrowLeftCircleFill, ArrowLeftCircleLine, ArrowLeftDoubleFill,
-        ArrowLeftDoubleLine, ArrowLeftDownFill, ArrowLeftDownLine, ArrowLeftFill, ArrowLeftLine,
-        ArrowLeftRightFill, ArrowLeftRightLine, ArrowLeftSFill, ArrowLeftSLine, ArrowLeftUpFill,
-        ArrowLeftUpLine, ArrowLeftWideFill, ArrowLeftWideLine, ArrowRightCircleFill,
-        ArrowRightCircleLine, ArrowRightDoubleFill, ArrowRightDoubleLine, ArrowRightDownFill,
-        ArrowRightDownLine, ArrowRightFill, ArrowRightLine, ArrowRightSFill, ArrowRightSLine,
-        ArrowRightUpFill, ArrowRightUpLine, ArrowRightWideFill, ArrowRightWideLine,
-        ArrowTurnBackFill, ArrowTurnBackLine, ArrowTurnForwardFill, ArrowTurnForwardLine,
-        ArrowUpCircleFill, ArrowUpCircleLine, ArrowUpDoubleFill, ArrowUpDoubleLine, ArrowUpDownFill,
-        ArrowUpDownLine, ArrowUpFill, ArrowUpLine, ArrowUpSFill, ArrowUpSLine, ArrowUpWideFill,
-        ArrowUpWideLine, CollapseDiagonal2Fill, CollapseDiagonal2Line, CollapseDiagonalFill,
-        CollapseDiagonalLine, CollapseHorizontalFill, CollapseHorizontalLine, CollapseVerticalFill,
-        CollapseVerticalLine, ContractLeftFill, ContractLeftLine, ContractLeftRightFill,
-        ContractLeftRightLine, ContractRightFill, ContractRightLine, ContractUpDownFill,
-        ContractUpDownLine, CornerDownLeftFill, CornerDownLeftLine, CornerDownRightFill,
-        CornerDownRightLine, CornerLeftDownFill, CornerLeftDownLine, CornerLeftUpFill,
-        CornerLeftUpLine, CornerRightDownFill, CornerRightDownLine, CornerRightUpFill,
-        CornerRightUpLine, CornerUpLeftDoubleFill, CornerUpLeftDoubleLine, CornerUpLeftFill,
-        CornerUpLeftLine, CornerUpRightDoubleFill, CornerUpRightDoubleLine, CornerUpRightFill,
-        CornerUpRightLine, DragMove2Fill, DragMove2Line, DragMoveFill, DragMoveLine,
-        ExpandDiagonal2Fill, ExpandDiagonal2Line, ExpandDiagonalFill, ExpandDiagonalLine,
-        ExpandDiagonalS2Fill, ExpandDiagonalS2Line, ExpandDiagonalSFill, ExpandDiagonalSLine,
-        ExpandHeightFill, ExpandHeightLine, ExpandHorizontalFill, ExpandHorizontalLine,
-        ExpandHorizontalSFill, ExpandHorizontalSLine, ExpandLeftFill, ExpandLeftLine,
-        ExpandLeftRightFill, ExpandLeftRightLine, ExpandRightFill, ExpandRightLine,
+        ArrowGoForwardLine, ArrowLeftBoxFill, ArrowLeftBoxLine, ArrowLeftCircleFill,
+        ArrowLeftCircleLine, ArrowLeftDoubleFill, ArrowLeftDoubleLine, ArrowLeftDownBoxFill,
+        ArrowLeftDownBoxLine, ArrowLeftDownFill, ArrowLeftDownLine, ArrowLeftFill, ArrowLeftLine,
+        ArrowLeftRightFill, ArrowLeftRightLine, ArrowLeftSFill, ArrowLeftSLine, ArrowLeftUpBoxFill,
+        ArrowLeftUpBoxLine, ArrowLeftUpFill, ArrowLeftUpLine, ArrowLeftWideFill, ArrowLeftWideLine,
+        ArrowRightBoxFill, ArrowRightBoxLine, ArrowRightCircleFill, ArrowRightCircleLine,
+        ArrowRightDoubleFill, ArrowRightDoubleLine, ArrowRightDownBoxFill, ArrowRightDownBoxLine,
+        ArrowRightDownFill, ArrowRightDownLine, ArrowRightFill, ArrowRightLine, ArrowRightSFill,
+        ArrowRightSLine, ArrowRightUpBoxFill, ArrowRightUpBoxLine, ArrowRightUpFill,
+        ArrowRightUpLine, ArrowRightWideFill, ArrowRightWideLine, ArrowTurnBackFill,
+        ArrowTurnBackLine, ArrowTurnForwardFill, ArrowTurnForwardLine, ArrowUpBoxFill,
+        ArrowUpBoxLine, ArrowUpCircleFill, ArrowUpCircleLine, ArrowUpDoubleFill, ArrowUpDoubleLine,
+        ArrowUpDownFill, ArrowUpDownLine, ArrowUpFill, ArrowUpLine, ArrowUpSFill, ArrowUpSLine,
+        ArrowUpWideFill, ArrowUpWideLine, CollapseDiagonal2Fill, CollapseDiagonal2Line,
+        CollapseDiagonalFill, CollapseDiagonalLine, CollapseHorizontalFill, CollapseHorizontalLine,
+        CollapseVerticalFill, CollapseVerticalLine, ContractLeftFill, ContractLeftLine,
+        ContractLeftRightFill, ContractLeftRightLine, ContractRightFill, ContractRightLine,
+        ContractUpDownFill, ContractUpDownLine, CornerDownLeftFill, CornerDownLeftLine,
+        CornerDownRightFill, CornerDownRightLine, CornerLeftDownFill, CornerLeftDownLine,
+        CornerLeftUpFill, CornerLeftUpLine, CornerRightDownFill, CornerRightDownLine,
+        CornerRightUpFill, CornerRightUpLine, CornerUpLeftDoubleFill, CornerUpLeftDoubleLine,
+        CornerUpLeftFill, CornerUpLeftLine, CornerUpRightDoubleFill, CornerUpRightDoubleLine,
+        CornerUpRightFill, CornerUpRightLine, DragMove2Fill, DragMove2Line, DragMoveFill,
+        DragMoveLine, ExpandDiagonal2Fill, ExpandDiagonal2Line, ExpandDiagonalFill,
+        ExpandDiagonalLine, ExpandDiagonalS2Fill, ExpandDiagonalS2Line, ExpandDiagonalSFill,
+        ExpandDiagonalSLine, ExpandHeightFill, ExpandHeightLine, ExpandHorizontalFill,
+        ExpandHorizontalLine, ExpandHorizontalSFill, ExpandHorizontalSLine, ExpandLeftFill,
+        ExpandLeftLine, ExpandLeftRightFill, ExpandLeftRightLine, ExpandRightFill, ExpandRightLine,
         ExpandUpDownFill, ExpandUpDownLine, ExpandVerticalFill, ExpandVerticalLine,
         ExpandVerticalSFill, ExpandVerticalSLine, ExpandWidthFill, ExpandWidthLine,
         ScrollToBottomFill, ScrollToBottomLine, SkipDownFill, SkipDownLine, SkipLeftFill,

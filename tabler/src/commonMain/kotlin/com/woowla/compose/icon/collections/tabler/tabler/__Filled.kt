@@ -561,6 +561,21 @@ import com.woowla.compose.icon.collections.tabler.tabler.filled.Pill
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Pin
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Pinned
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Pizza
+import com.woowla.compose.icon.collections.tabler.tabler.filled.PlayCard1
+import com.woowla.compose.icon.collections.tabler.tabler.filled.PlayCard10
+import com.woowla.compose.icon.collections.tabler.tabler.filled.PlayCard2
+import com.woowla.compose.icon.collections.tabler.tabler.filled.PlayCard3
+import com.woowla.compose.icon.collections.tabler.tabler.filled.PlayCard4
+import com.woowla.compose.icon.collections.tabler.tabler.filled.PlayCard5
+import com.woowla.compose.icon.collections.tabler.tabler.filled.PlayCard6
+import com.woowla.compose.icon.collections.tabler.tabler.filled.PlayCard7
+import com.woowla.compose.icon.collections.tabler.tabler.filled.PlayCard8
+import com.woowla.compose.icon.collections.tabler.tabler.filled.PlayCard9
+import com.woowla.compose.icon.collections.tabler.tabler.filled.PlayCardA
+import com.woowla.compose.icon.collections.tabler.tabler.filled.PlayCardJ
+import com.woowla.compose.icon.collections.tabler.tabler.filled.PlayCardK
+import com.woowla.compose.icon.collections.tabler.tabler.filled.PlayCardQ
+import com.woowla.compose.icon.collections.tabler.tabler.filled.PlayCardStar
 import com.woowla.compose.icon.collections.tabler.tabler.filled.PlayerEject
 import com.woowla.compose.icon.collections.tabler.tabler.filled.PlayerPause
 import com.woowla.compose.icon.collections.tabler.tabler.filled.PlayerPlay
@@ -883,7 +898,9 @@ public val FilledGroup.AllIcons: ____KtList<ImageVector>
         MoodCrazyHappy, MoodEmpty, MoodHappy, MoodKid, MoodNeutral, MoodSad, MoodSmile, MoodWrrr,
         Moon, Mountain, Mouse, Mug, Mushroom, Navigation, Octagon, Oval, OvalVertical, Paint,
         PanoramaHorizontal, PanoramaVertical, ParkingCircle, Paw, Pennant, Pennant2, Pentagon,
-        Phone, Photo, PictureInPicture, PictureInPictureTop, Pill, Pin, Pinned, Pizza, PlayerEject,
+        Phone, Photo, PictureInPicture, PictureInPictureTop, Pill, Pin, Pinned, Pizza, PlayCard1,
+        PlayCard10, PlayCard2, PlayCard3, PlayCard4, PlayCard5, PlayCard6, PlayCard7, PlayCard8,
+        PlayCard9, PlayCardA, PlayCardJ, PlayCardK, PlayCardQ, PlayCardStar, PlayerEject,
         PlayerPause, PlayerPlay, PlayerRecord, PlayerSkipBack, PlayerSkipForward, PlayerStop,
         PlayerTrackNext, PlayerTrackPrev, Point, Pointer, Polaroid, Poo, Presentation,
         PresentationAnalytics, Puzzle, Radar, Radioactive, Receipt, Rectangle, RectangleVertical,
