@@ -27,13 +27,6 @@
             ]
         },
         {
-            "name": "Octicons",
-            "value": "octicons",
-            "categories": [
-                ""
-            ]
-        },
-        {
             "name": "Tabler",
             "value": "tabler",
             "categories": [
@@ -48,6 +41,13 @@
                 "solid",
                 "logos",
                 "regular"
+            ]
+        },
+        {
+            "name": "Octicons",
+            "value": "octicons",
+            "categories": [
+                ""
             ]
         }
     ]
