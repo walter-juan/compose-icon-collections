@@ -1,298 +1,306 @@
 [
     {
         "name": "Remix.HealthAndMedical.HandSanitizerFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/hand-sanitizer-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/hand-sanitizer-fill.svg"
     },
     {
         "name": "Remix.HealthAndMedical.AedElectrodesLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/aed-electrodes-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/aed-electrodes-line.svg"
     },
     {
         "name": "Remix.HealthAndMedical.TestTubeLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/test-tube-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/test-tube-line.svg"
     },
     {
         "name": "Remix.HealthAndMedical.DropperLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/dropper-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/dropper-line.svg"
     },
     {
         "name": "Remix.HealthAndMedical.SyringeFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/syringe-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/syringe-fill.svg"
     },
     {
         "name": "Remix.HealthAndMedical.DislikeFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/dislike-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/dislike-fill.svg"
     },
     {
         "name": "Remix.HealthAndMedical.FirstAidKitFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/first-aid-kit-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/first-aid-kit-fill.svg"
     },
     {
         "name": "Remix.HealthAndMedical.FlaskLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/flask-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/flask-line.svg"
     },
     {
         "name": "Remix.HealthAndMedical.NurseLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/nurse-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/nurse-line.svg"
     },
     {
         "name": "Remix.HealthAndMedical.RestTimeFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/rest-time-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/rest-time-fill.svg"
     },
     {
         "name": "Remix.HealthAndMedical.HeartAdd2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/heart-add-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/heart-add-2-fill.svg"
     },
     {
         "name": "Remix.HealthAndMedical.SyringeLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/syringe-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/syringe-line.svg"
     },
     {
         "name": "Remix.HealthAndMedical.HeartAddFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/heart-add-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/heart-add-fill.svg"
     },
     {
         "name": "Remix.HealthAndMedical.DnaLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/dna-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/dna-line.svg"
     },
     {
         "name": "Remix.HealthAndMedical.VirusLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/virus-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/virus-line.svg"
     },
     {
         "name": "Remix.HealthAndMedical.CapsuleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/capsule-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/capsule-fill.svg"
     },
     {
         "name": "Remix.HealthAndMedical.VirusFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/virus-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/virus-fill.svg"
     },
     {
         "name": "Remix.HealthAndMedical.HealthBookFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/health-book-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/health-book-fill.svg"
     },
     {
         "name": "Remix.HealthAndMedical.Heart3Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/heart-3-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/heart-3-line.svg"
     },
     {
         "name": "Remix.HealthAndMedical.DislikeLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/dislike-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/dislike-line.svg"
     },
     {
         "name": "Remix.HealthAndMedical.InfraredThermometerLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/infrared-thermometer-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/infrared-thermometer-line.svg"
     },
     {
         "name": "Remix.HealthAndMedical.ThermometerFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/thermometer-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/thermometer-fill.svg"
     },
     {
         "name": "Remix.HealthAndMedical.HandSanitizerLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/hand-sanitizer-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/hand-sanitizer-line.svg"
     },
     {
         "name": "Remix.HealthAndMedical.DossierFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/dossier-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/dossier-fill.svg"
     },
     {
         "name": "Remix.HealthAndMedical.LungsFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/lungs-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/lungs-fill.svg"
     },
     {
         "name": "Remix.HealthAndMedical.SurgicalMaskLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/surgical-mask-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/surgical-mask-line.svg"
     },
     {
         "name": "Remix.HealthAndMedical.DossierLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/dossier-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/dossier-line.svg"
     },
     {
         "name": "Remix.HealthAndMedical.Heart2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/heart-2-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/heart-2-line.svg"
     },
     {
         "name": "Remix.HealthAndMedical.FlaskFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/flask-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/flask-fill.svg"
     },
     {
         "name": "Remix.HealthAndMedical.HeartAdd2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/heart-add-2-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/heart-add-2-line.svg"
     },
     {
         "name": "Remix.HealthAndMedical.DnaFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/dna-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/dna-fill.svg"
     },
     {
         "name": "Remix.HealthAndMedical.HeartPulseFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/heart-pulse-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/heart-pulse-fill.svg"
     },
     {
         "name": "Remix.HealthAndMedical.HeartsLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/hearts-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/hearts-line.svg"
     },
     {
         "name": "Remix.HealthAndMedical.MicroscopeLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/microscope-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/microscope-line.svg"
     },
     {
         "name": "Remix.HealthAndMedical.ZzzFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/zzz-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/zzz-fill.svg"
     },
     {
         "name": "Remix.HealthAndMedical.PulseFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/pulse-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/pulse-fill.svg"
     },
     {
         "name": "Remix.HealthAndMedical.PulseLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/pulse-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/pulse-line.svg"
     },
     {
         "name": "Remix.HealthAndMedical.RestTimeLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/rest-time-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/rest-time-line.svg"
     },
     {
         "name": "Remix.HealthAndMedical.HealthBookLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/health-book-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/health-book-line.svg"
     },
     {
         "name": "Remix.HealthAndMedical.PsychotherapyFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/psychotherapy-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/psychotherapy-fill.svg"
+    },
+    {
+        "name": "Remix.HealthAndMedical.PulseAiFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/pulse-ai-fill.svg"
     },
     {
         "name": "Remix.HealthAndMedical.Heart2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/heart-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/heart-2-fill.svg"
     },
     {
         "name": "Remix.HealthAndMedical.AedElectrodesFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/aed-electrodes-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/aed-electrodes-fill.svg"
     },
     {
         "name": "Remix.HealthAndMedical.HeartLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/heart-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/heart-line.svg"
     },
     {
         "name": "Remix.HealthAndMedical.Heart3Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/heart-3-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/heart-3-fill.svg"
     },
     {
         "name": "Remix.HealthAndMedical.Brain2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/brain-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/brain-2-fill.svg"
     },
     {
         "name": "Remix.HealthAndMedical.MicroscopeFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/microscope-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/microscope-fill.svg"
     },
     {
         "name": "Remix.HealthAndMedical.MentalHealthLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/mental-health-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/mental-health-line.svg"
     },
     {
         "name": "Remix.HealthAndMedical.InfraredThermometerFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/infrared-thermometer-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/infrared-thermometer-fill.svg"
     },
     {
         "name": "Remix.HealthAndMedical.BrainFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/brain-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/brain-fill.svg"
     },
     {
         "name": "Remix.HealthAndMedical.PsychotherapyLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/psychotherapy-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/psychotherapy-line.svg"
     },
     {
         "name": "Remix.HealthAndMedical.MedicineBottleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/medicine-bottle-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/medicine-bottle-line.svg"
     },
     {
         "name": "Remix.HealthAndMedical.FirstAidKitLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/first-aid-kit-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/first-aid-kit-line.svg"
+    },
+    {
+        "name": "Remix.HealthAndMedical.PulseAiLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/pulse-ai-line.svg"
     },
     {
         "name": "Remix.HealthAndMedical.MentalHealthFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/mental-health-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/mental-health-fill.svg"
     },
     {
         "name": "Remix.HealthAndMedical.ThermometerLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/thermometer-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/thermometer-line.svg"
     },
     {
         "name": "Remix.HealthAndMedical.DropperFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/dropper-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/dropper-fill.svg"
     },
     {
         "name": "Remix.HealthAndMedical.MedicineBottleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/medicine-bottle-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/medicine-bottle-fill.svg"
     },
     {
         "name": "Remix.HealthAndMedical.HeartsFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/hearts-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/hearts-fill.svg"
     },
     {
         "name": "Remix.HealthAndMedical.TestTubeFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/test-tube-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/test-tube-fill.svg"
     },
     {
         "name": "Remix.HealthAndMedical.Brain2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/brain-2-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/brain-2-line.svg"
     },
     {
         "name": "Remix.HealthAndMedical.HeartFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/heart-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/heart-fill.svg"
     },
     {
         "name": "Remix.HealthAndMedical.EmpathizeFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/empathize-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/empathize-fill.svg"
     },
     {
         "name": "Remix.HealthAndMedical.HeartPulseLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/heart-pulse-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/heart-pulse-line.svg"
     },
     {
         "name": "Remix.HealthAndMedical.AedLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/aed-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/aed-line.svg"
     },
     {
         "name": "Remix.HealthAndMedical.StethoscopeLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/stethoscope-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/stethoscope-line.svg"
     },
     {
         "name": "Remix.HealthAndMedical.AedFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/aed-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/aed-fill.svg"
     },
     {
         "name": "Remix.HealthAndMedical.StethoscopeFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/stethoscope-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/stethoscope-fill.svg"
     },
     {
         "name": "Remix.HealthAndMedical.NurseFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/nurse-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/nurse-fill.svg"
     },
     {
         "name": "Remix.HealthAndMedical.ZzzLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/zzz-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/zzz-line.svg"
     },
     {
         "name": "Remix.HealthAndMedical.CapsuleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/capsule-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/capsule-line.svg"
     },
     {
         "name": "Remix.HealthAndMedical.HeartAddLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/heart-add-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/heart-add-line.svg"
     },
     {
         "name": "Remix.HealthAndMedical.SurgicalMaskFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/surgical-mask-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/surgical-mask-fill.svg"
     },
     {
         "name": "Remix.HealthAndMedical.EmpathizeLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/empathize-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/empathize-line.svg"
     },
     {
         "name": "Remix.HealthAndMedical.BrainLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/brain-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/brain-line.svg"
     },
     {
         "name": "Remix.HealthAndMedical.LungsLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/Health & Medical/lungs-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Health & Medical/lungs-line.svg"
     }
 ]

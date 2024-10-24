@@ -21,13 +21,13 @@ public val ArrowsGroup.ArrowLeftWideLine: ImageVector
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(8.369f, 12.0f)
+                moveTo(8.368f, 12.0f)
                 lineTo(13.116f, 3.032f)
                 lineTo(14.884f, 3.968f)
                 lineTo(10.632f, 12.0f)
                 lineTo(14.884f, 20.032f)
                 lineTo(13.116f, 20.968f)
-                lineTo(8.369f, 12.0f)
+                lineTo(8.368f, 12.0f)
                 close()
             }
         }

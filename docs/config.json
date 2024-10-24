@@ -2,6 +2,30 @@
     "defaultPack": "tabler",
     "iconPacks": [
         {
+            "name": "Tabler",
+            "value": "tabler",
+            "categories": [
+                "outline",
+                "filled"
+            ]
+        },
+        {
+            "name": "Boxicons",
+            "value": "boxicons",
+            "categories": [
+                "solid",
+                "logos",
+                "regular"
+            ]
+        },
+        {
+            "name": "Octicons",
+            "value": "octicons",
+            "categories": [
+                ""
+            ]
+        },
+        {
             "name": "Remix icons",
             "value": "remix",
             "categories": [
@@ -24,30 +48,6 @@
                 "device",
                 "weather",
                 "healthandmedical"
-            ]
-        },
-        {
-            "name": "Tabler",
-            "value": "tabler",
-            "categories": [
-                "outline",
-                "filled"
-            ]
-        },
-        {
-            "name": "Boxicons",
-            "value": "boxicons",
-            "categories": [
-                "solid",
-                "logos",
-                "regular"
-            ]
-        },
-        {
-            "name": "Octicons",
-            "value": "octicons",
-            "categories": [
-                ""
             ]
         }
     ]

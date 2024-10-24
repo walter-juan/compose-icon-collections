@@ -37,7 +37,7 @@ public val DesignGroup.ToolsLine: ImageVector
                 moveTo(15.697f, 5.155f)
                 lineTo(18.879f, 3.387f)
                 lineTo(20.293f, 4.802f)
-                lineTo(18.525f, 7.983f)
+                lineTo(18.525f, 7.984f)
                 lineTo(16.757f, 8.337f)
                 lineTo(14.636f, 10.458f)
                 lineTo(13.222f, 9.044f)

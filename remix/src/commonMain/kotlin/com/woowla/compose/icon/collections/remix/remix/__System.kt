@@ -12,6 +12,8 @@ import com.woowla.compose.icon.collections.remix.remix.system.AddLargeLine
 import com.woowla.compose.icon.collections.remix.remix.system.AddLine
 import com.woowla.compose.icon.collections.remix.remix.system.AlarmFill
 import com.woowla.compose.icon.collections.remix.remix.system.AlarmLine
+import com.woowla.compose.icon.collections.remix.remix.system.AlarmSnoozeFill
+import com.woowla.compose.icon.collections.remix.remix.system.AlarmSnoozeLine
 import com.woowla.compose.icon.collections.remix.remix.system.AlarmWarningFill
 import com.woowla.compose.icon.collections.remix.remix.system.AlarmWarningLine
 import com.woowla.compose.icon.collections.remix.remix.system.AlertFill
@@ -296,6 +298,8 @@ import com.woowla.compose.icon.collections.remix.remix.system.StarHalfLine
 import com.woowla.compose.icon.collections.remix.remix.system.StarHalfSFill
 import com.woowla.compose.icon.collections.remix.remix.system.StarHalfSLine
 import com.woowla.compose.icon.collections.remix.remix.system.StarLine
+import com.woowla.compose.icon.collections.remix.remix.system.StarOffFill
+import com.woowla.compose.icon.collections.remix.remix.system.StarOffLine
 import com.woowla.compose.icon.collections.remix.remix.system.StarSFill
 import com.woowla.compose.icon.collections.remix.remix.system.StarSLine
 import com.woowla.compose.icon.collections.remix.remix.system.SubtractFill
@@ -341,12 +345,13 @@ public val SystemGroup.AllIcons: ____KtList<ImageVector>
       return __AllIcons!!
     }
     __AllIcons= listOf(AddBoxFill, AddBoxLine, AddCircleFill, AddCircleLine, AddFill, AddLargeFill,
-        AddLargeLine, AddLine, AlarmFill, AlarmLine, AlarmWarningFill, AlarmWarningLine, AlertFill,
-        AlertLine, Apps2AddFill, Apps2AddLine, Apps2Fill, Apps2Line, AppsFill, AppsLine,
-        CheckDoubleFill, CheckDoubleLine, CheckFill, CheckLine, CheckboxBlankCircleFill,
-        CheckboxBlankCircleLine, CheckboxBlankFill, CheckboxBlankLine, CheckboxCircleFill,
-        CheckboxCircleLine, CheckboxFill, CheckboxIndeterminateFill, CheckboxIndeterminateLine,
-        CheckboxLine, CheckboxMultipleBlankFill, CheckboxMultipleBlankLine, CheckboxMultipleFill,
+        AddLargeLine, AddLine, AlarmFill, AlarmLine, AlarmSnoozeFill, AlarmSnoozeLine,
+        AlarmWarningFill, AlarmWarningLine, AlertFill, AlertLine, Apps2AddFill, Apps2AddLine,
+        Apps2Fill, Apps2Line, AppsFill, AppsLine, CheckDoubleFill, CheckDoubleLine, CheckFill,
+        CheckLine, CheckboxBlankCircleFill, CheckboxBlankCircleLine, CheckboxBlankFill,
+        CheckboxBlankLine, CheckboxCircleFill, CheckboxCircleLine, CheckboxFill,
+        CheckboxIndeterminateFill, CheckboxIndeterminateLine, CheckboxLine,
+        CheckboxMultipleBlankFill, CheckboxMultipleBlankLine, CheckboxMultipleFill,
         CheckboxMultipleLine, CloseCircleFill, CloseCircleLine, CloseFill, CloseLargeFill,
         CloseLargeLine, CloseLine, DashboardFill, DashboardHorizontalFill, DashboardHorizontalLine,
         DashboardLine, DeleteBack2Fill, DeleteBack2Line, DeleteBackFill, DeleteBackLine,
@@ -392,10 +397,10 @@ public val SystemGroup.AllIcons: ____KtList<ImageVector>
         ShieldUserLine, SideBarFill, SideBarLine, SidebarFoldFill, SidebarFoldLine,
         SidebarUnfoldFill, SidebarUnfoldLine, Spam2Fill, Spam2Line, Spam3Fill, Spam3Line, SpamFill,
         SpamLine, StarFill, StarHalfFill, StarHalfLine, StarHalfSFill, StarHalfSLine, StarLine,
-        StarSFill, StarSLine, SubtractFill, SubtractLine, ThumbDownFill, ThumbDownLine, ThumbUpFill,
-        ThumbUpLine, TimeFill, TimeLine, Timer2Fill, Timer2Line, TimerFill, TimerFlashFill,
-        TimerFlashLine, TimerLine, ToggleFill, ToggleLine, Upload2Fill, Upload2Line,
-        UploadCloud2Fill, UploadCloud2Line, UploadCloudFill, UploadCloudLine, UploadFill,
-        UploadLine, ZoomInFill, ZoomInLine, ZoomOutFill, ZoomOutLine)
+        StarOffFill, StarOffLine, StarSFill, StarSLine, SubtractFill, SubtractLine, ThumbDownFill,
+        ThumbDownLine, ThumbUpFill, ThumbUpLine, TimeFill, TimeLine, Timer2Fill, Timer2Line,
+        TimerFill, TimerFlashFill, TimerFlashLine, TimerLine, ToggleFill, ToggleLine, Upload2Fill,
+        Upload2Line, UploadCloud2Fill, UploadCloud2Line, UploadCloudFill, UploadCloudLine,
+        UploadFill, UploadLine, ZoomInFill, ZoomInLine, ZoomOutFill, ZoomOutLine)
     return __AllIcons!!
   }

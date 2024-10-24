@@ -1,1298 +1,1314 @@
 [
     {
         "name": "Remix.System.Download2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/download-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/download-2-fill.svg"
     },
     {
         "name": "Remix.System.ZoomOutFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/zoom-out-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/zoom-out-fill.svg"
     },
     {
         "name": "Remix.System.LoginBoxFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/login-box-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/login-box-fill.svg"
     },
     {
         "name": "Remix.System.ProhibitedLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/prohibited-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/prohibited-line.svg"
     },
     {
         "name": "Remix.System.Progress1Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/progress-1-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/progress-1-line.svg"
+    },
+    {
+        "name": "Remix.System.AlarmSnoozeLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/alarm-snooze-line.svg"
     },
     {
         "name": "Remix.System.DeleteBin6Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/delete-bin-6-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/delete-bin-6-fill.svg"
     },
     {
         "name": "Remix.System.Upload2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/upload-2-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/upload-2-line.svg"
     },
     {
         "name": "Remix.System.Prohibited2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/prohibited-2-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/prohibited-2-line.svg"
     },
     {
         "name": "Remix.System.Progress6Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/progress-6-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/progress-6-fill.svg"
     },
     {
         "name": "Remix.System.Eye2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/eye-2-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/eye-2-line.svg"
     },
     {
         "name": "Remix.System.CheckFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/check-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/check-fill.svg"
     },
     {
         "name": "Remix.System.TimerFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/timer-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/timer-fill.svg"
     },
     {
         "name": "Remix.System.UploadLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/upload-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/upload-line.svg"
     },
     {
         "name": "Remix.System.MenuUnfold3Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/menu-unfold-3-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/menu-unfold-3-fill.svg"
     },
     {
         "name": "Remix.System.Spam3Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/spam-3-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/spam-3-line.svg"
     },
     {
         "name": "Remix.System.ShieldFlashFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/shield-flash-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/shield-flash-fill.svg"
     },
     {
         "name": "Remix.System.CheckboxFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/checkbox-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/checkbox-fill.svg"
     },
     {
         "name": "Remix.System.MenuUnfold2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/menu-unfold-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/menu-unfold-2-fill.svg"
     },
     {
         "name": "Remix.System.LogoutCircleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/logout-circle-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/logout-circle-line.svg"
     },
     {
         "name": "Remix.System.DownloadCloudLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/download-cloud-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/download-cloud-line.svg"
     },
     {
         "name": "Remix.System.LogoutBoxFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/logout-box-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/logout-box-fill.svg"
     },
     {
         "name": "Remix.System.ZoomInFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/zoom-in-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/zoom-in-fill.svg"
     },
     {
         "name": "Remix.System.EyeFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/eye-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/eye-fill.svg"
     },
     {
         "name": "Remix.System.CheckboxMultipleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/checkbox-multiple-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/checkbox-multiple-line.svg"
     },
     {
         "name": "Remix.System.StarHalfFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/star-half-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/star-half-fill.svg"
     },
     {
         "name": "Remix.System.SidebarFoldFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/sidebar-fold-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/sidebar-fold-fill.svg"
     },
     {
         "name": "Remix.System.CloseFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/close-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/close-fill.svg"
     },
     {
         "name": "Remix.System.LockUnlockLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/lock-unlock-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/lock-unlock-line.svg"
     },
     {
         "name": "Remix.System.LoaderLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/loader-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/loader-line.svg"
     },
     {
         "name": "Remix.System.Prohibited2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/prohibited-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/prohibited-2-fill.svg"
     },
     {
         "name": "Remix.System.InformationLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/information-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/information-line.svg"
     },
     {
         "name": "Remix.System.MoreLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/more-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/more-line.svg"
     },
     {
         "name": "Remix.System.ShieldLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/shield-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/shield-line.svg"
     },
     {
         "name": "Remix.System.LoopRightFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/loop-right-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/loop-right-fill.svg"
     },
     {
         "name": "Remix.System.ShareForwardLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/share-forward-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/share-forward-line.svg"
     },
     {
         "name": "Remix.System.RadioButtonFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/radio-button-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/radio-button-fill.svg"
     },
     {
         "name": "Remix.System.LockStarFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/lock-star-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/lock-star-fill.svg"
     },
     {
         "name": "Remix.System.Loader5Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/loader-5-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/loader-5-fill.svg"
     },
     {
         "name": "Remix.System.Settings3Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/settings-3-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/settings-3-line.svg"
     },
     {
         "name": "Remix.System.Download2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/download-2-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/download-2-line.svg"
     },
     {
         "name": "Remix.System.Forbid2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/forbid-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/forbid-2-fill.svg"
     },
     {
         "name": "Remix.System.Menu5Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/menu-5-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/menu-5-line.svg"
     },
     {
         "name": "Remix.System.ErrorWarningLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/error-warning-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/error-warning-line.svg"
     },
     {
         "name": "Remix.System.ShareForwardBoxLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/share-forward-box-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/share-forward-box-line.svg"
     },
     {
         "name": "Remix.System.RefreshLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/refresh-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/refresh-line.svg"
     },
     {
         "name": "Remix.System.CheckboxBlankLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/checkbox-blank-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/checkbox-blank-line.svg"
     },
     {
         "name": "Remix.System.LoopLeftFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/loop-left-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/loop-left-fill.svg"
     },
     {
         "name": "Remix.System.ResetLeftLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/reset-left-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/reset-left-line.svg"
     },
     {
         "name": "Remix.System.CheckboxMultipleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/checkbox-multiple-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/checkbox-multiple-fill.svg"
     },
     {
         "name": "Remix.System.FilterOffFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/filter-off-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/filter-off-fill.svg"
     },
     {
         "name": "Remix.System.MenuAddFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/menu-add-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/menu-add-fill.svg"
     },
     {
         "name": "Remix.System.MoreFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/more-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/more-fill.svg"
     },
     {
         "name": "Remix.System.CheckboxIndeterminateLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/checkbox-indeterminate-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/checkbox-indeterminate-line.svg"
     },
     {
         "name": "Remix.System.ZoomInLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/zoom-in-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/zoom-in-line.svg"
+    },
+    {
+        "name": "Remix.System.StarOffFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/star-off-fill.svg"
     },
     {
         "name": "Remix.System.Forbid2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/forbid-2-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/forbid-2-line.svg"
     },
     {
         "name": "Remix.System.CloseLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/close-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/close-line.svg"
     },
     {
         "name": "Remix.System.Menu4Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/menu-4-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/menu-4-fill.svg"
     },
     {
         "name": "Remix.System.LockPasswordFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/lock-password-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/lock-password-fill.svg"
     },
     {
         "name": "Remix.System.Menu3Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/menu-3-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/menu-3-fill.svg"
     },
     {
         "name": "Remix.System.AlarmWarningFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/alarm-warning-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/alarm-warning-fill.svg"
     },
     {
         "name": "Remix.System.ShareForward2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/share-forward-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/share-forward-2-fill.svg"
     },
     {
         "name": "Remix.System.Progress5Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/progress-5-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/progress-5-line.svg"
     },
     {
         "name": "Remix.System.Progress1Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/progress-1-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/progress-1-fill.svg"
     },
     {
         "name": "Remix.System.Lock2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/lock-2-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/lock-2-line.svg"
     },
     {
         "name": "Remix.System.LoginCircleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/login-circle-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/login-circle-fill.svg"
     },
     {
         "name": "Remix.System.Menu5Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/menu-5-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/menu-5-fill.svg"
     },
     {
         "name": "Remix.System.Search2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/search-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/search-2-fill.svg"
     },
     {
         "name": "Remix.System.ShieldStarLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/shield-star-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/shield-star-line.svg"
     },
     {
         "name": "Remix.System.ForbidFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/forbid-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/forbid-fill.svg"
     },
     {
         "name": "Remix.System.AddLargeLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/add-large-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/add-large-line.svg"
     },
     {
         "name": "Remix.System.ShieldStarFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/shield-star-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/shield-star-fill.svg"
     },
     {
         "name": "Remix.System.ShieldFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/shield-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/shield-fill.svg"
     },
     {
         "name": "Remix.System.EyeLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/eye-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/eye-line.svg"
     },
     {
         "name": "Remix.System.DeleteBackFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/delete-back-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/delete-back-fill.svg"
     },
     {
         "name": "Remix.System.Settings3Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/settings-3-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/settings-3-fill.svg"
     },
     {
         "name": "Remix.System.DeleteBin5Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/delete-bin-5-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/delete-bin-5-fill.svg"
     },
     {
         "name": "Remix.System.CheckboxBlankCircleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/checkbox-blank-circle-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/checkbox-blank-circle-line.svg"
     },
     {
         "name": "Remix.System.FunctionAddLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/function-add-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/function-add-line.svg"
     },
     {
         "name": "Remix.System.FilterOffLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/filter-off-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/filter-off-line.svg"
     },
     {
         "name": "Remix.System.CloseCircleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/close-circle-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/close-circle-fill.svg"
     },
     {
         "name": "Remix.System.MenuUnfold2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/menu-unfold-2-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/menu-unfold-2-line.svg"
     },
     {
         "name": "Remix.System.MenuFold3Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/menu-fold-3-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/menu-fold-3-fill.svg"
     },
     {
         "name": "Remix.System.LockPasswordLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/lock-password-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/lock-password-line.svg"
     },
     {
         "name": "Remix.System.Filter2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/filter-2-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/filter-2-line.svg"
     },
     {
         "name": "Remix.System.SearchEyeFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/search-eye-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/search-eye-fill.svg"
     },
     {
         "name": "Remix.System.CheckboxBlankFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/checkbox-blank-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/checkbox-blank-fill.svg"
     },
     {
         "name": "Remix.System.DeleteBin3Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/delete-bin-3-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/delete-bin-3-line.svg"
     },
     {
         "name": "Remix.System.UploadCloudLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/upload-cloud-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/upload-cloud-line.svg"
     },
     {
         "name": "Remix.System.CheckLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/check-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/check-line.svg"
     },
     {
         "name": "Remix.System.SubtractLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/subtract-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/subtract-line.svg"
     },
     {
         "name": "Remix.System.Filter3Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/filter-3-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/filter-3-fill.svg"
     },
     {
         "name": "Remix.System.Apps2AddFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/apps-2-add-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/apps-2-add-fill.svg"
     },
     {
         "name": "Remix.System.ShieldKeyholeFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/shield-keyhole-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/shield-keyhole-fill.svg"
     },
     {
         "name": "Remix.System.ResetLeftFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/reset-left-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/reset-left-fill.svg"
     },
     {
         "name": "Remix.System.CloseCircleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/close-circle-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/close-circle-line.svg"
     },
     {
         "name": "Remix.System.Progress3Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/progress-3-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/progress-3-fill.svg"
     },
     {
         "name": "Remix.System.ForbidLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/forbid-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/forbid-line.svg"
     },
     {
         "name": "Remix.System.LockUnlockFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/lock-unlock-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/lock-unlock-fill.svg"
     },
     {
         "name": "Remix.System.DownloadCloud2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/download-cloud-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/download-cloud-2-fill.svg"
     },
     {
         "name": "Remix.System.MenuSearchLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/menu-search-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/menu-search-line.svg"
     },
     {
         "name": "Remix.System.ExportLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/export-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/export-line.svg"
     },
     {
         "name": "Remix.System.Share2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/share-2-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/share-2-line.svg"
     },
     {
         "name": "Remix.System.AddLargeFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/add-large-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/add-large-fill.svg"
     },
     {
         "name": "Remix.System.InformationOffFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/information-off-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/information-off-fill.svg"
     },
     {
         "name": "Remix.System.Progress7Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/progress-7-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/progress-7-fill.svg"
     },
     {
         "name": "Remix.System.MenuUnfoldFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/menu-unfold-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/menu-unfold-fill.svg"
     },
     {
         "name": "Remix.System.ShareLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/share-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/share-line.svg"
     },
     {
         "name": "Remix.System.StarLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/star-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/star-line.svg"
     },
     {
         "name": "Remix.System.StarFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/star-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/star-fill.svg"
     },
     {
         "name": "Remix.System.MenuLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/menu-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/menu-line.svg"
     },
     {
         "name": "Remix.System.ExternalLinkFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/external-link-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/external-link-fill.svg"
     },
     {
         "name": "Remix.System.DivideLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/divide-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/divide-line.svg"
     },
     {
         "name": "Remix.System.ExternalLinkLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/external-link-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/external-link-line.svg"
     },
     {
         "name": "Remix.System.Menu2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/menu-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/menu-2-fill.svg"
     },
     {
         "name": "Remix.System.SpamLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/spam-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/spam-line.svg"
     },
     {
         "name": "Remix.System.MenuSearchFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/menu-search-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/menu-search-fill.svg"
     },
     {
         "name": "Remix.System.Apps2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/apps-2-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/apps-2-line.svg"
     },
     {
         "name": "Remix.System.DeleteBin6Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/delete-bin-6-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/delete-bin-6-line.svg"
     },
     {
         "name": "Remix.System.SideBarFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/side-bar-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/side-bar-fill.svg"
     },
     {
         "name": "Remix.System.Progress3Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/progress-3-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/progress-3-line.svg"
     },
     {
         "name": "Remix.System.FilterFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/filter-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/filter-fill.svg"
     },
     {
         "name": "Remix.System.NotificationBadgeLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/notification-badge-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/notification-badge-line.svg"
     },
     {
         "name": "Remix.System.Settings6Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/settings-6-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/settings-6-line.svg"
     },
     {
         "name": "Remix.System.LoaderFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/loader-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/loader-fill.svg"
     },
     {
         "name": "Remix.System.ZoomOutLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/zoom-out-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/zoom-out-line.svg"
     },
     {
         "name": "Remix.System.ShieldFlashLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/shield-flash-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/shield-flash-line.svg"
     },
     {
         "name": "Remix.System.Progress6Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/progress-6-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/progress-6-line.svg"
     },
     {
         "name": "Remix.System.LockLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/lock-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/lock-line.svg"
     },
     {
         "name": "Remix.System.Timer2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/timer-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/timer-2-fill.svg"
     },
     {
         "name": "Remix.System.StarHalfLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/star-half-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/star-half-line.svg"
     },
     {
         "name": "Remix.System.ShareCircleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/share-circle-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/share-circle-line.svg"
     },
     {
         "name": "Remix.System.InformationFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/information-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/information-fill.svg"
     },
     {
         "name": "Remix.System.DeleteBin3Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/delete-bin-3-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/delete-bin-3-fill.svg"
     },
     {
         "name": "Remix.System.More2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/more-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/more-2-fill.svg"
     },
     {
         "name": "Remix.System.ListSettingsFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/list-settings-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/list-settings-fill.svg"
     },
     {
         "name": "Remix.System.Menu2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/menu-2-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/menu-2-line.svg"
     },
     {
         "name": "Remix.System.CloseLargeFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/close-large-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/close-large-fill.svg"
     },
     {
         "name": "Remix.System.LogoutCircleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/logout-circle-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/logout-circle-fill.svg"
     },
     {
         "name": "Remix.System.ShareFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/share-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/share-fill.svg"
     },
     {
         "name": "Remix.System.TimerFlashFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/timer-flash-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/timer-flash-fill.svg"
     },
     {
         "name": "Remix.System.AddBoxLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/add-box-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/add-box-line.svg"
     },
     {
         "name": "Remix.System.DownloadCloudFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/download-cloud-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/download-cloud-fill.svg"
     },
     {
         "name": "Remix.System.Spam2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/spam-2-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/spam-2-line.svg"
     },
     {
         "name": "Remix.System.LockFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/lock-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/lock-fill.svg"
     },
     {
         "name": "Remix.System.AddBoxFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/add-box-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/add-box-fill.svg"
     },
     {
         "name": "Remix.System.TimerLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/timer-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/timer-line.svg"
     },
     {
         "name": "Remix.System.EyeCloseFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/eye-close-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/eye-close-fill.svg"
     },
     {
         "name": "Remix.System.MenuFold3Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/menu-fold-3-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/menu-fold-3-line.svg"
     },
     {
         "name": "Remix.System.ShieldCrossFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/shield-cross-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/shield-cross-fill.svg"
     },
     {
         "name": "Remix.System.MenuFold2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/menu-fold-2-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/menu-fold-2-line.svg"
     },
     {
         "name": "Remix.System.Progress5Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/progress-5-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/progress-5-fill.svg"
     },
     {
         "name": "Remix.System.TimerFlashLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/timer-flash-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/timer-flash-line.svg"
     },
     {
         "name": "Remix.System.HourglassLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/hourglass-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/hourglass-line.svg"
     },
     {
         "name": "Remix.System.DeleteBin4Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/delete-bin-4-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/delete-bin-4-line.svg"
     },
     {
         "name": "Remix.System.StarSFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/star-s-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/star-s-fill.svg"
     },
     {
         "name": "Remix.System.HistoryLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/history-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/history-line.svg"
     },
     {
         "name": "Remix.System.DeleteBin4Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/delete-bin-4-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/delete-bin-4-fill.svg"
     },
     {
         "name": "Remix.System.EyeCloseLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/eye-close-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/eye-close-line.svg"
     },
     {
         "name": "Remix.System.FilterLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/filter-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/filter-line.svg"
     },
     {
         "name": "Remix.System.FunctionLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/function-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/function-line.svg"
     },
     {
         "name": "Remix.System.InformationOffLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/information-off-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/information-off-line.svg"
     },
     {
         "name": "Remix.System.IndeterminateCircleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/indeterminate-circle-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/indeterminate-circle-line.svg"
     },
     {
         "name": "Remix.System.Settings4Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/settings-4-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/settings-4-line.svg"
     },
     {
         "name": "Remix.System.ExportFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/export-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/export-fill.svg"
     },
     {
         "name": "Remix.System.Timer2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/timer-2-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/timer-2-line.svg"
     },
     {
         "name": "Remix.System.Progress4Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/progress-4-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/progress-4-fill.svg"
     },
     {
         "name": "Remix.System.DeleteBackLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/delete-back-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/delete-back-line.svg"
     },
     {
         "name": "Remix.System.Loader2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/loader-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/loader-2-fill.svg"
     },
     {
         "name": "Remix.System.ShareForwardBoxFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/share-forward-box-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/share-forward-box-fill.svg"
     },
     {
         "name": "Remix.System.ResetRightLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/reset-right-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/reset-right-line.svg"
     },
     {
         "name": "Remix.System.FunctionAddFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/function-add-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/function-add-fill.svg"
     },
     {
         "name": "Remix.System.Loader4Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/loader-4-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/loader-4-fill.svg"
     },
     {
         "name": "Remix.System.MenuUnfold4Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/menu-unfold-4-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/menu-unfold-4-fill.svg"
     },
     {
         "name": "Remix.System.QuestionLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/question-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/question-line.svg"
     },
     {
         "name": "Remix.System.MenuUnfoldLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/menu-unfold-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/menu-unfold-line.svg"
     },
     {
         "name": "Remix.System.MenuFold2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/menu-fold-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/menu-fold-2-fill.svg"
     },
     {
         "name": "Remix.System.DashboardLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/dashboard-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/dashboard-line.svg"
     },
     {
         "name": "Remix.System.Menu4Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/menu-4-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/menu-4-line.svg"
     },
     {
         "name": "Remix.System.DivideFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/divide-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/divide-fill.svg"
     },
     {
         "name": "Remix.System.SpamFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/spam-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/spam-fill.svg"
     },
     {
         "name": "Remix.System.DashboardHorizontalFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/dashboard-horizontal-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/dashboard-horizontal-fill.svg"
     },
     {
         "name": "Remix.System.ShieldKeyholeLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/shield-keyhole-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/shield-keyhole-line.svg"
     },
     {
         "name": "Remix.System.Settings4Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/settings-4-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/settings-4-fill.svg"
     },
     {
         "name": "Remix.System.AddFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/add-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/add-fill.svg"
     },
     {
         "name": "Remix.System.Spam2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/spam-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/spam-2-fill.svg"
     },
     {
         "name": "Remix.System.ShareBoxFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/share-box-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/share-box-fill.svg"
     },
     {
         "name": "Remix.System.Information2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/information-2-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/information-2-line.svg"
     },
     {
         "name": "Remix.System.CheckboxMultipleBlankFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/checkbox-multiple-blank-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/checkbox-multiple-blank-fill.svg"
     },
     {
         "name": "Remix.System.EyeOffFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/eye-off-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/eye-off-fill.svg"
     },
     {
         "name": "Remix.System.Hourglass2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/hourglass-2-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/hourglass-2-line.svg"
     },
     {
         "name": "Remix.System.ErrorWarningFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/error-warning-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/error-warning-fill.svg"
     },
     {
         "name": "Remix.System.DownloadCloud2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/download-cloud-2-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/download-cloud-2-line.svg"
     },
     {
         "name": "Remix.System.UploadCloud2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/upload-cloud-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/upload-cloud-2-fill.svg"
     },
     {
         "name": "Remix.System.StarHalfSLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/star-half-s-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/star-half-s-line.svg"
     },
     {
         "name": "Remix.System.RefreshFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/refresh-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/refresh-fill.svg"
     },
     {
         "name": "Remix.System.ShareBoxLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/share-box-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/share-box-line.svg"
     },
     {
         "name": "Remix.System.Loader4Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/loader-4-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/loader-4-line.svg"
     },
     {
         "name": "Remix.System.UploadCloud2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/upload-cloud-2-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/upload-cloud-2-line.svg"
     },
     {
         "name": "Remix.System.Progress8Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/progress-8-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/progress-8-line.svg"
     },
     {
         "name": "Remix.System.More2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/more-2-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/more-2-line.svg"
     },
     {
         "name": "Remix.System.FunctionFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/function-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/function-fill.svg"
     },
     {
         "name": "Remix.System.ImportFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/import-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/import-fill.svg"
     },
     {
         "name": "Remix.System.LoginBoxLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/login-box-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/login-box-line.svg"
     },
     {
         "name": "Remix.System.AddCircleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/add-circle-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/add-circle-line.svg"
     },
     {
         "name": "Remix.System.DownloadFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/download-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/download-fill.svg"
     },
     {
         "name": "Remix.System.MenuFoldLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/menu-fold-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/menu-fold-line.svg"
     },
     {
         "name": "Remix.System.SettingsFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/settings-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/settings-fill.svg"
     },
     {
         "name": "Remix.System.ShareForward2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/share-forward-2-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/share-forward-2-line.svg"
     },
     {
         "name": "Remix.System.ThumbDownLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/thumb-down-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/thumb-down-line.svg"
     },
     {
         "name": "Remix.System.DeleteBin7Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/delete-bin-7-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/delete-bin-7-line.svg"
     },
     {
         "name": "Remix.System.DownloadLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/download-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/download-line.svg"
     },
     {
         "name": "Remix.System.DeleteBin7Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/delete-bin-7-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/delete-bin-7-fill.svg"
     },
     {
         "name": "Remix.System.ProhibitedFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/prohibited-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/prohibited-fill.svg"
     },
     {
         "name": "Remix.System.UploadFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/upload-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/upload-fill.svg"
     },
     {
         "name": "Remix.System.StarSLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/star-s-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/star-s-line.svg"
     },
     {
         "name": "Remix.System.AlarmFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/alarm-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/alarm-fill.svg"
     },
     {
         "name": "Remix.System.Share2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/share-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/share-2-fill.svg"
     },
     {
         "name": "Remix.System.AppsLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/apps-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/apps-line.svg"
     },
     {
         "name": "Remix.System.CheckDoubleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/check-double-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/check-double-line.svg"
     },
     {
         "name": "Remix.System.ToggleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/toggle-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/toggle-fill.svg"
+    },
+    {
+        "name": "Remix.System.AlarmSnoozeFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/alarm-snooze-fill.svg"
     },
     {
         "name": "Remix.System.Spam3Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/spam-3-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/spam-3-fill.svg"
     },
     {
         "name": "Remix.System.CheckboxCircleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/checkbox-circle-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/checkbox-circle-fill.svg"
     },
     {
         "name": "Remix.System.DeleteBack2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/delete-back-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/delete-back-2-fill.svg"
     },
     {
         "name": "Remix.System.AlarmWarningLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/alarm-warning-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/alarm-warning-line.svg"
     },
     {
         "name": "Remix.System.DeleteBin2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/delete-bin-2-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/delete-bin-2-line.svg"
     },
     {
         "name": "Remix.System.CheckboxCircleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/checkbox-circle-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/checkbox-circle-line.svg"
     },
     {
         "name": "Remix.System.EyeOffLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/eye-off-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/eye-off-line.svg"
     },
     {
         "name": "Remix.System.HistoryFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/history-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/history-fill.svg"
     },
     {
         "name": "Remix.System.DeleteBinFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/delete-bin-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/delete-bin-fill.svg"
     },
     {
         "name": "Remix.System.Progress7Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/progress-7-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/progress-7-line.svg"
     },
     {
         "name": "Remix.System.MenuAddLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/menu-add-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/menu-add-line.svg"
     },
     {
         "name": "Remix.System.TimeFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/time-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/time-fill.svg"
     },
     {
         "name": "Remix.System.AlertLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/alert-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/alert-line.svg"
     },
     {
         "name": "Remix.System.Menu3Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/menu-3-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/menu-3-line.svg"
     },
     {
         "name": "Remix.System.CheckboxBlankCircleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/checkbox-blank-circle-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/checkbox-blank-circle-fill.svg"
     },
     {
         "name": "Remix.System.ThumbUpFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/thumb-up-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/thumb-up-fill.svg"
     },
     {
         "name": "Remix.System.MenuFold4Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/menu-fold-4-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/menu-fold-4-line.svg"
     },
     {
         "name": "Remix.System.LoopRightLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/loop-right-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/loop-right-line.svg"
     },
     {
         "name": "Remix.System.ShieldCheckFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/shield-check-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/shield-check-fill.svg"
     },
     {
         "name": "Remix.System.DeleteBin2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/delete-bin-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/delete-bin-2-fill.svg"
     },
     {
         "name": "Remix.System.Progress2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/progress-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/progress-2-fill.svg"
     },
     {
         "name": "Remix.System.Apps2AddLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/apps-2-add-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/apps-2-add-line.svg"
+    },
+    {
+        "name": "Remix.System.StarOffLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/star-off-line.svg"
     },
     {
         "name": "Remix.System.RadioButtonLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/radio-button-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/radio-button-line.svg"
     },
     {
         "name": "Remix.System.Settings2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/settings-2-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/settings-2-line.svg"
     },
     {
         "name": "Remix.System.ListSettingsLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/list-settings-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/list-settings-line.svg"
     },
     {
         "name": "Remix.System.CheckboxIndeterminateFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/checkbox-indeterminate-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/checkbox-indeterminate-fill.svg"
     },
     {
         "name": "Remix.System.Settings5Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/settings-5-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/settings-5-fill.svg"
     },
     {
         "name": "Remix.System.AlertFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/alert-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/alert-fill.svg"
     },
     {
         "name": "Remix.System.ShieldCheckLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/shield-check-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/shield-check-line.svg"
     },
     {
         "name": "Remix.System.LoopLeftLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/loop-left-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/loop-left-line.svg"
     },
     {
         "name": "Remix.System.Settings2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/settings-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/settings-2-fill.svg"
     },
     {
         "name": "Remix.System.ShieldCrossLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/shield-cross-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/shield-cross-line.svg"
     },
     {
         "name": "Remix.System.SettingsLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/settings-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/settings-line.svg"
     },
     {
         "name": "Remix.System.HourglassFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/hourglass-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/hourglass-fill.svg"
     },
     {
         "name": "Remix.System.Filter2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/filter-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/filter-2-fill.svg"
     },
     {
         "name": "Remix.System.AddCircleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/add-circle-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/add-circle-fill.svg"
     },
     {
         "name": "Remix.System.Progress4Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/progress-4-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/progress-4-line.svg"
     },
     {
         "name": "Remix.System.DashboardFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/dashboard-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/dashboard-fill.svg"
     },
     {
         "name": "Remix.System.MenuUnfold3Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/menu-unfold-3-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/menu-unfold-3-line.svg"
     },
     {
         "name": "Remix.System.Eye2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/eye-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/eye-2-fill.svg"
     },
     {
         "name": "Remix.System.DeleteBinLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/delete-bin-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/delete-bin-line.svg"
     },
     {
         "name": "Remix.System.FindReplaceLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/find-replace-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/find-replace-line.svg"
     },
     {
         "name": "Remix.System.Progress8Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/progress-8-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/progress-8-fill.svg"
     },
     {
         "name": "Remix.System.SidebarFoldLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/sidebar-fold-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/sidebar-fold-line.svg"
     },
     {
         "name": "Remix.System.ShieldUserFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/shield-user-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/shield-user-fill.svg"
     },
     {
         "name": "Remix.System.Loader3Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/loader-3-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/loader-3-fill.svg"
     },
     {
         "name": "Remix.System.TimeLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/time-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/time-line.svg"
     },
     {
         "name": "Remix.System.FindReplaceFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/find-replace-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/find-replace-fill.svg"
     },
     {
         "name": "Remix.System.ShieldUserLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/shield-user-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/shield-user-line.svg"
     },
     {
         "name": "Remix.System.QuestionFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/question-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/question-fill.svg"
     },
     {
         "name": "Remix.System.SearchLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/search-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/search-line.svg"
     },
     {
         "name": "Remix.System.ToggleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/toggle-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/toggle-line.svg"
     },
     {
         "name": "Remix.System.SideBarLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/side-bar-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/side-bar-line.svg"
     },
     {
         "name": "Remix.System.IndeterminateCircleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/indeterminate-circle-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/indeterminate-circle-fill.svg"
     },
     {
         "name": "Remix.System.ImportLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/import-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/import-line.svg"
     },
     {
         "name": "Remix.System.AddLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/add-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/add-line.svg"
     },
     {
         "name": "Remix.System.LockStarLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/lock-star-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/lock-star-line.svg"
     },
     {
         "name": "Remix.System.ThumbUpLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/thumb-up-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/thumb-up-line.svg"
     },
     {
         "name": "Remix.System.Hourglass2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/hourglass-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/hourglass-2-fill.svg"
     },
     {
         "name": "Remix.System.EqualLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/equal-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/equal-line.svg"
     },
     {
         "name": "Remix.System.LogoutBoxLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/logout-box-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/logout-box-line.svg"
     },
     {
         "name": "Remix.System.CheckboxLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/checkbox-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/checkbox-line.svg"
     },
     {
         "name": "Remix.System.DeleteBin5Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/delete-bin-5-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/delete-bin-5-line.svg"
     },
     {
         "name": "Remix.System.LogoutBoxRLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/logout-box-r-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/logout-box-r-line.svg"
     },
     {
         "name": "Remix.System.Filter3Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/filter-3-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/filter-3-line.svg"
     },
     {
         "name": "Remix.System.Upload2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/upload-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/upload-2-fill.svg"
     },
     {
         "name": "Remix.System.LogoutCircleRFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/logout-circle-r-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/logout-circle-r-fill.svg"
     },
     {
         "name": "Remix.System.ThumbDownFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/thumb-down-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/thumb-down-fill.svg"
     },
     {
         "name": "Remix.System.StarHalfSFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/star-half-s-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/star-half-s-fill.svg"
     },
     {
         "name": "Remix.System.EqualFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/equal-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/equal-fill.svg"
     },
     {
         "name": "Remix.System.Progress2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/progress-2-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/progress-2-line.svg"
     },
     {
         "name": "Remix.System.SearchFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/search-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/search-fill.svg"
     },
     {
         "name": "Remix.System.Settings6Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/settings-6-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/settings-6-fill.svg"
     },
     {
         "name": "Remix.System.ShareCircleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/share-circle-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/share-circle-fill.svg"
     },
     {
         "name": "Remix.System.AppsFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/apps-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/apps-fill.svg"
     },
     {
         "name": "Remix.System.CheckDoubleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/check-double-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/check-double-fill.svg"
     },
     {
         "name": "Remix.System.LogoutBoxRFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/logout-box-r-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/logout-box-r-fill.svg"
     },
     {
         "name": "Remix.System.MenuFold4Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/menu-fold-4-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/menu-fold-4-fill.svg"
     },
     {
         "name": "Remix.System.MenuFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/menu-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/menu-fill.svg"
     },
     {
         "name": "Remix.System.Apps2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/apps-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/apps-2-fill.svg"
     },
     {
         "name": "Remix.System.LoginCircleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/login-circle-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/login-circle-line.svg"
     },
     {
         "name": "Remix.System.NotificationBadgeFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/notification-badge-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/notification-badge-fill.svg"
     },
     {
         "name": "Remix.System.UploadCloudFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/upload-cloud-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/upload-cloud-fill.svg"
     },
     {
         "name": "Remix.System.LogoutCircleRLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/logout-circle-r-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/logout-circle-r-line.svg"
     },
     {
         "name": "Remix.System.MenuUnfold4Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/menu-unfold-4-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/menu-unfold-4-line.svg"
     },
     {
         "name": "Remix.System.Lock2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/lock-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/lock-2-fill.svg"
     },
     {
         "name": "Remix.System.ResetRightFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/reset-right-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/reset-right-fill.svg"
     },
     {
         "name": "Remix.System.MenuFoldFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/menu-fold-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/menu-fold-fill.svg"
     },
     {
         "name": "Remix.System.DashboardHorizontalLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/dashboard-horizontal-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/dashboard-horizontal-line.svg"
     },
     {
         "name": "Remix.System.Settings5Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/settings-5-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/settings-5-line.svg"
     },
     {
         "name": "Remix.System.Loader2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/loader-2-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/loader-2-line.svg"
     },
     {
         "name": "Remix.System.Search2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/search-2-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/search-2-line.svg"
     },
     {
         "name": "Remix.System.SearchEyeLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/search-eye-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/search-eye-line.svg"
     },
     {
         "name": "Remix.System.SidebarUnfoldFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/sidebar-unfold-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/sidebar-unfold-fill.svg"
     },
     {
         "name": "Remix.System.Loader3Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/loader-3-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/loader-3-line.svg"
     },
     {
         "name": "Remix.System.CloseLargeLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/close-large-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/close-large-line.svg"
     },
     {
         "name": "Remix.System.SidebarUnfoldLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/sidebar-unfold-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/sidebar-unfold-line.svg"
     },
     {
         "name": "Remix.System.SubtractFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/subtract-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/subtract-fill.svg"
     },
     {
         "name": "Remix.System.AlarmLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/alarm-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/alarm-line.svg"
     },
     {
         "name": "Remix.System.Loader5Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/loader-5-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/loader-5-line.svg"
     },
     {
         "name": "Remix.System.ShareForwardFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/share-forward-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/share-forward-fill.svg"
     },
     {
         "name": "Remix.System.DeleteBack2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/delete-back-2-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/delete-back-2-line.svg"
     },
     {
         "name": "Remix.System.CheckboxMultipleBlankLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/checkbox-multiple-blank-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/checkbox-multiple-blank-line.svg"
     },
     {
         "name": "Remix.System.Information2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.3.0/icons/System/information-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/System/information-2-fill.svg"
     }
 ]

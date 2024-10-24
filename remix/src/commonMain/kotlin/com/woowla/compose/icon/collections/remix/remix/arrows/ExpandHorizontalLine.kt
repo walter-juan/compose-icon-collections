@@ -23,7 +23,7 @@ public val ArrowsGroup.ExpandHorizontalLine: ImageVector
                     pathFillType = NonZero) {
                 moveTo(0.5f, 12.0f)
                 lineTo(5.45f, 7.05f)
-                lineTo(6.864f, 8.464f)
+                lineTo(6.864f, 8.465f)
                 lineTo(4.328f, 11.0f)
                 horizontalLineTo(10.0f)
                 verticalLineTo(13.0f)

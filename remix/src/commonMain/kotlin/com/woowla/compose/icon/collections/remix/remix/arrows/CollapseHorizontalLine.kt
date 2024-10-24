@@ -23,7 +23,7 @@ public val ArrowsGroup.CollapseHorizontalLine: ImageVector
                     pathFillType = NonZero) {
                 moveTo(13.5f, 12.0f)
                 lineTo(18.45f, 7.05f)
-                lineTo(19.864f, 8.464f)
+                lineTo(19.864f, 8.465f)
                 lineTo(17.328f, 11.0f)
                 horizontalLineTo(23.0f)
                 verticalLineTo(13.0f)

@@ -34,7 +34,7 @@ public val ArrowsGroup.ExpandVerticalLine: ImageVector
                 close()
                 moveTo(11.0f, 14.0f)
                 lineTo(11.0f, 19.67f)
-                lineTo(8.465f, 17.135f)
+                lineTo(8.464f, 17.135f)
                 lineTo(7.05f, 18.55f)
                 lineTo(12.0f, 23.5f)
                 lineTo(16.95f, 18.55f)
