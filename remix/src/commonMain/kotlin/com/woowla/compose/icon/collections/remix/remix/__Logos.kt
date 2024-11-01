@@ -12,6 +12,8 @@ import com.woowla.compose.icon.collections.remix.remix.logos.AndroidFill
 import com.woowla.compose.icon.collections.remix.remix.logos.AndroidLine
 import com.woowla.compose.icon.collections.remix.remix.logos.AngularjsFill
 import com.woowla.compose.icon.collections.remix.remix.logos.AngularjsLine
+import com.woowla.compose.icon.collections.remix.remix.logos.AnthropicFill
+import com.woowla.compose.icon.collections.remix.remix.logos.AnthropicLine
 import com.woowla.compose.icon.collections.remix.remix.logos.AppStoreFill
 import com.woowla.compose.icon.collections.remix.remix.logos.AppStoreLine
 import com.woowla.compose.icon.collections.remix.remix.logos.AppleFill
@@ -36,6 +38,8 @@ import com.woowla.compose.icon.collections.remix.remix.logos.CentosFill
 import com.woowla.compose.icon.collections.remix.remix.logos.CentosLine
 import com.woowla.compose.icon.collections.remix.remix.logos.ChromeFill
 import com.woowla.compose.icon.collections.remix.remix.logos.ChromeLine
+import com.woowla.compose.icon.collections.remix.remix.logos.ClaudeFill
+import com.woowla.compose.icon.collections.remix.remix.logos.ClaudeLine
 import com.woowla.compose.icon.collections.remix.remix.logos.CodepenFill
 import com.woowla.compose.icon.collections.remix.remix.logos.CodepenLine
 import com.woowla.compose.icon.collections.remix.remix.logos.CopilotFill
@@ -130,6 +134,8 @@ import com.woowla.compose.icon.collections.remix.remix.logos.MicrosoftLoopFill
 import com.woowla.compose.icon.collections.remix.remix.logos.MicrosoftLoopLine
 import com.woowla.compose.icon.collections.remix.remix.logos.MiniProgramFill
 import com.woowla.compose.icon.collections.remix.remix.logos.MiniProgramLine
+import com.woowla.compose.icon.collections.remix.remix.logos.MixtralFill
+import com.woowla.compose.icon.collections.remix.remix.logos.MixtralLine
 import com.woowla.compose.icon.collections.remix.remix.logos.NeteaseCloudMusicFill
 import com.woowla.compose.icon.collections.remix.remix.logos.NeteaseCloudMusicLine
 import com.woowla.compose.icon.collections.remix.remix.logos.NetflixFill
@@ -154,6 +160,8 @@ import com.woowla.compose.icon.collections.remix.remix.logos.PatreonFill
 import com.woowla.compose.icon.collections.remix.remix.logos.PatreonLine
 import com.woowla.compose.icon.collections.remix.remix.logos.PaypalFill
 import com.woowla.compose.icon.collections.remix.remix.logos.PaypalLine
+import com.woowla.compose.icon.collections.remix.remix.logos.PerplexityFill
+import com.woowla.compose.icon.collections.remix.remix.logos.PerplexityLine
 import com.woowla.compose.icon.collections.remix.remix.logos.PinterestFill
 import com.woowla.compose.icon.collections.remix.remix.logos.PinterestLine
 import com.woowla.compose.icon.collections.remix.remix.logos.PixFill
@@ -281,14 +289,15 @@ public val LogosGroup.AllIcons: ____KtList<ImageVector>
       return __AllIcons!!
     }
     __AllIcons= listOf(AlibabaCloudFill, AlibabaCloudLine, AlipayFill, AlipayLine, AmazonFill,
-        AmazonLine, AndroidFill, AndroidLine, AngularjsFill, AngularjsLine, AppStoreFill,
-        AppStoreLine, AppleFill, AppleLine, BaiduFill, BaiduLine, BardFill, BardLine, BehanceFill,
-        BehanceLine, BilibiliFill, BilibiliLine, BlenderFill, BlenderLine, BloggerFill, BloggerLine,
-        BlueskyFill, BlueskyLine, BootstrapFill, BootstrapLine, CentosFill, CentosLine, ChromeFill,
-        ChromeLine, CodepenFill, CodepenLine, CopilotFill, CopilotLine, CoreosFill, CoreosLine,
-        DingdingFill, DingdingLine, DiscordFill, DiscordLine, DisqusFill, DisqusLine, DoubanFill,
-        DoubanLine, DribbbleFill, DribbbleLine, DriveFill, DriveLine, DropboxFill, DropboxLine,
-        EdgeFill, EdgeLine, EdgeNewFill, EdgeNewLine, EvernoteFill, EvernoteLine, FacebookBoxFill,
+        AmazonLine, AndroidFill, AndroidLine, AngularjsFill, AngularjsLine, AnthropicFill,
+        AnthropicLine, AppStoreFill, AppStoreLine, AppleFill, AppleLine, BaiduFill, BaiduLine,
+        BardFill, BardLine, BehanceFill, BehanceLine, BilibiliFill, BilibiliLine, BlenderFill,
+        BlenderLine, BloggerFill, BloggerLine, BlueskyFill, BlueskyLine, BootstrapFill,
+        BootstrapLine, CentosFill, CentosLine, ChromeFill, ChromeLine, ClaudeFill, ClaudeLine,
+        CodepenFill, CodepenLine, CopilotFill, CopilotLine, CoreosFill, CoreosLine, DingdingFill,
+        DingdingLine, DiscordFill, DiscordLine, DisqusFill, DisqusLine, DoubanFill, DoubanLine,
+        DribbbleFill, DribbbleLine, DriveFill, DriveLine, DropboxFill, DropboxLine, EdgeFill,
+        EdgeLine, EdgeNewFill, EdgeNewLine, EvernoteFill, EvernoteLine, FacebookBoxFill,
         FacebookBoxLine, FacebookCircleFill, FacebookCircleLine, FacebookFill, FacebookLine,
         FediverseFill, FediverseLine, FinderFill, FinderLine, FirebaseFill, FirebaseLine,
         FirefoxFill, FirefoxLine, FlickrFill, FlickrLine, FlutterFill, FlutterLine, FriendicaFill,
@@ -299,27 +308,28 @@ public val LogosGroup.AllIcons: ____KtList<ImageVector>
         KickLine, LineFill, LineLine, LinkedinBoxFill, LinkedinBoxLine, LinkedinFill, LinkedinLine,
         MastercardFill, MastercardLine, MastodonFill, MastodonLine, MediumFill, MediumLine,
         MessengerFill, MessengerLine, MetaFill, MetaLine, MicrosoftFill, MicrosoftLine,
-        MicrosoftLoopFill, MicrosoftLoopLine, MiniProgramFill, MiniProgramLine,
-        NeteaseCloudMusicFill, NeteaseCloudMusicLine, NetflixFill, NetflixLine, NextjsFill,
-        NextjsLine, NodejsFill, NodejsLine, NotionFill, NotionLine, NpmjsFill, NpmjsLine,
-        OpenSourceFill, OpenSourceLine, OpenaiFill, OpenaiLine, OpenbaseFill, OpenbaseLine,
-        OperaFill, OperaLine, PatreonFill, PatreonLine, PaypalFill, PaypalLine, PinterestFill,
-        PinterestLine, PixFill, PixLine, PixelfedFill, PixelfedLine, PlaystationFill,
-        PlaystationLine, ProductHuntFill, ProductHuntLine, QqFill, QqLine, ReactjsFill, ReactjsLine,
-        RedditFill, RedditLine, RemixRunFill, RemixRunLine, RemixiconFill, RemixiconLine,
-        SafariFill, SafariLine, SkypeFill, SkypeLine, SlackFill, SlackLine, SnapchatFill,
-        SnapchatLine, SoundcloudFill, SoundcloudLine, SpectrumFill, SpectrumLine, SpotifyFill,
-        SpotifyLine, StackOverflowFill, StackOverflowLine, StackshareFill, StackshareLine,
-        SteamFill, SteamLine, SupabaseFill, SupabaseLine, SvelteFill, SvelteLine, SwitchFill,
-        SwitchLine, TailwindCssFill, TailwindCssLine, TaobaoFill, TaobaoLine, Telegram2Fill,
-        Telegram2Line, TelegramFill, TelegramLine, ThreadsFill, ThreadsLine, TiktokFill, TiktokLine,
-        TrelloFill, TrelloLine, TumblrFill, TumblrLine, TwitchFill, TwitchLine, TwitterFill,
-        TwitterLine, TwitterXFill, TwitterXLine, UbuntuFill, UbuntuLine, UnsplashFill, UnsplashLine,
-        VercelFill, VercelLine, VimeoFill, VimeoLine, VisaFill, VisaLine, VkFill, VkLine, VuejsFill,
-        VuejsLine, WebhookFill, WebhookLine, Wechat2Fill, Wechat2Line, WechatChannelsFill,
-        WechatChannelsLine, WechatFill, WechatLine, WechatPayFill, WechatPayLine, WeiboFill,
-        WeiboLine, WhatsappFill, WhatsappLine, WindowsFill, WindowsLine, WordpressFill,
-        WordpressLine, XboxFill, XboxLine, XingFill, XingLine, YoutubeFill, YoutubeLine, YuqueFill,
-        YuqueLine, ZcoolFill, ZcoolLine, ZhihuFill, ZhihuLine)
+        MicrosoftLoopFill, MicrosoftLoopLine, MiniProgramFill, MiniProgramLine, MixtralFill,
+        MixtralLine, NeteaseCloudMusicFill, NeteaseCloudMusicLine, NetflixFill, NetflixLine,
+        NextjsFill, NextjsLine, NodejsFill, NodejsLine, NotionFill, NotionLine, NpmjsFill,
+        NpmjsLine, OpenSourceFill, OpenSourceLine, OpenaiFill, OpenaiLine, OpenbaseFill,
+        OpenbaseLine, OperaFill, OperaLine, PatreonFill, PatreonLine, PaypalFill, PaypalLine,
+        PerplexityFill, PerplexityLine, PinterestFill, PinterestLine, PixFill, PixLine,
+        PixelfedFill, PixelfedLine, PlaystationFill, PlaystationLine, ProductHuntFill,
+        ProductHuntLine, QqFill, QqLine, ReactjsFill, ReactjsLine, RedditFill, RedditLine,
+        RemixRunFill, RemixRunLine, RemixiconFill, RemixiconLine, SafariFill, SafariLine, SkypeFill,
+        SkypeLine, SlackFill, SlackLine, SnapchatFill, SnapchatLine, SoundcloudFill, SoundcloudLine,
+        SpectrumFill, SpectrumLine, SpotifyFill, SpotifyLine, StackOverflowFill, StackOverflowLine,
+        StackshareFill, StackshareLine, SteamFill, SteamLine, SupabaseFill, SupabaseLine,
+        SvelteFill, SvelteLine, SwitchFill, SwitchLine, TailwindCssFill, TailwindCssLine,
+        TaobaoFill, TaobaoLine, Telegram2Fill, Telegram2Line, TelegramFill, TelegramLine,
+        ThreadsFill, ThreadsLine, TiktokFill, TiktokLine, TrelloFill, TrelloLine, TumblrFill,
+        TumblrLine, TwitchFill, TwitchLine, TwitterFill, TwitterLine, TwitterXFill, TwitterXLine,
+        UbuntuFill, UbuntuLine, UnsplashFill, UnsplashLine, VercelFill, VercelLine, VimeoFill,
+        VimeoLine, VisaFill, VisaLine, VkFill, VkLine, VuejsFill, VuejsLine, WebhookFill,
+        WebhookLine, Wechat2Fill, Wechat2Line, WechatChannelsFill, WechatChannelsLine, WechatFill,
+        WechatLine, WechatPayFill, WechatPayLine, WeiboFill, WeiboLine, WhatsappFill, WhatsappLine,
+        WindowsFill, WindowsLine, WordpressFill, WordpressLine, XboxFill, XboxLine, XingFill,
+        XingLine, YoutubeFill, YoutubeLine, YuqueFill, YuqueLine, ZcoolFill, ZcoolLine, ZhihuFill,
+        ZhihuLine)
     return __AllIcons!!
   }

@@ -23,8 +23,7 @@ public val OutlineGroup.BrandInstagram: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(4.0f, 4.0f)
-                moveToRelative(0.0f, 4.0f)
+                moveTo(4.0f, 8.0f)
                 arcToRelative(4.0f, 4.0f, 0.0f, false, true, 4.0f, -4.0f)
                 horizontalLineToRelative(8.0f)
                 arcToRelative(4.0f, 4.0f, 0.0f, false, true, 4.0f, 4.0f)
@@ -37,16 +36,15 @@ public val OutlineGroup.BrandInstagram: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(12.0f, 12.0f)
-                moveToRelative(-3.0f, 0.0f)
+                moveTo(9.0f, 12.0f)
                 arcToRelative(3.0f, 3.0f, 0.0f, true, false, 6.0f, 0.0f)
-                arcToRelative(3.0f, 3.0f, 0.0f, true, false, -6.0f, 0.0f)
+                arcToRelative(3.0f, 3.0f, 0.0f, false, false, -6.0f, 0.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(16.5f, 7.5f)
-                lineToRelative(0.0f, 0.01f)
+                verticalLineToRelative(0.01f)
             }
         }
         .build()

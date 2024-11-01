@@ -48,7 +48,6 @@ public val LogosGroup.PixLine: ImageVector
                     curveTo(12.633f, 12.633f, 11.367f, 12.633f, 10.586f, 13.414f)
                     lineTo(8.111f, 15.889f)
                     curveTo(7.525f, 16.475f, 6.576f, 16.475f, 5.99f, 15.89f)
-                    lineTo(5.989f, 15.889f)
                     lineTo(3.161f, 13.061f)
                     curveTo(2.575f, 12.475f, 2.575f, 11.525f, 3.161f, 10.939f)
                     lineTo(5.989f, 8.111f)
