@@ -28,12 +28,13 @@ jobs:
           timestamp=$(date +"%Y-%m-%d-%H-%M-%S")
           git checkout -b "update-icons-$timestamp"
       - name: Update
-        run: ./gradlew octicons:download-icons remix:download-icons tabler:download-icons -Pgitcommit --no-parallel --no-configuration-cache
+        run: ./gradlew octicons:download-icons remix:download-icons tabler:download-icons -Pgitcommit --no-parallel
       - name: Create pull request
         shell: bash
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          git fetch --all
           current_branch=$(git rev-parse --abbrev-ref HEAD)
           non_pushed_commits=$(git log origin/$current_branch..HEAD --oneline)
           if [ -z "$non_pushed_commits" ]; then
