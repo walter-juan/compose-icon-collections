@@ -31,34 +31,24 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Get the version
+        id: get-version
+        uses: ./.github/actions/get-version
+        with:
+          module: ${{ inputs.module }}
       - name: Create Tag
         uses: actions/github-script@v7
         with:
           script: |
-            const fs = require('fs');
-            const path = require('path');
-            
-            const module = '${{ inputs.module }}';
-            const modulePath = path.join(process.env.GITHUB_WORKSPACE, module, 'build.gradle.kts');
-            const fileContent = fs.readFileSync(modulePath, 'utf8');
-            const versionMatch = fileContent.match(/^version\s*=\s*["']([^"']+)["']/m);
-            if (!versionMatch) {
-              throw new Error('Version not found');
-            }
-            const version = versionMatch[1];
-            
-            if (version) {
-              const tagName = `${module}-${version}`;
-              console.log(`Creating tag: ${tagName}`);
-              github.rest.git.createRef({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                ref: `refs/tags/${tagName}`,
-                sha: context.sha
-              });
-            } else {
-              throw new Error('Version not found');
-            }
+            const version = '${{ steps.get-version.outputs.version }}';
+            const tagName = `${module}-${version}`;
+            console.log(`Creating tag: ${tagName}`);
+            github.rest.git.createRef({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              ref: `refs/tags/${tagName}`,
+              sha: context.sha
+            });
   publish:
     name: Publish to Maven Central
     if: ${{ github.ref_name == 'main' }}
