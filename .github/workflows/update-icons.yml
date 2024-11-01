@@ -1,0 +1,65 @@
+name: Update icons
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 14 1,15 * *" # At 14:00 on day-of-month 1 and 15 (every 2 weeks more or less) https://crontab.guru/
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  update-icons:
+    name: Update icons
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check if there are open PRs
+        shell: bash
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          open_prs=$(gh pr list --state open --json number --jq '. | length')
+          if [ "$open_prs" -gt 0 ]; then
+            echo "There are $open_prs open PRs, merge them before creating the update icons one"
+            exit 1
+          else
+            echo "No open PRs"
+          fi
+      - name: Setup Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: 17
+      - uses: gradle/actions/wrapper-validation@v3
+      - name: Prepare Git
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - name: Create branch
+        id: create-branch
+        shell: bash
+        run: |
+          timestamp=$(date +"%Y-%m-%d-%H-%M-%S")
+          branch_name="update-icons-$timestamp"
+          git checkout -b "$branch_name"
+          echo "branch=$branch_name" >> $GITHUB_OUTPUT
+      - name: Download icons
+        run: ./gradlew octicons:download-icons remix:download-icons tabler:download-icons -Pgitcommit --no-parallel
+      - name: Create pull request
+        shell: bash
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          branch="${{ steps.create-branch.outputs.branch }}"
+          git push origin "$branch"
+          git fetch origin main
+          if git diff --quiet origin/main "$branch"; then
+            echo "There are no changes"
+            git push origin --delete "$branch"
+          else
+            echo "There are changes"
+            gh pr create --title "Update icons" --body "Update icons"
+          fi

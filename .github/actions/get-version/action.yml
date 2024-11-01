@@ -1,0 +1,32 @@
+name: Get version
+description: Get the version from a module
+
+inputs:
+  module:
+    description: The module to retrieve the version
+    required: true
+
+outputs:
+  version:
+    description: Version
+    value: ${{ steps.get-version.outputs.version }}
+
+runs:
+  using: "composite"
+  steps:
+    - name: Get version
+      id: get-version
+      shell: bash
+      run: |
+        module="${{ inputs.module }}"
+        file_path="$GITHUB_WORKSPACE/$module/build.gradle.kts"
+        if [[ ! -f "$file_path" ]]; then
+          echo "File not found: $file_path"
+          exit 1
+        fi
+        version=$(grep -oP '^version\s*=\s*"\K[0-9]+\.[0-9]+\.[0-9]+' "$file_path")
+        if [[ -z "$version" ]]; then
+          echo "Error: Version not found"
+          exit 1
+        fi
+        echo "version=$version" >> $GITHUB_OUTPUT

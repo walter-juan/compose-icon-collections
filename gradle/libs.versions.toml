@@ -13,6 +13,7 @@ ktor = "2.3.12"
 kotlinx-serialization = "1.5.1"
 svgToCompose = "0.9.4"
 kotlinpoet = "1.9.0"
+semver = "2.0.0"
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "android-agp" }
@@ -32,3 +33,4 @@ svgToCompose = { module = "com.github.walter-juan:svg-to-compose", version.ref =
 ktor-client-core = { module = "io.ktor:ktor-client-core", version.ref = "ktor" }
 ktor-client-cio = { module = "io.ktor:ktor-client-cio", version.ref = "ktor" }
 kotlinpoet = { module = "com.squareup:kotlinpoet", version.ref = "kotlinpoet" }
+semver = { module = "io.github.z4kn4fein:semver", version.ref = "semver" }
