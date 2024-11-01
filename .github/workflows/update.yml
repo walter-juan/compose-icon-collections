@@ -34,10 +34,11 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git diff
-          if [[ `git status --porcelain` ]]; then
+          current_branch=$(git rev-parse --abbrev-ref HEAD)
+          non_pushed_commits=$(git log origin/$current_branch..HEAD --oneline)
+          if [ -z "$non_pushed_commits" ]; then
+            echo "There are no changes"
+          else
             echo "There are changes"
             gh pr create --title "Update icons" --body "Update icons"
-          else
-            echo "There are no changes"
           fi
