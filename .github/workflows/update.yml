@@ -26,11 +26,25 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           timestamp=$(date +"%Y-%m-%d-%H-%M-%S")
-          git checkout -b "update-icons-$timestamp"
+          branch_name="update-icons-$timestamp"
+          git checkout -b "$branch_name"
       - name: Update
         run: ./gradlew octicons:download-icons remix:download-icons tabler:download-icons -Pgitcommit --no-parallel
-      - name: Create pull request
-        # https://github.com/peter-evans/create-pull-request/releases/tag/v7.0.5
-        uses: peter-evans/create-pull-request@5e914681df9dc83aa4e4905692ca88beb2f9e91f
-        with:
-          title: Update icons
+      - name: Check for changes
+        id: check-changes
+        shell: bash
+        run: |
+          non_pushed_commits=$(git log origin/$(git rev-parse --abbrev-ref HEAD)..HEAD --oneline)
+          echo "non_pushed_commits=$non_pushed_commits" >> "$GITHUB_OUTPUT"
+      - name: Push branch if changes exist
+        if: steps.check-changes.outputs.non_pushed_commits != ''
+        shell: bash
+        run: |
+          git push origin HEAD
+      - name: Create pull request if changes exist
+        if: steps.check-changes.outputs.non_pushed_commits != ''
+        shell: bash
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh pr create --title "Update icons" --body "Update icons"
