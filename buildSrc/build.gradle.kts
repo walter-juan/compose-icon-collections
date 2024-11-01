@@ -16,4 +16,5 @@ dependencies {
     implementation(libs.ktor.client.cio)
     implementation(libs.svgToCompose)
     implementation(libs.kotlinpoet)
+    implementation(libs.semver)
 }

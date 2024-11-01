@@ -105,6 +105,7 @@ tasks.register("download-icons") {
     val downloadsDir = projectRootDir.resolve("downloads")
     val docsDir = projectRootDir.resolve("docs")
 
+    outputs.upToDateWhen { false }
     outputs.cacheIf { false }
     outputs.dir(downloadsDir)
 

@@ -1,4 +1,5 @@
 import com.vanniktech.maven.publish.SonatypeHost
+import io.github.z4kn4fein.semver.toVersion
 import org.jetbrains.kotlin.gradle.ExperimentalKotlinGradlePluginApi
 import org.jetbrains.kotlin.gradle.ExperimentalWasmDsl
 import org.jetbrains.kotlin.gradle.dsl.JvmTarget
@@ -100,15 +101,25 @@ tasks.register("download-icons") {
     val iconsPackName = "Tabler"
 
     val projectName = project.name
+    val projectVersion = project.version.toString().toVersion()
     val srcDir = layout.projectDirectory.dir("src/commonMain/kotlin").asFile
     val projectRootDir = project.rootDir
     val downloadsDir = projectRootDir.resolve("downloads")
     val docsDir = projectRootDir.resolve("docs")
 
+    val gitCommitExists = project.hasProperty("gitcommit")
+
+    outputs.upToDateWhen { false }
     outputs.cacheIf { false }
     outputs.dir(downloadsDir)
 
     doLast {
+        // check for new version
+        val (hasNewRelease, githubRelease) = Utils.checkGithubNewRelease(currentVersion = projectVersion, repo = ghUser, project = ghRepo)
+        if (!hasNewRelease) {
+            return@doLast
+        }
+
         // generate icons
         val generateIconsResult = IconsGenerator.generateIcons(
             downloadsDir = downloadsDir,
@@ -133,11 +144,23 @@ tasks.register("download-icons") {
             license = licenseContent,
         )
 
+        // update the version
+        println("Updating project version...")
+        val buildGradleKts = projectRootDir.resolve("$projectName/build.gradle.kts")
+        Utils.updateVersion(file = buildGradleKts, version = githubRelease.version)
+
+        // clean-up
         println("Removing...")
         generateIconsResult.projectDownloadsDir.deleteRecursively()
 
+        // commit changes
+        if (gitCommitExists) {
+            println("Commiting...")
+            Utils.commitChanges(project = projectName, version = githubRelease.version)
+        }
+
         println("==== RESULTS ====")
-        println("Tag [${generateIconsResult.tag}]")
+        println("New icons version generated [${githubRelease.version}]")
         println("=================")
     }
 }

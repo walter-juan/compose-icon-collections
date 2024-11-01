@@ -1,3 +1,5 @@
+import io.github.z4kn4fein.semver.Version
+import io.github.z4kn4fein.semver.toVersion
 import io.ktor.client.*
 import io.ktor.client.call.*
 import io.ktor.client.engine.cio.*
@@ -12,16 +14,53 @@ import java.io.File
 import java.util.*
 import java.util.zip.ZipFile
 
+data class GitHubRelease(val tagName: String, val zipballUrl: String, val version: Version)
+
 object Utils {
     /**
-     * @param downloadedFile File where the asset will be downloaded
-     * @return Release tag
+     * Commit the project changes to the git repository
      */
-    fun githubZipballDownload(
-        repo: String,
-        project: String,
-        downloadedFile: File,
-    ): String {
+    fun commitChanges(project: String, version: Version) {
+        // git add all from project and docs
+        val process = ProcessBuilder("git", "add", "$project/*", "docs/*").start()
+        val exitCode = process.waitFor()
+        if (exitCode != 0) {
+            throw RuntimeException("Failed to execute git add command")
+        }
+        // git commit
+        val commitMessage = "Update $project to $version"
+        val process2 = ProcessBuilder("git", "commit", "-m", commitMessage).start()
+        val exitCode2 = process2.waitFor()
+        if (exitCode2 != 0) {
+            throw RuntimeException("Failed to execute git commit command")
+        }
+    }
+
+    /**
+     * Replace the version in the file
+     */
+    fun updateVersion(file: File, version: Version) {
+        val process = ProcessBuilder("sed", "-i", "s/version = \".*\"/version = \"${version}\"/", file.absolutePath).start()
+        val exitCode = process.waitFor()
+        if (exitCode != 0) {
+            throw RuntimeException("Failed to execute sed -i command to update the version")
+        }
+    }
+    /**
+     * Return true if a new release has been found
+     */
+    fun checkGithubNewRelease(currentVersion: Version, repo: String, project: String): Pair<Boolean, GitHubRelease> {
+        val gitHubRelease = githubLastRelease(repo = repo, project = project)
+        return if (currentVersion >= gitHubRelease.version) {
+            println("NO new icons version found $currentVersion >= ${gitHubRelease.version}")
+            false to gitHubRelease
+        } else {
+            println("New icons version found $currentVersion < ${gitHubRelease.version}")
+            true to gitHubRelease
+        }
+    }
+
+    fun githubLastRelease(repo: String, project: String): GitHubRelease {
         val url = "https://api.github.com/repos/$repo/$project/releases/latest"
         val client = HttpClient(CIO)
         return client.use {
@@ -40,17 +79,35 @@ object Utils {
             requireNotNull(tagName) { "Tag name not found" }
             requireNotNull(zipballUrl) { "URL not found" }
 
-            println("Download URL: $zipballUrl")
+            val version = tagName.toVersion(strict = false)
+            println("Latest release tag: $tagName")
+            println("Latest version: $version")
+            println("Latest release download URL: $zipballUrl")
 
-            // download the asset
+            GitHubRelease(tagName = tagName, zipballUrl = zipballUrl, version = version)
+        }
+    }
+
+    /**
+     * @param downloadedFile File where the asset will be downloaded
+     * @return Release tag
+     */
+    fun githubZipballDownload(
+        repo: String,
+        project: String,
+        downloadedFile: File,
+    ): String {
+        val gitHubRelease = githubLastRelease(repo = repo, project = project)
+        val client = HttpClient(CIO)
+        return client.use {
             runBlocking {
-                client.get(zipballUrl).bodyAsChannel().toInputStream().use { input ->
+                client.get(gitHubRelease.zipballUrl).bodyAsChannel().toInputStream().use { input ->
                     downloadedFile.outputStream().use { output ->
                         input.copyTo(output)
                     }
                 }
             }
-            tagName
+            gitHubRelease.tagName
         }
     }
 
