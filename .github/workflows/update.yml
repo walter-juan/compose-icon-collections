@@ -1,4 +1,4 @@
-name: Update
+name: Update icons
 
 on:
   push:
@@ -12,11 +12,27 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Get the version
-        id: get-version
-        uses: ./.github/actions/get-version
+      - name: Setup Java
+        uses: actions/setup-java@v4
         with:
-          module: tabler
-      - name: Print version
+          distribution: 'temurin'
+          java-version: 17
+      - uses: gradle/actions/wrapper-validation@v3
+      - name: Create branch
         shell: bash
-        run: echo "Version is ${{ steps.get-version.outputs.version }}"
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          timestamp=$(date +"%Y-%m-%d-%H-%M-%S")
+          git checkout -b "update-icons-$timestamp"
+      - name: Update
+        run: ./gradlew octicons:download-icons remix:download-icons tabler:download-icons -Pgitcommit --no-parallel --no-configuration-cache
+      - name: Push changes
+        shell: bash
+        run: |
+          git diff
+          if [[ `git status --porcelain` ]]; then
+            echo "There are changes"
+          else
+            echo "There are no changes"
+          fi
