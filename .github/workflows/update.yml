@@ -30,18 +30,19 @@ jobs:
           echo "branch=$branch_name" >> $GITHUB_OUTPUT
           git checkout -b "$branch_name"
       - name: Download icons
-        run: ./gradlew octicons:download-icons remix:download-icons tabler:download-icons --no-parallel
+        run: ./gradlew octicons:download-icons remix:download-icons tabler:download-icons -Pgitcommit --no-parallel
       - name: Create pull request if changes exist
         shell: bash
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          if [[ `git status --porcelain` ]]; then
-            echo "There are changes"
-            git add --all
-            git commit -m "Update icons"
-            git push origin ${{ steps.create-branch.outputs.branch }}
-            gh pr create --title "Update icons" --body "Update icons"
-          else
+          branch="${{ steps.create-branch.outputs.branch }}"
+          git push origin "$branch"
+          git fetch origin main
+          if git diff --quiet origin/main "$branch"; then
             echo "There are no changes"
+            git push origin --delete "$branch"
+          else
+            echo "There are changes"
+            gh pr create --title "Update icons" --body "Update icons"
           fi
