@@ -36,7 +36,6 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git diff
           if [[ `git status --porcelain` ]]; then
             echo "There are changes"
             git add --all
