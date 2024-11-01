@@ -4,6 +4,8 @@ import androidx.compose.ui.graphics.vector.ImageVector
 import com.woowla.compose.icon.collections.remix.Remix
 import com.woowla.compose.icon.collections.remix.remix.editor.AB
 import com.woowla.compose.icon.collections.remix.remix.editor.AiGenerate
+import com.woowla.compose.icon.collections.remix.remix.editor.AiGenerate2
+import com.woowla.compose.icon.collections.remix.remix.editor.AiGenerateText
 import com.woowla.compose.icon.collections.remix.remix.editor.AlignBottom
 import com.woowla.compose.icon.collections.remix.remix.editor.AlignCenter
 import com.woowla.compose.icon.collections.remix.remix.editor.AlignJustify
@@ -39,6 +41,7 @@ import com.woowla.compose.icon.collections.remix.remix.editor.FontSans
 import com.woowla.compose.icon.collections.remix.remix.editor.FontSansSerif
 import com.woowla.compose.icon.collections.remix.remix.editor.FontSize
 import com.woowla.compose.icon.collections.remix.remix.editor.FontSize2
+import com.woowla.compose.icon.collections.remix.remix.editor.FontSizeAi
 import com.woowla.compose.icon.collections.remix.remix.editor.FormatClear
 import com.woowla.compose.icon.collections.remix.remix.editor.Formula
 import com.woowla.compose.icon.collections.remix.remix.editor.Functions
@@ -161,13 +164,13 @@ public val EditorGroup.AllIcons: ____KtList<ImageVector>
     if (__AllIcons != null) {
       return __AllIcons!!
     }
-    __AllIcons= listOf(AB, AiGenerate, AlignBottom, AlignCenter, AlignJustify, AlignLeft,
-        AlignRight, AlignTop, AlignVertically, Asterisk, Attachment2, Bold, BringForward,
-        BringToFront, CalendarView, CarouselView, CodeBlock, CodeView, CustomSize, DeleteColumn,
-        DeleteRow, DoubleQuotesL, DoubleQuotesR, Draggable, DropdownList, Emphasis, EmphasisCn,
-        EnglishInput, FlowChart, FocusMode, FontColor, FontFamily, FontMono, FontSans,
-        FontSansSerif, FontSize, FontSize2, FormatClear, Formula, Functions, GalleryView,
-        GalleryView2, H1, H2, H3, H4, H5, H6, Hand, Hashtag, Heading, IndentDecrease,
+    __AllIcons= listOf(AB, AiGenerate, AiGenerate2, AiGenerateText, AlignBottom, AlignCenter,
+        AlignJustify, AlignLeft, AlignRight, AlignTop, AlignVertically, Asterisk, Attachment2, Bold,
+        BringForward, BringToFront, CalendarView, CarouselView, CodeBlock, CodeView, CustomSize,
+        DeleteColumn, DeleteRow, DoubleQuotesL, DoubleQuotesR, Draggable, DropdownList, Emphasis,
+        EmphasisCn, EnglishInput, FlowChart, FocusMode, FontColor, FontFamily, FontMono, FontSans,
+        FontSansSerif, FontSize, FontSize2, FontSizeAi, FormatClear, Formula, Functions,
+        GalleryView, GalleryView2, H1, H2, H3, H4, H5, H6, Hand, Hashtag, Heading, IndentDecrease,
         IndentIncrease, InfoI, InputCursorMove, InputField, InsertColumnLeft, InsertColumnRight,
         InsertRowBottom, InsertRowTop, Italic, KanbanView, KanbanView2, LetterSpacing2, LineHeight,
         LineHeight2, Link, LinkM, LinkUnlink, LinkUnlinkM, ListCheck, ListCheck2, ListCheck3,

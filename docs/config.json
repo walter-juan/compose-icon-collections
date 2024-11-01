@@ -18,36 +18,36 @@
             ]
         },
         {
-            "name": "Remix icons",
-            "value": "remix",
-            "categories": [
-                "editor",
-                "logos",
-                "map",
-                "food",
-                "development",
-                "others",
-                "business",
-                "buildings",
-                "design",
-                "media",
-                "document",
-                "communication",
-                "finance",
-                "system",
-                "arrows",
-                "userandfaces",
-                "device",
-                "weather",
-                "healthandmedical"
-            ]
-        },
-        {
             "name": "Tabler",
             "value": "tabler",
             "categories": [
                 "outline",
                 "filled"
+            ]
+        },
+        {
+            "name": "Remix icons",
+            "value": "remix",
+            "categories": [
+                "design",
+                "userandfaces",
+                "food",
+                "map",
+                "communication",
+                "healthandmedical",
+                "system",
+                "document",
+                "weather",
+                "media",
+                "logos",
+                "buildings",
+                "business",
+                "development",
+                "editor",
+                "device",
+                "arrows",
+                "finance",
+                "others"
             ]
         }
     ]

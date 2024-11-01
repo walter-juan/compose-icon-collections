@@ -96,6 +96,14 @@ import com.woowla.compose.icon.collections.remix.remix.others.Plug2Fill
 import com.woowla.compose.icon.collections.remix.remix.others.Plug2Line
 import com.woowla.compose.icon.collections.remix.remix.others.PlugFill
 import com.woowla.compose.icon.collections.remix.remix.others.PlugLine
+import com.woowla.compose.icon.collections.remix.remix.others.PokerClubsFill
+import com.woowla.compose.icon.collections.remix.remix.others.PokerClubsLine
+import com.woowla.compose.icon.collections.remix.remix.others.PokerDiamondsFill
+import com.woowla.compose.icon.collections.remix.remix.others.PokerDiamondsLine
+import com.woowla.compose.icon.collections.remix.remix.others.PokerHeartsFill
+import com.woowla.compose.icon.collections.remix.remix.others.PokerHeartsLine
+import com.woowla.compose.icon.collections.remix.remix.others.PokerSpadesFill
+import com.woowla.compose.icon.collections.remix.remix.others.PokerSpadesLine
 import com.woowla.compose.icon.collections.remix.remix.others.PoliceBadgeFill
 import com.woowla.compose.icon.collections.remix.remix.others.PoliceBadgeLine
 import com.woowla.compose.icon.collections.remix.remix.others.RecycleFill
@@ -164,11 +172,13 @@ public val OthersGroup.AllIcons: ____KtList<ImageVector>
         Key2Fill, Key2Line, KeyFill, KeyLine, LeafFill, LeafLine, LightbulbFill, LightbulbFlashFill,
         LightbulbFlashLine, LightbulbLine, Outlet2Fill, Outlet2Line, OutletFill, OutletLine,
         PingPongFill, PingPongLine, PlantFill, PlantLine, Plug2Fill, Plug2Line, PlugFill, PlugLine,
-        PoliceBadgeFill, PoliceBadgeLine, RecycleFill, RecycleLine, ReservedFill, ReservedLine,
-        Scales2Fill, Scales2Line, Scales3Fill, Scales3Line, ScalesFill, ScalesLine, SeedlingFill,
-        SeedlingLine, ShirtFill, ShirtLine, SofaFill, SofaLine, StairsFill, StairsLine, SwordFill,
-        SwordLine, TShirt2Fill, TShirt2Line, TShirtAirFill, TShirtAirLine, TShirtFill, TShirtLine,
-        ToothFill, ToothLine, TreeFill, TreeLine, UmbrellaFill, UmbrellaLine, VoiceRecognitionFill,
-        VoiceRecognitionLine, WeightFill, WeightLine, WheelchairFill, WheelchairLine)
+        PokerClubsFill, PokerClubsLine, PokerDiamondsFill, PokerDiamondsLine, PokerHeartsFill,
+        PokerHeartsLine, PokerSpadesFill, PokerSpadesLine, PoliceBadgeFill, PoliceBadgeLine,
+        RecycleFill, RecycleLine, ReservedFill, ReservedLine, Scales2Fill, Scales2Line, Scales3Fill,
+        Scales3Line, ScalesFill, ScalesLine, SeedlingFill, SeedlingLine, ShirtFill, ShirtLine,
+        SofaFill, SofaLine, StairsFill, StairsLine, SwordFill, SwordLine, TShirt2Fill, TShirt2Line,
+        TShirtAirFill, TShirtAirLine, TShirtFill, TShirtLine, ToothFill, ToothLine, TreeFill,
+        TreeLine, UmbrellaFill, UmbrellaLine, VoiceRecognitionFill, VoiceRecognitionLine,
+        WeightFill, WeightLine, WheelchairFill, WheelchairLine)
     return __AllIcons!!
   }
