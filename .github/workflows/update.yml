@@ -27,24 +27,22 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           timestamp=$(date +"%Y-%m-%d-%H-%M-%S")
           branch_name="update-icons-$timestamp"
+          echo "branch=$branch_name" >> $GITHUB_OUTPUT
           git checkout -b "$branch_name"
-      - name: Update
-        run: ./gradlew octicons:download-icons remix:download-icons tabler:download-icons -Pgitcommit --no-parallel
-      - name: Check for changes
-        id: check-changes
-        shell: bash
-        run: |
-          non_pushed_commits=$(git log origin/$(git rev-parse --abbrev-ref HEAD)..HEAD --oneline)
-          echo "non_pushed_commits=$non_pushed_commits" >> "$GITHUB_OUTPUT"
-      - name: Push branch if changes exist
-        if: steps.check-changes.outputs.non_pushed_commits != ''
-        shell: bash
-        run: |
-          git push origin HEAD
+      - name: Download icons
+        run: ./gradlew octicons:download-icons remix:download-icons tabler:download-icons --no-parallel
       - name: Create pull request if changes exist
-        if: steps.check-changes.outputs.non_pushed_commits != ''
         shell: bash
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          gh pr create --title "Update icons" --body "Update icons"
+          git diff
+          if [[ `git status --porcelain` ]]; then
+            echo "There are changes"
+            git add --all
+            git commit -m "Update icons"
+            git push origin ${{ steps.create-branch.outputs.branch }}
+            gh pr create --title "Update icons" --body "Update icons"
+          else
+            echo "There are no changes"
+          fi
