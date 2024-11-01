@@ -21,13 +21,13 @@ public val MediaGroup.VolumeDownLine: ImageVector
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(13.0f, 7.22f)
+                moveTo(13.0f, 7.221f)
                 lineTo(9.603f, 10.0f)
                 horizontalLineTo(6.0f)
                 verticalLineTo(14.0f)
                 horizontalLineTo(9.603f)
-                lineTo(13.0f, 16.779f)
-                verticalLineTo(7.22f)
+                lineTo(13.0f, 16.78f)
+                verticalLineTo(7.221f)
                 close()
                 moveTo(8.889f, 16.0f)
                 horizontalLineTo(5.0f)
@@ -49,7 +49,7 @@ public val MediaGroup.VolumeDownLine: ImageVector
                 curveTo(19.0f, 10.57f, 18.249f, 9.315f, 17.12f, 8.608f)
                 lineTo(18.559f, 7.169f)
                 curveTo(20.04f, 8.262f, 21.0f, 10.019f, 21.0f, 12.0f)
-                curveTo(21.0f, 13.842f, 20.17f, 15.49f, 18.863f, 16.591f)
+                curveTo(21.0f, 13.842f, 20.17f, 15.491f, 18.863f, 16.591f)
                 close()
             }
         }

@@ -41,7 +41,7 @@ public val MediaGroup.VolumeDownFill: ImageVector
                 curveTo(19.0f, 10.57f, 18.249f, 9.315f, 17.12f, 8.608f)
                 lineTo(18.559f, 7.169f)
                 curveTo(20.04f, 8.262f, 21.0f, 10.019f, 21.0f, 12.0f)
-                curveTo(21.0f, 13.842f, 20.17f, 15.49f, 18.863f, 16.591f)
+                curveTo(21.0f, 13.842f, 20.17f, 15.491f, 18.863f, 16.591f)
                 close()
             }
         }

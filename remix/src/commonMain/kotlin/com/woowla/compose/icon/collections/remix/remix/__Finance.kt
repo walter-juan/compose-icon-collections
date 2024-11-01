@@ -104,6 +104,8 @@ import com.woowla.compose.icon.collections.remix.remix.finance.RefundFill
 import com.woowla.compose.icon.collections.remix.remix.finance.RefundLine
 import com.woowla.compose.icon.collections.remix.remix.finance.Safe2Fill
 import com.woowla.compose.icon.collections.remix.remix.finance.Safe2Line
+import com.woowla.compose.icon.collections.remix.remix.finance.Safe3Fill
+import com.woowla.compose.icon.collections.remix.remix.finance.Safe3Line
 import com.woowla.compose.icon.collections.remix.remix.finance.SafeFill
 import com.woowla.compose.icon.collections.remix.remix.finance.SafeLine
 import com.woowla.compose.icon.collections.remix.remix.finance.SecurePaymentFill
@@ -196,15 +198,16 @@ public val FinanceGroup.AllIcons: ____KtList<ImageVector>
         MoneyRupeeCircleFill, MoneyRupeeCircleLine, NftFill, NftLine, P2pFill, P2pLine, PercentFill,
         PercentLine, PriceTag2Fill, PriceTag2Line, PriceTag3Fill, PriceTag3Line, PriceTagFill,
         PriceTagLine, RedPacketFill, RedPacketLine, Refund2Fill, Refund2Line, RefundFill,
-        RefundLine, Safe2Fill, Safe2Line, SafeFill, SafeLine, SecurePaymentFill, SecurePaymentLine,
-        ShoppingBag2Fill, ShoppingBag2Line, ShoppingBag3Fill, ShoppingBag3Line, ShoppingBag4Fill,
-        ShoppingBag4Line, ShoppingBagFill, ShoppingBagLine, ShoppingBasket2Fill,
-        ShoppingBasket2Line, ShoppingBasketFill, ShoppingBasketLine, ShoppingCart2Fill,
-        ShoppingCart2Line, ShoppingCartFill, ShoppingCartLine, StockFill, StockLine, Swap2Fill,
-        Swap2Line, Swap3Fill, Swap3Line, SwapBoxFill, SwapBoxLine, SwapFill, SwapLine, Ticket2Fill,
-        Ticket2Line, TicketFill, TicketLine, TokenSwapFill, TokenSwapLine, TrophyFill, TrophyLine,
-        VipCrown2Fill, VipCrown2Line, VipCrownFill, VipCrownLine, VipDiamondFill, VipDiamondLine,
-        VipFill, VipLine, Wallet2Fill, Wallet2Line, Wallet3Fill, Wallet3Line, WalletFill,
-        WalletLine, WaterFlashFill, WaterFlashLine, XrpFill, XrpLine, XtzFill, XtzLine)
+        RefundLine, Safe2Fill, Safe2Line, Safe3Fill, Safe3Line, SafeFill, SafeLine,
+        SecurePaymentFill, SecurePaymentLine, ShoppingBag2Fill, ShoppingBag2Line, ShoppingBag3Fill,
+        ShoppingBag3Line, ShoppingBag4Fill, ShoppingBag4Line, ShoppingBagFill, ShoppingBagLine,
+        ShoppingBasket2Fill, ShoppingBasket2Line, ShoppingBasketFill, ShoppingBasketLine,
+        ShoppingCart2Fill, ShoppingCart2Line, ShoppingCartFill, ShoppingCartLine, StockFill,
+        StockLine, Swap2Fill, Swap2Line, Swap3Fill, Swap3Line, SwapBoxFill, SwapBoxLine, SwapFill,
+        SwapLine, Ticket2Fill, Ticket2Line, TicketFill, TicketLine, TokenSwapFill, TokenSwapLine,
+        TrophyFill, TrophyLine, VipCrown2Fill, VipCrown2Line, VipCrownFill, VipCrownLine,
+        VipDiamondFill, VipDiamondLine, VipFill, VipLine, Wallet2Fill, Wallet2Line, Wallet3Fill,
+        Wallet3Line, WalletFill, WalletLine, WaterFlashFill, WaterFlashLine, XrpFill, XrpLine,
+        XtzFill, XtzLine)
     return __AllIcons!!
   }
