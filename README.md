@@ -63,9 +63,7 @@ The same version numbers as the official icon packs have been followed
 
 ### Update the icons
 
-1. Run the icon download task
-2. Change the version in `build.gradle` from the updated modules
-3. Update [README.md](README.md) with the new version in *Icon packs* section
+Run the icon download task, use the `-Pgitcommit` flag to commit the changes.
 
 ### Add new icons
 
@@ -77,9 +75,11 @@ The same version numbers as the official icon packs have been followed
 ### Gradle tasks
 
 - The folder [.run](.run) contains all the necessary tasks to download the icons and run the sample apps (Android/iOS/Desktop/Web)
-- Download icon ones:
+- Download icon ones, update docs and version:
   - `./gradlew <module>:download-icons`
-  - `./gradlew download-icons`
+  - `./gradlew download-icons` to download all the icons, just in case **do not use with the `-Pgitcommit` flag**
+- Use the `-Pgitcommit` flag to commit the changes
+  - `./gradlew <module>:download-icons -Pgitcommit`
 
 ## Useful links
 
