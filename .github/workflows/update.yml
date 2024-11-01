@@ -28,7 +28,7 @@ jobs:
           git checkout -b "update-icons-$timestamp"
       - name: Update
         run: ./gradlew octicons:download-icons remix:download-icons tabler:download-icons -Pgitcommit --no-parallel --no-configuration-cache
-      - name: Push changes
+      - name: Create pull request
         shell: bash
         run: |
           git diff
