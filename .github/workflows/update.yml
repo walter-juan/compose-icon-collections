@@ -1,0 +1,22 @@
+name: Update
+
+on:
+  push:
+
+permissions:
+  contents: write
+
+jobs:
+  test:
+    name: Test
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Get the version
+        id: get-version
+        uses: ./.github/actions/get-version
+        with:
+          module: tabler
+      - name: Print version
+        shell: bash
+        run: echo "Version is ${{ steps.get-version.outputs.version }}"
