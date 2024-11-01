@@ -36,7 +36,7 @@ public val OthersGroup.FlowerLine: ImageVector
                 lineTo(12.0f, 2.076f)
                 close()
                 moveTo(8.878f, 7.165f)
-                curveTo(10.107f, 8.026f, 11.168f, 9.113f, 12.0f, 10.364f)
+                curveTo(10.107f, 8.027f, 11.168f, 9.113f, 12.0f, 10.365f)
                 curveTo(12.832f, 9.113f, 13.893f, 8.026f, 15.122f, 7.165f)
                 curveTo(14.295f, 6.016f, 13.23f, 5.049f, 12.0f, 4.337f)
                 curveTo(10.77f, 5.049f, 9.705f, 6.016f, 8.878f, 7.165f)

@@ -1,1090 +1,1146 @@
 [
     {
-        "name": "Remix.Media.ImageCircleAiLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/image-circle-ai-line.svg"
-    },
-    {
-        "name": "Remix.Media.DiscFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/disc-fill.svg"
-    },
-    {
-        "name": "Remix.Media.RepeatOneLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/repeat-one-line.svg"
-    },
-    {
-        "name": "Remix.Media.PolaroidLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/polaroid-line.svg"
-    },
-    {
-        "name": "Remix.Media.PictureInPictureExitLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/picture-in-picture-exit-line.svg"
-    },
-    {
-        "name": "Remix.Media.Mic2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/mic-2-line.svg"
-    },
-    {
-        "name": "Remix.Media.CameraAiLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/camera-ai-line.svg"
-    },
-    {
-        "name": "Remix.Media.Replay15Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/replay-15-fill.svg"
-    },
-    {
-        "name": "Remix.Media.Equalizer2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/equalizer-2-line.svg"
-    },
-    {
-        "name": "Remix.Media.Polaroid2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/polaroid-2-fill.svg"
-    },
-    {
-        "name": "Remix.Media.VideoOnLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/video-on-line.svg"
-    },
-    {
-        "name": "Remix.Media.HqLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/hq-line.svg"
-    },
-    {
-        "name": "Remix.Media.SlowDownLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/slow-down-line.svg"
-    },
-    {
-        "name": "Remix.Media.PlayListFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/play-list-fill.svg"
-    },
-    {
-        "name": "Remix.Media.RhythmFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/rhythm-fill.svg"
-    },
-    {
-        "name": "Remix.Media.CameraOffLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/camera-off-line.svg"
-    },
-    {
-        "name": "Remix.Media.Replay30Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/replay-30-line.svg"
-    },
-    {
-        "name": "Remix.Media.Forward30Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/forward-30-line.svg"
-    },
-    {
-        "name": "Remix.Media.RewindStartFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/rewind-start-fill.svg"
-    },
-    {
-        "name": "Remix.Media.Notification3Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/notification-3-line.svg"
-    },
-    {
-        "name": "Remix.Media.Radio2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/radio-2-fill.svg"
-    },
-    {
-        "name": "Remix.Media.Vidicon2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/vidicon-2-fill.svg"
-    },
-    {
-        "name": "Remix.Media.StopMiniLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/stop-mini-line.svg"
-    },
-    {
-        "name": "Remix.Media.StopCircleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/stop-circle-line.svg"
-    },
-    {
-        "name": "Remix.Media.Speaker3Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/speaker-3-line.svg"
-    },
-    {
-        "name": "Remix.Media.VolumeDownFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/volume-down-fill.svg"
-    },
-    {
-        "name": "Remix.Media.MicOffLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/mic-off-line.svg"
-    },
-    {
-        "name": "Remix.Media.MicAiLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/mic-ai-line.svg"
-    },
-    {
-        "name": "Remix.Media.LandscapeAiFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/landscape-ai-fill.svg"
-    },
-    {
-        "name": "Remix.Media.VidiconLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/vidicon-line.svg"
-    },
-    {
-        "name": "Remix.Media.SurroundSoundFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/surround-sound-fill.svg"
-    },
-    {
-        "name": "Remix.Media.FullscreenExitFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/fullscreen-exit-fill.svg"
-    },
-    {
-        "name": "Remix.Media.VideoOnAiFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/video-on-ai-fill.svg"
-    },
-    {
-        "name": "Remix.Media.VolumeOffVibrateFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/volume-off-vibrate-fill.svg"
-    },
-    {
-        "name": "Remix.Media.Music2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/music-2-fill.svg"
-    },
-    {
-        "name": "Remix.Media.Equalizer2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/equalizer-2-fill.svg"
-    },
-    {
-        "name": "Remix.Media.LandscapeFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/landscape-fill.svg"
-    },
-    {
-        "name": "Remix.Media.SkipBackLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/skip-back-line.svg"
-    },
-    {
-        "name": "Remix.Media.VoiceAiFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/voice-ai-fill.svg"
-    },
-    {
-        "name": "Remix.Media.Forward10Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/forward-10-fill.svg"
-    },
-    {
-        "name": "Remix.Media.Movie2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/movie-2-line.svg"
-    },
-    {
-        "name": "Remix.Media.RewindStartLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/rewind-start-line.svg"
-    },
-    {
-        "name": "Remix.Media.RewindStartMiniFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/rewind-start-mini-fill.svg"
-    },
-    {
-        "name": "Remix.Media.CameraFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/camera-fill.svg"
-    },
-    {
-        "name": "Remix.Media.StopLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/stop-line.svg"
-    },
-    {
-        "name": "Remix.Media.Forward10Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/forward-10-line.svg"
-    },
-    {
-        "name": "Remix.Media.AlbumLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/album-line.svg"
-    },
-    {
-        "name": "Remix.Media.SkipBackMiniFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/skip-back-mini-fill.svg"
-    },
-    {
-        "name": "Remix.Media.PlayCircleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/play-circle-fill.svg"
-    },
-    {
-        "name": "Remix.Media.WebcamFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/webcam-fill.svg"
-    },
-    {
-        "name": "Remix.Media.ImageAiFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/image-ai-fill.svg"
-    },
-    {
-        "name": "Remix.Media.Speaker2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/speaker-2-line.svg"
-    },
-    {
-        "name": "Remix.Media.VoiceprintLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/voiceprint-line.svg"
-    },
-    {
-        "name": "Remix.Media.VideoDownloadFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/video-download-fill.svg"
-    },
-    {
-        "name": "Remix.Media.Notification4Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/notification-4-fill.svg"
-    },
-    {
-        "name": "Remix.Media.PauseLargeLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/pause-large-line.svg"
-    },
-    {
-        "name": "Remix.Media.RewindMiniFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/rewind-mini-fill.svg"
-    },
-    {
-        "name": "Remix.Media.SlowDownFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/slow-down-fill.svg"
-    },
-    {
-        "name": "Remix.Media.DvLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/dv-line.svg"
-    },
-    {
-        "name": "Remix.Media.PictureInPicture2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/picture-in-picture-2-line.svg"
-    },
-    {
-        "name": "Remix.Media.DvdLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/dvd-line.svg"
-    },
-    {
-        "name": "Remix.Media.NotificationSnoozeLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/notification-snooze-line.svg"
-    },
-    {
-        "name": "Remix.Media.ImageCircleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/image-circle-line.svg"
-    },
-    {
-        "name": "Remix.Media.MovieLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/movie-line.svg"
-    },
-    {
-        "name": "Remix.Media.PlayMiniLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/play-mini-line.svg"
-    },
-    {
-        "name": "Remix.Media.RewindFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/rewind-fill.svg"
-    },
-    {
-        "name": "Remix.Media.PlayListAddLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/play-list-add-line.svg"
-    },
-    {
-        "name": "Remix.Media.Camera3Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/camera-3-fill.svg"
-    },
-    {
-        "name": "Remix.Media.CameraSwitchLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/camera-switch-line.svg"
-    },
-    {
-        "name": "Remix.Media.Notification4Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/notification-4-line.svg"
-    },
-    {
-        "name": "Remix.Media.SkipBackFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/skip-back-fill.svg"
-    },
-    {
-        "name": "Remix.Media.Replay10Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/replay-10-line.svg"
-    },
-    {
-        "name": "Remix.Media.EqualizerFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/equalizer-fill.svg"
-    },
-    {
-        "name": "Remix.Media.PlayCircleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/play-circle-line.svg"
-    },
-    {
-        "name": "Remix.Media.FullscreenExitLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/fullscreen-exit-line.svg"
-    },
-    {
-        "name": "Remix.Media.StopLargeLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/stop-large-line.svg"
-    },
-    {
-        "name": "Remix.Media.Replay10Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/replay-10-fill.svg"
-    },
-    {
-        "name": "Remix.Media.ClapperboardLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/clapperboard-line.svg"
-    },
-    {
-        "name": "Remix.Media.VolumeUpFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/volume-up-fill.svg"
-    },
-    {
-        "name": "Remix.Media.VolumeMuteFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/volume-mute-fill.svg"
-    },
-    {
-        "name": "Remix.Media.PlayList2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/play-list-2-line.svg"
-    },
-    {
-        "name": "Remix.Media.Repeat2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/repeat-2-line.svg"
-    },
-    {
-        "name": "Remix.Media.MicAiFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/mic-ai-fill.svg"
-    },
-    {
-        "name": "Remix.Media.OrderPlayFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/order-play-fill.svg"
-    },
-    {
-        "name": "Remix.Media.VolumeDownLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/volume-down-line.svg"
-    },
-    {
-        "name": "Remix.Media.ImageEditLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/image-edit-line.svg"
-    },
-    {
-        "name": "Remix.Media.SoundModuleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/sound-module-fill.svg"
-    },
-    {
-        "name": "Remix.Media.Forward5Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/forward-5-line.svg"
-    },
-    {
-        "name": "Remix.Media.VolumeVibrateFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/volume-vibrate-fill.svg"
-    },
-    {
-        "name": "Remix.Media.ForwardEndMiniLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/forward-end-mini-line.svg"
-    },
-    {
-        "name": "Remix.Media.GalleryUploadLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/gallery-upload-line.svg"
-    },
-    {
-        "name": "Remix.Media.PlayReverseLargeLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/play-reverse-large-line.svg"
-    },
-    {
-        "name": "Remix.Media.RhythmLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/rhythm-line.svg"
-    },
-    {
-        "name": "Remix.Media.PlayReverseMiniFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/play-reverse-mini-fill.svg"
-    },
-    {
-        "name": "Remix.Media.VolumeOffVibrateLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/volume-off-vibrate-line.svg"
-    },
-    {
-        "name": "Remix.Media.PauseFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/pause-fill.svg"
-    },
-    {
-        "name": "Remix.Media.Movie2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/movie-2-fill.svg"
-    },
-    {
-        "name": "Remix.Media.MicOffFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/mic-off-fill.svg"
-    },
-    {
-        "name": "Remix.Media.VideoOnAiLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/video-on-ai-line.svg"
-    },
-    {
-        "name": "Remix.Media.ForwardEndMiniFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/forward-end-mini-fill.svg"
-    },
-    {
-        "name": "Remix.Media.EqualizerLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/equalizer-line.svg"
-    },
-    {
-        "name": "Remix.Media.StopMiniFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/stop-mini-fill.svg"
-    },
-    {
-        "name": "Remix.Media.StopCircleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/stop-circle-fill.svg"
-    },
-    {
-        "name": "Remix.Media.EjectFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/eject-fill.svg"
-    },
-    {
-        "name": "Remix.Media.PlayReverseFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/play-reverse-fill.svg"
-    },
-    {
-        "name": "Remix.Media.ImageAddLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/image-add-line.svg"
-    },
-    {
-        "name": "Remix.Media.PictureInPictureFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/picture-in-picture-fill.svg"
-    },
-    {
-        "name": "Remix.Media.Music2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/music-2-line.svg"
-    },
-    {
-        "name": "Remix.Media.VideoUploadLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/video-upload-line.svg"
-    },
-    {
-        "name": "Remix.Media.PictureInPictureExitFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/picture-in-picture-exit-fill.svg"
-    },
-    {
-        "name": "Remix.Media.WebcamLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/webcam-line.svg"
-    },
-    {
-        "name": "Remix.Media.StopFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/stop-fill.svg"
-    },
-    {
-        "name": "Remix.Media.NotificationOffFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/notification-off-fill.svg"
-    },
-    {
-        "name": "Remix.Media.SpeedUpLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/speed-up-line.svg"
-    },
-    {
-        "name": "Remix.Media.SkipForwardLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/skip-forward-line.svg"
-    },
-    {
-        "name": "Remix.Media.FilmFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/film-fill.svg"
-    },
-    {
-        "name": "Remix.Media.BroadcastLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/broadcast-line.svg"
-    },
-    {
-        "name": "Remix.Media.GalleryUploadFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/gallery-upload-fill.svg"
-    },
-    {
-        "name": "Remix.Media.ClosedCaptioningLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/closed-captioning-line.svg"
-    },
-    {
-        "name": "Remix.Media.FullscreenFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/fullscreen-fill.svg"
-    },
-    {
-        "name": "Remix.Media.ShuffleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/shuffle-line.svg"
-    },
-    {
-        "name": "Remix.Media.HqFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/hq-fill.svg"
-    },
-    {
-        "name": "Remix.Media.AspectRatioFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/aspect-ratio-fill.svg"
-    },
-    {
-        "name": "Remix.Media.Speaker3Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/speaker-3-fill.svg"
-    },
-    {
-        "name": "Remix.Media.MicLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/mic-line.svg"
-    },
-    {
-        "name": "Remix.Media.Equalizer3Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/equalizer-3-fill.svg"
-    },
-    {
-        "name": "Remix.Media.RadioLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/radio-line.svg"
-    },
-    {
-        "name": "Remix.Media.KLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/4k-line.svg"
-    },
-    {
-        "name": "Remix.Media.VideoOffFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/video-off-fill.svg"
-    },
-    {
-        "name": "Remix.Media.SurroundSoundLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/surround-sound-line.svg"
-    },
-    {
-        "name": "Remix.Media.ImageFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/image-fill.svg"
-    },
-    {
-        "name": "Remix.Media.SkipForwardFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/skip-forward-fill.svg"
-    },
-    {
-        "name": "Remix.Media.StopLargeFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/stop-large-fill.svg"
-    },
-    {
-        "name": "Remix.Media.Replay5Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/replay-5-line.svg"
-    },
-    {
-        "name": "Remix.Media.Notification3Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/notification-3-fill.svg"
-    },
-    {
-        "name": "Remix.Media.VolumeUpLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/volume-up-line.svg"
-    },
-    {
-        "name": "Remix.Media.Mic2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/mic-2-fill.svg"
-    },
-    {
-        "name": "Remix.Media.DvdFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/dvd-fill.svg"
-    },
-    {
-        "name": "Remix.Media.VideoAiFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/video-ai-fill.svg"
-    },
-    {
-        "name": "Remix.Media.ImageAiLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/image-ai-line.svg"
-    },
-    {
-        "name": "Remix.Media.AlbumFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/album-fill.svg"
-    },
-    {
-        "name": "Remix.Media.Image2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/image-2-line.svg"
-    },
-    {
-        "name": "Remix.Media.RepeatLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/repeat-line.svg"
-    },
-    {
-        "name": "Remix.Media.ForwardEndFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/forward-end-fill.svg"
-    },
-    {
-        "name": "Remix.Media.SpeedMiniFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/speed-mini-fill.svg"
-    },
-    {
-        "name": "Remix.Media.Replay30Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/replay-30-fill.svg"
-    },
-    {
-        "name": "Remix.Media.TapeFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/tape-fill.svg"
-    },
-    {
-        "name": "Remix.Media.VolumeVibrateLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/volume-vibrate-line.svg"
-    },
-    {
-        "name": "Remix.Media.Camera2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/camera-2-fill.svg"
-    },
-    {
-        "name": "Remix.Media.CameraLensLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/camera-lens-line.svg"
-    },
-    {
-        "name": "Remix.Media.PlayReverseMiniLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/play-reverse-mini-line.svg"
-    },
-    {
-        "name": "Remix.Media.RecordCircleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/record-circle-line.svg"
-    },
-    {
-        "name": "Remix.Media.SpeakerLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/speaker-line.svg"
-    },
-    {
-        "name": "Remix.Media.FilmLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/film-line.svg"
-    },
-    {
-        "name": "Remix.Media.PlayListLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/play-list-line.svg"
-    },
-    {
-        "name": "Remix.Media.Image2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/image-2-fill.svg"
-    },
-    {
-        "name": "Remix.Media.MusicFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/music-fill.svg"
-    },
-    {
-        "name": "Remix.Media.LiveFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/live-fill.svg"
-    },
-    {
-        "name": "Remix.Media.PauseMiniFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/pause-mini-fill.svg"
-    },
-    {
-        "name": "Remix.Media.DiscLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/disc-line.svg"
-    },
-    {
-        "name": "Remix.Media.NotificationFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/notification-fill.svg"
-    },
-    {
-        "name": "Remix.Media.ImageLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/image-line.svg"
-    },
-    {
-        "name": "Remix.Media.MusicAiFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/music-ai-fill.svg"
-    },
-    {
-        "name": "Remix.Media.SkipForwardMiniLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/skip-forward-mini-line.svg"
-    },
-    {
-        "name": "Remix.Media.Equalizer3Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/equalizer-3-line.svg"
+        "name": "Remix.Media.Camera2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/camera-2-line.svg"
     },
     {
         "name": "Remix.Media.VoiceAiLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/voice-ai-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/voice-ai-line.svg"
     },
     {
-        "name": "Remix.Media.RewindLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/rewind-line.svg"
-    },
-    {
-        "name": "Remix.Media.FullscreenLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/fullscreen-line.svg"
-    },
-    {
-        "name": "Remix.Media.PlayListAddFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/play-list-add-fill.svg"
-    },
-    {
-        "name": "Remix.Media.AspectRatioLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/aspect-ratio-line.svg"
-    },
-    {
-        "name": "Remix.Media.NotificationSnoozeFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/notification-snooze-fill.svg"
-    },
-    {
-        "name": "Remix.Media.PhoneCameraFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/phone-camera-fill.svg"
-    },
-    {
-        "name": "Remix.Media.SkipForwardMiniFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/skip-forward-mini-fill.svg"
-    },
-    {
-        "name": "Remix.Media.SoundModuleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/sound-module-line.svg"
-    },
-    {
-        "name": "Remix.Media.NotificationOffLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/notification-off-line.svg"
-    },
-    {
-        "name": "Remix.Media.PlayLargeLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/play-large-line.svg"
-    },
-    {
-        "name": "Remix.Media.MemoriesLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/memories-line.svg"
-    },
-    {
-        "name": "Remix.Media.VideoLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/video-line.svg"
-    },
-    {
-        "name": "Remix.Media.MicFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/mic-fill.svg"
-    },
-    {
-        "name": "Remix.Media.VideoOffLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/video-off-line.svg"
-    },
-    {
-        "name": "Remix.Media.PlayReverseLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/play-reverse-line.svg"
-    },
-    {
-        "name": "Remix.Media.PhoneCameraLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/phone-camera-line.svg"
-    },
-    {
-        "name": "Remix.Media.BroadcastFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/broadcast-fill.svg"
-    },
-    {
-        "name": "Remix.Media.Mic2AiFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/mic-2-ai-fill.svg"
-    },
-    {
-        "name": "Remix.Media.VideoAiLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/video-ai-line.svg"
-    },
-    {
-        "name": "Remix.Media.VideoOnFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/video-on-fill.svg"
-    },
-    {
-        "name": "Remix.Media.NotificationLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/notification-line.svg"
-    },
-    {
-        "name": "Remix.Media.Notification2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/notification-2-fill.svg"
-    },
-    {
-        "name": "Remix.Media.VoiceprintFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/voiceprint-fill.svg"
-    },
-    {
-        "name": "Remix.Media.PictureInPictureLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/picture-in-picture-line.svg"
-    },
-    {
-        "name": "Remix.Media.RecordCircleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/record-circle-fill.svg"
-    },
-    {
-        "name": "Remix.Media.GalleryLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/gallery-line.svg"
-    },
-    {
-        "name": "Remix.Media.PauseMiniLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/pause-mini-line.svg"
-    },
-    {
-        "name": "Remix.Media.Polaroid2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/polaroid-2-line.svg"
-    },
-    {
-        "name": "Remix.Media.RepeatOneFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/repeat-one-fill.svg"
-    },
-    {
-        "name": "Remix.Media.Speaker2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/speaker-2-fill.svg"
-    },
-    {
-        "name": "Remix.Media.LiveLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/live-line.svg"
-    },
-    {
-        "name": "Remix.Media.Notification2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/notification-2-line.svg"
-    },
-    {
-        "name": "Remix.Media.PlayReverseLargeFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/play-reverse-large-fill.svg"
-    },
-    {
-        "name": "Remix.Media.ClosedCaptioningFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/closed-captioning-fill.svg"
-    },
-    {
-        "name": "Remix.Media.PictureInPicture2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/picture-in-picture-2-fill.svg"
-    },
-    {
-        "name": "Remix.Media.CameraOffFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/camera-off-fill.svg"
-    },
-    {
-        "name": "Remix.Media.Radio2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/radio-2-line.svg"
-    },
-    {
-        "name": "Remix.Media.ImageAddFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/image-add-fill.svg"
-    },
-    {
-        "name": "Remix.Media.MemoriesFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/memories-fill.svg"
-    },
-    {
-        "name": "Remix.Media.LandscapeLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/landscape-line.svg"
-    },
-    {
-        "name": "Remix.Media.ImageCircleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/image-circle-fill.svg"
-    },
-    {
-        "name": "Remix.Media.Vidicon2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/vidicon-2-line.svg"
-    },
-    {
-        "name": "Remix.Media.VideoFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/video-fill.svg"
-    },
-    {
-        "name": "Remix.Media.SkipBackMiniLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/skip-back-mini-line.svg"
-    },
-    {
-        "name": "Remix.Media.CameraSwitchFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/camera-switch-fill.svg"
-    },
-    {
-        "name": "Remix.Media.ImageEditFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/image-edit-fill.svg"
-    },
-    {
-        "name": "Remix.Media.KFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/4k-fill.svg"
-    },
-    {
-        "name": "Remix.Media.SpeedMiniLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/speed-mini-line.svg"
-    },
-    {
-        "name": "Remix.Media.RewindMiniLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/rewind-mini-line.svg"
-    },
-    {
-        "name": "Remix.Media.Camera2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/camera-2-line.svg"
-    },
-    {
-        "name": "Remix.Media.PlayFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/play-fill.svg"
-    },
-    {
-        "name": "Remix.Media.PlayList2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/play-list-2-fill.svg"
-    },
-    {
-        "name": "Remix.Media.PlayMiniFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/play-mini-fill.svg"
-    },
-    {
-        "name": "Remix.Media.PlayLargeFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/play-large-fill.svg"
+        "name": "Remix.Media.VideoOffFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/video-off-fill.svg"
     },
     {
         "name": "Remix.Media.VideoAddFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/video-add-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/video-add-fill.svg"
     },
     {
-        "name": "Remix.Media.OrderPlayLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/order-play-line.svg"
+        "name": "Remix.Media.CameraLensAiFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/camera-lens-ai-fill.svg"
     },
     {
-        "name": "Remix.Media.Forward30Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/forward-30-fill.svg"
+        "name": "Remix.Media.MovieLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/movie-line.svg"
     },
     {
-        "name": "Remix.Media.MvFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/mv-fill.svg"
+        "name": "Remix.Media.HqLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/hq-line.svg"
     },
     {
-        "name": "Remix.Media.RadioFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/radio-fill.svg"
+        "name": "Remix.Media.CameraLensAiLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/camera-lens-ai-line.svg"
     },
     {
-        "name": "Remix.Media.Forward15Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/forward-15-fill.svg"
+        "name": "Remix.Media.SurroundSoundLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/surround-sound-line.svg"
     },
     {
-        "name": "Remix.Media.MvLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/mv-line.svg"
+        "name": "Remix.Media.VoiceAiFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/voice-ai-fill.svg"
     },
     {
-        "name": "Remix.Media.GalleryFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/gallery-fill.svg"
+        "name": "Remix.Media.GalleryLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/gallery-line.svg"
     },
     {
-        "name": "Remix.Media.PlayLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/play-line.svg"
+        "name": "Remix.Media.VideoOffLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/video-off-line.svg"
     },
     {
-        "name": "Remix.Media.HeadphoneFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/headphone-fill.svg"
+        "name": "Remix.Media.SpeakerLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/speaker-line.svg"
     },
     {
-        "name": "Remix.Media.Camera3Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/camera-3-line.svg"
+        "name": "Remix.Media.Radio2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/radio-2-fill.svg"
     },
     {
-        "name": "Remix.Media.VolumeMuteLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/volume-mute-line.svg"
+        "name": "Remix.Media.ForwardEndMiniLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/forward-end-mini-line.svg"
     },
     {
-        "name": "Remix.Media.PauseLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/pause-line.svg"
-    },
-    {
-        "name": "Remix.Media.PauseCircleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/pause-circle-line.svg"
-    },
-    {
-        "name": "Remix.Media.CameraAiFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/camera-ai-fill.svg"
-    },
-    {
-        "name": "Remix.Media.HdFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/hd-fill.svg"
-    },
-    {
-        "name": "Remix.Media.VideoDownloadLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/video-download-line.svg"
-    },
-    {
-        "name": "Remix.Media.RepeatFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/repeat-fill.svg"
-    },
-    {
-        "name": "Remix.Media.MovieFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/movie-fill.svg"
-    },
-    {
-        "name": "Remix.Media.DvFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/dv-fill.svg"
-    },
-    {
-        "name": "Remix.Media.ForwardEndLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/forward-end-line.svg"
-    },
-    {
-        "name": "Remix.Media.VideoAddLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/video-add-line.svg"
-    },
-    {
-        "name": "Remix.Media.PolaroidFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/polaroid-fill.svg"
-    },
-    {
-        "name": "Remix.Media.Repeat2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/repeat-2-fill.svg"
-    },
-    {
-        "name": "Remix.Media.Replay15Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/replay-15-line.svg"
-    },
-    {
-        "name": "Remix.Media.LandscapeAiLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/landscape-ai-line.svg"
-    },
-    {
-        "name": "Remix.Media.ShuffleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/shuffle-fill.svg"
-    },
-    {
-        "name": "Remix.Media.VidiconFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/vidicon-fill.svg"
-    },
-    {
-        "name": "Remix.Media.SpeedLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/speed-line.svg"
-    },
-    {
-        "name": "Remix.Media.VideoUploadFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/video-upload-fill.svg"
-    },
-    {
-        "name": "Remix.Media.HdLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/hd-line.svg"
-    },
-    {
-        "name": "Remix.Media.PauseLargeFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/pause-large-fill.svg"
+        "name": "Remix.Media.PolaroidLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/polaroid-line.svg"
     },
     {
         "name": "Remix.Media.SpeakerFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/speaker-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/speaker-fill.svg"
     },
     {
-        "name": "Remix.Media.MovieAiLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/movie-ai-line.svg"
+        "name": "Remix.Media.VideoLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/video-line.svg"
     },
     {
-        "name": "Remix.Media.HeadphoneLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/headphone-line.svg"
+        "name": "Remix.Media.Speaker3Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/speaker-3-line.svg"
     },
     {
-        "name": "Remix.Media.PauseCircleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/pause-circle-fill.svg"
+        "name": "Remix.Media.Notification4Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/notification-4-fill.svg"
     },
     {
-        "name": "Remix.Media.SpeedFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/speed-fill.svg"
+        "name": "Remix.Media.MvLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/mv-line.svg"
     },
     {
-        "name": "Remix.Media.Forward15Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/forward-15-line.svg"
+        "name": "Remix.Media.Speaker2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/speaker-2-line.svg"
     },
     {
-        "name": "Remix.Media.CameraLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/camera-line.svg"
-    },
-    {
-        "name": "Remix.Media.TapeLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/tape-line.svg"
-    },
-    {
-        "name": "Remix.Media.MusicAiLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/music-ai-line.svg"
-    },
-    {
-        "name": "Remix.Media.MusicLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/music-line.svg"
-    },
-    {
-        "name": "Remix.Media.Replay5Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/replay-5-fill.svg"
-    },
-    {
-        "name": "Remix.Media.MovieAiFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/movie-ai-fill.svg"
-    },
-    {
-        "name": "Remix.Media.Mic2AiLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/mic-2-ai-line.svg"
-    },
-    {
-        "name": "Remix.Media.RewindStartMiniLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/rewind-start-mini-line.svg"
+        "name": "Remix.Media.Camera3Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/camera-3-line.svg"
     },
     {
         "name": "Remix.Media.Forward5Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/forward-5-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/forward-5-fill.svg"
     },
     {
-        "name": "Remix.Media.ImageCircleAiFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/image-circle-ai-fill.svg"
+        "name": "Remix.Media.CameraAiFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/camera-ai-fill.svg"
     },
     {
-        "name": "Remix.Media.SpeedUpFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/speed-up-fill.svg"
+        "name": "Remix.Media.Mic2AiFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/mic-2-ai-fill.svg"
+    },
+    {
+        "name": "Remix.Media.RewindMiniFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/rewind-mini-fill.svg"
     },
     {
         "name": "Remix.Media.EjectLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/eject-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/eject-line.svg"
+    },
+    {
+        "name": "Remix.Media.VolumeVibrateFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/volume-vibrate-fill.svg"
+    },
+    {
+        "name": "Remix.Media.Repeat2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/repeat-2-fill.svg"
+    },
+    {
+        "name": "Remix.Media.RhythmFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/rhythm-fill.svg"
+    },
+    {
+        "name": "Remix.Media.VoiceprintLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/voiceprint-line.svg"
+    },
+    {
+        "name": "Remix.Media.EqualizerFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/equalizer-fill.svg"
+    },
+    {
+        "name": "Remix.Media.ClosedCaptioningLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/closed-captioning-line.svg"
+    },
+    {
+        "name": "Remix.Media.RecordCircleFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/record-circle-fill.svg"
+    },
+    {
+        "name": "Remix.Media.DvdAiFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/dvd-ai-fill.svg"
+    },
+    {
+        "name": "Remix.Media.PlayList2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/play-list-2-fill.svg"
+    },
+    {
+        "name": "Remix.Media.LandscapeFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/landscape-fill.svg"
+    },
+    {
+        "name": "Remix.Media.StopLargeFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/stop-large-fill.svg"
+    },
+    {
+        "name": "Remix.Media.Image2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/image-2-fill.svg"
+    },
+    {
+        "name": "Remix.Media.FullscreenLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/fullscreen-line.svg"
+    },
+    {
+        "name": "Remix.Media.StopLargeLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/stop-large-line.svg"
+    },
+    {
+        "name": "Remix.Media.PictureInPicture2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/picture-in-picture-2-line.svg"
+    },
+    {
+        "name": "Remix.Media.GalleryUploadFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/gallery-upload-fill.svg"
+    },
+    {
+        "name": "Remix.Media.RewindStartMiniLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/rewind-start-mini-line.svg"
+    },
+    {
+        "name": "Remix.Media.ImageCircleAiFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/image-circle-ai-fill.svg"
+    },
+    {
+        "name": "Remix.Media.PlayLargeLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/play-large-line.svg"
+    },
+    {
+        "name": "Remix.Media.PauseCircleFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/pause-circle-fill.svg"
+    },
+    {
+        "name": "Remix.Media.Music2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/music-2-fill.svg"
+    },
+    {
+        "name": "Remix.Media.WebcamLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/webcam-line.svg"
+    },
+    {
+        "name": "Remix.Media.PauseMiniLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/pause-mini-line.svg"
+    },
+    {
+        "name": "Remix.Media.StopMiniLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/stop-mini-line.svg"
+    },
+    {
+        "name": "Remix.Media.LandscapeAiFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/landscape-ai-fill.svg"
+    },
+    {
+        "name": "Remix.Media.VolumeUpFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/volume-up-fill.svg"
+    },
+    {
+        "name": "Remix.Media.RecordCircleLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/record-circle-line.svg"
+    },
+    {
+        "name": "Remix.Media.MovieAiLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/movie-ai-line.svg"
+    },
+    {
+        "name": "Remix.Media.Replay30Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/replay-30-line.svg"
+    },
+    {
+        "name": "Remix.Media.ClapperboardAiFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/clapperboard-ai-fill.svg"
+    },
+    {
+        "name": "Remix.Media.PlayReverseLargeFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/play-reverse-large-fill.svg"
+    },
+    {
+        "name": "Remix.Media.Camera2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/camera-2-fill.svg"
+    },
+    {
+        "name": "Remix.Media.SkipForwardMiniFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/skip-forward-mini-fill.svg"
+    },
+    {
+        "name": "Remix.Media.PlayReverseLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/play-reverse-line.svg"
+    },
+    {
+        "name": "Remix.Media.PlayListAddFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/play-list-add-fill.svg"
+    },
+    {
+        "name": "Remix.Media.MovieFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/movie-fill.svg"
+    },
+    {
+        "name": "Remix.Media.PictureInPictureExitLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/picture-in-picture-exit-line.svg"
+    },
+    {
+        "name": "Remix.Media.PlayReverseLargeLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/play-reverse-large-line.svg"
+    },
+    {
+        "name": "Remix.Media.Camera3Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/camera-3-fill.svg"
+    },
+    {
+        "name": "Remix.Media.Movie2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/movie-2-line.svg"
+    },
+    {
+        "name": "Remix.Media.PlayReverseMiniFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/play-reverse-mini-fill.svg"
+    },
+    {
+        "name": "Remix.Media.StopLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/stop-line.svg"
+    },
+    {
+        "name": "Remix.Media.VolumeDownLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/volume-down-line.svg"
+    },
+    {
+        "name": "Remix.Media.VolumeMuteLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/volume-mute-line.svg"
+    },
+    {
+        "name": "Remix.Media.RepeatOneLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/repeat-one-line.svg"
+    },
+    {
+        "name": "Remix.Media.RewindFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/rewind-fill.svg"
+    },
+    {
+        "name": "Remix.Media.VoiceprintFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/voiceprint-fill.svg"
+    },
+    {
+        "name": "Remix.Media.DvdFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/dvd-fill.svg"
+    },
+    {
+        "name": "Remix.Media.Replay15Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/replay-15-line.svg"
+    },
+    {
+        "name": "Remix.Media.ImageCircleAiLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/image-circle-ai-line.svg"
+    },
+    {
+        "name": "Remix.Media.ClosedCaptioningAiFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/closed-captioning-ai-fill.svg"
+    },
+    {
+        "name": "Remix.Media.Equalizer3Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/equalizer-3-line.svg"
     },
     {
         "name": "Remix.Media.CameraLensFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/camera-lens-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/camera-lens-fill.svg"
+    },
+    {
+        "name": "Remix.Media.SkipBackLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/skip-back-line.svg"
+    },
+    {
+        "name": "Remix.Media.PlayLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/play-line.svg"
+    },
+    {
+        "name": "Remix.Media.NotificationFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/notification-fill.svg"
+    },
+    {
+        "name": "Remix.Media.DvLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/dv-line.svg"
+    },
+    {
+        "name": "Remix.Media.SkipBackMiniLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/skip-back-mini-line.svg"
+    },
+    {
+        "name": "Remix.Media.Forward30Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/forward-30-line.svg"
+    },
+    {
+        "name": "Remix.Media.ClosedCaptioningFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/closed-captioning-fill.svg"
+    },
+    {
+        "name": "Remix.Media.BroadcastFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/broadcast-fill.svg"
+    },
+    {
+        "name": "Remix.Media.LandscapeLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/landscape-line.svg"
+    },
+    {
+        "name": "Remix.Media.VolumeOffVibrateLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/volume-off-vibrate-line.svg"
+    },
+    {
+        "name": "Remix.Media.MicOffLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/mic-off-line.svg"
+    },
+    {
+        "name": "Remix.Media.MusicFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/music-fill.svg"
+    },
+    {
+        "name": "Remix.Media.SkipForwardLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/skip-forward-line.svg"
+    },
+    {
+        "name": "Remix.Media.AspectRatioFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/aspect-ratio-fill.svg"
+    },
+    {
+        "name": "Remix.Media.GalleryUploadLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/gallery-upload-line.svg"
+    },
+    {
+        "name": "Remix.Media.Movie2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/movie-2-fill.svg"
+    },
+    {
+        "name": "Remix.Media.RewindStartFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/rewind-start-fill.svg"
+    },
+    {
+        "name": "Remix.Media.StopCircleLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/stop-circle-line.svg"
+    },
+    {
+        "name": "Remix.Media.DvFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/dv-fill.svg"
+    },
+    {
+        "name": "Remix.Media.ClosedCaptioningAiLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/closed-captioning-ai-line.svg"
+    },
+    {
+        "name": "Remix.Media.SkipForwardMiniLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/skip-forward-mini-line.svg"
+    },
+    {
+        "name": "Remix.Media.LiveLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/live-line.svg"
+    },
+    {
+        "name": "Remix.Media.ImageAiLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/image-ai-line.svg"
+    },
+    {
+        "name": "Remix.Media.HqFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/hq-fill.svg"
+    },
+    {
+        "name": "Remix.Media.VolumeOffVibrateFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/volume-off-vibrate-fill.svg"
+    },
+    {
+        "name": "Remix.Media.SurroundSoundFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/surround-sound-fill.svg"
+    },
+    {
+        "name": "Remix.Media.VolumeUpLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/volume-up-line.svg"
+    },
+    {
+        "name": "Remix.Media.FullscreenExitFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/fullscreen-exit-fill.svg"
+    },
+    {
+        "name": "Remix.Media.Notification4Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/notification-4-line.svg"
+    },
+    {
+        "name": "Remix.Media.SpeedMiniLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/speed-mini-line.svg"
+    },
+    {
+        "name": "Remix.Media.WebcamFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/webcam-fill.svg"
+    },
+    {
+        "name": "Remix.Media.Replay30Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/replay-30-fill.svg"
+    },
+    {
+        "name": "Remix.Media.MvAiLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/mv-ai-line.svg"
+    },
+    {
+        "name": "Remix.Media.RadioLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/radio-line.svg"
+    },
+    {
+        "name": "Remix.Media.SpeedLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/speed-line.svg"
+    },
+    {
+        "name": "Remix.Media.VideoOnAiLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/video-on-ai-line.svg"
+    },
+    {
+        "name": "Remix.Media.MicAiFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/mic-ai-fill.svg"
+    },
+    {
+        "name": "Remix.Media.PhoneCameraFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/phone-camera-fill.svg"
+    },
+    {
+        "name": "Remix.Media.MemoriesLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/memories-line.svg"
+    },
+    {
+        "name": "Remix.Media.SpeedUpFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/speed-up-fill.svg"
+    },
+    {
+        "name": "Remix.Media.ImageEditLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/image-edit-line.svg"
+    },
+    {
+        "name": "Remix.Media.PlayListFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/play-list-fill.svg"
+    },
+    {
+        "name": "Remix.Media.KFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/4k-fill.svg"
+    },
+    {
+        "name": "Remix.Media.Polaroid2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/polaroid-2-fill.svg"
+    },
+    {
+        "name": "Remix.Media.DvdAiLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/dvd-ai-line.svg"
+    },
+    {
+        "name": "Remix.Media.Movie2AiLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/movie-2-ai-line.svg"
+    },
+    {
+        "name": "Remix.Media.MusicAiFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/music-ai-fill.svg"
+    },
+    {
+        "name": "Remix.Media.MicFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/mic-fill.svg"
+    },
+    {
+        "name": "Remix.Media.Radio2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/radio-2-line.svg"
+    },
+    {
+        "name": "Remix.Media.FullscreenFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/fullscreen-fill.svg"
+    },
+    {
+        "name": "Remix.Media.VideoOnFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/video-on-fill.svg"
+    },
+    {
+        "name": "Remix.Media.PlayCircleLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/play-circle-line.svg"
+    },
+    {
+        "name": "Remix.Media.VideoAiFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/video-ai-fill.svg"
+    },
+    {
+        "name": "Remix.Media.CameraAiLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/camera-ai-line.svg"
+    },
+    {
+        "name": "Remix.Media.StopCircleFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/stop-circle-fill.svg"
+    },
+    {
+        "name": "Remix.Media.PlayList2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/play-list-2-line.svg"
+    },
+    {
+        "name": "Remix.Media.RhythmLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/rhythm-line.svg"
+    },
+    {
+        "name": "Remix.Media.Notification2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/notification-2-fill.svg"
+    },
+    {
+        "name": "Remix.Media.Forward5Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/forward-5-line.svg"
+    },
+    {
+        "name": "Remix.Media.VolumeMuteFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/volume-mute-fill.svg"
+    },
+    {
+        "name": "Remix.Media.Forward10Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/forward-10-line.svg"
+    },
+    {
+        "name": "Remix.Media.AspectRatioLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/aspect-ratio-line.svg"
+    },
+    {
+        "name": "Remix.Media.CameraLensLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/camera-lens-line.svg"
+    },
+    {
+        "name": "Remix.Media.ClapperboardLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/clapperboard-line.svg"
+    },
+    {
+        "name": "Remix.Media.MicAiLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/mic-ai-line.svg"
+    },
+    {
+        "name": "Remix.Media.Notification3Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/notification-3-fill.svg"
+    },
+    {
+        "name": "Remix.Media.PlayMiniLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/play-mini-line.svg"
+    },
+    {
+        "name": "Remix.Media.PlayReverseFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/play-reverse-fill.svg"
+    },
+    {
+        "name": "Remix.Media.OrderPlayFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/order-play-fill.svg"
+    },
+    {
+        "name": "Remix.Media.MvFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/mv-fill.svg"
+    },
+    {
+        "name": "Remix.Media.Image2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/image-2-line.svg"
+    },
+    {
+        "name": "Remix.Media.ShuffleLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/shuffle-line.svg"
+    },
+    {
+        "name": "Remix.Media.Forward15Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/forward-15-fill.svg"
+    },
+    {
+        "name": "Remix.Media.MusicLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/music-line.svg"
+    },
+    {
+        "name": "Remix.Media.ImageCircleLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/image-circle-line.svg"
+    },
+    {
+        "name": "Remix.Media.StopMiniFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/stop-mini-fill.svg"
+    },
+    {
+        "name": "Remix.Media.Music2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/music-2-line.svg"
+    },
+    {
+        "name": "Remix.Media.ImageAddFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/image-add-fill.svg"
+    },
+    {
+        "name": "Remix.Media.FilmLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/film-line.svg"
+    },
+    {
+        "name": "Remix.Media.Replay5Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/replay-5-line.svg"
+    },
+    {
+        "name": "Remix.Media.HeadphoneFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/headphone-fill.svg"
+    },
+    {
+        "name": "Remix.Media.Polaroid2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/polaroid-2-line.svg"
+    },
+    {
+        "name": "Remix.Media.Vidicon2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/vidicon-2-fill.svg"
+    },
+    {
+        "name": "Remix.Media.RepeatFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/repeat-fill.svg"
+    },
+    {
+        "name": "Remix.Media.AlbumLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/album-line.svg"
+    },
+    {
+        "name": "Remix.Media.PlayCircleFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/play-circle-fill.svg"
+    },
+    {
+        "name": "Remix.Media.PauseMiniFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/pause-mini-fill.svg"
+    },
+    {
+        "name": "Remix.Media.MicLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/mic-line.svg"
+    },
+    {
+        "name": "Remix.Media.RepeatOneFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/repeat-one-fill.svg"
+    },
+    {
+        "name": "Remix.Media.PictureInPictureLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/picture-in-picture-line.svg"
+    },
+    {
+        "name": "Remix.Media.Notification3Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/notification-3-line.svg"
+    },
+    {
+        "name": "Remix.Media.SpeedMiniFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/speed-mini-fill.svg"
+    },
+    {
+        "name": "Remix.Media.PlayReverseMiniLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/play-reverse-mini-line.svg"
+    },
+    {
+        "name": "Remix.Media.ShuffleFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/shuffle-fill.svg"
+    },
+    {
+        "name": "Remix.Media.PauseLargeLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/pause-large-line.svg"
+    },
+    {
+        "name": "Remix.Media.CameraOffLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/camera-off-line.svg"
+    },
+    {
+        "name": "Remix.Media.SkipBackMiniFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/skip-back-mini-fill.svg"
+    },
+    {
+        "name": "Remix.Media.SkipForwardFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/skip-forward-fill.svg"
+    },
+    {
+        "name": "Remix.Media.Forward10Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/forward-10-fill.svg"
+    },
+    {
+        "name": "Remix.Media.DiscFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/disc-fill.svg"
+    },
+    {
+        "name": "Remix.Media.Mic2AiLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/mic-2-ai-line.svg"
+    },
+    {
+        "name": "Remix.Media.PlayLargeFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/play-large-fill.svg"
+    },
+    {
+        "name": "Remix.Media.Speaker2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/speaker-2-fill.svg"
+    },
+    {
+        "name": "Remix.Media.VolumeVibrateLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/volume-vibrate-line.svg"
+    },
+    {
+        "name": "Remix.Media.ImageAiFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/image-ai-fill.svg"
+    },
+    {
+        "name": "Remix.Media.VideoOnLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/video-on-line.svg"
+    },
+    {
+        "name": "Remix.Media.RadioFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/radio-fill.svg"
+    },
+    {
+        "name": "Remix.Media.PictureInPictureExitFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/picture-in-picture-exit-fill.svg"
+    },
+    {
+        "name": "Remix.Media.ImageLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/image-line.svg"
+    },
+    {
+        "name": "Remix.Media.SoundModuleFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/sound-module-fill.svg"
+    },
+    {
+        "name": "Remix.Media.CameraLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/camera-line.svg"
+    },
+    {
+        "name": "Remix.Media.Replay10Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/replay-10-fill.svg"
+    },
+    {
+        "name": "Remix.Media.SpeedFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/speed-fill.svg"
+    },
+    {
+        "name": "Remix.Media.ImageFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/image-fill.svg"
+    },
+    {
+        "name": "Remix.Media.CameraOffFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/camera-off-fill.svg"
+    },
+    {
+        "name": "Remix.Media.Forward30Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/forward-30-fill.svg"
+    },
+    {
+        "name": "Remix.Media.EjectFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/eject-fill.svg"
+    },
+    {
+        "name": "Remix.Media.HdFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/hd-fill.svg"
+    },
+    {
+        "name": "Remix.Media.NotificationOffLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/notification-off-line.svg"
+    },
+    {
+        "name": "Remix.Media.TapeLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/tape-line.svg"
+    },
+    {
+        "name": "Remix.Media.Mic2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/mic-2-fill.svg"
+    },
+    {
+        "name": "Remix.Media.DvdLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/dvd-line.svg"
+    },
+    {
+        "name": "Remix.Media.NotificationSnoozeLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/notification-snooze-line.svg"
+    },
+    {
+        "name": "Remix.Media.MemoriesFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/memories-fill.svg"
+    },
+    {
+        "name": "Remix.Media.Movie2AiFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/movie-2-ai-fill.svg"
+    },
+    {
+        "name": "Remix.Media.Forward15Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/forward-15-line.svg"
+    },
+    {
+        "name": "Remix.Media.RewindMiniLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/rewind-mini-line.svg"
+    },
+    {
+        "name": "Remix.Media.PlayListLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/play-list-line.svg"
+    },
+    {
+        "name": "Remix.Media.FullscreenExitLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/fullscreen-exit-line.svg"
+    },
+    {
+        "name": "Remix.Media.PauseCircleLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/pause-circle-line.svg"
+    },
+    {
+        "name": "Remix.Media.MovieAiFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/movie-ai-fill.svg"
+    },
+    {
+        "name": "Remix.Media.KLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/4k-line.svg"
+    },
+    {
+        "name": "Remix.Media.Replay5Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/replay-5-fill.svg"
+    },
+    {
+        "name": "Remix.Media.RewindLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/rewind-line.svg"
+    },
+    {
+        "name": "Remix.Media.VideoUploadFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/video-upload-fill.svg"
+    },
+    {
+        "name": "Remix.Media.SpeedUpLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/speed-up-line.svg"
+    },
+    {
+        "name": "Remix.Media.RewindStartLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/rewind-start-line.svg"
+    },
+    {
+        "name": "Remix.Media.BroadcastLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/broadcast-line.svg"
+    },
+    {
+        "name": "Remix.Media.NotificationOffFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/notification-off-fill.svg"
+    },
+    {
+        "name": "Remix.Media.LiveFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/live-fill.svg"
+    },
+    {
+        "name": "Remix.Media.SoundModuleLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/sound-module-line.svg"
+    },
+    {
+        "name": "Remix.Media.ImageAddLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/image-add-line.svg"
+    },
+    {
+        "name": "Remix.Media.VideoFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/video-fill.svg"
+    },
+    {
+        "name": "Remix.Media.VideoUploadLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/video-upload-line.svg"
+    },
+    {
+        "name": "Remix.Media.LandscapeAiLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/landscape-ai-line.svg"
+    },
+    {
+        "name": "Remix.Media.GalleryFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/gallery-fill.svg"
+    },
+    {
+        "name": "Remix.Media.PauseLargeFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/pause-large-fill.svg"
+    },
+    {
+        "name": "Remix.Media.RepeatLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/repeat-line.svg"
+    },
+    {
+        "name": "Remix.Media.ForwardEndLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/forward-end-line.svg"
+    },
+    {
+        "name": "Remix.Media.PictureInPictureFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/picture-in-picture-fill.svg"
+    },
+    {
+        "name": "Remix.Media.Speaker3Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/speaker-3-fill.svg"
+    },
+    {
+        "name": "Remix.Media.FilmFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/film-fill.svg"
+    },
+    {
+        "name": "Remix.Media.HeadphoneLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/headphone-line.svg"
+    },
+    {
+        "name": "Remix.Media.Replay10Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/replay-10-line.svg"
     },
     {
         "name": "Remix.Media.ClapperboardFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Media/clapperboard-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/clapperboard-fill.svg"
+    },
+    {
+        "name": "Remix.Media.MusicAiLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/music-ai-line.svg"
+    },
+    {
+        "name": "Remix.Media.DiscLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/disc-line.svg"
+    },
+    {
+        "name": "Remix.Media.Replay15Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/replay-15-fill.svg"
+    },
+    {
+        "name": "Remix.Media.CameraSwitchLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/camera-switch-line.svg"
+    },
+    {
+        "name": "Remix.Media.ImageCircleFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/image-circle-fill.svg"
+    },
+    {
+        "name": "Remix.Media.VideoDownloadFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/video-download-fill.svg"
+    },
+    {
+        "name": "Remix.Media.EqualizerLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/equalizer-line.svg"
+    },
+    {
+        "name": "Remix.Media.Vidicon2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/vidicon-2-line.svg"
+    },
+    {
+        "name": "Remix.Media.RewindStartMiniFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/rewind-start-mini-fill.svg"
+    },
+    {
+        "name": "Remix.Media.SkipBackFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/skip-back-fill.svg"
+    },
+    {
+        "name": "Remix.Media.MicOffFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/mic-off-fill.svg"
+    },
+    {
+        "name": "Remix.Media.OrderPlayLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/order-play-line.svg"
+    },
+    {
+        "name": "Remix.Media.VolumeDownFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/volume-down-fill.svg"
+    },
+    {
+        "name": "Remix.Media.VideoAiLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/video-ai-line.svg"
+    },
+    {
+        "name": "Remix.Media.PauseLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/pause-line.svg"
+    },
+    {
+        "name": "Remix.Media.FilmAiLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/film-ai-line.svg"
+    },
+    {
+        "name": "Remix.Media.PhoneCameraLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/phone-camera-line.svg"
+    },
+    {
+        "name": "Remix.Media.NotificationLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/notification-line.svg"
+    },
+    {
+        "name": "Remix.Media.ForwardEndMiniFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/forward-end-mini-fill.svg"
+    },
+    {
+        "name": "Remix.Media.VideoOnAiFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/video-on-ai-fill.svg"
+    },
+    {
+        "name": "Remix.Media.CameraSwitchFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/camera-switch-fill.svg"
+    },
+    {
+        "name": "Remix.Media.ImageEditFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/image-edit-fill.svg"
+    },
+    {
+        "name": "Remix.Media.VidiconLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/vidicon-line.svg"
+    },
+    {
+        "name": "Remix.Media.StopFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/stop-fill.svg"
+    },
+    {
+        "name": "Remix.Media.Equalizer2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/equalizer-2-line.svg"
+    },
+    {
+        "name": "Remix.Media.PauseFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/pause-fill.svg"
+    },
+    {
+        "name": "Remix.Media.NotificationSnoozeFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/notification-snooze-fill.svg"
+    },
+    {
+        "name": "Remix.Media.CameraFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/camera-fill.svg"
+    },
+    {
+        "name": "Remix.Media.SlowDownLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/slow-down-line.svg"
+    },
+    {
+        "name": "Remix.Media.VidiconFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/vidicon-fill.svg"
+    },
+    {
+        "name": "Remix.Media.Equalizer2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/equalizer-2-fill.svg"
+    },
+    {
+        "name": "Remix.Media.PolaroidFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/polaroid-fill.svg"
+    },
+    {
+        "name": "Remix.Media.PlayListAddLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/play-list-add-line.svg"
+    },
+    {
+        "name": "Remix.Media.ClapperboardAiLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/clapperboard-ai-line.svg"
+    },
+    {
+        "name": "Remix.Media.VideoDownloadLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/video-download-line.svg"
+    },
+    {
+        "name": "Remix.Media.Mic2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/mic-2-line.svg"
+    },
+    {
+        "name": "Remix.Media.FilmAiFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/film-ai-fill.svg"
+    },
+    {
+        "name": "Remix.Media.Equalizer3Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/equalizer-3-fill.svg"
+    },
+    {
+        "name": "Remix.Media.AlbumFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/album-fill.svg"
+    },
+    {
+        "name": "Remix.Media.VideoAddLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/video-add-line.svg"
+    },
+    {
+        "name": "Remix.Media.PictureInPicture2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/picture-in-picture-2-fill.svg"
+    },
+    {
+        "name": "Remix.Media.HdLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/hd-line.svg"
+    },
+    {
+        "name": "Remix.Media.MvAiFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/mv-ai-fill.svg"
+    },
+    {
+        "name": "Remix.Media.TapeFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/tape-fill.svg"
+    },
+    {
+        "name": "Remix.Media.Notification2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/notification-2-line.svg"
+    },
+    {
+        "name": "Remix.Media.PlayMiniFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/play-mini-fill.svg"
+    },
+    {
+        "name": "Remix.Media.Repeat2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/repeat-2-line.svg"
+    },
+    {
+        "name": "Remix.Media.PlayFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/play-fill.svg"
+    },
+    {
+        "name": "Remix.Media.SlowDownFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/slow-down-fill.svg"
+    },
+    {
+        "name": "Remix.Media.ForwardEndFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Media/forward-end-fill.svg"
     }
 ]

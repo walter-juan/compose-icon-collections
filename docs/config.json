@@ -21,33 +21,33 @@
             "name": "Remix icons",
             "value": "remix",
             "categories": [
-                "editor",
-                "logos",
-                "map",
-                "food",
-                "development",
-                "others",
-                "business",
-                "buildings",
                 "design",
-                "media",
-                "document",
-                "communication",
-                "finance",
-                "system",
-                "arrows",
                 "userandfaces",
-                "device",
+                "food",
+                "map",
+                "communication",
+                "healthandmedical",
+                "system",
+                "document",
                 "weather",
-                "healthandmedical"
+                "media",
+                "logos",
+                "buildings",
+                "business",
+                "development",
+                "editor",
+                "device",
+                "arrows",
+                "finance",
+                "others"
             ]
         },
         {
             "name": "Tabler",
             "value": "tabler",
             "categories": [
-                "outline",
-                "filled"
+                "filled",
+                "outline"
             ]
         }
     ]

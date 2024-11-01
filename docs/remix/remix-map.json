@@ -1,682 +1,682 @@
 [
     {
-        "name": "Remix.Map.PoliceCarFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/police-car-fill.svg"
-    },
-    {
-        "name": "Remix.Map.Compass3Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/compass-3-fill.svg"
-    },
-    {
-        "name": "Remix.Map.LifebuoyLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/lifebuoy-line.svg"
-    },
-    {
-        "name": "Remix.Map.LifebuoyFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/lifebuoy-fill.svg"
-    },
-    {
-        "name": "Remix.Map.MapPinUserFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/map-pin-user-fill.svg"
-    },
-    {
-        "name": "Remix.Map.SubwayLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/subway-line.svg"
-    },
-    {
-        "name": "Remix.Map.MapPinRangeLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/map-pin-range-line.svg"
-    },
-    {
-        "name": "Remix.Map.Compass2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/compass-2-fill.svg"
-    },
-    {
-        "name": "Remix.Map.SubwayWifiLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/subway-wifi-line.svg"
-    },
-    {
-        "name": "Remix.Map.BusFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/bus-fill.svg"
-    },
-    {
-        "name": "Remix.Map.Bus2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/bus-2-fill.svg"
-    },
-    {
-        "name": "Remix.Map.CarWashingLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/car-washing-line.svg"
-    },
-    {
-        "name": "Remix.Map.SailboatLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/sailboat-line.svg"
-    },
-    {
-        "name": "Remix.Map.FlightLandLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/flight-land-line.svg"
-    },
-    {
-        "name": "Remix.Map.TreasureMapLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/treasure-map-line.svg"
-    },
-    {
-        "name": "Remix.Map.RouteFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/route-fill.svg"
-    },
-    {
-        "name": "Remix.Map.TimeZoneLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/time-zone-line.svg"
-    },
-    {
-        "name": "Remix.Map.LuggageCartLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/luggage-cart-line.svg"
-    },
-    {
-        "name": "Remix.Map.RoadMapLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/road-map-line.svg"
-    },
-    {
-        "name": "Remix.Map.Rocket2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/rocket-2-fill.svg"
-    },
-    {
-        "name": "Remix.Map.MapPinLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/map-pin-line.svg"
-    },
-    {
-        "name": "Remix.Map.MapPin5Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/map-pin-5-line.svg"
-    },
-    {
-        "name": "Remix.Map.BarricadeFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/barricade-fill.svg"
-    },
-    {
-        "name": "Remix.Map.MapPinAddFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/map-pin-add-fill.svg"
-    },
-    {
-        "name": "Remix.Map.GlobeLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/globe-line.svg"
-    },
-    {
-        "name": "Remix.Map.RidingLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/riding-line.svg"
-    },
-    {
-        "name": "Remix.Map.TaxiLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/taxi-line.svg"
-    },
-    {
-        "name": "Remix.Map.PushpinFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/pushpin-fill.svg"
-    },
-    {
-        "name": "Remix.Map.Compass3Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/compass-3-line.svg"
-    },
-    {
-        "name": "Remix.Map.PinDistanceLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/pin-distance-line.svg"
-    },
-    {
-        "name": "Remix.Map.TrafficLightLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/traffic-light-line.svg"
-    },
-    {
-        "name": "Remix.Map.OilFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/oil-fill.svg"
-    },
-    {
-        "name": "Remix.Map.CarLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/car-line.svg"
-    },
-    {
-        "name": "Remix.Map.SteeringFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/steering-fill.svg"
-    },
-    {
-        "name": "Remix.Map.PlanetLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/planet-line.svg"
-    },
-    {
-        "name": "Remix.Map.SignpostLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/signpost-line.svg"
-    },
-    {
-        "name": "Remix.Map.HotelBedLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/hotel-bed-line.svg"
-    },
-    {
-        "name": "Remix.Map.Bus2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/bus-2-line.svg"
-    },
-    {
-        "name": "Remix.Map.GlobeFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/globe-fill.svg"
-    },
-    {
-        "name": "Remix.Map.MotorbikeFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/motorbike-fill.svg"
-    },
-    {
-        "name": "Remix.Map.ChinaRailwayFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/china-railway-fill.svg"
-    },
-    {
-        "name": "Remix.Map.FlightTakeoffFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/flight-takeoff-fill.svg"
-    },
-    {
-        "name": "Remix.Map.Suitcase3Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/suitcase-3-fill.svg"
-    },
-    {
-        "name": "Remix.Map.FlightLandFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/flight-land-fill.svg"
-    },
-    {
-        "name": "Remix.Map.GuideFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/guide-fill.svg"
-    },
-    {
-        "name": "Remix.Map.MapPinRangeFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/map-pin-range-fill.svg"
-    },
-    {
-        "name": "Remix.Map.LuggageCartFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/luggage-cart-fill.svg"
-    },
-    {
-        "name": "Remix.Map.SuitcaseFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/suitcase-fill.svg"
-    },
-    {
-        "name": "Remix.Map.TakeawayLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/takeaway-line.svg"
-    },
-    {
-        "name": "Remix.Map.EBike2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/e-bike-2-fill.svg"
-    },
-    {
-        "name": "Remix.Map.RunFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/run-fill.svg"
-    },
-    {
-        "name": "Remix.Map.DirectionFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/direction-fill.svg"
-    },
-    {
-        "name": "Remix.Map.ShipLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/ship-line.svg"
-    },
-    {
-        "name": "Remix.Map.MapFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/map-fill.svg"
-    },
-    {
-        "name": "Remix.Map.BarricadeLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/barricade-line.svg"
-    },
-    {
-        "name": "Remix.Map.TaxiFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/taxi-fill.svg"
-    },
-    {
-        "name": "Remix.Map.Rocket2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/rocket-2-line.svg"
-    },
-    {
-        "name": "Remix.Map.NavigationFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/navigation-fill.svg"
-    },
-    {
-        "name": "Remix.Map.RoadsterLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/roadster-line.svg"
-    },
-    {
-        "name": "Remix.Map.Suitcase2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/suitcase-2-fill.svg"
-    },
-    {
-        "name": "Remix.Map.MapPin3Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/map-pin-3-fill.svg"
-    },
-    {
-        "name": "Remix.Map.MapPinUserLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/map-pin-user-line.svg"
-    },
-    {
-        "name": "Remix.Map.UnpinFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/unpin-fill.svg"
-    },
-    {
-        "name": "Remix.Map.BikeFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/bike-fill.svg"
-    },
-    {
-        "name": "Remix.Map.TruckLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/truck-line.svg"
-    },
-    {
-        "name": "Remix.Map.LuggageDepositLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/luggage-deposit-line.svg"
-    },
-    {
-        "name": "Remix.Map.MapPinAddLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/map-pin-add-line.svg"
-    },
-    {
-        "name": "Remix.Map.PoliceCarLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/police-car-line.svg"
-    },
-    {
-        "name": "Remix.Map.SailboatFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/sailboat-fill.svg"
-    },
-    {
-        "name": "Remix.Map.TrainLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/train-line.svg"
-    },
-    {
-        "name": "Remix.Map.EBike2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/e-bike-2-line.svg"
-    },
-    {
-        "name": "Remix.Map.SignalTowerLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/signal-tower-line.svg"
-    },
-    {
-        "name": "Remix.Map.ParkingBoxLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/parking-box-line.svg"
-    },
-    {
-        "name": "Remix.Map.Ship2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/ship-2-fill.svg"
-    },
-    {
-        "name": "Remix.Map.WalkLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/walk-line.svg"
-    },
-    {
-        "name": "Remix.Map.CarWashingFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/car-washing-fill.svg"
-    },
-    {
-        "name": "Remix.Map.ChargingPile2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/charging-pile-2-line.svg"
-    },
-    {
-        "name": "Remix.Map.EarthFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/earth-fill.svg"
-    },
-    {
-        "name": "Remix.Map.RoadMapFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/road-map-fill.svg"
-    },
-    {
-        "name": "Remix.Map.TrainWifiLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/train-wifi-line.svg"
-    },
-    {
-        "name": "Remix.Map.ParkingLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/parking-line.svg"
-    },
-    {
-        "name": "Remix.Map.BusWifiFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/bus-wifi-fill.svg"
-    },
-    {
-        "name": "Remix.Map.MapPin3Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/map-pin-3-line.svg"
-    },
-    {
-        "name": "Remix.Map.Compass4Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/compass-4-fill.svg"
-    },
-    {
-        "name": "Remix.Map.Compass4Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/compass-4-line.svg"
-    },
-    {
-        "name": "Remix.Map.TrafficLightFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/traffic-light-fill.svg"
-    },
-    {
-        "name": "Remix.Map.ShipFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/ship-fill.svg"
-    },
-    {
-        "name": "Remix.Map.MapPin2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/map-pin-2-line.svg"
-    },
-    {
-        "name": "Remix.Map.PushpinLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/pushpin-line.svg"
-    },
-    {
-        "name": "Remix.Map.CompassDiscoverFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/compass-discover-fill.svg"
-    },
-    {
-        "name": "Remix.Map.MapPinTimeFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/map-pin-time-fill.svg"
-    },
-    {
         "name": "Remix.Map.CompassFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/compass-fill.svg"
-    },
-    {
-        "name": "Remix.Map.UnpinLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/unpin-line.svg"
-    },
-    {
-        "name": "Remix.Map.AnchorLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/anchor-line.svg"
-    },
-    {
-        "name": "Remix.Map.PlanetFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/planet-fill.svg"
-    },
-    {
-        "name": "Remix.Map.EBikeLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/e-bike-line.svg"
-    },
-    {
-        "name": "Remix.Map.MapPinFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/map-pin-fill.svg"
-    },
-    {
-        "name": "Remix.Map.Map2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/map-2-line.svg"
-    },
-    {
-        "name": "Remix.Map.SpaceShipLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/space-ship-line.svg"
-    },
-    {
-        "name": "Remix.Map.AnchorFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/anchor-fill.svg"
-    },
-    {
-        "name": "Remix.Map.SignalTowerFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/signal-tower-fill.svg"
-    },
-    {
-        "name": "Remix.Map.MapPin2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/map-pin-2-fill.svg"
-    },
-    {
-        "name": "Remix.Map.TrainFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/train-fill.svg"
-    },
-    {
-        "name": "Remix.Map.PlaneFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/plane-fill.svg"
-    },
-    {
-        "name": "Remix.Map.SpaceShipFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/space-ship-fill.svg"
-    },
-    {
-        "name": "Remix.Map.OilLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/oil-line.svg"
-    },
-    {
-        "name": "Remix.Map.HotelBedFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/hotel-bed-fill.svg"
-    },
-    {
-        "name": "Remix.Map.CarFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/car-fill.svg"
-    },
-    {
-        "name": "Remix.Map.CompassLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/compass-line.svg"
-    },
-    {
-        "name": "Remix.Map.SuitcaseLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/suitcase-line.svg"
-    },
-    {
-        "name": "Remix.Map.CompassDiscoverLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/compass-discover-line.svg"
-    },
-    {
-        "name": "Remix.Map.Compass2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/compass-2-line.svg"
-    },
-    {
-        "name": "Remix.Map.ChargingPileFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/charging-pile-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/compass-fill.svg"
     },
     {
         "name": "Remix.Map.MapPin4Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/map-pin-4-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/map-pin-4-fill.svg"
     },
     {
-        "name": "Remix.Map.WalkFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/walk-fill.svg"
+        "name": "Remix.Map.TruckLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/truck-line.svg"
     },
     {
-        "name": "Remix.Map.CaravanFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/caravan-fill.svg"
-    },
-    {
-        "name": "Remix.Map.LuggageDepositFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/luggage-deposit-fill.svg"
-    },
-    {
-        "name": "Remix.Map.SubwayFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/subway-fill.svg"
-    },
-    {
-        "name": "Remix.Map.BikeLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/bike-line.svg"
-    },
-    {
-        "name": "Remix.Map.RocketLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/rocket-line.svg"
-    },
-    {
-        "name": "Remix.Map.GuideLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/guide-line.svg"
-    },
-    {
-        "name": "Remix.Map.PassportFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/passport-fill.svg"
-    },
-    {
-        "name": "Remix.Map.RoadsterFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/roadster-fill.svg"
-    },
-    {
-        "name": "Remix.Map.BusWifiLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/bus-wifi-line.svg"
-    },
-    {
-        "name": "Remix.Map.EarthLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/earth-line.svg"
-    },
-    {
-        "name": "Remix.Map.TaxiWifiLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/taxi-wifi-line.svg"
-    },
-    {
-        "name": "Remix.Map.Map2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/map-2-fill.svg"
-    },
-    {
-        "name": "Remix.Map.MotorbikeLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/motorbike-line.svg"
-    },
-    {
-        "name": "Remix.Map.CaravanLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/caravan-line.svg"
-    },
-    {
-        "name": "Remix.Map.FlightTakeoffLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/flight-takeoff-line.svg"
-    },
-    {
-        "name": "Remix.Map.Suitcase3Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/suitcase-3-line.svg"
-    },
-    {
-        "name": "Remix.Map.BusLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/bus-line.svg"
-    },
-    {
-        "name": "Remix.Map.GasStationFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/gas-station-fill.svg"
+        "name": "Remix.Map.CarLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/car-line.svg"
     },
     {
         "name": "Remix.Map.SteeringLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/steering-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/steering-line.svg"
     },
     {
-        "name": "Remix.Map.MapPin4Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/map-pin-4-line.svg"
+        "name": "Remix.Map.MapPinAddLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/map-pin-add-line.svg"
     },
     {
-        "name": "Remix.Map.TruckFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/truck-fill.svg"
+        "name": "Remix.Map.OilLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/oil-line.svg"
     },
     {
-        "name": "Remix.Map.EBikeFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/e-bike-fill.svg"
+        "name": "Remix.Map.CaravanFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/caravan-fill.svg"
     },
     {
-        "name": "Remix.Map.NavigationLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/navigation-line.svg"
+        "name": "Remix.Map.CarFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/car-fill.svg"
     },
     {
-        "name": "Remix.Map.RidingFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/riding-fill.svg"
+        "name": "Remix.Map.GasStationFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/gas-station-fill.svg"
     },
     {
-        "name": "Remix.Map.ParkingFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/parking-fill.svg"
+        "name": "Remix.Map.UnpinLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/unpin-line.svg"
     },
     {
-        "name": "Remix.Map.TaxiWifiFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/taxi-wifi-fill.svg"
+        "name": "Remix.Map.MapPinLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/map-pin-line.svg"
     },
     {
-        "name": "Remix.Map.Steering2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/steering-2-line.svg"
+        "name": "Remix.Map.CarWashingLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/car-washing-line.svg"
     },
     {
-        "name": "Remix.Map.Pushpin2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/pushpin-2-fill.svg"
+        "name": "Remix.Map.BarricadeLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/barricade-line.svg"
     },
     {
-        "name": "Remix.Map.PinDistanceFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/pin-distance-fill.svg"
+        "name": "Remix.Map.Rocket2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/rocket-2-line.svg"
     },
     {
-        "name": "Remix.Map.GasStationLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/gas-station-line.svg"
+        "name": "Remix.Map.EBike2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/e-bike-2-fill.svg"
     },
     {
-        "name": "Remix.Map.ChargingPile2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/charging-pile-2-fill.svg"
+        "name": "Remix.Map.Bus2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/bus-2-fill.svg"
     },
     {
-        "name": "Remix.Map.SignpostFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/signpost-fill.svg"
+        "name": "Remix.Map.MapPinUserFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/map-pin-user-fill.svg"
+    },
+    {
+        "name": "Remix.Map.BusWifiFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/bus-wifi-fill.svg"
     },
     {
         "name": "Remix.Map.SubwayWifiFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/subway-wifi-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/subway-wifi-fill.svg"
     },
     {
-        "name": "Remix.Map.Suitcase2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/suitcase-2-line.svg"
+        "name": "Remix.Map.DirectionFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/direction-fill.svg"
     },
     {
-        "name": "Remix.Map.PassportLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/passport-line.svg"
+        "name": "Remix.Map.PlaneFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/plane-fill.svg"
     },
     {
-        "name": "Remix.Map.ParkingBoxFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/parking-box-fill.svg"
+        "name": "Remix.Map.AnchorLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/anchor-line.svg"
     },
     {
-        "name": "Remix.Map.TrainWifiFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/train-wifi-fill.svg"
+        "name": "Remix.Map.NavigationLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/navigation-line.svg"
     },
     {
-        "name": "Remix.Map.Pushpin2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/pushpin-2-line.svg"
+        "name": "Remix.Map.ShipFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/ship-fill.svg"
     },
     {
-        "name": "Remix.Map.MapPinTimeLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/map-pin-time-line.svg"
+        "name": "Remix.Map.RoadsterFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/roadster-fill.svg"
     },
     {
-        "name": "Remix.Map.TreasureMapFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/treasure-map-fill.svg"
+        "name": "Remix.Map.SpaceShipFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/space-ship-fill.svg"
     },
     {
-        "name": "Remix.Map.TakeawayFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/takeaway-fill.svg"
+        "name": "Remix.Map.TimeZoneLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/time-zone-line.svg"
     },
     {
-        "name": "Remix.Map.FootprintLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/footprint-line.svg"
+        "name": "Remix.Map.ParkingLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/parking-line.svg"
     },
     {
-        "name": "Remix.Map.RunLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/run-line.svg"
+        "name": "Remix.Map.MapPinRangeLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/map-pin-range-line.svg"
     },
     {
-        "name": "Remix.Map.TimeZoneFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/time-zone-fill.svg"
+        "name": "Remix.Map.PoliceCarLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/police-car-line.svg"
     },
     {
-        "name": "Remix.Map.PlaneLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/plane-line.svg"
+        "name": "Remix.Map.SubwayFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/subway-fill.svg"
     },
     {
-        "name": "Remix.Map.MapPin5Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/map-pin-5-fill.svg"
+        "name": "Remix.Map.TrainFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/train-fill.svg"
     },
     {
-        "name": "Remix.Map.Steering2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/steering-2-fill.svg"
-    },
-    {
-        "name": "Remix.Map.Ship2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/ship-2-line.svg"
-    },
-    {
-        "name": "Remix.Map.RocketFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/rocket-fill.svg"
-    },
-    {
-        "name": "Remix.Map.FootprintFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/footprint-fill.svg"
-    },
-    {
-        "name": "Remix.Map.DirectionLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/direction-line.svg"
-    },
-    {
-        "name": "Remix.Map.MapLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/map-line.svg"
-    },
-    {
-        "name": "Remix.Map.ChinaRailwayLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/china-railway-line.svg"
+        "name": "Remix.Map.WalkFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/walk-fill.svg"
     },
     {
         "name": "Remix.Map.ChargingPileLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/charging-pile-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/charging-pile-line.svg"
+    },
+    {
+        "name": "Remix.Map.ParkingFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/parking-fill.svg"
+    },
+    {
+        "name": "Remix.Map.LuggageCartFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/luggage-cart-fill.svg"
+    },
+    {
+        "name": "Remix.Map.TreasureMapLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/treasure-map-line.svg"
+    },
+    {
+        "name": "Remix.Map.Map2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/map-2-fill.svg"
+    },
+    {
+        "name": "Remix.Map.MapPinUserLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/map-pin-user-line.svg"
+    },
+    {
+        "name": "Remix.Map.PushpinLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/pushpin-line.svg"
+    },
+    {
+        "name": "Remix.Map.MapPin5Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/map-pin-5-fill.svg"
+    },
+    {
+        "name": "Remix.Map.RunLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/run-line.svg"
+    },
+    {
+        "name": "Remix.Map.CaravanLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/caravan-line.svg"
+    },
+    {
+        "name": "Remix.Map.ChargingPile2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/charging-pile-2-fill.svg"
+    },
+    {
+        "name": "Remix.Map.CompassDiscoverFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/compass-discover-fill.svg"
+    },
+    {
+        "name": "Remix.Map.LifebuoyLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/lifebuoy-line.svg"
+    },
+    {
+        "name": "Remix.Map.MapPin2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/map-pin-2-fill.svg"
+    },
+    {
+        "name": "Remix.Map.FootprintLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/footprint-line.svg"
+    },
+    {
+        "name": "Remix.Map.RidingFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/riding-fill.svg"
+    },
+    {
+        "name": "Remix.Map.TrainWifiLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/train-wifi-line.svg"
+    },
+    {
+        "name": "Remix.Map.SailboatFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/sailboat-fill.svg"
+    },
+    {
+        "name": "Remix.Map.MapPinTimeFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/map-pin-time-fill.svg"
+    },
+    {
+        "name": "Remix.Map.Compass4Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/compass-4-line.svg"
+    },
+    {
+        "name": "Remix.Map.ChargingPile2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/charging-pile-2-line.svg"
+    },
+    {
+        "name": "Remix.Map.SignpostLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/signpost-line.svg"
+    },
+    {
+        "name": "Remix.Map.MapLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/map-line.svg"
+    },
+    {
+        "name": "Remix.Map.Suitcase3Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/suitcase-3-fill.svg"
+    },
+    {
+        "name": "Remix.Map.MapPin5Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/map-pin-5-line.svg"
+    },
+    {
+        "name": "Remix.Map.TaxiWifiFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/taxi-wifi-fill.svg"
+    },
+    {
+        "name": "Remix.Map.LuggageDepositFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/luggage-deposit-fill.svg"
+    },
+    {
+        "name": "Remix.Map.HotelBedFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/hotel-bed-fill.svg"
+    },
+    {
+        "name": "Remix.Map.Ship2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/ship-2-fill.svg"
+    },
+    {
+        "name": "Remix.Map.Pushpin2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/pushpin-2-fill.svg"
+    },
+    {
+        "name": "Remix.Map.EarthLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/earth-line.svg"
+    },
+    {
+        "name": "Remix.Map.PinDistanceFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/pin-distance-fill.svg"
+    },
+    {
+        "name": "Remix.Map.PoliceCarFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/police-car-fill.svg"
+    },
+    {
+        "name": "Remix.Map.MotorbikeLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/motorbike-line.svg"
+    },
+    {
+        "name": "Remix.Map.TreasureMapFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/treasure-map-fill.svg"
+    },
+    {
+        "name": "Remix.Map.Compass3Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/compass-3-line.svg"
+    },
+    {
+        "name": "Remix.Map.CarWashingFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/car-washing-fill.svg"
+    },
+    {
+        "name": "Remix.Map.NavigationFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/navigation-fill.svg"
+    },
+    {
+        "name": "Remix.Map.TrafficLightFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/traffic-light-fill.svg"
+    },
+    {
+        "name": "Remix.Map.ShipLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/ship-line.svg"
+    },
+    {
+        "name": "Remix.Map.Map2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/map-2-line.svg"
+    },
+    {
+        "name": "Remix.Map.MapFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/map-fill.svg"
+    },
+    {
+        "name": "Remix.Map.SubwayLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/subway-line.svg"
+    },
+    {
+        "name": "Remix.Map.RidingLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/riding-line.svg"
+    },
+    {
+        "name": "Remix.Map.OilFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/oil-fill.svg"
+    },
+    {
+        "name": "Remix.Map.PinDistanceLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/pin-distance-line.svg"
+    },
+    {
+        "name": "Remix.Map.Compass2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/compass-2-line.svg"
+    },
+    {
+        "name": "Remix.Map.RouteFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/route-fill.svg"
+    },
+    {
+        "name": "Remix.Map.EBikeLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/e-bike-line.svg"
+    },
+    {
+        "name": "Remix.Map.TimeZoneFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/time-zone-fill.svg"
+    },
+    {
+        "name": "Remix.Map.HotelBedLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/hotel-bed-line.svg"
+    },
+    {
+        "name": "Remix.Map.TrainLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/train-line.svg"
+    },
+    {
+        "name": "Remix.Map.DirectionLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/direction-line.svg"
+    },
+    {
+        "name": "Remix.Map.SignalTowerLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/signal-tower-line.svg"
+    },
+    {
+        "name": "Remix.Map.GlobeLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/globe-line.svg"
+    },
+    {
+        "name": "Remix.Map.TrafficLightLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/traffic-light-line.svg"
+    },
+    {
+        "name": "Remix.Map.AnchorFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/anchor-fill.svg"
+    },
+    {
+        "name": "Remix.Map.Suitcase2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/suitcase-2-line.svg"
+    },
+    {
+        "name": "Remix.Map.MapPinTimeLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/map-pin-time-line.svg"
+    },
+    {
+        "name": "Remix.Map.MapPin3Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/map-pin-3-line.svg"
+    },
+    {
+        "name": "Remix.Map.SpaceShipLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/space-ship-line.svg"
+    },
+    {
+        "name": "Remix.Map.Ship2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/ship-2-line.svg"
+    },
+    {
+        "name": "Remix.Map.ParkingBoxFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/parking-box-fill.svg"
+    },
+    {
+        "name": "Remix.Map.CompassLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/compass-line.svg"
+    },
+    {
+        "name": "Remix.Map.PassportFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/passport-fill.svg"
+    },
+    {
+        "name": "Remix.Map.WalkLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/walk-line.svg"
+    },
+    {
+        "name": "Remix.Map.FlightTakeoffLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/flight-takeoff-line.svg"
+    },
+    {
+        "name": "Remix.Map.PlaneLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/plane-line.svg"
+    },
+    {
+        "name": "Remix.Map.TakeawayLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/takeaway-line.svg"
+    },
+    {
+        "name": "Remix.Map.ChinaRailwayLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/china-railway-line.svg"
+    },
+    {
+        "name": "Remix.Map.TaxiFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/taxi-fill.svg"
+    },
+    {
+        "name": "Remix.Map.SailboatLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/sailboat-line.svg"
+    },
+    {
+        "name": "Remix.Map.ParkingBoxLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/parking-box-line.svg"
+    },
+    {
+        "name": "Remix.Map.MotorbikeFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/motorbike-fill.svg"
+    },
+    {
+        "name": "Remix.Map.RoadMapLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/road-map-line.svg"
+    },
+    {
+        "name": "Remix.Map.GuideLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/guide-line.svg"
+    },
+    {
+        "name": "Remix.Map.GuideFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/guide-fill.svg"
+    },
+    {
+        "name": "Remix.Map.Suitcase2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/suitcase-2-fill.svg"
+    },
+    {
+        "name": "Remix.Map.BikeFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/bike-fill.svg"
+    },
+    {
+        "name": "Remix.Map.PlanetFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/planet-fill.svg"
+    },
+    {
+        "name": "Remix.Map.MapPinFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/map-pin-fill.svg"
+    },
+    {
+        "name": "Remix.Map.BikeLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/bike-line.svg"
+    },
+    {
+        "name": "Remix.Map.EarthFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/earth-fill.svg"
+    },
+    {
+        "name": "Remix.Map.LuggageDepositLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/luggage-deposit-line.svg"
+    },
+    {
+        "name": "Remix.Map.FlightTakeoffFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/flight-takeoff-fill.svg"
+    },
+    {
+        "name": "Remix.Map.RocketFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/rocket-fill.svg"
+    },
+    {
+        "name": "Remix.Map.LuggageCartLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/luggage-cart-line.svg"
+    },
+    {
+        "name": "Remix.Map.FootprintFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/footprint-fill.svg"
+    },
+    {
+        "name": "Remix.Map.SuitcaseFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/suitcase-fill.svg"
+    },
+    {
+        "name": "Remix.Map.Steering2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/steering-2-line.svg"
+    },
+    {
+        "name": "Remix.Map.PushpinFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/pushpin-fill.svg"
+    },
+    {
+        "name": "Remix.Map.SignalTowerFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/signal-tower-fill.svg"
+    },
+    {
+        "name": "Remix.Map.Suitcase3Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/suitcase-3-line.svg"
+    },
+    {
+        "name": "Remix.Map.ChargingPileFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/charging-pile-fill.svg"
+    },
+    {
+        "name": "Remix.Map.Rocket2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/rocket-2-fill.svg"
+    },
+    {
+        "name": "Remix.Map.Compass2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/compass-2-fill.svg"
     },
     {
         "name": "Remix.Map.RouteLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.4.0/icons/Map/route-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/route-line.svg"
+    },
+    {
+        "name": "Remix.Map.UnpinFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/unpin-fill.svg"
+    },
+    {
+        "name": "Remix.Map.MapPinAddFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/map-pin-add-fill.svg"
+    },
+    {
+        "name": "Remix.Map.Compass4Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/compass-4-fill.svg"
+    },
+    {
+        "name": "Remix.Map.FlightLandLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/flight-land-line.svg"
+    },
+    {
+        "name": "Remix.Map.MapPin3Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/map-pin-3-fill.svg"
+    },
+    {
+        "name": "Remix.Map.Pushpin2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/pushpin-2-line.svg"
+    },
+    {
+        "name": "Remix.Map.TakeawayFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/takeaway-fill.svg"
+    },
+    {
+        "name": "Remix.Map.BusWifiLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/bus-wifi-line.svg"
+    },
+    {
+        "name": "Remix.Map.BusLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/bus-line.svg"
+    },
+    {
+        "name": "Remix.Map.EBikeFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/e-bike-fill.svg"
+    },
+    {
+        "name": "Remix.Map.TrainWifiFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/train-wifi-fill.svg"
+    },
+    {
+        "name": "Remix.Map.BarricadeFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/barricade-fill.svg"
+    },
+    {
+        "name": "Remix.Map.EBike2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/e-bike-2-line.svg"
+    },
+    {
+        "name": "Remix.Map.SteeringFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/steering-fill.svg"
+    },
+    {
+        "name": "Remix.Map.FlightLandFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/flight-land-fill.svg"
+    },
+    {
+        "name": "Remix.Map.SubwayWifiLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/subway-wifi-line.svg"
+    },
+    {
+        "name": "Remix.Map.MapPin4Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/map-pin-4-line.svg"
+    },
+    {
+        "name": "Remix.Map.TaxiWifiLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/taxi-wifi-line.svg"
+    },
+    {
+        "name": "Remix.Map.GasStationLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/gas-station-line.svg"
+    },
+    {
+        "name": "Remix.Map.RocketLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/rocket-line.svg"
+    },
+    {
+        "name": "Remix.Map.Steering2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/steering-2-fill.svg"
+    },
+    {
+        "name": "Remix.Map.RunFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/run-fill.svg"
+    },
+    {
+        "name": "Remix.Map.PlanetLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/planet-line.svg"
+    },
+    {
+        "name": "Remix.Map.LifebuoyFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/lifebuoy-fill.svg"
+    },
+    {
+        "name": "Remix.Map.CompassDiscoverLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/compass-discover-line.svg"
+    },
+    {
+        "name": "Remix.Map.GlobeFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/globe-fill.svg"
+    },
+    {
+        "name": "Remix.Map.MapPin2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/map-pin-2-line.svg"
+    },
+    {
+        "name": "Remix.Map.Bus2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/bus-2-line.svg"
+    },
+    {
+        "name": "Remix.Map.TaxiLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/taxi-line.svg"
+    },
+    {
+        "name": "Remix.Map.MapPinRangeFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/map-pin-range-fill.svg"
+    },
+    {
+        "name": "Remix.Map.RoadsterLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/roadster-line.svg"
+    },
+    {
+        "name": "Remix.Map.SignpostFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/signpost-fill.svg"
+    },
+    {
+        "name": "Remix.Map.BusFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/bus-fill.svg"
+    },
+    {
+        "name": "Remix.Map.ChinaRailwayFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/china-railway-fill.svg"
+    },
+    {
+        "name": "Remix.Map.Compass3Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/compass-3-fill.svg"
+    },
+    {
+        "name": "Remix.Map.RoadMapFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/road-map-fill.svg"
+    },
+    {
+        "name": "Remix.Map.TruckFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/truck-fill.svg"
+    },
+    {
+        "name": "Remix.Map.SuitcaseLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/suitcase-line.svg"
+    },
+    {
+        "name": "Remix.Map.PassportLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Map/passport-line.svg"
     }
 ]
