@@ -16,6 +16,7 @@ on:
           - feather
           - ionicons
           - fontawesome
+          - heroicons
 
 permissions:
   contents: write

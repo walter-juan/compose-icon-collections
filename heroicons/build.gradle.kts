@@ -12,7 +12,7 @@ plugins {
     alias(libs.plugins.vanniktech.maven.publish)
 }
 
-version = "19.12.0"
+version = "0.0.0"
 group = "com.woowla.compose.icon.collections"
 
 kotlin {
@@ -92,13 +92,13 @@ mavenPublishing {
 }
 
 tasks.register("download-icons") {
-    val ghUser = "primer"
-    val ghRepo = "octicons"
-    val ghIconsDir = "icons"
-    val accessorName = "Octicons"
-    val applicationIconPackage = "com.woowla.compose.icon.collections.octicons"
+    val ghUser = "tailwindlabs"
+    val ghRepo = "heroicons"
+    val ghIconsDir = "src/24"
+    val accessorName = "Heroicons"
+    val applicationIconPackage = "com.woowla.compose.icon.collections.heroicons"
     val licenseFile = "LICENSE"
-    val iconsPackName = "Octicons"
+    val iconsPackName = "Heroicons"
 
     val projectName = project.name
     val projectVersion = project.version.toString().toVersion()
