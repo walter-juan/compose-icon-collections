@@ -60,18 +60,23 @@ The same version numbers as the official icon packs have been followed
 
 ## How it works
 
+**Download task**
+
 Download tasks are executed to update the icons, the process is as follows:
 1. The icons are downloaded from the official repositories
 2. The SVG files are converted to Compose using [SVG to compose](https://github.com/DevSrSouza/svg-to-compose) and saved in the corresponding module
 3. Documentation is generated and saved in the [docs](/docs) folder
 4. (Optional) The changes are committed to the repository
 
+**Auto update**
+
 The [Update icons](.github/workflows/update-icons.yml) Workflow will update the icons automatically every 2 weeks. Right now, it only updates icons that have GitHub releases, so there are some icons that should be updated manually
 
+**Special cases**
 
 Typically, all icon download tasks retrieve icons from GitHub releases. However, there are a few exceptions:
 
-- `boxicons`: Downloads icons directly from the main branch.
+- `boxicons`: Downloads icons directly from the main branch for this reason this is not updated automatically, a manual update required.
 - `ionicons`: Uses a custom `afterDownload` function to categorize icons. Additionally, there is an issue with the `Square` value from `StrokeCap` in the generated image vectors. This must be manually replaced with `StrokeCap.Square` to avoid conflicts with an icon named `Square`.
 - `fontawesome`: Implements a custom `iconNameTransformer` to handle conflicts between the `FontAwesome` icon and its accessor name.
 - `simpleicons`: Uses a custom `afterDownload` function to remove the `lerna.svg` icon because it throws `MethodTooLargeException` when compiling the project.
@@ -99,7 +104,7 @@ Typically, all icon download tasks retrieve icons from GitHub releases. However,
    - If the icon pack uses GitHub releases, add the new task in [update-icons.yml](.github/workflows/update-icons.yml)
 3. Update readme
    - Add a new entry in the *Icon packs* section
-   - If a special case has been added, add a note in the *How it works* section
+   - If a special case has been added, add a note in the *Special cases* section
 
 ### Test icons
 
