@@ -56,7 +56,6 @@ The same version numbers as the official icon packs have been followed
 | [Ionicons](https://github.com/ionic-team/ionicons)          | ionicons    | [![Ionicons - Maven Central Version](https://img.shields.io/maven-central/v/com.woowla.compose.icon.collections/ionicons)](https://central.sonatype.com/search?namespace=com.woowla.compose.icon.collections&q=ionicons)             | [![GitHub License](https://img.shields.io/github/license/ionic-team/ionicons)](https://github.com/ionic-team/ionicons/blob/main/LICENSE)         |
 | [Font Awesome](https://github.com/FortAwesome/Font-Awesome) | fontawesome | [![Font Awesome - Maven Central Version](https://img.shields.io/maven-central/v/com.woowla.compose.icon.collections/fontawesome)](https://central.sonatype.com/search?namespace=com.woowla.compose.icon.collections&q=fontawesome)   | [![Static Badge](https://img.shields.io/badge/license-CC_BY_4.0-green)](https://github.com/FortAwesome/Font-Awesome/blob/master/LICENSE.txt)     |
 
-
 ## How it works
 
 Download tasks are executed to update the icons, the process is as follows:
@@ -67,6 +66,12 @@ Download tasks are executed to update the icons, the process is as follows:
 
 The [Update icons](.github/workflows/update-icons.yml) Workflow will update the icons automatically every 2 weeks. Right now, it only updates icons that have GitHub releases, so there are some icons that should be updated manually
 
+
+Typically, all icon download tasks retrieve icons from GitHub releases. However, there are a few exceptions:
+
+- `boxicons`: Downloads icons directly from the main branch.
+- `ionicons`: Uses a custom `afterDownload` function to categorize icons. Additionally, there is an issue with the `Square` value from `StrokeCap` in the generated image vectors. This must be manually replaced with `StrokeCap.Square` to avoid conflicts with an icon named `Square`.
+- `fontawesome`: Implements a custom `iconNameTransformer` to handle conflicts between the `FontAwesome` icon and its accessor name.
 
 ## Development
 
@@ -91,6 +96,7 @@ The [Update icons](.github/workflows/update-icons.yml) Workflow will update the 
    - If the icon pack uses GitHub releases, add the new task in [update-icons.yml](.github/workflows/update-icons.yml)
 3. Update readme
    - Add a new entry in the *Icon packs* section
+   - If a special case has been added, add a note in the *How it works* section
 
 ### Test icons
 
