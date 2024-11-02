@@ -53,6 +53,18 @@ The same version numbers as the official icon packs have been followed
 | [Remix Icon](https://github.com/Remix-Design/RemixIcon) | remix    | [![Remix - Maven Central Version](https://img.shields.io/maven-central/v/com.woowla.compose.icon.collections/remix)](https://central.sonatype.com/search?namespace=com.woowla.compose.icon.collections&q=remix)          | [![GitHub License](https://img.shields.io/github/license/Remix-Design/RemixIcon)]()  |
 | [Boxicons](https://github.com/atisawd/boxicons)         | boxicons | [![Boxicons - Maven Central Version](https://img.shields.io/maven-central/v/com.woowla.compose.icon.collections/boxicons)](https://central.sonatype.com/search?namespace=com.woowla.compose.icon.collections&q=boxicons) | [![GitHub License](https://img.shields.io/github/license/atisawd/boxicons)]()        |
 
+
+## How it works
+
+Download tasks are executed to update the icons, the process is as follows:
+1. The icons are downloaded from the official repositories
+2. The SVG files are converted to Compose using [SVG to compose](https://github.com/DevSrSouza/svg-to-compose) and saved in the corresponding module
+3. Documentation is generated and saved in the [docs](/docs) folder
+4. (Optional) The changes are committed to the repository
+
+The [Update icons](.github/workflows/update-icons.yml) Workflow will update the icons automatically every 2 weeks. Right now, it only updates icons that have GitHub releases, so there are some icons that should be updated manually
+
+
 ## Development
 
 ### Requirements
@@ -63,15 +75,27 @@ The same version numbers as the official icon packs have been followed
 
 ### Update the icons
 
-Run the icon download task, use the `-Pgitcommit` flag to commit the changes.
+- Icon pack using GitHub releases: Run the icon download task, use the `-Pgitcommit` flag to commit the changes.
+- Icon pack using the main branch: Run the icon download task, manually update the version in the `build.gradle` file, and commit the changes.
 
 ### Add new icons
 
-1. Create a new module by copying the `build.gradle` from another module
-2. Update everything needed like the version, `download-icons` task, and others from the `build.gradle`
-3. Add new input choice in [deploy.yml](.github/workflows/publish.yml)
-4. If it's possible, add the new task in [update-icons.yml](.github/workflows/update-icons.yml)
-5. Add a new entry in the *Icon packs* section
+1. Add new module
+   - Create a new module by copying the `build.gradle` from an existing module. Copy `octicons` if the icon pack uses GitHub releases or `boxicons` if it uses the main branch.
+   - Update everything needed like the version, `download-icons` task, and others from the `build.gradle`
+2. Update workflows
+   - Add new input option in [deploy.yml](.github/workflows/publish.yml) 
+   - If the icon pack uses GitHub releases, add the new task in [update-icons.yml](.github/workflows/update-icons.yml)
+3. Update readme
+   - Add a new entry in the *Icon packs* section
+
+### Test icons
+
+Right now the only way to test is by running the sample app, follow these steps:
+
+1. Replace the icons dependency you would like to test in [build.gradle.kts](sample/composeApp/build.gradle.kts) file
+2. Add `AllIcons` to the `icons` list in the [App.kt](sample/composeApp/src/commonMain/kotlin/com/woowla/compose/icon/collections/sample/App.kt) file
+3. Run the sample app and check the icons
 
 ### Gradle tasks
 
