@@ -1,4 +1,6 @@
 import Utils.renameToSupportedFormat
+import br.com.devsrsouza.svg2compose.GroupNameTransformer
+import br.com.devsrsouza.svg2compose.IconNameTransformer
 import br.com.devsrsouza.svg2compose.ParsingResult
 import br.com.devsrsouza.svg2compose.Svg2Compose
 import br.com.devsrsouza.svg2compose.VectorType
@@ -38,6 +40,8 @@ object IconsGenerator {
         accessorName: String,
         outputDir: File,
         branchToDownload: String? = null,
+        groupNameTransformer: GroupNameTransformer = { group -> group.renameToSupportedFormat(camelCase = true) },
+        iconNameTransformer: IconNameTransformer = { name, _ -> name.renameToSupportedFormat(camelCase = true) },
         afterDownload: ((repoDir: File) -> Unit)? = null,
     ): GenerateIconsResult {
         val projectDownloadsDir = downloadsDir.resolve("${ghUser}-${ghRepo}")
@@ -82,12 +86,8 @@ object IconsGenerator {
             outputSourceDirectory = outputDir,
             vectorsDirectory = iconsDir,
             type = VectorType.SVG,
-            groupNameTransformer = { group ->
-                group.renameToSupportedFormat(camelCase = true)
-            },
-            iconNameTransformer = { name, _ ->
-                name.renameToSupportedFormat(camelCase = true)
-            },
+            groupNameTransformer = groupNameTransformer,
+            iconNameTransformer = iconNameTransformer,
             allAssetsPropertyName = "AllIcons",
             generatePreview = false,
             generateStringAccessor = false,
