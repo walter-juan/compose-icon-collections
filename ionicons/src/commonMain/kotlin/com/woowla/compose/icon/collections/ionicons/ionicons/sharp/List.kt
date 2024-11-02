@@ -41,7 +41,7 @@ public val SharpGroup.List: ImageVector
                 lineTo(464.0f, 368.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 32.0f, strokeLineCap = Square, strokeLineJoin = Round,
+                    strokeLineWidth = 32.0f, strokeLineCap = StrokeCap.Square, strokeLineJoin = Round,
                     strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(64.0f, 128.0f)
                 horizontalLineToRelative(32.0f)
@@ -50,7 +50,7 @@ public val SharpGroup.List: ImageVector
                 close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 32.0f, strokeLineCap = Square, strokeLineJoin = Round,
+                    strokeLineWidth = 32.0f, strokeLineCap = StrokeCap.Square, strokeLineJoin = Round,
                     strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(64.0f, 240.0f)
                 horizontalLineToRelative(32.0f)
@@ -59,7 +59,7 @@ public val SharpGroup.List: ImageVector
                 close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 32.0f, strokeLineCap = Square, strokeLineJoin = Round,
+                    strokeLineWidth = 32.0f, strokeLineCap = StrokeCap.Square, strokeLineJoin = Round,
                     strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(64.0f, 352.0f)
                 horizontalLineToRelative(32.0f)

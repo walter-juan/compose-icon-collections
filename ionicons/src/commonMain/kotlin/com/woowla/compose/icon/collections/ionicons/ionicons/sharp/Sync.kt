@@ -22,7 +22,7 @@ public val SharpGroup.Sync: ImageVector
         _sync = Builder(name = "Sync", defaultWidth = 512.0.dp, defaultHeight = 512.0.dp,
                 viewportWidth = 512.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 32.0f, strokeLineCap = Square, strokeLineJoin = Miter,
+                    strokeLineWidth = 32.0f, strokeLineCap = StrokeCap.Square, strokeLineJoin = Miter,
                     strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(434.67f, 285.59f)
                 verticalLineToRelative(-29.8f)
@@ -34,14 +34,14 @@ public val SharpGroup.Sync: ImageVector
                 arcToRelative(180.45f, 180.45f, 0.0f, false, false, 140.0f, -66.92f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 32.0f, strokeLineCap = Square, strokeLineJoin = Miter,
+                    strokeLineWidth = 32.0f, strokeLineCap = StrokeCap.Square, strokeLineJoin = Miter,
                     strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(32.0f, 256.0f)
                 lineToRelative(44.0f, -44.0f)
                 lineToRelative(46.0f, 44.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 32.0f, strokeLineCap = Square, strokeLineJoin = Miter,
+                    strokeLineWidth = 32.0f, strokeLineCap = StrokeCap.Square, strokeLineJoin = Miter,
                     strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(480.0f, 256.0f)
                 lineToRelative(-44.0f, 44.0f)

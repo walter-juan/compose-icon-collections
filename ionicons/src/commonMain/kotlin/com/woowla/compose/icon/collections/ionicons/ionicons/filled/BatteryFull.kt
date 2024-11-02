@@ -23,7 +23,7 @@ public val FilledGroup.BatteryFull: ImageVector
         _batteryFull = Builder(name = "BatteryFull", defaultWidth = 512.0.dp, defaultHeight =
                 512.0.dp, viewportWidth = 512.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 32.0f, strokeLineCap = Square, strokeLineJoin = Miter,
+                    strokeLineWidth = 32.0f, strokeLineCap = StrokeCap.Square, strokeLineJoin = Miter,
                     strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(77.7f, 144.0f)
                 lineTo(386.3f, 144.0f)
@@ -37,7 +37,7 @@ public val FilledGroup.BatteryFull: ImageVector
                 close()
             }
             path(fill = SolidColor(Color(0xFF000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 32.0f, strokeLineCap = Square, strokeLineJoin = Miter,
+                    strokeLineWidth = 32.0f, strokeLineCap = StrokeCap.Square, strokeLineJoin = Miter,
                     strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(89.69f, 198.93f)
                 lineTo(374.32f, 198.93f)

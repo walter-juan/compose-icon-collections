@@ -22,20 +22,20 @@ public val SharpGroup.Resize: ImageVector
         _resize = Builder(name = "Resize", defaultWidth = 512.0.dp, defaultHeight = 512.0.dp,
                 viewportWidth = 512.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 32.0f, strokeLineCap = Square, strokeLineJoin = Miter,
+                    strokeLineWidth = 32.0f, strokeLineCap = StrokeCap.Square, strokeLineJoin = Miter,
                     strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(304.0f, 96.0f)
                 lineToRelative(112.0f, 0.0f)
                 lineToRelative(0.0f, 112.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 32.0f, strokeLineCap = Square, strokeLineJoin = Miter,
+                    strokeLineWidth = 32.0f, strokeLineCap = StrokeCap.Square, strokeLineJoin = Miter,
                     strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(405.77f, 106.2f)
                 lineTo(111.98f, 400.02f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 32.0f, strokeLineCap = Square, strokeLineJoin = Miter,
+                    strokeLineWidth = 32.0f, strokeLineCap = StrokeCap.Square, strokeLineJoin = Miter,
                     strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(208.0f, 416.0f)
                 lineToRelative(-112.0f, 0.0f)
