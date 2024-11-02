@@ -129,6 +129,19 @@ tasks.register("download-icons") {
             applicationIconPackage = applicationIconPackage,
             accessorName = accessorName,
             outputDir = srcDir,
+            afterDownload = { repoDir: File ->
+                val defaultGroup = "filled"
+                val groups = listOf("outline", "sharp")
+                Utils.splitIcons(
+                    iconsDirectory = repoDir.resolve(ghIconsDir),
+                    groupNameProvider = { icon ->
+                        groups.firstOrNull { icon.endsWith("-$it") } ?: defaultGroup
+                    },
+                    iconNameTransformer = { icon, group ->
+                        icon.removeSuffix("-$group")
+                    },
+                )
+            }
         )
 
         // generate documentation
