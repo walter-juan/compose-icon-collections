@@ -24,8 +24,8 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.unit.dp
-import com.woowla.compose.icon.collections.feather.AllIcons
-import com.woowla.compose.icon.collections.feather.Feather
+import com.woowla.compose.icon.collections.ionicons.AllIcons
+import com.woowla.compose.icon.collections.ionicons.Ionicons
 import compose_icon_collections.sample.composeapp.generated.resources.Res
 import compose_icon_collections.sample.composeapp.generated.resources.compose_multiplatform
 import org.jetbrains.compose.resources.painterResource
@@ -36,7 +36,7 @@ import org.jetbrains.compose.ui.tooling.preview.Preview
 fun App() {
     MaterialTheme {
         val scrollableState = rememberLazyStaggeredGridState()
-        Icons(state = scrollableState, icons = Feather.AllIcons)
+        Icons(state = scrollableState, icons = Ionicons.AllIcons)
     }
 }
 
@@ -63,7 +63,7 @@ fun Icons(state: LazyStaggeredGridState, icons: List<ImageVector>) {
                 verticalAlignment = Alignment.CenterVertically,
                 modifier = Modifier.padding(5.dp)
             ) {
-                Icon(imageVector = icon, contentDescription = null)
+                Icon(imageVector = icon, contentDescription = null, modifier = Modifier.size(25.dp))
                 Spacer(modifier = Modifier.width(15.dp))
                 Text(icon.name)
             }
