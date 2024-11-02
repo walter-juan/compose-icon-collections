@@ -97,7 +97,7 @@ tasks.register("download-icons") {
     val ghIconsDir = "svgs"
     val accessorName = "FontAwesome"
     val applicationIconPackage = "com.woowla.compose.icon.collections.fontawesome"
-    val licenseFile = "LICENSE"
+    val licenseFile = "LICENSE.txt"
     val iconsPackName = "FontAwesome"
 
     val projectName = project.name
