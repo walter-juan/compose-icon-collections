@@ -55,14 +55,20 @@ object Utils {
      */
     fun commitChanges(project: String, version: Version) {
         // git add all from project and docs
-        val process = ProcessBuilder("git", "add", "$project/*", "docs/*").start()
+        val process = ProcessBuilder("git", "add", "$project/*", "docs/*")
+            .redirectOutput(ProcessBuilder.Redirect.INHERIT)
+            .redirectError(ProcessBuilder.Redirect.INHERIT)
+            .start()
         val exitCode = process.waitFor()
         if (exitCode != 0) {
             throw RuntimeException("Failed to execute git add command")
         }
         // git commit
         val commitMessage = "Update $project to $version"
-        val process2 = ProcessBuilder("git", "commit", "-m", commitMessage).start()
+        val process2 = ProcessBuilder("git", "commit", "-m", commitMessage)
+            .redirectOutput(ProcessBuilder.Redirect.INHERIT)
+            .redirectError(ProcessBuilder.Redirect.INHERIT)
+            .start()
         val exitCode2 = process2.waitFor()
         if (exitCode2 != 0) {
             throw RuntimeException("Failed to execute git commit command")
