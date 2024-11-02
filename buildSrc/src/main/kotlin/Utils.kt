@@ -212,7 +212,7 @@ object Utils {
         val newFileNameWithoutExtension = this
             .replace("&", "_and_")
             .replace(Regex("""[^a-zA-Z\d]"""), "_")
-            .replace(Regex("""^\d"""), "_")
+            .replace(Regex("""^\d+""")) { matchResult -> "number_${matchResult.value}_" }
             .replace(Regex("""_+"""), "_")
             .trim('_')
             .lowercase()
