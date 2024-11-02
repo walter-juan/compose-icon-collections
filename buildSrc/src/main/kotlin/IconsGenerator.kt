@@ -38,6 +38,7 @@ object IconsGenerator {
         accessorName: String,
         outputDir: File,
         branchToDownload: String? = null,
+        afterDownload: ((repoDir: File) -> Unit)? = null,
     ): GenerateIconsResult {
         val projectDownloadsDir = downloadsDir.resolve("${ghUser}-${ghRepo}")
         val zipFile = projectDownloadsDir.resolve("code.zip")
@@ -68,6 +69,11 @@ object IconsGenerator {
 
         val repoDir = unzippedDir.listFiles().first()
         val iconsDir = repoDir.resolve(ghIconsDir)
+
+        if (afterDownload != null) {
+            println("Doing something after download...")
+            afterDownload.invoke(repoDir)
+        }
 
         println("Creating the image vectors...")
         val parsingResult = Svg2Compose.parse(
