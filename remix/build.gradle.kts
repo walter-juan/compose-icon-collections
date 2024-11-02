@@ -160,7 +160,7 @@ tasks.register("download-icons") {
         }
 
         println("==== RESULTS ====")
-        println("Tag [${generateIconsResult.tag}]")
+        println("New icons version generated [${githubRelease.version}]")
         println("=================")
     }
 }
