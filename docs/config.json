@@ -82,6 +82,13 @@
                 "solid",
                 "outline"
             ]
+        },
+        {
+            "name": "Simpleicons",
+            "value": "simpleicons",
+            "categories": [
+                ""
+            ]
         }
     ]
 }
