@@ -65,6 +65,15 @@
                 "sharp",
                 "filled"
             ]
+        },
+        {
+            "name": "FontAwesome",
+            "value": "fontawesome",
+            "categories": [
+                "solid",
+                "brands",
+                "regular"
+            ]
         }
     ]
 }
