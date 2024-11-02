@@ -12,7 +12,7 @@ plugins {
     alias(libs.plugins.vanniktech.maven.publish)
 }
 
-version = "19.12.0"
+version = "0.0.0"
 group = "com.woowla.compose.icon.collections"
 
 kotlin {
@@ -92,13 +92,13 @@ mavenPublishing {
 }
 
 tasks.register("download-icons") {
-    val ghUser = "primer"
-    val ghRepo = "octicons"
+    val ghUser = "simple-icons"
+    val ghRepo = "simple-icons"
     val ghIconsDir = "icons"
-    val accessorName = "Octicons"
-    val applicationIconPackage = "com.woowla.compose.icon.collections.octicons"
-    val licenseFile = "LICENSE"
-    val iconsPackName = "Octicons"
+    val accessorName = "Simpleicons"
+    val applicationIconPackage = "com.woowla.compose.icon.collections.simpleicons"
+    val licenseFile = "LICENSE.md"
+    val iconsPackName = "Simpleicons"
 
     val projectName = project.name
     val projectVersion = project.version.toString().toVersion()
@@ -129,6 +129,10 @@ tasks.register("download-icons") {
             applicationIconPackage = applicationIconPackage,
             accessorName = accessorName,
             outputDir = srcDir,
+            afterDownload = { repoDir ->
+                // remove Lerna icon as it throws MethodTooLargeException
+                repoDir.resolve(ghIconsDir).resolve("lerna.svg").delete()
+            }
         )
 
         // generate documentation

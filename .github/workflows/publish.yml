@@ -17,6 +17,7 @@ on:
           - ionicons
           - fontawesome
           - heroicons
+          - simpleicons
 
 permissions:
   contents: write
