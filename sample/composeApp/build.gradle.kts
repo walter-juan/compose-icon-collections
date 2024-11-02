@@ -65,7 +65,7 @@ kotlin {
             implementation(compose.components.resources)
             implementation(compose.components.uiToolingPreview)
             implementation(libs.androidx.lifecycle.runtime.compose)
-            implementation(project(":ionicons"))
+            implementation(project(":fontawesome"))
         }
         desktopMain.dependencies {
             implementation(compose.desktop.currentOs)
