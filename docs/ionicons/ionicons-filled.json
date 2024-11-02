@@ -1,0 +1,2058 @@
+[
+    {
+        "name": "Ionicons.Filled.PieChart",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/pie-chart.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ThumbsUp",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/thumbs-up.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Wifi",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/wifi.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoTwitter",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-twitter.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Football",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/football.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoStackoverflow",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-stackoverflow.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Grid",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/grid.svg"
+    },
+    {
+        "name": "Ionicons.Filled.PersonRemove",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/person-remove.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Bug",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/bug.svg"
+    },
+    {
+        "name": "Ionicons.Filled.PlaySkipForward",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/play-skip-forward.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Walk",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/walk.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Tv",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/tv.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoTiktok",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-tiktok.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Thunderstorm",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/thunderstorm.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Funnel",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/funnel.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Scale",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/scale.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoRss",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-rss.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ThumbsDown",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/thumbs-down.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Water",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/water.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ColorWand",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/color-wand.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoAmplify",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-amplify.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Nutrition",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/nutrition.svg"
+    },
+    {
+        "name": "Ionicons.Filled.SearchCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/search-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Paw",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/paw.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Pin",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/pin.svg"
+    },
+    {
+        "name": "Ionicons.Filled.HelpCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/help-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Images",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/images.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ArrowRedoCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/arrow-redo-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.TrashBin",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/trash-bin.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Checkbox",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/checkbox.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Ear",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/ear.svg"
+    },
+    {
+        "name": "Ionicons.Filled.IceCream",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/ice-cream.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoReddit",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-reddit.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Information",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/information.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Image",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/image.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ChevronUp",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/chevron-up.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Transgender",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/transgender.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoSass",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-sass.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Layers",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/layers.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Bag",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/bag.svg"
+    },
+    {
+        "name": "Ionicons.Filled.PlaySkipForwardCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/play-skip-forward-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoWechat",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-wechat.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Backspace",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/backspace.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Planet",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/planet.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoCapacitor",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-capacitor.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogIn",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/log-in.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoCss3",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-css3.svg"
+    },
+    {
+        "name": "Ionicons.Filled.EyeOff",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/eye-off.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Barbell",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/barbell.svg"
+    },
+    {
+        "name": "Ionicons.Filled.SwapHorizontal",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/swap-horizontal.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Egg",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/egg.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Aperture",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/aperture.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Warning",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/warning.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Magnet",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/magnet.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Alert",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/alert.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Terminal",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/terminal.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Text",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/text.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoBitcoin",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-bitcoin.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Contrast",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/contrast.svg"
+    },
+    {
+        "name": "Ionicons.Filled.BagCheck",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/bag-check.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoBuffer",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-buffer.svg"
+    },
+    {
+        "name": "Ionicons.Filled.HelpBuoy",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/help-buoy.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Archive",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/archive.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoLinkedin",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-linkedin.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Cube",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/cube.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogOut",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/log-out.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoFirefox",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-firefox.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Beaker",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/beaker.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ChevronForward",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/chevron-forward.svg"
+    },
+    {
+        "name": "Ionicons.Filled.AddCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/add-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Tennisball",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/tennisball.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Pencil",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/pencil.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoNodejs",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-nodejs.svg"
+    },
+    {
+        "name": "Ionicons.Filled.AtCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/at-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Play",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/play.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Ban",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/ban.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Key",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/key.svg"
+    },
+    {
+        "name": "Ionicons.Filled.DocumentText",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/document-text.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ListCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/list-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.EllipsisHorizontalCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/ellipsis-horizontal-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Unlink",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/unlink.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Card",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/card.svg"
+    },
+    {
+        "name": "Ionicons.Filled.HardwareChip",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/hardware-chip.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoMarkdown",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-markdown.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoSteam",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-steam.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoGooglePlaystore",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-google-playstore.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Chatbubbles",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/chatbubbles.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Contract",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/contract.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Timer",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/timer.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoAppleAr",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-apple-ar.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Save",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/save.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ReorderTwo",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/reorder-two.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Earth",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/earth.svg"
+    },
+    {
+        "name": "Ionicons.Filled.CloudOffline",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/cloud-offline.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoHackernews",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-hackernews.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoPlaystation",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-playstation.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoXing",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-xing.svg"
+    },
+    {
+        "name": "Ionicons.Filled.CaretForward",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/caret-forward.svg"
+    },
+    {
+        "name": "Ionicons.Filled.People",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/people.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Bookmarks",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/bookmarks.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoFirebase",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-firebase.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Browsers",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/browsers.svg"
+    },
+    {
+        "name": "Ionicons.Filled.FlashOff",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/flash-off.svg"
+    },
+    {
+        "name": "Ionicons.Filled.VolumeHigh",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/volume-high.svg"
+    },
+    {
+        "name": "Ionicons.Filled.PlayCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/play-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Add",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/add.svg"
+    },
+    {
+        "name": "Ionicons.Filled.CaretDown",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/caret-down.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Location",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/location.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoVenmo",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-venmo.svg"
+    },
+    {
+        "name": "Ionicons.Filled.HandRight",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/hand-right.svg"
+    },
+    {
+        "name": "Ionicons.Filled.VolumeMute",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/volume-mute.svg"
+    },
+    {
+        "name": "Ionicons.Filled.List",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/list.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Newspaper",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/newspaper.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoStencil",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-stencil.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Reader",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/reader.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Female",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/female.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Shield",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/shield.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Nuclear",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/nuclear.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoAmazon",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-amazon.svg"
+    },
+    {
+        "name": "Ionicons.Filled.RadioButtonOff",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/radio-button-off.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Rocket",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/rocket.svg"
+    },
+    {
+        "name": "Ionicons.Filled.At",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/at.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Eyedrop",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/eyedrop.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Gift",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/gift.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Cut",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/cut.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Ellipse",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/ellipse.svg"
+    },
+    {
+        "name": "Ionicons.Filled.GitCompare",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/git-compare.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Reload",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/reload.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Cog",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/cog.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Keypad",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/keypad.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Documents",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/documents.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Medal",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/medal.svg"
+    },
+    {
+        "name": "Ionicons.Filled.CalendarNumber",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/calendar-number.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Restaurant",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/restaurant.svg"
+    },
+    {
+        "name": "Ionicons.Filled.PartlySunny",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/partly-sunny.svg"
+    },
+    {
+        "name": "Ionicons.Filled.CloudDownload",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/cloud-download.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoWindows",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-windows.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Flask",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/flask.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoHtml5",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-html5.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoVercel",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-vercel.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Repeat",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/repeat.svg"
+    },
+    {
+        "name": "Ionicons.Filled.BatteryHalf",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/battery-half.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Globe",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/globe.svg"
+    },
+    {
+        "name": "Ionicons.Filled.RefreshCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/refresh-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ColorFilter",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/color-filter.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoDesignernews",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-designernews.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoIonitron",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-ionitron.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ArrowUndoCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/arrow-undo-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Journal",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/journal.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Stopwatch",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/stopwatch.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Bed",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/bed.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoNpm",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-npm.svg"
+    },
+    {
+        "name": "Ionicons.Filled.IdCard",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/id-card.svg"
+    },
+    {
+        "name": "Ionicons.Filled.PlayBackCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/play-back-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoChrome",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-chrome.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Flash",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/flash.svg"
+    },
+    {
+        "name": "Ionicons.Filled.BowlingBall",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/bowling-ball.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Clipboard",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/clipboard.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Binoculars",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/binoculars.svg"
+    },
+    {
+        "name": "Ionicons.Filled.DocumentLock",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/document-lock.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Send",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/send.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoLaravel",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-laravel.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoSlack",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-slack.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoDiscord",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-discord.svg"
+    },
+    {
+        "name": "Ionicons.Filled.InvertMode",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/invert-mode.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Hourglass",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/hourglass.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ChevronBack",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/chevron-back.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ChevronForwardCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/chevron-forward-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Checkmark",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/checkmark.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Construct",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/construct.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ShareSocial",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/share-social.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Locate",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/locate.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Close",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/close.svg"
+    },
+    {
+        "name": "Ionicons.Filled.CheckmarkCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/checkmark-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Today",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/today.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Pint",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/pint.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ChevronExpand",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/chevron-expand.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Happy",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/happy.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Shuffle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/shuffle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Pizza",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/pizza.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Remove",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/remove.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ArrowUpCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/arrow-up-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Ribbon",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/ribbon.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Download",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/download.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ReorderThree",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/reorder-three.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Man",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/man.svg"
+    },
+    {
+        "name": "Ionicons.Filled.CheckmarkDoneCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/checkmark-done-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Settings",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/settings.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ArrowDown",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/arrow-down.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Recording",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/recording.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Glasses",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/glasses.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoVimeo",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-vimeo.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ColorFill",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/color-fill.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoMastodon",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-mastodon.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoDocker",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-docker.svg"
+    },
+    {
+        "name": "Ionicons.Filled.CloudyNight",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/cloudy-night.svg"
+    },
+    {
+        "name": "Ionicons.Filled.AmericanFootball",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/american-football.svg"
+    },
+    {
+        "name": "Ionicons.Filled.CheckmarkDone",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/checkmark-done.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Language",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/language.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoX",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-x.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Home",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/home.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Dice",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/dice.svg"
+    },
+    {
+        "name": "Ionicons.Filled.StarHalf",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/star-half.svg"
+    },
+    {
+        "name": "Ionicons.Filled.TrendingUp",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/trending-up.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Body",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/body.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Videocam",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/videocam.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Briefcase",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/briefcase.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Easel",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/easel.svg"
+    },
+    {
+        "name": "Ionicons.Filled.GitCommit",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/git-commit.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ScanCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/scan-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.EllipsisHorizontal",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/ellipsis-horizontal.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoPwa",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-pwa.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Alarm",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/alarm.svg"
+    },
+    {
+        "name": "Ionicons.Filled.MicOffCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/mic-off-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoReact",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-react.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Trash",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/trash.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ArrowDownRightBox",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/arrow-down-right-box.svg"
+    },
+    {
+        "name": "Ionicons.Filled.NotificationsCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/notifications-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.GitBranch",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/git-branch.svg"
+    },
+    {
+        "name": "Ionicons.Filled.HeartDislikeCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/heart-dislike-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Star",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/star.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoDribbble",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-dribbble.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ChatbubbleEllipses",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/chatbubble-ellipses.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Flag",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/flag.svg"
+    },
+    {
+        "name": "Ionicons.Filled.HandLeft",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/hand-left.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Laptop",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/laptop.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Cloud",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/cloud.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoXbox",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-xbox.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Skull",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/skull.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Hammer",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/hammer.svg"
+    },
+    {
+        "name": "Ionicons.Filled.CaretBackCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/caret-back-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Film",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/film.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ExtensionPuzzle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/extension-puzzle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Radio",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/radio.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoAppflow",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-appflow.svg"
+    },
+    {
+        "name": "Ionicons.Filled.CaretForwardCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/caret-forward-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ArrowUp",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/arrow-up.svg"
+    },
+    {
+        "name": "Ionicons.Filled.HeartCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/heart-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Sync",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/sync.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Pricetags",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/pricetags.svg"
+    },
+    {
+        "name": "Ionicons.Filled.School",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/school.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Medkit",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/medkit.svg"
+    },
+    {
+        "name": "Ionicons.Filled.PhonePortrait",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/phone-portrait.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Male",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/male.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Diamond",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/diamond.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Flower",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/flower.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Create",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/create.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Bus",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/bus.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoClosedCaptioning",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-closed-captioning.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ArrowForwardCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/arrow-forward-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.GameController",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/game-controller.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Document",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/document.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Scan",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/scan.svg"
+    },
+    {
+        "name": "Ionicons.Filled.CarSport",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/car-sport.svg"
+    },
+    {
+        "name": "Ionicons.Filled.CameraReverse",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/camera-reverse.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Infinite",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/infinite.svg"
+    },
+    {
+        "name": "Ionicons.Filled.PlayBack",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/play-back.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoVk",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-vk.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Beer",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/beer.svg"
+    },
+    {
+        "name": "Ionicons.Filled.MicCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/mic-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.BagHandle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/bag-handle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.MicOff",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/mic-off.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ChatboxEllipses",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/chatbox-ellipses.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoYahoo",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-yahoo.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Square",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/square.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Push",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/push.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ReloadCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/reload-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoOctocat",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-octocat.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ChevronCollapse",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/chevron-collapse.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoPython",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-python.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Speedometer",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/speedometer.svg"
+    },
+    {
+        "name": "Ionicons.Filled.CaretUp",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/caret-up.svg"
+    },
+    {
+        "name": "Ionicons.Filled.BagAdd",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/bag-add.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ShieldHalf",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/shield-half.svg"
+    },
+    {
+        "name": "Ionicons.Filled.TabletLandscape",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/tablet-landscape.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoGitlab",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-gitlab.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoMedium",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-medium.svg"
+    },
+    {
+        "name": "Ionicons.Filled.StopCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/stop-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.TabletPortrait",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/tablet-portrait.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Triangle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/triangle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Server",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/server.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Book",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/book.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Heart",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/heart.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoWordpress",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-wordpress.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Boat",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/boat.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Sparkles",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/sparkles.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Flashlight",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/flashlight.svg"
+    },
+    {
+        "name": "Ionicons.Filled.CodeSlash",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/code-slash.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Rainy",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/rainy.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ArrowUndo",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/arrow-undo.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoTwitch",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-twitch.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Prism",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/prism.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoTableau",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-tableau.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Chatbox",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/chatbox.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Calculator",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/calculator.svg"
+    },
+    {
+        "name": "Ionicons.Filled.VolumeOff",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/volume-off.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Cart",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/cart.svg"
+    },
+    {
+        "name": "Ionicons.Filled.SyncCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/sync-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Bonfire",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/bonfire.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Fitness",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/fitness.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoBitbucket",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-bitbucket.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoEuro",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-euro.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Fish",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/fish.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Podium",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/podium.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Analytics",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/analytics.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Mic",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/mic.svg"
+    },
+    {
+        "name": "Ionicons.Filled.RadioButtonOn",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/radio-button-on.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Disc",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/disc.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ArrowUpLeftBox",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/arrow-up-left-box.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Notifications",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/notifications.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoFacebook",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-facebook.svg"
+    },
+    {
+        "name": "Ionicons.Filled.PauseCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/pause-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Chatbubble",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/chatbubble.svg"
+    },
+    {
+        "name": "Ionicons.Filled.MaleFemale",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/male-female.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Basketball",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/basketball.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ChevronUpCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/chevron-up-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Cloudy",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/cloudy.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ArrowDownLeftBox",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/arrow-down-left-box.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Flame",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/flame.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Library",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/library.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Receipt",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/receipt.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Storefront",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/storefront.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoPaypal",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-paypal.svg"
+    },
+    {
+        "name": "Ionicons.Filled.GitNetwork",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/git-network.svg"
+    },
+    {
+        "name": "Ionicons.Filled.FileTrayStacked",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/file-tray-stacked.svg"
+    },
+    {
+        "name": "Ionicons.Filled.CaretDownCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/caret-down-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoAppleAppstore",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-apple-appstore.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ChevronDownCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/chevron-down-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.AlertCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/alert-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.HeartHalf",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/heart-half.svg"
+    },
+    {
+        "name": "Ionicons.Filled.VolumeMedium",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/volume-medium.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Cafe",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/cafe.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoSnapchat",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-snapchat.svg"
+    },
+    {
+        "name": "Ionicons.Filled.CloseCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/close-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoAngular",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-angular.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Print",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/print.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Shirt",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/shirt.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Stop",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/stop.svg"
+    },
+    {
+        "name": "Ionicons.Filled.RemoveCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/remove-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.DocumentAttach",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/document-attach.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Folder",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/folder.svg"
+    },
+    {
+        "name": "Ionicons.Filled.FilterCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/filter-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.HeartDislike",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/heart-dislike.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Help",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/help.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Thermometer",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/thermometer.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ReturnUpBack",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/return-up-back.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ReturnDownBack",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/return-down-back.svg"
+    },
+    {
+        "name": "Ionicons.Filled.VolumeLow",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/volume-low.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoApple",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-apple.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Subway",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/subway.svg"
+    },
+    {
+        "name": "Ionicons.Filled.PersonAdd",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/person-add.svg"
+    },
+    {
+        "name": "Ionicons.Filled.FolderOpen",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/folder-open.svg"
+    },
+    {
+        "name": "Ionicons.Filled.GitMerge",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/git-merge.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoAndroid",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-android.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoPinterest",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-pinterest.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoMicrosoft",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-microsoft.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Sad",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/sad.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoBehance",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-behance.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Move",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/move.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoAlipay",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-alipay.svg"
+    },
+    {
+        "name": "Ionicons.Filled.BatteryCharging",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/battery-charging.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Bulb",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/bulb.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ShieldCheckmark",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/shield-checkmark.svg"
+    },
+    {
+        "name": "Ionicons.Filled.PeopleCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/people-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.NotificationsOffCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/notifications-off-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Options",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/options.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ArrowDownCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/arrow-down-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.StatsChart",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/stats-chart.svg"
+    },
+    {
+        "name": "Ionicons.Filled.BagRemove",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/bag-remove.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoYoutube",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-youtube.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Shapes",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/shapes.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ArrowBack",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/arrow-back.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Enter",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/enter.svg"
+    },
+    {
+        "name": "Ionicons.Filled.PlayForwardCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/play-forward-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Balloon",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/balloon.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Search",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/search.svg"
+    },
+    {
+        "name": "Ionicons.Filled.BarChart",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/bar-chart.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoTux",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-tux.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Code",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/code.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Resize",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/resize.svg"
+    },
+    {
+        "name": "Ionicons.Filled.NavigateCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/navigate-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.EllipsisVertical",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/ellipsis-vertical.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoGithub",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-github.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Golf",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/golf.svg"
+    },
+    {
+        "name": "Ionicons.Filled.MusicalNote",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/musical-note.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Telescope",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/telescope.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoFigma",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-figma.svg"
+    },
+    {
+        "name": "Ionicons.Filled.PlaySkipBack",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/play-skip-back.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Sunny",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/sunny.svg"
+    },
+    {
+        "name": "Ionicons.Filled.CaretBack",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/caret-back.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Baseball",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/baseball.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoElectron",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-electron.svg"
+    },
+    {
+        "name": "Ionicons.Filled.CodeDownload",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/code-download.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Person",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/person.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Calendar",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/calendar.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ArrowUpRightBox",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/arrow-up-right-box.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ReturnDownForward",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/return-down-forward.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoInstagram",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-instagram.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ArrowForward",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/arrow-forward.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Copy",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/copy.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Toggle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/toggle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Share",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/share.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoJavascript",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-javascript.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoDropbox",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-dropbox.svg"
+    },
+    {
+        "name": "Ionicons.Filled.CloudDone",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/cloud-done.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Menu",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/menu.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Mail",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/mail.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Pricetag",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/pricetag.svg"
+    },
+    {
+        "name": "Ionicons.Filled.QrCode",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/qr-code.svg"
+    },
+    {
+        "name": "Ionicons.Filled.PlaySkipBackCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/play-skip-back-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Pulse",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/pulse.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ArrowRedo",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/arrow-redo.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Wine",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/wine.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Duplicate",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/duplicate.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Map",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/map.svg"
+    },
+    {
+        "name": "Ionicons.Filled.PhoneLandscape",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/phone-landscape.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Crop",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/crop.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Moon",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/moon.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Time",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/time.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Call",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/call.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Brush",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/brush.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ChevronDown",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/chevron-down.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Build",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/build.svg"
+    },
+    {
+        "name": "Ionicons.Filled.VideocamOff",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/videocam-off.svg"
+    },
+    {
+        "name": "Ionicons.Filled.CalendarClear",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/calendar-clear.svg"
+    },
+    {
+        "name": "Ionicons.Filled.CaretUpCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/caret-up-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Camera",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/camera.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoCodepen",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-codepen.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Headset",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/headset.svg"
+    },
+    {
+        "name": "Ionicons.Filled.PersonCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/person-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Medical",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/medical.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Open",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/open.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Snow",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/snow.svg"
+    },
+    {
+        "name": "Ionicons.Filled.NotificationsOff",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/notifications-off.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoGoogle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-google.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Airplane",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/airplane.svg"
+    },
+    {
+        "name": "Ionicons.Filled.BatteryDead",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/battery-dead.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoFlickr",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-flickr.svg"
+    },
+    {
+        "name": "Ionicons.Filled.InformationCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/information-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.FastFood",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/fast-food.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Footsteps",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/footsteps.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Leaf",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/leaf.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ReorderFour",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/reorder-four.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Attach",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/attach.svg"
+    },
+    {
+        "name": "Ionicons.Filled.TrendingDown",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/trending-down.svg"
+    },
+    {
+        "name": "Ionicons.Filled.PlayForward",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/play-forward.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Woman",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/woman.svg"
+    },
+    {
+        "name": "Ionicons.Filled.MailUnread",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/mail-unread.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Bandage",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/bandage.svg"
+    },
+    {
+        "name": "Ionicons.Filled.EllipsisVerticalCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/ellipsis-vertical-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Bluetooth",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/bluetooth.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Albums",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/albums.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Refresh",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/refresh.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Accessibility",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/accessibility.svg"
+    },
+    {
+        "name": "Ionicons.Filled.MusicalNotes",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/musical-notes.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Expand",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/expand.svg"
+    },
+    {
+        "name": "Ionicons.Filled.GitPullRequest",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/git-pull-request.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Eye",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/eye.svg"
+    },
+    {
+        "name": "Ionicons.Filled.CodeWorking",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/code-working.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Apps",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/apps.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ChevronBackCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/chevron-back-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.FileTray",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/file-tray.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoYen",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-yen.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoNoSmoking",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-no-smoking.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Filter",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/filter.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Navigate",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/navigate.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoUsd",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-usd.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Basket",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/basket.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Business",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/business.svg"
+    },
+    {
+        "name": "Ionicons.Filled.FileTrayFull",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/file-tray-full.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Link",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/link.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Desktop",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/desktop.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoEdge",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-edge.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoDeviantart",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-deviantart.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ArrowBackCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/arrow-back-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Megaphone",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/megaphone.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Pause",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/pause.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Rose",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/rose.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Cash",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/cash.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Barcode",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/barcode.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoSkype",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-skype.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Compass",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/compass.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoTrapeze",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-trapeze.svg"
+    },
+    {
+        "name": "Ionicons.Filled.MailOpen",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/mail-open.svg"
+    },
+    {
+        "name": "Ionicons.Filled.PaperPlane",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/paper-plane.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Exit",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/exit.svg"
+    },
+    {
+        "name": "Ionicons.Filled.TrailSign",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/trail-sign.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoSoundcloud",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-soundcloud.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Watch",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/watch.svg"
+    },
+    {
+        "name": "Ionicons.Filled.BatteryFull",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/battery-full.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoIonic",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-ionic.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Umbrella",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/umbrella.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Bookmark",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/bookmark.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Wallet",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/wallet.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LockOpen",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/lock-open.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoTumblr",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-tumblr.svg"
+    },
+    {
+        "name": "Ionicons.Filled.CloudUpload",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/cloud-upload.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoVue",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-vue.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoFoursquare",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-foursquare.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Train",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/train.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Car",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/car.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoWhatsapp",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-whatsapp.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Cellular",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/cellular.svg"
+    },
+    {
+        "name": "Ionicons.Filled.CloudCircle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/cloud-circle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LogoWebComponent",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/logo-web-component.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Power",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/power.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ColorPalette",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/color-palette.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Bicycle",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/bicycle.svg"
+    },
+    {
+        "name": "Ionicons.Filled.SwapVertical",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/swap-vertical.svg"
+    },
+    {
+        "name": "Ionicons.Filled.FingerPrint",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/finger-print.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Trophy",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/trophy.svg"
+    },
+    {
+        "name": "Ionicons.Filled.ReturnUpForward",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/return-up-forward.svg"
+    },
+    {
+        "name": "Ionicons.Filled.Ticket",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/ticket.svg"
+    },
+    {
+        "name": "Ionicons.Filled.LockClosed",
+        "svg": "https://raw.githubusercontent.com/ionic-team/ionicons/v7.4.0/src/svg/filled/lock-closed.svg"
+    }
+]

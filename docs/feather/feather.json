@@ -1,0 +1,1150 @@
+[
+    {
+        "name": "Feather.PieChart",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/pie-chart.svg"
+    },
+    {
+        "name": "Feather.ThumbsUp",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/thumbs-up.svg"
+    },
+    {
+        "name": "Feather.Wifi",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/wifi.svg"
+    },
+    {
+        "name": "Feather.Grid",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/grid.svg"
+    },
+    {
+        "name": "Feather.Feather",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/feather.svg"
+    },
+    {
+        "name": "Feather.Tv",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/tv.svg"
+    },
+    {
+        "name": "Feather.File",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/file.svg"
+    },
+    {
+        "name": "Feather.ThumbsDown",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/thumbs-down.svg"
+    },
+    {
+        "name": "Feather.CameraOff",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/camera-off.svg"
+    },
+    {
+        "name": "Feather.Codesandbox",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/codesandbox.svg"
+    },
+    {
+        "name": "Feather.Frown",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/frown.svg"
+    },
+    {
+        "name": "Feather.HelpCircle",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/help-circle.svg"
+    },
+    {
+        "name": "Feather.Columns",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/columns.svg"
+    },
+    {
+        "name": "Feather.XSquare",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/x-square.svg"
+    },
+    {
+        "name": "Feather.ArrowUpLeft",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/arrow-up-left.svg"
+    },
+    {
+        "name": "Feather.PhoneIncoming",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/phone-incoming.svg"
+    },
+    {
+        "name": "Feather.FolderMinus",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/folder-minus.svg"
+    },
+    {
+        "name": "Feather.UserPlus",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/user-plus.svg"
+    },
+    {
+        "name": "Feather.Truck",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/truck.svg"
+    },
+    {
+        "name": "Feather.Image",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/image.svg"
+    },
+    {
+        "name": "Feather.Command",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/command.svg"
+    },
+    {
+        "name": "Feather.RefreshCw",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/refresh-cw.svg"
+    },
+    {
+        "name": "Feather.ChevronUp",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/chevron-up.svg"
+    },
+    {
+        "name": "Feather.Layers",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/layers.svg"
+    },
+    {
+        "name": "Feather.VolumeX",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/volume-x.svg"
+    },
+    {
+        "name": "Feather.PhoneCall",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/phone-call.svg"
+    },
+    {
+        "name": "Feather.Speaker",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/speaker.svg"
+    },
+    {
+        "name": "Feather.ZoomIn",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/zoom-in.svg"
+    },
+    {
+        "name": "Feather.LogIn",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/log-in.svg"
+    },
+    {
+        "name": "Feather.EyeOff",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/eye-off.svg"
+    },
+    {
+        "name": "Feather.RotateCw",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/rotate-cw.svg"
+    },
+    {
+        "name": "Feather.Aperture",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/aperture.svg"
+    },
+    {
+        "name": "Feather.Layout",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/layout.svg"
+    },
+    {
+        "name": "Feather.PhoneForwarded",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/phone-forwarded.svg"
+    },
+    {
+        "name": "Feather.Terminal",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/terminal.svg"
+    },
+    {
+        "name": "Feather.MapPin",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/map-pin.svg"
+    },
+    {
+        "name": "Feather.PhoneOutgoing",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/phone-outgoing.svg"
+    },
+    {
+        "name": "Feather.Volume",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/volume.svg"
+    },
+    {
+        "name": "Feather.ArrowUpRight",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/arrow-up-right.svg"
+    },
+    {
+        "name": "Feather.Archive",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/archive.svg"
+    },
+    {
+        "name": "Feather.LogOut",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/log-out.svg"
+    },
+    {
+        "name": "Feather.RefreshCcw",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/refresh-ccw.svg"
+    },
+    {
+        "name": "Feather.Octagon",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/octagon.svg"
+    },
+    {
+        "name": "Feather.FilePlus",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/file-plus.svg"
+    },
+    {
+        "name": "Feather.ShieldOff",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/shield-off.svg"
+    },
+    {
+        "name": "Feather.CreditCard",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/credit-card.svg"
+    },
+    {
+        "name": "Feather.Twitch",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/twitch.svg"
+    },
+    {
+        "name": "Feather.Play",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/play.svg"
+    },
+    {
+        "name": "Feather.Key",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/key.svg"
+    },
+    {
+        "name": "Feather.Maximize",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/maximize.svg"
+    },
+    {
+        "name": "Feather.Circle",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/circle.svg"
+    },
+    {
+        "name": "Feather.Save",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/save.svg"
+    },
+    {
+        "name": "Feather.Share2",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/share-2.svg"
+    },
+    {
+        "name": "Feather.Database",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/database.svg"
+    },
+    {
+        "name": "Feather.Loader",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/loader.svg"
+    },
+    {
+        "name": "Feather.CloudLightning",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/cloud-lightning.svg"
+    },
+    {
+        "name": "Feather.Phone",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/phone.svg"
+    },
+    {
+        "name": "Feather.ExternalLink",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/external-link.svg"
+    },
+    {
+        "name": "Feather.PlayCircle",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/play-circle.svg"
+    },
+    {
+        "name": "Feather.ToggleLeft",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/toggle-left.svg"
+    },
+    {
+        "name": "Feather.Sunset",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/sunset.svg"
+    },
+    {
+        "name": "Feather.AlertTriangle",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/alert-triangle.svg"
+    },
+    {
+        "name": "Feather.Dribbble",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/dribbble.svg"
+    },
+    {
+        "name": "Feather.List",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/list.svg"
+    },
+    {
+        "name": "Feather.Scissors",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/scissors.svg"
+    },
+    {
+        "name": "Feather.Shield",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/shield.svg"
+    },
+    {
+        "name": "Feather.Cast",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/cast.svg"
+    },
+    {
+        "name": "Feather.Airplay",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/airplay.svg"
+    },
+    {
+        "name": "Feather.DivideCircle",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/divide-circle.svg"
+    },
+    {
+        "name": "Feather.Gift",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/gift.svg"
+    },
+    {
+        "name": "Feather.Tool",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/tool.svg"
+    },
+    {
+        "name": "Feather.PenTool",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/pen-tool.svg"
+    },
+    {
+        "name": "Feather.CornerUpRight",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/corner-up-right.svg"
+    },
+    {
+        "name": "Feather.MoreVertical",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/more-vertical.svg"
+    },
+    {
+        "name": "Feather.Divide",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/divide.svg"
+    },
+    {
+        "name": "Feather.Cpu",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/cpu.svg"
+    },
+    {
+        "name": "Feather.Repeat",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/repeat.svg"
+    },
+    {
+        "name": "Feather.Smile",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/smile.svg"
+    },
+    {
+        "name": "Feather.ZoomOut",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/zoom-out.svg"
+    },
+    {
+        "name": "Feather.Globe",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/globe.svg"
+    },
+    {
+        "name": "Feather.Lock",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/lock.svg"
+    },
+    {
+        "name": "Feather.Droplet",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/droplet.svg"
+    },
+    {
+        "name": "Feather.Table",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/table.svg"
+    },
+    {
+        "name": "Feather.MinusCircle",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/minus-circle.svg"
+    },
+    {
+        "name": "Feather.Clipboard",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/clipboard.svg"
+    },
+    {
+        "name": "Feather.ArrowRight",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/arrow-right.svg"
+    },
+    {
+        "name": "Feather.Send",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/send.svg"
+    },
+    {
+        "name": "Feather.Wind",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/wind.svg"
+    },
+    {
+        "name": "Feather.Delete",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/delete.svg"
+    },
+    {
+        "name": "Feather.Pocket",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/pocket.svg"
+    },
+    {
+        "name": "Feather.BellOff",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/bell-off.svg"
+    },
+    {
+        "name": "Feather.CornerUpLeft",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/corner-up-left.svg"
+    },
+    {
+        "name": "Feather.Hash",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/hash.svg"
+    },
+    {
+        "name": "Feather.Shuffle",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/shuffle.svg"
+    },
+    {
+        "name": "Feather.Trash2",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/trash-2.svg"
+    },
+    {
+        "name": "Feather.ArrowUpCircle",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/arrow-up-circle.svg"
+    },
+    {
+        "name": "Feather.Facebook",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/facebook.svg"
+    },
+    {
+        "name": "Feather.Download",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/download.svg"
+    },
+    {
+        "name": "Feather.Bold",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/bold.svg"
+    },
+    {
+        "name": "Feather.CheckCircle",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/check-circle.svg"
+    },
+    {
+        "name": "Feather.PlusSquare",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/plus-square.svg"
+    },
+    {
+        "name": "Feather.BarChart2",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/bar-chart-2.svg"
+    },
+    {
+        "name": "Feather.Settings",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/settings.svg"
+    },
+    {
+        "name": "Feather.ArrowDown",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/arrow-down.svg"
+    },
+    {
+        "name": "Feather.Tag",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/tag.svg"
+    },
+    {
+        "name": "Feather.Sliders",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/sliders.svg"
+    },
+    {
+        "name": "Feather.CornerLeftUp",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/corner-left-up.svg"
+    },
+    {
+        "name": "Feather.Home",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/home.svg"
+    },
+    {
+        "name": "Feather.Percent",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/percent.svg"
+    },
+    {
+        "name": "Feather.TrendingUp",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/trending-up.svg"
+    },
+    {
+        "name": "Feather.Briefcase",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/briefcase.svg"
+    },
+    {
+        "name": "Feather.Zap",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/zap.svg"
+    },
+    {
+        "name": "Feather.MousePointer",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/mouse-pointer.svg"
+    },
+    {
+        "name": "Feather.Minimize",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/minimize.svg"
+    },
+    {
+        "name": "Feather.GitCommit",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/git-commit.svg"
+    },
+    {
+        "name": "Feather.UserMinus",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/user-minus.svg"
+    },
+    {
+        "name": "Feather.CornerRightDown",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/corner-right-down.svg"
+    },
+    {
+        "name": "Feather.Trash",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/trash.svg"
+    },
+    {
+        "name": "Feather.CornerRightUp",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/corner-right-up.svg"
+    },
+    {
+        "name": "Feather.GitBranch",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/git-branch.svg"
+    },
+    {
+        "name": "Feather.ShoppingCart",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/shopping-cart.svg"
+    },
+    {
+        "name": "Feather.Star",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/star.svg"
+    },
+    {
+        "name": "Feather.AlertOctagon",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/alert-octagon.svg"
+    },
+    {
+        "name": "Feather.Flag",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/flag.svg"
+    },
+    {
+        "name": "Feather.Crosshair",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/crosshair.svg"
+    },
+    {
+        "name": "Feather.SkipBack",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/skip-back.svg"
+    },
+    {
+        "name": "Feather.Cloud",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/cloud.svg"
+    },
+    {
+        "name": "Feather.DownloadCloud",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/download-cloud.svg"
+    },
+    {
+        "name": "Feather.Youtube",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/youtube.svg"
+    },
+    {
+        "name": "Feather.Box",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/box.svg"
+    },
+    {
+        "name": "Feather.BookOpen",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/book-open.svg"
+    },
+    {
+        "name": "Feather.Film",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/film.svg"
+    },
+    {
+        "name": "Feather.Radio",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/radio.svg"
+    },
+    {
+        "name": "Feather.ArrowUp",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/arrow-up.svg"
+    },
+    {
+        "name": "Feather.Rewind",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/rewind.svg"
+    },
+    {
+        "name": "Feather.MessageSquare",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/message-square.svg"
+    },
+    {
+        "name": "Feather.CornerDownLeft",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/corner-down-left.svg"
+    },
+    {
+        "name": "Feather.CloudOff",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/cloud-off.svg"
+    },
+    {
+        "name": "Feather.DivideSquare",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/divide-square.svg"
+    },
+    {
+        "name": "Feather.CornerLeftDown",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/corner-left-down.svg"
+    },
+    {
+        "name": "Feather.Headphones",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/headphones.svg"
+    },
+    {
+        "name": "Feather.CloudSnow",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/cloud-snow.svg"
+    },
+    {
+        "name": "Feather.Italic",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/italic.svg"
+    },
+    {
+        "name": "Feather.Navigation",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/navigation.svg"
+    },
+    {
+        "name": "Feather.VideoOff",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/video-off.svg"
+    },
+    {
+        "name": "Feather.Minimize2",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/minimize-2.svg"
+    },
+    {
+        "name": "Feather.CloudRain",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/cloud-rain.svg"
+    },
+    {
+        "name": "Feather.SkipForward",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/skip-forward.svg"
+    },
+    {
+        "name": "Feather.MicOff",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/mic-off.svg"
+    },
+    {
+        "name": "Feather.Rss",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/rss.svg"
+    },
+    {
+        "name": "Feather.ArrowLeft",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/arrow-left.svg"
+    },
+    {
+        "name": "Feather.Square",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/square.svg"
+    },
+    {
+        "name": "Feather.Anchor",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/anchor.svg"
+    },
+    {
+        "name": "Feather.WifiOff",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/wifi-off.svg"
+    },
+    {
+        "name": "Feather.ChevronRight",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/chevron-right.svg"
+    },
+    {
+        "name": "Feather.ArrowDownLeft",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/arrow-down-left.svg"
+    },
+    {
+        "name": "Feather.User",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/user.svg"
+    },
+    {
+        "name": "Feather.UserX",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/user-x.svg"
+    },
+    {
+        "name": "Feather.StopCircle",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/stop-circle.svg"
+    },
+    {
+        "name": "Feather.Edit",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/edit.svg"
+    },
+    {
+        "name": "Feather.Triangle",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/triangle.svg"
+    },
+    {
+        "name": "Feather.MessageCircle",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/message-circle.svg"
+    },
+    {
+        "name": "Feather.Server",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/server.svg"
+    },
+    {
+        "name": "Feather.Book",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/book.svg"
+    },
+    {
+        "name": "Feather.Heart",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/heart.svg"
+    },
+    {
+        "name": "Feather.Slash",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/slash.svg"
+    },
+    {
+        "name": "Feather.DollarSign",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/dollar-sign.svg"
+    },
+    {
+        "name": "Feather.Monitor",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/monitor.svg"
+    },
+    {
+        "name": "Feather.PhoneMissed",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/phone-missed.svg"
+    },
+    {
+        "name": "Feather.ToggleRight",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/toggle-right.svg"
+    },
+    {
+        "name": "Feather.Trello",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/trello.svg"
+    },
+    {
+        "name": "Feather.Sunrise",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/sunrise.svg"
+    },
+    {
+        "name": "Feather.Mic",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/mic.svg"
+    },
+    {
+        "name": "Feather.Disc",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/disc.svg"
+    },
+    {
+        "name": "Feather.AlignRight",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/align-right.svg"
+    },
+    {
+        "name": "Feather.PauseCircle",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/pause-circle.svg"
+    },
+    {
+        "name": "Feather.Instagram",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/instagram.svg"
+    },
+    {
+        "name": "Feather.Edit2",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/edit-2.svg"
+    },
+    {
+        "name": "Feather.Underline",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/underline.svg"
+    },
+    {
+        "name": "Feather.ArrowLeftCircle",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/arrow-left-circle.svg"
+    },
+    {
+        "name": "Feather.ArrowDownRight",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/arrow-down-right.svg"
+    },
+    {
+        "name": "Feather.AlertCircle",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/alert-circle.svg"
+    },
+    {
+        "name": "Feather.XOctagon",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/x-octagon.svg"
+    },
+    {
+        "name": "Feather.Printer",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/printer.svg"
+    },
+    {
+        "name": "Feather.Codepen",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/codepen.svg"
+    },
+    {
+        "name": "Feather.Award",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/award.svg"
+    },
+    {
+        "name": "Feather.Folder",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/folder.svg"
+    },
+    {
+        "name": "Feather.Check",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/check.svg"
+    },
+    {
+        "name": "Feather.FolderPlus",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/folder-plus.svg"
+    },
+    {
+        "name": "Feather.ChevronsRight",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/chevrons-right.svg"
+    },
+    {
+        "name": "Feather.Github",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/github.svg"
+    },
+    {
+        "name": "Feather.Thermometer",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/thermometer.svg"
+    },
+    {
+        "name": "Feather.Target",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/target.svg"
+    },
+    {
+        "name": "Feather.Clock",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/clock.svg"
+    },
+    {
+        "name": "Feather.GitMerge",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/git-merge.svg"
+    },
+    {
+        "name": "Feather.Meh",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/meh.svg"
+    },
+    {
+        "name": "Feather.Upload",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/upload.svg"
+    },
+    {
+        "name": "Feather.Package",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/package.svg"
+    },
+    {
+        "name": "Feather.Maximize2",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/maximize-2.svg"
+    },
+    {
+        "name": "Feather.Linkedin",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/linkedin.svg"
+    },
+    {
+        "name": "Feather.Move",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/move.svg"
+    },
+    {
+        "name": "Feather.ChevronsLeft",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/chevrons-left.svg"
+    },
+    {
+        "name": "Feather.HardDrive",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/hard-drive.svg"
+    },
+    {
+        "name": "Feather.BatteryCharging",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/battery-charging.svg"
+    },
+    {
+        "name": "Feather.RotateCcw",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/rotate-ccw.svg"
+    },
+    {
+        "name": "Feather.Volume2",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/volume-2.svg"
+    },
+    {
+        "name": "Feather.FileMinus",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/file-minus.svg"
+    },
+    {
+        "name": "Feather.ArrowDownCircle",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/arrow-down-circle.svg"
+    },
+    {
+        "name": "Feather.ChevronsUp",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/chevrons-up.svg"
+    },
+    {
+        "name": "Feather.CheckSquare",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/check-square.svg"
+    },
+    {
+        "name": "Feather.Figma",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/figma.svg"
+    },
+    {
+        "name": "Feather.Sun",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/sun.svg"
+    },
+    {
+        "name": "Feather.Search",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/search.svg"
+    },
+    {
+        "name": "Feather.BarChart",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/bar-chart.svg"
+    },
+    {
+        "name": "Feather.Code",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/code.svg"
+    },
+    {
+        "name": "Feather.LifeBuoy",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/life-buoy.svg"
+    },
+    {
+        "name": "Feather.PlusCircle",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/plus-circle.svg"
+    },
+    {
+        "name": "Feather.Smartphone",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/smartphone.svg"
+    },
+    {
+        "name": "Feather.Gitlab",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/gitlab.svg"
+    },
+    {
+        "name": "Feather.Sidebar",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/sidebar.svg"
+    },
+    {
+        "name": "Feather.Calendar",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/calendar.svg"
+    },
+    {
+        "name": "Feather.Unlock",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/unlock.svg"
+    },
+    {
+        "name": "Feather.Copy",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/copy.svg"
+    },
+    {
+        "name": "Feather.Share",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/share.svg"
+    },
+    {
+        "name": "Feather.Edit3",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/edit-3.svg"
+    },
+    {
+        "name": "Feather.Type",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/type.svg"
+    },
+    {
+        "name": "Feather.Chrome",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/chrome.svg"
+    },
+    {
+        "name": "Feather.Menu",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/menu.svg"
+    },
+    {
+        "name": "Feather.AlignJustify",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/align-justify.svg"
+    },
+    {
+        "name": "Feather.Mail",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/mail.svg"
+    },
+    {
+        "name": "Feather.AlignLeft",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/align-left.svg"
+    },
+    {
+        "name": "Feather.AlignCenter",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/align-center.svg"
+    },
+    {
+        "name": "Feather.Twitter",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/twitter.svg"
+    },
+    {
+        "name": "Feather.Music",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/music.svg"
+    },
+    {
+        "name": "Feather.Map",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/map.svg"
+    },
+    {
+        "name": "Feather.FastForward",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/fast-forward.svg"
+    },
+    {
+        "name": "Feather.Crop",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/crop.svg"
+    },
+    {
+        "name": "Feather.Moon",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/moon.svg"
+    },
+    {
+        "name": "Feather.ChevronDown",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/chevron-down.svg"
+    },
+    {
+        "name": "Feather.Voicemail",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/voicemail.svg"
+    },
+    {
+        "name": "Feather.CloudDrizzle",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/cloud-drizzle.svg"
+    },
+    {
+        "name": "Feather.MoreHorizontal",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/more-horizontal.svg"
+    },
+    {
+        "name": "Feather.ChevronsDown",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/chevrons-down.svg"
+    },
+    {
+        "name": "Feather.Camera",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/camera.svg"
+    },
+    {
+        "name": "Feather.AtSign",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/at-sign.svg"
+    },
+    {
+        "name": "Feather.Coffee",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/coffee.svg"
+    },
+    {
+        "name": "Feather.ZapOff",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/zap-off.svg"
+    },
+    {
+        "name": "Feather.TrendingDown",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/trending-down.svg"
+    },
+    {
+        "name": "Feather.XCircle",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/x-circle.svg"
+    },
+    {
+        "name": "Feather.Paperclip",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/paperclip.svg"
+    },
+    {
+        "name": "Feather.ChevronLeft",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/chevron-left.svg"
+    },
+    {
+        "name": "Feather.MinusSquare",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/minus-square.svg"
+    },
+    {
+        "name": "Feather.Bluetooth",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/bluetooth.svg"
+    },
+    {
+        "name": "Feather.Activity",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/activity.svg"
+    },
+    {
+        "name": "Feather.Info",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/info.svg"
+    },
+    {
+        "name": "Feather.CornerDownRight",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/corner-down-right.svg"
+    },
+    {
+        "name": "Feather.GitPullRequest",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/git-pull-request.svg"
+    },
+    {
+        "name": "Feather.Eye",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/eye.svg"
+    },
+    {
+        "name": "Feather.Inbox",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/inbox.svg"
+    },
+    {
+        "name": "Feather.X",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/x.svg"
+    },
+    {
+        "name": "Feather.Video",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/video.svg"
+    },
+    {
+        "name": "Feather.Filter",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/filter.svg"
+    },
+    {
+        "name": "Feather.Navigation2",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/navigation-2.svg"
+    },
+    {
+        "name": "Feather.PhoneOff",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/phone-off.svg"
+    },
+    {
+        "name": "Feather.Battery",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/battery.svg"
+    },
+    {
+        "name": "Feather.UserCheck",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/user-check.svg"
+    },
+    {
+        "name": "Feather.Tablet",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/tablet.svg"
+    },
+    {
+        "name": "Feather.Link",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/link.svg"
+    },
+    {
+        "name": "Feather.Volume1",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/volume-1.svg"
+    },
+    {
+        "name": "Feather.Pause",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/pause.svg"
+    },
+    {
+        "name": "Feather.UploadCloud",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/upload-cloud.svg"
+    },
+    {
+        "name": "Feather.Compass",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/compass.svg"
+    },
+    {
+        "name": "Feather.Slack",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/slack.svg"
+    },
+    {
+        "name": "Feather.Link2",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/link-2.svg"
+    },
+    {
+        "name": "Feather.ArrowRightCircle",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/arrow-right-circle.svg"
+    },
+    {
+        "name": "Feather.ShoppingBag",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/shopping-bag.svg"
+    },
+    {
+        "name": "Feather.Watch",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/watch.svg"
+    },
+    {
+        "name": "Feather.Umbrella",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/umbrella.svg"
+    },
+    {
+        "name": "Feather.Bookmark",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/bookmark.svg"
+    },
+    {
+        "name": "Feather.FileText",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/file-text.svg"
+    },
+    {
+        "name": "Feather.Hexagon",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/hexagon.svg"
+    },
+    {
+        "name": "Feather.Plus",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/plus.svg"
+    },
+    {
+        "name": "Feather.Bell",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/bell.svg"
+    },
+    {
+        "name": "Feather.Minus",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/minus.svg"
+    },
+    {
+        "name": "Feather.Power",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/power.svg"
+    },
+    {
+        "name": "Feather.Framer",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/framer.svg"
+    },
+    {
+        "name": "Feather.Users",
+        "svg": "https://raw.githubusercontent.com/feathericons/feather/v4.29.2/icons/users.svg"
+    }
+]

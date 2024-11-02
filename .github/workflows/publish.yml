@@ -13,6 +13,11 @@ on:
           - tabler
           - remix
           - boxicons
+          - feather
+          - ionicons
+          - fontawesome
+          - heroicons
+          - simpleicons
 
 permissions:
   contents: write
@@ -79,6 +84,7 @@ jobs:
         with:
           distribution: 'temurin'
           java-version: 17
-      - uses: gradle/actions/wrapper-validation@v3
+      - name: Setup Gradle
+        uses: gradle/actions/setup-gradle@v4
       - name: Publish
         run: ./gradlew ${{ inputs.module }}:${{ matrix.target }} --no-configuration-cache

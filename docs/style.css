@@ -1,16 +1,17 @@
 .license-container {
   position: relative;
   margin-bottom: 20px;
+  max-width: 600px;
 }
 
 #license {
   background-color: #f8f9fa;
   padding: 15px;
+  padding-bottom: 60px;
   border-radius: 5px;
   white-space: pre-wrap;
   word-wrap: break-word;
   font-size: 0.9em;
-  max-height: 200px;
   overflow-y: auto;
   border: 1px solid #e9ecef;
 }

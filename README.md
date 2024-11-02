@@ -46,12 +46,40 @@ See all available icons on the [GitHub Pages](https://walter-juan.github.io/comp
 
 The same version numbers as the official icon packs have been followed
 
-| Icon Pack                                               | Artifact | Version                                                                                                                                                                                                                  | License                                                                              |
-|---------------------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
-| [Tabler](https://github.com/tabler/tabler-icons)        | tabler   | [![Tabler - Maven Central Version](https://img.shields.io/maven-central/v/com.woowla.compose.icon.collections/tabler)](https://central.sonatype.com/search?namespace=com.woowla.compose.icon.collections&q=tabler)       | [![GitHub License](https://img.shields.io/github/license/tabler/tabler-icons)]()     |
-| [Octicons](https://github.com/primer/octicons)          | octicons | [![Octicons - Maven Central Version](https://img.shields.io/maven-central/v/com.woowla.compose.icon.collections/octicons)](https://central.sonatype.com/search?namespace=com.woowla.compose.icon.collections&q=octicons) | [![GitHub License](https://img.shields.io/github/license/primer/octicons)]()         |
-| [Remix Icon](https://github.com/Remix-Design/RemixIcon) | remix    | [![Remix - Maven Central Version](https://img.shields.io/maven-central/v/com.woowla.compose.icon.collections/remix)](https://central.sonatype.com/search?namespace=com.woowla.compose.icon.collections&q=remix)          | [![GitHub License](https://img.shields.io/github/license/Remix-Design/RemixIcon)]()  |
-| [Boxicons](https://github.com/atisawd/boxicons)         | boxicons | [![Boxicons - Maven Central Version](https://img.shields.io/maven-central/v/com.woowla.compose.icon.collections/boxicons)](https://central.sonatype.com/search?namespace=com.woowla.compose.icon.collections&q=boxicons) | [![GitHub License](https://img.shields.io/github/license/atisawd/boxicons)]()        |
+| Icon Pack                                                    | Artifact    | Version                                                                                                                                                                                                                            | License                                                                                                                                                    |
+|--------------------------------------------------------------|-------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Tabler](https://github.com/tabler/tabler-icons)             | tabler      | [![Tabler - Maven Central Version](https://img.shields.io/maven-central/v/com.woowla.compose.icon.collections/tabler)](https://central.sonatype.com/search?namespace=com.woowla.compose.icon.collections&q=tabler)                 | [![GitHub License](https://img.shields.io/github/license/tabler/tabler-icons)](https://github.com/tabler/tabler-icons/blob/main/LICENSE)                   |
+| [Octicons](https://github.com/primer/octicons)               | octicons    | [![Octicons - Maven Central Version](https://img.shields.io/maven-central/v/com.woowla.compose.icon.collections/octicons)](https://central.sonatype.com/search?namespace=com.woowla.compose.icon.collections&q=octicons)           | [![GitHub License](https://img.shields.io/github/license/primer/octicons)](https://github.com/primer/octicons/blob/main/LICENSE)                           |
+| [Remix Icon](https://github.com/Remix-Design/RemixIcon)      | remix       | [![Remix - Maven Central Version](https://img.shields.io/maven-central/v/com.woowla.compose.icon.collections/remix)](https://central.sonatype.com/search?namespace=com.woowla.compose.icon.collections&q=remix)                    | [![GitHub License](https://img.shields.io/github/license/Remix-Design/RemixIcon)](https://github.com/Remix-Design/RemixIcon/blob/master/License)           |
+| [Boxicons](https://github.com/atisawd/boxicons)              | boxicons    | [![Boxicons - Maven Central Version](https://img.shields.io/maven-central/v/com.woowla.compose.icon.collections/boxicons)](https://central.sonatype.com/search?namespace=com.woowla.compose.icon.collections&q=boxicons)           | [![GitHub License](https://img.shields.io/github/license/atisawd/boxicons)](https://github.com/atisawd/boxicons/blob/master/LICENSE)                       |
+| [Feather](https://github.com/feathericons/feather)           | feather     | [![Feather - Maven Central Version](https://img.shields.io/maven-central/v/com.woowla.compose.icon.collections/feather)](https://central.sonatype.com/search?namespace=com.woowla.compose.icon.collections&q=feather)              | [![GitHub License](https://img.shields.io/github/license/feathericons/feather)](https://github.com/feathericons/feather/blob/main/LICENSE)                 |
+| [Ionicons](https://github.com/ionic-team/ionicons)           | ionicons    | [![Ionicons - Maven Central Version](https://img.shields.io/maven-central/v/com.woowla.compose.icon.collections/ionicons)](https://central.sonatype.com/search?namespace=com.woowla.compose.icon.collections&q=ionicons)           | [![GitHub License](https://img.shields.io/github/license/ionic-team/ionicons)](https://github.com/ionic-team/ionicons/blob/main/LICENSE)                   |
+| [Font Awesome](https://github.com/FortAwesome/Font-Awesome)  | fontawesome | [![Font Awesome - Maven Central Version](https://img.shields.io/maven-central/v/com.woowla.compose.icon.collections/fontawesome)](https://central.sonatype.com/search?namespace=com.woowla.compose.icon.collections&q=fontawesome) | [![Static Badge](https://img.shields.io/badge/license-CC_BY_4.0-green)](https://github.com/FortAwesome/Font-Awesome/blob/6.x/LICENSE.txt)                  |
+| [Heroicons](https://github.com/tailwindlabs/heroicons)       | heroicons   | [![Heroicons - Maven Central Version](https://img.shields.io/maven-central/v/com.woowla.compose.icon.collections/heroicons)](https://central.sonatype.com/search?namespace=com.woowla.compose.icon.collections&q=heroicons)        | [![GitHub License](https://img.shields.io/github/license/tailwindlabs/heroicons)](https://github.com/tailwindlabs/heroicons/blob/master/LICENSE)           |                                                                                                                                        |
+| [Simple icons](https://github.com/simple-icons/simple-icons) | simpleicons | [![Simple icons - Maven Central Version](https://img.shields.io/maven-central/v/com.woowla.compose.icon.collections/simpleicons)](https://central.sonatype.com/search?namespace=com.woowla.compose.icon.collections&q=simpleicons) | [![GitHub License](https://img.shields.io/github/license/simple-icons/simple-icons)](https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md) |                                                                                                                                        |
+
+## How it works
+
+**Download task**
+
+Download tasks are executed to update the icons, the process is as follows:
+1. The icons are downloaded from the official repositories
+2. The SVG files are converted to Compose using [SVG to compose](https://github.com/DevSrSouza/svg-to-compose) and saved in the corresponding module
+3. Documentation is generated and saved in the [docs](/docs) folder
+4. (Optional) The changes are committed to the repository
+
+**Auto update**
+
+The [Update icons](.github/workflows/update-icons.yml) Workflow will update the icons automatically every 2 weeks. Right now, it only updates icons that have GitHub releases, so there are some icons that should be updated manually
+
+**Special cases**
+
+Typically, all icon download tasks retrieve icons from GitHub releases. However, there are a few exceptions:
+
+- `boxicons`: Downloads icons directly from the main branch for this reason this is not updated automatically, a manual update required.
+- `ionicons`: Uses a custom `afterDownload` function to categorize icons. Additionally, there is an issue with the `Square` value from `StrokeCap` in the generated image vectors. This must be manually replaced with `StrokeCap.Square` to avoid conflicts with an icon named `Square`.
+- `fontawesome`: Implements a custom `iconNameTransformer` to handle conflicts between the `FontAwesome` icon and its accessor name.
+- `simpleicons`: Uses a custom `afterDownload` function to remove the `lerna.svg` icon because it throws `MethodTooLargeException` when compiling the project.
 
 ## Development
 
@@ -63,15 +91,28 @@ The same version numbers as the official icon packs have been followed
 
 ### Update the icons
 
-Run the icon download task, use the `-Pgitcommit` flag to commit the changes.
+- Icon pack using GitHub releases: Run the icon download task, use the `-Pgitcommit` flag to commit the changes.
+- Icon pack using the main branch: Run the icon download task, manually update the version in the `build.gradle` file, and commit the changes.
 
 ### Add new icons
 
-1. Create a new module by copying the `build.gradle` from another module
-2. Update everything needed like the version, `download-icons` task, and others from the `build.gradle`
-3. Add new input choice in [deploy.yml](.github/workflows/publish.yml)
-4. If it's possible, add the new task in [update-icons.yml](.github/workflows/update-icons.yml)
-5. Add a new entry in the *Icon packs* section
+1. Add new module
+   - Create a new module by copying the `build.gradle` from an existing module. Copy `octicons` if the icon pack uses GitHub releases or `boxicons` if it uses the main branch.
+   - Update everything needed like the version, `download-icons` task, and others from the `build.gradle`
+2. Update workflows
+   - Add new input option in [deploy.yml](.github/workflows/publish.yml) 
+   - If the icon pack uses GitHub releases, add the new task in [update-icons.yml](.github/workflows/update-icons.yml)
+3. Update readme
+   - Add a new entry in the *Icon packs* section
+   - If a special case has been added, add a note in the *Special cases* section
+
+### Test icons
+
+Right now the only way to test is by running the sample app, follow these steps:
+
+1. Replace the icons dependency you would like to test in [build.gradle.kts](sample/composeApp/build.gradle.kts) file
+2. Add `AllIcons` to the `icons` list in the [App.kt](sample/composeApp/src/commonMain/kotlin/com/woowla/compose/icon/collections/sample/App.kt) file
+3. Run the sample app and check the icons
 
 ### Gradle tasks
 

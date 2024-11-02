@@ -18,18 +18,57 @@ data class GitHubRelease(val tagName: String, val zipballUrl: String, val versio
 
 object Utils {
     /**
+     * Use this function to split the icons into different directories in case that all icons are in the same directory.
+     * @param iconsDirectory Icons directory
+     * @param groupNameProvider Function to get the group name by the icon name, icon name won't have the extensions
+     * @param iconNameTransformer Function to transform the icon name, icon name won't have the extensions
+     */
+    fun splitIcons(
+        iconsDirectory: File,
+        groupNameProvider: (iconName: String) -> String,
+        iconNameTransformer: (iconName: String, group: String) -> String
+    ) {
+        if (!iconsDirectory.exists() || !iconsDirectory.isDirectory) {
+            println("Invalid icons directory")
+            return
+        }
+
+        iconsDirectory.listFiles()?.forEach { file ->
+            if (file.isFile) {
+                val groupName = groupNameProvider(file.nameWithoutExtension)
+                val newFileName = iconNameTransformer(file.nameWithoutExtension, groupName) + "." + file.extension
+
+                val groupDirectory = File(iconsDirectory, groupName)
+                if (!groupDirectory.exists()) {
+                    groupDirectory.mkdir()
+                }
+
+                val targetFile = File(groupDirectory, newFileName)
+                file.renameTo(targetFile)
+                println("Icon ${file.name} moved to ${targetFile.path}")
+            }
+        }
+    }
+
+    /**
      * Commit the project changes to the git repository
      */
     fun commitChanges(project: String, version: Version) {
         // git add all from project and docs
-        val process = ProcessBuilder("git", "add", "$project/*", "docs/*").start()
+        val process = ProcessBuilder("git", "add", "$project/*", "docs/*")
+            .redirectOutput(ProcessBuilder.Redirect.INHERIT)
+            .redirectError(ProcessBuilder.Redirect.INHERIT)
+            .start()
         val exitCode = process.waitFor()
         if (exitCode != 0) {
             throw RuntimeException("Failed to execute git add command")
         }
         // git commit
         val commitMessage = "Update $project to $version"
-        val process2 = ProcessBuilder("git", "commit", "-m", commitMessage).start()
+        val process2 = ProcessBuilder("git", "commit", "-m", commitMessage)
+            .redirectOutput(ProcessBuilder.Redirect.INHERIT)
+            .redirectError(ProcessBuilder.Redirect.INHERIT)
+            .start()
         val exitCode2 = process2.waitFor()
         if (exitCode2 != 0) {
             throw RuntimeException("Failed to execute git commit command")
@@ -179,7 +218,7 @@ object Utils {
         val newFileNameWithoutExtension = this
             .replace("&", "_and_")
             .replace(Regex("""[^a-zA-Z\d]"""), "_")
-            .replace(Regex("""^\d"""), "_")
+            .replace(Regex("""^\d+""")) { matchResult -> "number_${matchResult.value}_" }
             .replace(Regex("""_+"""), "_")
             .trim('_')
             .lowercase()

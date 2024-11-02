@@ -65,8 +65,7 @@ kotlin {
             implementation(compose.components.resources)
             implementation(compose.components.uiToolingPreview)
             implementation(libs.androidx.lifecycle.runtime.compose)
-            implementation(project(":octicons"))
-            implementation(project(":tabler"))
+            implementation(project(":fontawesome"))
         }
         desktopMain.dependencies {
             implementation(compose.desktop.currentOs)

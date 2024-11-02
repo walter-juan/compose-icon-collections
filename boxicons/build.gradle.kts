@@ -139,7 +139,7 @@ tasks.register("download-icons") {
         generateIconsResult.projectDownloadsDir.deleteRecursively()
 
         println("==== RESULTS ====")
-        println("Tag [${generateIconsResult.tag}]")
+        println("New icons version generate [${generateIconsResult.tag}]")
         println("=================")
     }
 }

@@ -49,6 +49,46 @@
                 "filled",
                 "outline"
             ]
+        },
+        {
+            "name": "Feather",
+            "value": "feather",
+            "categories": [
+                ""
+            ]
+        },
+        {
+            "name": "Ionicons",
+            "value": "ionicons",
+            "categories": [
+                "outline",
+                "sharp",
+                "filled"
+            ]
+        },
+        {
+            "name": "FontAwesome",
+            "value": "fontawesome",
+            "categories": [
+                "solid",
+                "brands",
+                "regular"
+            ]
+        },
+        {
+            "name": "Heroicons",
+            "value": "heroicons",
+            "categories": [
+                "solid",
+                "outline"
+            ]
+        },
+        {
+            "name": "Simpleicons",
+            "value": "simpleicons",
+            "categories": [
+                ""
+            ]
         }
     ]
 }

@@ -33,7 +33,8 @@ jobs:
         with:
           distribution: 'temurin'
           java-version: 17
-      - uses: gradle/actions/wrapper-validation@v3
+      - name: Setup Gradle
+        uses: gradle/actions/setup-gradle@v4
       - name: Prepare Git
         shell: bash
         run: |
@@ -48,7 +49,7 @@ jobs:
           git checkout -b "$branch_name"
           echo "branch=$branch_name" >> $GITHUB_OUTPUT
       - name: Download icons
-        run: ./gradlew octicons:download-icons remix:download-icons tabler:download-icons -Pgitcommit --no-parallel
+        run: ./gradlew octicons:download-icons remix:download-icons tabler:download-icons feather:download-icons ionicons:download-icons fontawesome:download-icons heroicons:download-icons simpleicons:download-icons -Pgitcommit --no-parallel
       - name: Create pull request
         shell: bash
         env:
