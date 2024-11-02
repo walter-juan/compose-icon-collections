@@ -1,3 +1,4 @@
+import Utils.renameToSupportedFormat
 import com.vanniktech.maven.publish.SonatypeHost
 import io.github.z4kn4fein.semver.toVersion
 import org.jetbrains.kotlin.gradle.ExperimentalKotlinGradlePluginApi
@@ -129,6 +130,11 @@ tasks.register("download-icons") {
             applicationIconPackage = applicationIconPackage,
             accessorName = accessorName,
             outputDir = srcDir,
+            iconNameTransformer = { name, _ ->
+                val transformedName = name.renameToSupportedFormat(camelCase = true)
+                // handle the case where the icon name is FontAwesome to avoid conflicts with the accessor name and icon pack name
+                if (transformedName == "FontAwesome") { "FontAwesomeBrand" } else { transformedName }
+            }
         )
 
         // generate documentation
