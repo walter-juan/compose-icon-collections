@@ -49,6 +49,13 @@
                 "filled",
                 "outline"
             ]
+        },
+        {
+            "name": "Feather",
+            "value": "feather",
+            "categories": [
+                ""
+            ]
         }
     ]
 }
