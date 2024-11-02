@@ -74,6 +74,14 @@
                 "brands",
                 "regular"
             ]
+        },
+        {
+            "name": "Heroicons",
+            "value": "heroicons",
+            "categories": [
+                "solid",
+                "outline"
+            ]
         }
     ]
 }

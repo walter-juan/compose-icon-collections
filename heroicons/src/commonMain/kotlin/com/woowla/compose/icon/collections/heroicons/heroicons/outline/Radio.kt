@@ -1,0 +1,151 @@
+package com.woowla.compose.icon.collections.heroicons.heroicons.outline
+
+import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.graphics.PathFillType.Companion.NonZero
+import androidx.compose.ui.graphics.SolidColor
+import androidx.compose.ui.graphics.StrokeCap.Companion.Round
+import androidx.compose.ui.graphics.StrokeJoin
+import androidx.compose.ui.graphics.vector.ImageVector
+import androidx.compose.ui.graphics.vector.ImageVector.Builder
+import androidx.compose.ui.graphics.vector.path
+import androidx.compose.ui.unit.dp
+import com.woowla.compose.icon.collections.heroicons.heroicons.OutlineGroup
+
+public val OutlineGroup.Radio: ImageVector
+    get() {
+        if (_radio != null) {
+            return _radio!!
+        }
+        _radio = Builder(name = "Radio", defaultWidth = 24.0.dp, defaultHeight = 24.0.dp,
+                viewportWidth = 24.0f, viewportHeight = 24.0f).apply {
+            path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF0F172A)),
+                    strokeLineWidth = 1.5f, strokeLineCap = Round, strokeLineJoin =
+                    StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
+                moveTo(3.75f, 7.5f)
+                lineTo(20.25f, 3.375f)
+                moveTo(12.0f, 6.75f)
+                curveTo(9.292f, 6.75f, 6.637f, 6.974f, 4.052f, 7.405f)
+                curveTo(2.999f, 7.58f, 2.25f, 8.507f, 2.25f, 9.574f)
+                verticalLineTo(18.75f)
+                curveTo(2.25f, 19.993f, 3.257f, 21.0f, 4.5f, 21.0f)
+                horizontalLineTo(19.5f)
+                curveTo(20.743f, 21.0f, 21.75f, 19.993f, 21.75f, 18.75f)
+                verticalLineTo(9.574f)
+                curveTo(21.75f, 8.507f, 21.001f, 7.58f, 19.948f, 7.405f)
+                curveTo(17.363f, 6.974f, 14.708f, 6.75f, 12.0f, 6.75f)
+                close()
+                moveTo(10.317f, 13.193f)
+                lineTo(10.312f, 13.198f)
+                lineTo(10.306f, 13.193f)
+                lineTo(10.312f, 13.188f)
+                lineTo(10.317f, 13.193f)
+                close()
+                moveTo(10.312f, 15.319f)
+                lineTo(10.307f, 15.314f)
+                lineTo(10.312f, 15.309f)
+                lineTo(10.317f, 15.314f)
+                lineTo(10.312f, 15.319f)
+                close()
+                moveTo(8.196f, 15.314f)
+                lineTo(8.191f, 15.32f)
+                lineTo(8.185f, 15.314f)
+                lineTo(8.191f, 15.309f)
+                lineTo(8.196f, 15.314f)
+                close()
+                moveTo(8.191f, 13.198f)
+                lineTo(8.185f, 13.193f)
+                lineTo(8.191f, 13.188f)
+                lineTo(8.196f, 13.193f)
+                lineTo(8.191f, 13.198f)
+                close()
+                moveTo(9.255f, 10.5f)
+                verticalLineTo(10.507f)
+                horizontalLineTo(9.247f)
+                verticalLineTo(10.5f)
+                horizontalLineTo(9.255f)
+                close()
+                moveTo(12.504f, 12.38f)
+                lineTo(12.497f, 12.384f)
+                lineTo(12.494f, 12.377f)
+                lineTo(12.5f, 12.374f)
+                lineTo(12.504f, 12.38f)
+                close()
+                moveTo(11.125f, 17.506f)
+                lineTo(11.121f, 17.5f)
+                lineTo(11.127f, 17.496f)
+                lineTo(11.131f, 17.503f)
+                lineTo(11.125f, 17.506f)
+                close()
+                moveTo(11.131f, 11.005f)
+                lineTo(11.128f, 11.011f)
+                lineTo(11.121f, 11.008f)
+                lineTo(11.125f, 11.001f)
+                lineTo(11.131f, 11.005f)
+                close()
+                moveTo(12.5f, 16.134f)
+                lineTo(12.494f, 16.13f)
+                lineTo(12.498f, 16.124f)
+                lineTo(12.504f, 16.127f)
+                lineTo(12.5f, 16.134f)
+                close()
+                moveTo(13.005f, 14.257f)
+                horizontalLineTo(12.997f)
+                verticalLineTo(14.25f)
+                horizontalLineTo(13.005f)
+                verticalLineTo(14.257f)
+                close()
+                moveTo(9.255f, 18.0f)
+                verticalLineTo(18.007f)
+                horizontalLineTo(9.247f)
+                verticalLineTo(18.0f)
+                horizontalLineTo(9.255f)
+                close()
+                moveTo(6.009f, 16.13f)
+                lineTo(6.002f, 16.134f)
+                lineTo(5.999f, 16.127f)
+                lineTo(6.005f, 16.124f)
+                lineTo(6.009f, 16.13f)
+                close()
+                moveTo(7.375f, 11.011f)
+                lineTo(7.371f, 11.005f)
+                lineTo(7.378f, 11.001f)
+                lineTo(7.381f, 11.007f)
+                lineTo(7.375f, 11.011f)
+                close()
+                moveTo(7.381f, 17.5f)
+                lineTo(7.378f, 17.506f)
+                lineTo(7.371f, 17.503f)
+                lineTo(7.375f, 17.496f)
+                lineTo(7.381f, 17.5f)
+                close()
+                moveTo(6.005f, 12.384f)
+                lineTo(5.999f, 12.38f)
+                lineTo(6.002f, 12.373f)
+                lineTo(6.009f, 12.377f)
+                lineTo(6.005f, 12.384f)
+                close()
+                moveTo(5.505f, 14.257f)
+                horizontalLineTo(5.497f)
+                verticalLineTo(14.25f)
+                horizontalLineTo(5.505f)
+                verticalLineTo(14.257f)
+                close()
+                moveTo(17.25f, 12.75f)
+                curveTo(16.836f, 12.75f, 16.5f, 12.414f, 16.5f, 12.0f)
+                curveTo(16.5f, 11.586f, 16.836f, 11.25f, 17.25f, 11.25f)
+                curveTo(17.664f, 11.25f, 18.0f, 11.586f, 18.0f, 12.0f)
+                curveTo(18.0f, 12.414f, 17.664f, 12.75f, 17.25f, 12.75f)
+                close()
+                moveTo(17.25f, 17.25f)
+                curveTo(16.836f, 17.25f, 16.5f, 16.914f, 16.5f, 16.5f)
+                curveTo(16.5f, 16.086f, 16.836f, 15.75f, 17.25f, 15.75f)
+                curveTo(17.664f, 15.75f, 18.0f, 16.086f, 18.0f, 16.5f)
+                curveTo(18.0f, 16.914f, 17.664f, 17.25f, 17.25f, 17.25f)
+                close()
+            }
+        }
+        .build()
+        return _radio!!
+    }
+
+private var _radio: ImageVector? = null

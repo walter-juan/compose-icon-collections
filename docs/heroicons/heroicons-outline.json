@@ -1,0 +1,1298 @@
+[
+    {
+        "name": "Heroicons.Outline.ArrowTrendingUp",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-trending-up.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ChartBar",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/chart-bar.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowTurnDownLeft",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-turn-down-left.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Wifi",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/wifi.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ChevronDoubleDown",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/chevron-double-down.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowRightEndOnRectangle",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-right-end-on-rectangle.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowUpTray",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-up-tray.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ReceiptRefund",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/receipt-refund.svg"
+    },
+    {
+        "name": "Heroicons.Outline.DocumentMinus",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/document-minus.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Bars3CenterLeft",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/bars-3-center-left.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Tv",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/tv.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Funnel",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/funnel.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Scale",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/scale.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Lifebuoy",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/lifebuoy.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Forward",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/forward.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowUturnLeft",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-uturn-left.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowUpOnSquareStack",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-up-on-square-stack.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ChatBubbleLeftEllipsis",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/chat-bubble-left-ellipsis.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowUpLeft",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-up-left.svg"
+    },
+    {
+        "name": "Heroicons.Outline.FolderMinus",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/folder-minus.svg"
+    },
+    {
+        "name": "Heroicons.Outline.UserPlus",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/user-plus.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Truck",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/truck.svg"
+    },
+    {
+        "name": "Heroicons.Outline.PresentationChartBar",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/presentation-chart-bar.svg"
+    },
+    {
+        "name": "Heroicons.Outline.NumberedList",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/numbered-list.svg"
+    },
+    {
+        "name": "Heroicons.Outline.BugAnt",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/bug-ant.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ChevronUp",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/chevron-up.svg"
+    },
+    {
+        "name": "Heroicons.Outline.SquaresPlus",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/squares-plus.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Backspace",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/backspace.svg"
+    },
+    {
+        "name": "Heroicons.Outline.PlusSmall",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/plus-small.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Wrench",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/wrench.svg"
+    },
+    {
+        "name": "Heroicons.Outline.GiftTop",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/gift-top.svg"
+    },
+    {
+        "name": "Heroicons.Outline.AcademicCap",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/academic-cap.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ChevronUpDown",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/chevron-up-down.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ChevronDoubleUp",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/chevron-double-up.svg"
+    },
+    {
+        "name": "Heroicons.Outline.CommandLine",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/command-line.svg"
+    },
+    {
+        "name": "Heroicons.Outline.CurrencyPound",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/currency-pound.svg"
+    },
+    {
+        "name": "Heroicons.Outline.DocumentDuplicate",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/document-duplicate.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowsPointingOut",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrows-pointing-out.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Bolt",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/bolt.svg"
+    },
+    {
+        "name": "Heroicons.Outline.EyeSlash",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/eye-slash.svg"
+    },
+    {
+        "name": "Heroicons.Outline.CodeBracketSquare",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/code-bracket-square.svg"
+    },
+    {
+        "name": "Heroicons.Outline.DevicePhoneMobile",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/device-phone-mobile.svg"
+    },
+    {
+        "name": "Heroicons.Outline.MapPin",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/map-pin.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ChatBubbleBottomCenter",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/chat-bubble-bottom-center.svg"
+    },
+    {
+        "name": "Heroicons.Outline.CheckBadge",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/check-badge.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowUpRight",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-up-right.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Cube",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/cube.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Battery50",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/battery-50.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowsPointingIn",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrows-pointing-in.svg"
+    },
+    {
+        "name": "Heroicons.Outline.PhoneArrowDownLeft",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/phone-arrow-down-left.svg"
+    },
+    {
+        "name": "Heroicons.Outline.CreditCard",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/credit-card.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowLongDown",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-long-down.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Beaker",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/beaker.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Pencil",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/pencil.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Cog6Tooth",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/cog-6-tooth.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Play",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/play.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Key",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/key.svg"
+    },
+    {
+        "name": "Heroicons.Outline.DocumentText",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/document-text.svg"
+    },
+    {
+        "name": "Heroicons.Outline.EllipsisHorizontalCircle",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/ellipsis-horizontal-circle.svg"
+    },
+    {
+        "name": "Heroicons.Outline.DocumentCheck",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/document-check.svg"
+    },
+    {
+        "name": "Heroicons.Outline.MagnifyingGlassCircle",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/magnifying-glass-circle.svg"
+    },
+    {
+        "name": "Heroicons.Outline.CalendarDays",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/calendar-days.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowRightStartOnRectangle",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-right-start-on-rectangle.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Variable",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/variable.svg"
+    },
+    {
+        "name": "Heroicons.Outline.H2",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/h2.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Phone",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/phone.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowTurnRightUp",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-turn-right-up.svg"
+    },
+    {
+        "name": "Heroicons.Outline.SpeakerWave",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/speaker-wave.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Swatch",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/swatch.svg"
+    },
+    {
+        "name": "Heroicons.Outline.PlayCircle",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/play-circle.svg"
+    },
+    {
+        "name": "Heroicons.Outline.CloudArrowUp",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/cloud-arrow-up.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Bars3BottomLeft",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/bars-3-bottom-left.svg"
+    },
+    {
+        "name": "Heroicons.Outline.InboxStack",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/inbox-stack.svg"
+    },
+    {
+        "name": "Heroicons.Outline.BoltSlash",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/bolt-slash.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Newspaper",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/newspaper.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Scissors",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/scissors.svg"
+    },
+    {
+        "name": "Heroicons.Outline.VideoCamera",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/video-camera.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Gift",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/gift.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Cog",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/cog.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ExclamationTriangle",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/exclamation-triangle.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Divide",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/divide.svg"
+    },
+    {
+        "name": "Heroicons.Outline.CircleStack",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/circle-stack.svg"
+    },
+    {
+        "name": "Heroicons.Outline.H3",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/h3.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowDownTray",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-down-tray.svg"
+    },
+    {
+        "name": "Heroicons.Outline.BellSnooze",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/bell-snooze.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ServerStack",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/server-stack.svg"
+    },
+    {
+        "name": "Heroicons.Outline.DeviceTablet",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/device-tablet.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ChatBubbleLeftRight",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/chat-bubble-left-right.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowTurnDownRight",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-turn-down-right.svg"
+    },
+    {
+        "name": "Heroicons.Outline.BarsArrowDown",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/bars-arrow-down.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowSmallUp",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-small-up.svg"
+    },
+    {
+        "name": "Heroicons.Outline.DocumentPlus",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/document-plus.svg"
+    },
+    {
+        "name": "Heroicons.Outline.MinusCircle",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/minus-circle.svg"
+    },
+    {
+        "name": "Heroicons.Outline.CurrencyRupee",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/currency-rupee.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Clipboard",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/clipboard.svg"
+    },
+    {
+        "name": "Heroicons.Outline.BuildingStorefront",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/building-storefront.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowRight",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-right.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowTurnUpLeft",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-turn-up-left.svg"
+    },
+    {
+        "name": "Heroicons.Outline.PresentationChartLine",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/presentation-chart-line.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowTurnRightDown",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-turn-right-down.svg"
+    },
+    {
+        "name": "Heroicons.Outline.BellSlash",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/bell-slash.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArchiveBox",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/archive-box.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ClipboardDocument",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/clipboard-document.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Envelope",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/envelope.svg"
+    },
+    {
+        "name": "Heroicons.Outline.DocumentArrowDown",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/document-arrow-down.svg"
+    },
+    {
+        "name": "Heroicons.Outline.MagnifyingGlassMinus",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/magnifying-glass-minus.svg"
+    },
+    {
+        "name": "Heroicons.Outline.DocumentMagnifyingGlass",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/document-magnifying-glass.svg"
+    },
+    {
+        "name": "Heroicons.Outline.AdjustmentsVertical",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/adjustments-vertical.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ShieldCheck",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/shield-check.svg"
+    },
+    {
+        "name": "Heroicons.Outline.GlobeAmericas",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/globe-americas.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowUpCircle",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-up-circle.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Banknotes",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/banknotes.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Square3Stack3d",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/square-3-stack-3d.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Strikethrough",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/strikethrough.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Bold",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/bold.svg"
+    },
+    {
+        "name": "Heroicons.Outline.RocketLaunch",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/rocket-launch.svg"
+    },
+    {
+        "name": "Heroicons.Outline.CheckCircle",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/check-circle.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowTurnLeftDown",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-turn-left-down.svg"
+    },
+    {
+        "name": "Heroicons.Outline.DocumentCurrencyYen",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/document-currency-yen.svg"
+    },
+    {
+        "name": "Heroicons.Outline.WrenchScrewdriver",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/wrench-screwdriver.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowDown",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-down.svg"
+    },
+    {
+        "name": "Heroicons.Outline.AtSymbol",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/at-symbol.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ChatBubbleOvalLeftEllipsis",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/chat-bubble-oval-left-ellipsis.svg"
+    },
+    {
+        "name": "Heroicons.Outline.PuzzlePiece",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/puzzle-piece.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Tag",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/tag.svg"
+    },
+    {
+        "name": "Heroicons.Outline.InboxArrowDown",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/inbox-arrow-down.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Language",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/language.svg"
+    },
+    {
+        "name": "Heroicons.Outline.EyeDropper",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/eye-dropper.svg"
+    },
+    {
+        "name": "Heroicons.Outline.CurrencyYen",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/currency-yen.svg"
+    },
+    {
+        "name": "Heroicons.Outline.DocumentCurrencyBangladeshi",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/document-currency-bangladeshi.svg"
+    },
+    {
+        "name": "Heroicons.Outline.FolderArrowDown",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/folder-arrow-down.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Home",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/home.svg"
+    },
+    {
+        "name": "Heroicons.Outline.LinkSlash",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/link-slash.svg"
+    },
+    {
+        "name": "Heroicons.Outline.TableCells",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/table-cells.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Briefcase",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/briefcase.svg"
+    },
+    {
+        "name": "Heroicons.Outline.CurrencyDollar",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/currency-dollar.svg"
+    },
+    {
+        "name": "Heroicons.Outline.UserMinus",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/user-minus.svg"
+    },
+    {
+        "name": "Heroicons.Outline.RectangleStack",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/rectangle-stack.svg"
+    },
+    {
+        "name": "Heroicons.Outline.EllipsisHorizontal",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/ellipsis-horizontal.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Trash",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/trash.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ViewfinderCircle",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/viewfinder-circle.svg"
+    },
+    {
+        "name": "Heroicons.Outline.PercentBadge",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/percent-badge.svg"
+    },
+    {
+        "name": "Heroicons.Outline.SpeakerXMark",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/speaker-x-mark.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ShoppingCart",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/shopping-cart.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowTurnLeftUp",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-turn-left-up.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Star",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/star.svg"
+    },
+    {
+        "name": "Heroicons.Outline.FaceFrown",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/face-frown.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Flag",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/flag.svg"
+    },
+    {
+        "name": "Heroicons.Outline.FaceSmile",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/face-smile.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Cloud",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/cloud.svg"
+    },
+    {
+        "name": "Heroicons.Outline.PaperAirplane",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/paper-airplane.svg"
+    },
+    {
+        "name": "Heroicons.Outline.CloudArrowDown",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/cloud-arrow-down.svg"
+    },
+    {
+        "name": "Heroicons.Outline.BookOpen",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/book-open.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArchiveBoxXMark",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/archive-box-x-mark.svg"
+    },
+    {
+        "name": "Heroicons.Outline.CurrencyBangladeshi",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/currency-bangladeshi.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Film",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/film.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Radio",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/radio.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowUp",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-up.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowTrendingDown",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-trending-down.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ChatBubbleBottomCenterText",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/chat-bubble-bottom-center-text.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ClipboardDocumentList",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/clipboard-document-list.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Hashtag",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/hashtag.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Document",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/document.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Signal",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/signal.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Italic",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/italic.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowRightOnRectangle",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-right-on-rectangle.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Rss",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/rss.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowLeft",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-left.svg"
+    },
+    {
+        "name": "Heroicons.Outline.DocumentChartBar",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/document-chart-bar.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Square2Stack",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/square-2-stack.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Gif",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/gif.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ChevronRight",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/chevron-right.svg"
+    },
+    {
+        "name": "Heroicons.Outline.HandThumbDown",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/hand-thumb-down.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowDownLeft",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-down-left.svg"
+    },
+    {
+        "name": "Heroicons.Outline.User",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/user.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowUturnRight",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-uturn-right.svg"
+    },
+    {
+        "name": "Heroicons.Outline.CodeBracket",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/code-bracket.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowLongRight",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-long-right.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ComputerDesktop",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/computer-desktop.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Window",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/window.svg"
+    },
+    {
+        "name": "Heroicons.Outline.StopCircle",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/stop-circle.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArchiveBoxArrowDown",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/archive-box-arrow-down.svg"
+    },
+    {
+        "name": "Heroicons.Outline.PhoneArrowUpRight",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/phone-arrow-up-right.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Server",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/server.svg"
+    },
+    {
+        "name": "Heroicons.Outline.NoSymbol",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/no-symbol.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Heart",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/heart.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Slash",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/slash.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Sparkles",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/sparkles.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowTopRightOnSquare",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-top-right-on-square.svg"
+    },
+    {
+        "name": "Heroicons.Outline.UserCircle",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/user-circle.svg"
+    },
+    {
+        "name": "Heroicons.Outline.DocumentCurrencyEuro",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/document-currency-euro.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ExclamationCircle",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/exclamation-circle.svg"
+    },
+    {
+        "name": "Heroicons.Outline.XMark",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/x-mark.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Calculator",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/calculator.svg"
+    },
+    {
+        "name": "Heroicons.Outline.DocumentCurrencyPound",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/document-currency-pound.svg"
+    },
+    {
+        "name": "Heroicons.Outline.PauseCircle",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/pause-circle.svg"
+    },
+    {
+        "name": "Heroicons.Outline.BuildingOffice2",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/building-office-2.svg"
+    },
+    {
+        "name": "Heroicons.Outline.QueueList",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/queue-list.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Underline",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/underline.svg"
+    },
+    {
+        "name": "Heroicons.Outline.HomeModern",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/home-modern.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Bars3BottomRight",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/bars-3-bottom-right.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowLeftCircle",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-left-circle.svg"
+    },
+    {
+        "name": "Heroicons.Outline.CursorArrowRays",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/cursor-arrow-rays.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowDownRight",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-down-right.svg"
+    },
+    {
+        "name": "Heroicons.Outline.SignalSlash",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/signal-slash.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowLeftStartOnRectangle",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-left-start-on-rectangle.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Equals",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/equals.svg"
+    },
+    {
+        "name": "Heroicons.Outline.HandThumbUp",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/hand-thumb-up.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Bars3",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/bars-3.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowSmallRight",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-small-right.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Stop",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/stop.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ChatBubbleLeft",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/chat-bubble-left.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Battery100",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/battery-100.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Printer",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/printer.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Folder",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/folder.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Check",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/check.svg"
+    },
+    {
+        "name": "Heroicons.Outline.GlobeAsiaAustralia",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/globe-asia-australia.svg"
+    },
+    {
+        "name": "Heroicons.Outline.FolderPlus",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/folder-plus.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Photo",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/photo.svg"
+    },
+    {
+        "name": "Heroicons.Outline.BookmarkSquare",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/bookmark-square.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowsRightLeft",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrows-right-left.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowPathRoundedSquare",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-path-rounded-square.svg"
+    },
+    {
+        "name": "Heroicons.Outline.MagnifyingGlassPlus",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/magnifying-glass-plus.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ShieldExclamation",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/shield-exclamation.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Clock",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/clock.svg"
+    },
+    {
+        "name": "Heroicons.Outline.FolderOpen",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/folder-open.svg"
+    },
+    {
+        "name": "Heroicons.Outline.DocumentCurrencyDollar",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/document-currency-dollar.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Bars4",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/bars-4.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Backward",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/backward.svg"
+    },
+    {
+        "name": "Heroicons.Outline.GlobeAlt",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/globe-alt.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Cake",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/cake.svg"
+    },
+    {
+        "name": "Heroicons.Outline.AdjustmentsHorizontal",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/adjustments-horizontal.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowDownCircle",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-down-circle.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowLongLeft",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-long-left.svg"
+    },
+    {
+        "name": "Heroicons.Outline.QuestionMarkCircle",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/question-mark-circle.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Sun",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/sun.svg"
+    },
+    {
+        "name": "Heroicons.Outline.BarsArrowUp",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/bars-arrow-up.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowSmallLeft",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-small-left.svg"
+    },
+    {
+        "name": "Heroicons.Outline.EllipsisVertical",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/ellipsis-vertical.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Identification",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/identification.svg"
+    },
+    {
+        "name": "Heroicons.Outline.MusicalNote",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/musical-note.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Bars2",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/bars-2.svg"
+    },
+    {
+        "name": "Heroicons.Outline.PlusCircle",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/plus-circle.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ReceiptPercent",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/receipt-percent.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowDownOnSquare",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-down-on-square.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Calendar",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/calendar.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowLeftOnRectangle",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-left-on-rectangle.svg"
+    },
+    {
+        "name": "Heroicons.Outline.H1",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/h1.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ChevronDoubleRight",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/chevron-double-right.svg"
+    },
+    {
+        "name": "Heroicons.Outline.BookmarkSlash",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/bookmark-slash.svg"
+    },
+    {
+        "name": "Heroicons.Outline.BuildingLibrary",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/building-library.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Share",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/share.svg"
+    },
+    {
+        "name": "Heroicons.Outline.QrCode",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/qr-code.svg"
+    },
+    {
+        "name": "Heroicons.Outline.GlobeEuropeAfrica",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/globe-europe-africa.svg"
+    },
+    {
+        "name": "Heroicons.Outline.CpuChip",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/cpu-chip.svg"
+    },
+    {
+        "name": "Heroicons.Outline.CubeTransparent",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/cube-transparent.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Map",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/map.svg"
+    },
+    {
+        "name": "Heroicons.Outline.CurrencyEuro",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/currency-euro.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Moon",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/moon.svg"
+    },
+    {
+        "name": "Heroicons.Outline.MinusSmall",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/minus-small.svg"
+    },
+    {
+        "name": "Heroicons.Outline.UserGroup",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/user-group.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ChevronDown",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/chevron-down.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowTurnUpRight",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-turn-up-right.svg"
+    },
+    {
+        "name": "Heroicons.Outline.LightBulb",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/light-bulb.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ChartPie",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/chart-pie.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ListBullet",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/list-bullet.svg"
+    },
+    {
+        "name": "Heroicons.Outline.PaintBrush",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/paint-brush.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Camera",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/camera.svg"
+    },
+    {
+        "name": "Heroicons.Outline.PaperClip",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/paper-clip.svg"
+    },
+    {
+        "name": "Heroicons.Outline.MagnifyingGlass",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/magnifying-glass.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ChartBarSquare",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/chart-bar-square.svg"
+    },
+    {
+        "name": "Heroicons.Outline.EnvelopeOpen",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/envelope-open.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ViewColumns",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/view-columns.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Squares2x2",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/squares-2x2.svg"
+    },
+    {
+        "name": "Heroicons.Outline.PlayPause",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/play-pause.svg"
+    },
+    {
+        "name": "Heroicons.Outline.InformationCircle",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/information-circle.svg"
+    },
+    {
+        "name": "Heroicons.Outline.XCircle",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/x-circle.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ChevronLeft",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/chevron-left.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Battery0",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/battery-0.svg"
+    },
+    {
+        "name": "Heroicons.Outline.CursorArrowRipple",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/cursor-arrow-ripple.svg"
+    },
+    {
+        "name": "Heroicons.Outline.HandRaised",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/hand-raised.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowUturnUp",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-uturn-up.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowsUpDown",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrows-up-down.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Eye",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/eye.svg"
+    },
+    {
+        "name": "Heroicons.Outline.VideoCameraSlash",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/video-camera-slash.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Inbox",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/inbox.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowLongUp",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-long-up.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Fire",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/fire.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowDownOnSquareStack",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-down-on-square-stack.svg"
+    },
+    {
+        "name": "Heroicons.Outline.DocumentCurrencyRupee",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/document-currency-rupee.svg"
+    },
+    {
+        "name": "Heroicons.Outline.CalendarDateRange",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/calendar-date-range.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Microphone",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/microphone.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Link",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/link.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ChatBubbleOvalLeft",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/chat-bubble-oval-left.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Megaphone",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/megaphone.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Pause",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/pause.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowLeftEndOnRectangle",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-left-end-on-rectangle.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowSmallDown",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-small-down.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowUpOnSquare",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-up-on-square.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowRightCircle",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-right-circle.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ShoppingBag",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/shopping-bag.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ClipboardDocumentCheck",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/clipboard-document-check.svg"
+    },
+    {
+        "name": "Heroicons.Outline.RectangleGroup",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/rectangle-group.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Bookmark",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/bookmark.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Wallet",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/wallet.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowUturnDown",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-uturn-down.svg"
+    },
+    {
+        "name": "Heroicons.Outline.LockOpen",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/lock-open.svg"
+    },
+    {
+        "name": "Heroicons.Outline.DocumentArrowUp",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/document-arrow-up.svg"
+    },
+    {
+        "name": "Heroicons.Outline.PhoneXMark",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/phone-x-mark.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Plus",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/plus.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Bell",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/bell.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Minus",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/minus.svg"
+    },
+    {
+        "name": "Heroicons.Outline.BuildingOffice",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/building-office.svg"
+    },
+    {
+        "name": "Heroicons.Outline.PencilSquare",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/pencil-square.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Power",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/power.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ArrowPath",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/arrow-path.svg"
+    },
+    {
+        "name": "Heroicons.Outline.BellAlert",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/bell-alert.svg"
+    },
+    {
+        "name": "Heroicons.Outline.FingerPrint",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/finger-print.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Trophy",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/trophy.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Users",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/users.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Cog8Tooth",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/cog-8-tooth.svg"
+    },
+    {
+        "name": "Heroicons.Outline.ChevronDoubleLeft",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/chevron-double-left.svg"
+    },
+    {
+        "name": "Heroicons.Outline.Ticket",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/ticket.svg"
+    },
+    {
+        "name": "Heroicons.Outline.LockClosed",
+        "svg": "https://raw.githubusercontent.com/tailwindlabs/heroicons/v2.1.5/src/24/outline/lock-closed.svg"
+    }
+]
