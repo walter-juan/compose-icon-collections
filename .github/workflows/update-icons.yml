@@ -49,7 +49,7 @@ jobs:
           git checkout -b "$branch_name"
           echo "branch=$branch_name" >> $GITHUB_OUTPUT
       - name: Download icons
-        run: ./gradlew octicons:download-icons remix:download-icons tabler:download-icons feather:download-icons ionicons:download-icons -Pgitcommit --no-parallel
+        run: ./gradlew octicons:download-icons remix:download-icons tabler:download-icons feather:download-icons ionicons:download-icons fontawesome:download-icons -Pgitcommit --no-parallel
       - name: Create pull request
         shell: bash
         env:
