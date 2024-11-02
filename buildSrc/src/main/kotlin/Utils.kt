@@ -18,6 +18,39 @@ data class GitHubRelease(val tagName: String, val zipballUrl: String, val versio
 
 object Utils {
     /**
+     * Use this function to split the icons into different directories in case that all icons are in the same directory.
+     * @param iconsDirectory Icons directory
+     * @param groupNameProvider Function to get the group name by the icon name, icon name won't have the extensions
+     * @param iconNameTransformer Function to transform the icon name, icon name won't have the extensions
+     */
+    fun splitIcons(
+        iconsDirectory: File,
+        groupNameProvider: (iconName: String) -> String,
+        iconNameTransformer: (iconName: String, group: String) -> String
+    ) {
+        if (!iconsDirectory.exists() || !iconsDirectory.isDirectory) {
+            println("Invalid icons directory")
+            return
+        }
+
+        iconsDirectory.listFiles()?.forEach { file ->
+            if (file.isFile) {
+                val groupName = groupNameProvider(file.nameWithoutExtension)
+                val newFileName = iconNameTransformer(file.nameWithoutExtension, groupName) + "." + file.extension
+
+                val groupDirectory = File(iconsDirectory, groupName)
+                if (!groupDirectory.exists()) {
+                    groupDirectory.mkdir()
+                }
+
+                val targetFile = File(groupDirectory, newFileName)
+                file.renameTo(targetFile)
+                println("Icon ${file.name} moved to ${targetFile.path}")
+            }
+        }
+    }
+
+    /**
      * Commit the project changes to the git repository
      */
     fun commitChanges(project: String, version: Version) {
