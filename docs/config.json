@@ -56,6 +56,15 @@
             "categories": [
                 ""
             ]
+        },
+        {
+            "name": "Ionicons",
+            "value": "ionicons",
+            "categories": [
+                "outline",
+                "sharp",
+                "filled"
+            ]
         }
     ]
 }
