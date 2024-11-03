@@ -18,20 +18,43 @@ data class GitHubRelease(val tagName: String, val zipballUrl: String, val versio
 
 object Utils {
     /**
+     * Use this function to unsplit the icons in case that all icons are in different directories.
+     * @param iconsDirectory Icons directory
+     * @param iconNameTransformer Function to transform the icon name, icon name won't have the extension
+     * @see splitIcons
+     */
+    fun unsplitIcons(
+        iconsDirectory: File,
+        iconNameTransformer: (iconName: String, group: String) -> String,
+    ) {
+        require(iconsDirectory.exists() && iconsDirectory.isDirectory) { "Invalid icons directory" }
+
+        iconsDirectory.listFiles()?.forEach { groupDirectory ->
+            if (groupDirectory.isDirectory) {
+                groupDirectory.listFiles()?.forEach { file ->
+                    if (file.isFile) {
+                        val newFileName = iconNameTransformer(file.nameWithoutExtension, groupDirectory.name) + "." + file.extension
+                        val targetFile = File(iconsDirectory, newFileName)
+                        file.renameTo(targetFile)
+                    }
+                }
+                groupDirectory.deleteRecursively()
+            }
+        }
+    }
+    /**
      * Use this function to split the icons into different directories in case that all icons are in the same directory.
      * @param iconsDirectory Icons directory
-     * @param groupNameProvider Function to get the group name by the icon name, icon name won't have the extensions
-     * @param iconNameTransformer Function to transform the icon name, icon name won't have the extensions
+     * @param groupNameProvider Function to get the group name by the icon name, icon name won't have the extension
+     * @param iconNameTransformer Function to transform the icon name, icon name won't have the extension
+     * @see unsplitIcons
      */
     fun splitIcons(
         iconsDirectory: File,
         groupNameProvider: (iconName: String) -> String,
-        iconNameTransformer: (iconName: String, group: String) -> String
+        iconNameTransformer: (iconName: String, group: String) -> String,
     ) {
-        if (!iconsDirectory.exists() || !iconsDirectory.isDirectory) {
-            println("Invalid icons directory")
-            return
-        }
+        require(iconsDirectory.exists() && iconsDirectory.isDirectory) { "Invalid icons directory" }
 
         iconsDirectory.listFiles()?.forEach { file ->
             if (file.isFile) {
@@ -45,7 +68,6 @@ object Utils {
 
                 val targetFile = File(groupDirectory, newFileName)
                 file.renameTo(targetFile)
-                println("Icon ${file.name} moved to ${targetFile.path}")
             }
         }
     }

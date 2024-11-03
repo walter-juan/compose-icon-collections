@@ -114,6 +114,10 @@ tasks.register("download-icons") {
     outputs.dir(downloadsDir)
 
     doLast {
+        // icons has suffixes for different groups instead of different directories
+        val defaultGroup = "filled"
+        val groups = listOf("outline", "sharp")
+
         // check for new version
         val (hasNewRelease, githubRelease) = Utils.checkGithubNewRelease(currentVersion = projectVersion, repo = ghUser, project = ghRepo)
         if (!hasNewRelease) {
@@ -130,8 +134,6 @@ tasks.register("download-icons") {
             accessorName = accessorName,
             outputDir = srcDir,
             afterDownload = { repoDir: File ->
-                val defaultGroup = "filled"
-                val groups = listOf("outline", "sharp")
                 Utils.splitIcons(
                     iconsDirectory = repoDir.resolve(ghIconsDir),
                     groupNameProvider = { icon ->
@@ -141,7 +143,7 @@ tasks.register("download-icons") {
                         icon.removeSuffix("-$group")
                     },
                 )
-            }
+            },
         )
 
         // generate documentation
@@ -155,6 +157,11 @@ tasks.register("download-icons") {
             iconsPackName = iconsPackName,
             projectName = projectName,
             license = licenseContent,
+            gitHubUrlProvider = { vectorFile ->
+                val group = vectorFile.parentFile.name
+                val name = if (group == defaultGroup) vectorFile.name else "${vectorFile.nameWithoutExtension}-$group.${vectorFile.extension}"
+                "$rawGithubRepository/$ghIconsDir/$name"
+            },
         )
 
         // update the version

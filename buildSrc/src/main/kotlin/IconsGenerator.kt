@@ -19,6 +19,8 @@ data class JsonIconPack(val name: String, val value: String, val categories: Lis
 @Serializable
 data class JsonIcon(val name: String, val svg: String)
 
+typealias GitHubUrlProvider = (vectorFile: File) -> String
+
 data class GenerateIconsResult(
     val tag: String,
     val parsingResult: ParsingResult,
@@ -71,7 +73,7 @@ object IconsGenerator {
         println("Unzipping...")
         Utils.unzip(zipFile = zipFile.absolutePath, destinationDir = unzippedDir.absolutePath)
 
-        val repoDir = unzippedDir.listFiles().first()
+        val repoDir = unzippedDir.listFiles()!!.first()
         val iconsDir = repoDir.resolve(ghIconsDir)
 
         if (afterDownload != null) {
@@ -109,6 +111,9 @@ object IconsGenerator {
         iconsPackName: String,
         projectName: String,
         license: String,
+        gitHubUrlProvider: GitHubUrlProvider = { vectorFile ->
+            "${rawGithubRepository}${vectorFile.toString().removePrefix(repoDir.toString())}"
+        },
     ) {
         val jsonSerializer = Json {
             prettyPrint = true
@@ -116,7 +121,7 @@ object IconsGenerator {
 
         // icon json
         val jsonDir = docsDir.resolve(projectName)
-        val icons = mapGeneratedIcons(parsingResult, rawGithubRepository, repoDir)
+        val icons = mapGeneratedIcons(parsingResult, rawGithubRepository, repoDir, gitHubUrlProvider = gitHubUrlProvider)
         val iconsPerJsonFile = icons.groupBy {
             // group by the JSON file
             it.first
@@ -173,13 +178,14 @@ object IconsGenerator {
         rawGithubRepository: String,
         repoDir: File,
         prefix: String = "",
+        gitHubUrlProvider: GitHubUrlProvider,
     ): List<Pair<IconName, GitHubUrl>> {
         val prefixWithGroup =  if (prefix.isEmpty()) parsingResult.groupName.second else prefix + "." + parsingResult.groupName.second
 
         return if (parsingResult.generatedGroups.isEmpty()) {
             parsingResult.generatedIconsMemberNames.map { (vectorFile, memberName) ->
                 val iconName = prefixWithGroup + "." + memberName.simpleName
-                val url = "${rawGithubRepository}${vectorFile.toString().removePrefix(repoDir.toString())}"
+                val url = gitHubUrlProvider(vectorFile)
                 iconName to url
             }
         } else {
@@ -188,7 +194,8 @@ object IconsGenerator {
                     parsingResult = it,
                     rawGithubRepository = rawGithubRepository,
                     repoDir = repoDir,
-                    prefix = prefixWithGroup
+                    prefix = prefixWithGroup,
+                    gitHubUrlProvider = gitHubUrlProvider,
                 )
             }.flatten()
         }
