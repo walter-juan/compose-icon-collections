@@ -24,8 +24,8 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.unit.dp
-import com.woowla.compose.icon.collections.fontawesome.AllIcons
-import com.woowla.compose.icon.collections.fontawesome.FontAwesome
+import com.woowla.compose.icon.collections.twbs.AllIcons
+import com.woowla.compose.icon.collections.twbs.Twbs
 import compose_icon_collections.sample.composeapp.generated.resources.Res
 import compose_icon_collections.sample.composeapp.generated.resources.compose_multiplatform
 import org.jetbrains.compose.resources.painterResource
@@ -37,7 +37,7 @@ fun App() {
     MaterialTheme {
         val scrollableState = rememberLazyStaggeredGridState()
         val icons = remember {
-            FontAwesome.AllIcons.sortedBy { it.name }
+            Twbs.AllIcons.sortedBy { it.name }
         }
         Icons(state = scrollableState, icons = icons)
     }
