@@ -58,15 +58,6 @@
             ]
         },
         {
-            "name": "Ionicons",
-            "value": "ionicons",
-            "categories": [
-                "outline",
-                "sharp",
-                "filled"
-            ]
-        },
-        {
             "name": "FontAwesome",
             "value": "fontawesome",
             "categories": [
@@ -88,6 +79,15 @@
             "value": "simpleicons",
             "categories": [
                 ""
+            ]
+        },
+        {
+            "name": "Ionicons",
+            "value": "ionicons",
+            "categories": [
+                "outline",
+                "sharp",
+                "filled"
             ]
         }
     ]
