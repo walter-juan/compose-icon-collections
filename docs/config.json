@@ -75,13 +75,6 @@
             ]
         },
         {
-            "name": "Simpleicons",
-            "value": "simpleicons",
-            "categories": [
-                ""
-            ]
-        },
-        {
             "name": "Ionicons",
             "value": "ionicons",
             "categories": [
@@ -93,6 +86,13 @@
         {
             "name": "Twbs",
             "value": "twbs",
+            "categories": [
+                ""
+            ]
+        },
+        {
+            "name": "Simpleicons",
+            "value": "simpleicons",
             "categories": [
                 ""
             ]
