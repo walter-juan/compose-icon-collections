@@ -164,6 +164,7 @@ import com.woowla.compose.icon.collections.tabler.tabler.filled.BrandGoogle
 import com.woowla.compose.icon.collections.tabler.tabler.filled.BrandInstagram
 import com.woowla.compose.icon.collections.tabler.tabler.filled.BrandKick
 import com.woowla.compose.icon.collections.tabler.tabler.filled.BrandLinkedin
+import com.woowla.compose.icon.collections.tabler.tabler.filled.BrandMessenger
 import com.woowla.compose.icon.collections.tabler.tabler.filled.BrandOpenSource
 import com.woowla.compose.icon.collections.tabler.tabler.filled.BrandOpera
 import com.woowla.compose.icon.collections.tabler.tabler.filled.BrandPatreon
@@ -181,6 +182,7 @@ import com.woowla.compose.icon.collections.tabler.tabler.filled.BrandTumblr
 import com.woowla.compose.icon.collections.tabler.tabler.filled.BrandTwitter
 import com.woowla.compose.icon.collections.tabler.tabler.filled.BrandVercel
 import com.woowla.compose.icon.collections.tabler.tabler.filled.BrandVimeo
+import com.woowla.compose.icon.collections.tabler.tabler.filled.BrandWeibo
 import com.woowla.compose.icon.collections.tabler.tabler.filled.BrandWhatsapp
 import com.woowla.compose.icon.collections.tabler.tabler.filled.BrandWindows
 import com.woowla.compose.icon.collections.tabler.tabler.filled.BrandX
@@ -193,6 +195,7 @@ import com.woowla.compose.icon.collections.tabler.tabler.filled.BrightnessAuto
 import com.woowla.compose.icon.collections.tabler.tabler.filled.BrightnessDown
 import com.woowla.compose.icon.collections.tabler.tabler.filled.BrightnessUp
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Bubble
+import com.woowla.compose.icon.collections.tabler.tabler.filled.BubbleText
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Bug
 import com.woowla.compose.icon.collections.tabler.tabler.filled.BuildingBroadcastTower
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Bulb
@@ -401,11 +404,13 @@ import com.woowla.compose.icon.collections.tabler.tabler.filled.Function
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Gauge
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Ghost
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Ghost2
+import com.woowla.compose.icon.collections.tabler.tabler.filled.Ghost3
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Gift
 import com.woowla.compose.icon.collections.tabler.tabler.filled.GiftCard
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Glass
 import com.woowla.compose.icon.collections.tabler.tabler.filled.GlassFull
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Globe
+import com.woowla.compose.icon.collections.tabler.tabler.filled.Golf
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Gps
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Graph
 import com.woowla.compose.icon.collections.tabler.tabler.filled.GuitarPick
@@ -483,6 +488,7 @@ import com.woowla.compose.icon.collections.tabler.tabler.filled.IroningSteam
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Jetpack
 import com.woowla.compose.icon.collections.tabler.tabler.filled.JewishStar
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Key
+import com.woowla.compose.icon.collections.tabler.tabler.filled.Keyboard
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Keyframe
 import com.woowla.compose.icon.collections.tabler.tabler.filled.KeyframeAlignCenter
 import com.woowla.compose.icon.collections.tabler.tabler.filled.KeyframeAlignHorizontal
@@ -520,6 +526,7 @@ import com.woowla.compose.icon.collections.tabler.tabler.filled.LayoutSidebarRig
 import com.woowla.compose.icon.collections.tabler.tabler.filled.LayoutSidebarRightExpand
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Lego
 import com.woowla.compose.icon.collections.tabler.tabler.filled.LivePhoto
+import com.woowla.compose.icon.collections.tabler.tabler.filled.LiveView
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Location
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Lock
 import com.woowla.compose.icon.collections.tabler.tabler.filled.LockSquareRounded
@@ -532,8 +539,10 @@ import com.woowla.compose.icon.collections.tabler.tabler.filled.Man
 import com.woowla.compose.icon.collections.tabler.tabler.filled.ManualGearbox
 import com.woowla.compose.icon.collections.tabler.tabler.filled.MapPin
 import com.woowla.compose.icon.collections.tabler.tabler.filled.MedicalCross
+import com.woowla.compose.icon.collections.tabler.tabler.filled.Meeple
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Melon
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Message
+import com.woowla.compose.icon.collections.tabler.tabler.filled.Message2
 import com.woowla.compose.icon.collections.tabler.tabler.filled.MessageChatbot
 import com.woowla.compose.icon.collections.tabler.tabler.filled.MessageCircle
 import com.woowla.compose.icon.collections.tabler.tabler.filled.MessageReport
@@ -560,10 +569,12 @@ import com.woowla.compose.icon.collections.tabler.tabler.filled.Mouse
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Mug
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Mushroom
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Navigation
+import com.woowla.compose.icon.collections.tabler.tabler.filled.Nurse
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Octagon
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Oval
 import com.woowla.compose.icon.collections.tabler.tabler.filled.OvalVertical
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Paint
+import com.woowla.compose.icon.collections.tabler.tabler.filled.Palette
 import com.woowla.compose.icon.collections.tabler.tabler.filled.PanoramaHorizontal
 import com.woowla.compose.icon.collections.tabler.tabler.filled.PanoramaVertical
 import com.woowla.compose.icon.collections.tabler.tabler.filled.ParkingCircle
@@ -610,6 +621,7 @@ import com.woowla.compose.icon.collections.tabler.tabler.filled.Poo
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Presentation
 import com.woowla.compose.icon.collections.tabler.tabler.filled.PresentationAnalytics
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Puzzle
+import com.woowla.compose.icon.collections.tabler.tabler.filled.Quote
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Radar
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Radioactive
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Receipt
@@ -799,7 +811,9 @@ import com.woowla.compose.icon.collections.tabler.tabler.filled.Trophy
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Umbrella
 import com.woowla.compose.icon.collections.tabler.tabler.filled.User
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Versions
+import com.woowla.compose.icon.collections.tabler.tabler.filled.Video
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Windmill
+import com.woowla.compose.icon.collections.tabler.tabler.filled.Windsock
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Woman
 import com.woowla.compose.icon.collections.tabler.tabler.filled.XboxA
 import com.woowla.compose.icon.collections.tabler.tabler.filled.XboxB
@@ -858,108 +872,109 @@ public val FilledGroup.AllIcons: ____KtList<ImageVector>
         BowlSpoon, BoxAlignBottom, BoxAlignBottomLeft, BoxAlignBottomRight, BoxAlignLeft,
         BoxAlignRight, BoxAlignTop, BoxAlignTopLeft, BoxAlignTopRight, BoxMultiple, BrandAngular,
         BrandApple, BrandDiscord, BrandDribbble, BrandFacebook, BrandGithub, BrandGoogle,
-        BrandInstagram, BrandKick, BrandLinkedin, BrandOpenSource, BrandOpera, BrandPatreon,
-        BrandPaypal, BrandPinterest, BrandSketch, BrandSnapchat, BrandSpotify, BrandSteam,
-        BrandStripe, BrandTabler, BrandTiktok, BrandTinder, BrandTumblr, BrandTwitter, BrandVercel,
-        BrandVimeo, BrandWhatsapp, BrandWindows, BrandX, BrandYoutube, Bread, Briefcase, Briefcase2,
-        Brightness, BrightnessAuto, BrightnessDown, BrightnessUp, Bubble, Bug,
-        BuildingBroadcastTower, Bulb, Butterfly, Cactus, Calculator, Calendar, Camera, Campfire,
-        Candle, Cannabis, Capsule, CapsuleHorizontal, Capture, Car, Car4wd, CarFan, CarSuv,
-        Carambola, Cardboards, Cards, CaretDown, CaretLeft, CaretLeftRight, CaretRight, CaretUp,
-        CaretUpDown, CarouselHorizontal, CarouselVertical, CashBanknote, Category, ChargingPile,
-        ChartArea, ChartAreaLine, ChartBubble, ChartCandle, ChartDonut, ChartDots, ChartGridDots,
-        ChartPie, Cherry, Chess, ChessBishop, ChessKing, ChessKnight, ChessQueen, ChessRook,
-        ChristmasTree, Circle, CircleArrowDown, CircleArrowDownLeft, CircleArrowDownRight,
-        CircleArrowLeft, CircleArrowRight, CircleArrowUp, CircleArrowUpLeft, CircleArrowUpRight,
-        CircleCheck, CircleDot, CircleKey, CircleLetterA, CircleLetterB, CircleLetterC,
-        CircleLetterD, CircleLetterE, CircleLetterF, CircleLetterG, CircleLetterH, CircleLetterI,
-        CircleLetterJ, CircleLetterK, CircleLetterL, CircleLetterM, CircleLetterN, CircleLetterO,
-        CircleLetterP, CircleLetterQ, CircleLetterR, CircleLetterS, CircleLetterT, CircleLetterU,
-        CircleLetterV, CircleLetterW, CircleLetterX, CircleLetterY, CircleLetterZ, CircleNumber0,
-        CircleNumber1, CircleNumber2, CircleNumber3, CircleNumber4, CircleNumber5, CircleNumber6,
-        CircleNumber7, CircleNumber8, CircleNumber9, CirclePercentage, CirclePlus, CircleRectangle,
-        CircleX, Circles, Clock, ClockHour1, ClockHour10, ClockHour11, ClockHour12, ClockHour2,
-        ClockHour3, ClockHour4, ClockHour5, ClockHour6, ClockHour7, ClockHour8, ClockHour9, Cloud,
-        Clover, Clubs, CodeCircle, CodeCircle2, Coin, CoinBitcoin, CoinEuro, CoinMonero, CoinPound,
-        CoinRupee, CoinTaka, CoinYen, CoinYuan, Compass, Cone, Cone2, Contrast, Contrast2, Cookie,
-        CookieMan, CopyCheck, CopyMinus, CopyPlus, CopyX, Copyleft, Copyright, CreditCard, Crop11,
-        Crop169, Crop32, Crop54, Crop75, CropLandscape, CropPortrait, Cross, Dashboard, DeviceCctv,
-        DeviceDesktop, DeviceGamepad3, DeviceHeartMonitor, DeviceImac, DeviceIpad, DeviceMobile,
-        DeviceRemote, DeviceSpeaker, DeviceTablet, DeviceTv, DeviceTvOld, DeviceUnknown, DeviceUsb,
-        DeviceVisionPro, DeviceWatch, Dialpad, Diamond, Diamonds, Dice, Dice1, Dice2, Dice3, Dice4,
-        Dice5, Dice6, DirectionSign, Directions, Disc, Discount, Droplet, DropletHalf, DropletHalf2,
-        Egg, EggCracked, Elevator, ExclamationCircle, Eye, Favicon, Feather, File, FileX, Filter,
-        Flag, Flag2, Flag3, Flask, Flask2, Flower, Folder, Forbid, Forbid2, Fountain, Function,
-        Gauge, Ghost, Ghost2, Gift, GiftCard, Glass, GlassFull, Globe, Gps, Graph, GuitarPick,
-        Hanger2, Headphones, Heart, HelpCircle, HelpHexagon, HelpOctagon, HelpSquare,
-        HelpSquareRounded, HelpTriangle, Hexagon, HexagonLetterA, HexagonLetterB, HexagonLetterC,
-        HexagonLetterD, HexagonLetterE, HexagonLetterF, HexagonLetterG, HexagonLetterH,
-        HexagonLetterI, HexagonLetterJ, HexagonLetterK, HexagonLetterL, HexagonLetterM,
-        HexagonLetterN, HexagonLetterO, HexagonLetterP, HexagonLetterQ, HexagonLetterR,
-        HexagonLetterS, HexagonLetterT, HexagonLetterU, HexagonLetterV, HexagonLetterW,
-        HexagonLetterX, HexagonLetterY, HexagonLetterZ, HexagonMinus, HexagonNumber0,
-        HexagonNumber1, HexagonNumber2, HexagonNumber3, HexagonNumber4, HexagonNumber5,
-        HexagonNumber6, HexagonNumber7, HexagonNumber8, HexagonNumber9, HexagonPlus, Home,
-        HospitalCircle, Hourglass, Icons, InfoCircle, InfoHexagon, InfoOctagon, InfoSquare,
-        InfoSquareRounded, InfoTriangle, InnerShadowBottom, InnerShadowBottomLeft,
-        InnerShadowBottomRight, InnerShadowLeft, InnerShadowRight, InnerShadowTop,
-        InnerShadowTopLeft, InnerShadowTopRight, Ironing, Ironing1, Ironing2, Ironing3,
-        IroningSteam, Jetpack, JewishStar, Key, Keyframe, KeyframeAlignCenter,
-        KeyframeAlignHorizontal, KeyframeAlignVertical, Keyframes, Label, LabelImportant,
-        LassoPolygon, Layout, Layout2, LayoutAlignBottom, LayoutAlignCenter, LayoutAlignLeft,
-        LayoutAlignMiddle, LayoutAlignRight, LayoutAlignTop, LayoutBottombar,
+        BrandInstagram, BrandKick, BrandLinkedin, BrandMessenger, BrandOpenSource, BrandOpera,
+        BrandPatreon, BrandPaypal, BrandPinterest, BrandSketch, BrandSnapchat, BrandSpotify,
+        BrandSteam, BrandStripe, BrandTabler, BrandTiktok, BrandTinder, BrandTumblr, BrandTwitter,
+        BrandVercel, BrandVimeo, BrandWeibo, BrandWhatsapp, BrandWindows, BrandX, BrandYoutube,
+        Bread, Briefcase, Briefcase2, Brightness, BrightnessAuto, BrightnessDown, BrightnessUp,
+        Bubble, BubbleText, Bug, BuildingBroadcastTower, Bulb, Butterfly, Cactus, Calculator,
+        Calendar, Camera, Campfire, Candle, Cannabis, Capsule, CapsuleHorizontal, Capture, Car,
+        Car4wd, CarFan, CarSuv, Carambola, Cardboards, Cards, CaretDown, CaretLeft, CaretLeftRight,
+        CaretRight, CaretUp, CaretUpDown, CarouselHorizontal, CarouselVertical, CashBanknote,
+        Category, ChargingPile, ChartArea, ChartAreaLine, ChartBubble, ChartCandle, ChartDonut,
+        ChartDots, ChartGridDots, ChartPie, Cherry, Chess, ChessBishop, ChessKing, ChessKnight,
+        ChessQueen, ChessRook, ChristmasTree, Circle, CircleArrowDown, CircleArrowDownLeft,
+        CircleArrowDownRight, CircleArrowLeft, CircleArrowRight, CircleArrowUp, CircleArrowUpLeft,
+        CircleArrowUpRight, CircleCheck, CircleDot, CircleKey, CircleLetterA, CircleLetterB,
+        CircleLetterC, CircleLetterD, CircleLetterE, CircleLetterF, CircleLetterG, CircleLetterH,
+        CircleLetterI, CircleLetterJ, CircleLetterK, CircleLetterL, CircleLetterM, CircleLetterN,
+        CircleLetterO, CircleLetterP, CircleLetterQ, CircleLetterR, CircleLetterS, CircleLetterT,
+        CircleLetterU, CircleLetterV, CircleLetterW, CircleLetterX, CircleLetterY, CircleLetterZ,
+        CircleNumber0, CircleNumber1, CircleNumber2, CircleNumber3, CircleNumber4, CircleNumber5,
+        CircleNumber6, CircleNumber7, CircleNumber8, CircleNumber9, CirclePercentage, CirclePlus,
+        CircleRectangle, CircleX, Circles, Clock, ClockHour1, ClockHour10, ClockHour11, ClockHour12,
+        ClockHour2, ClockHour3, ClockHour4, ClockHour5, ClockHour6, ClockHour7, ClockHour8,
+        ClockHour9, Cloud, Clover, Clubs, CodeCircle, CodeCircle2, Coin, CoinBitcoin, CoinEuro,
+        CoinMonero, CoinPound, CoinRupee, CoinTaka, CoinYen, CoinYuan, Compass, Cone, Cone2,
+        Contrast, Contrast2, Cookie, CookieMan, CopyCheck, CopyMinus, CopyPlus, CopyX, Copyleft,
+        Copyright, CreditCard, Crop11, Crop169, Crop32, Crop54, Crop75, CropLandscape, CropPortrait,
+        Cross, Dashboard, DeviceCctv, DeviceDesktop, DeviceGamepad3, DeviceHeartMonitor, DeviceImac,
+        DeviceIpad, DeviceMobile, DeviceRemote, DeviceSpeaker, DeviceTablet, DeviceTv, DeviceTvOld,
+        DeviceUnknown, DeviceUsb, DeviceVisionPro, DeviceWatch, Dialpad, Diamond, Diamonds, Dice,
+        Dice1, Dice2, Dice3, Dice4, Dice5, Dice6, DirectionSign, Directions, Disc, Discount,
+        Droplet, DropletHalf, DropletHalf2, Egg, EggCracked, Elevator, ExclamationCircle, Eye,
+        Favicon, Feather, File, FileX, Filter, Flag, Flag2, Flag3, Flask, Flask2, Flower, Folder,
+        Forbid, Forbid2, Fountain, Function, Gauge, Ghost, Ghost2, Ghost3, Gift, GiftCard, Glass,
+        GlassFull, Globe, Golf, Gps, Graph, GuitarPick, Hanger2, Headphones, Heart, HelpCircle,
+        HelpHexagon, HelpOctagon, HelpSquare, HelpSquareRounded, HelpTriangle, Hexagon,
+        HexagonLetterA, HexagonLetterB, HexagonLetterC, HexagonLetterD, HexagonLetterE,
+        HexagonLetterF, HexagonLetterG, HexagonLetterH, HexagonLetterI, HexagonLetterJ,
+        HexagonLetterK, HexagonLetterL, HexagonLetterM, HexagonLetterN, HexagonLetterO,
+        HexagonLetterP, HexagonLetterQ, HexagonLetterR, HexagonLetterS, HexagonLetterT,
+        HexagonLetterU, HexagonLetterV, HexagonLetterW, HexagonLetterX, HexagonLetterY,
+        HexagonLetterZ, HexagonMinus, HexagonNumber0, HexagonNumber1, HexagonNumber2,
+        HexagonNumber3, HexagonNumber4, HexagonNumber5, HexagonNumber6, HexagonNumber7,
+        HexagonNumber8, HexagonNumber9, HexagonPlus, Home, HospitalCircle, Hourglass, Icons,
+        InfoCircle, InfoHexagon, InfoOctagon, InfoSquare, InfoSquareRounded, InfoTriangle,
+        InnerShadowBottom, InnerShadowBottomLeft, InnerShadowBottomRight, InnerShadowLeft,
+        InnerShadowRight, InnerShadowTop, InnerShadowTopLeft, InnerShadowTopRight, Ironing,
+        Ironing1, Ironing2, Ironing3, IroningSteam, Jetpack, JewishStar, Key, Keyboard, Keyframe,
+        KeyframeAlignCenter, KeyframeAlignHorizontal, KeyframeAlignVertical, Keyframes, Label,
+        LabelImportant, LassoPolygon, Layout, Layout2, LayoutAlignBottom, LayoutAlignCenter,
+        LayoutAlignLeft, LayoutAlignMiddle, LayoutAlignRight, LayoutAlignTop, LayoutBottombar,
         LayoutBottombarCollapse, LayoutBottombarExpand, LayoutCards, LayoutDashboard,
         LayoutDistributeHorizontal, LayoutDistributeVertical, LayoutGrid, LayoutKanban, LayoutList,
         LayoutNavbar, LayoutNavbarCollapse, LayoutNavbarExpand, LayoutSidebar,
         LayoutSidebarLeftCollapse, LayoutSidebarLeftExpand, LayoutSidebarRight,
-        LayoutSidebarRightCollapse, LayoutSidebarRightExpand, Lego, LivePhoto, Location, Lock,
-        LockSquareRounded, Lungs, Macro, Magnet, Mail, MailOpened, Man, ManualGearbox, MapPin,
-        MedicalCross, Melon, Message, MessageChatbot, MessageCircle, MessageReport, Meteor,
-        MichelinStar, Mickey, Microphone, Microwave, MilitaryRank, Milk, MoodAngry, MoodConfuzed,
-        MoodCrazyHappy, MoodEmpty, MoodHappy, MoodKid, MoodNeutral, MoodSad, MoodSmile, MoodWrrr,
-        Moon, Mountain, Mouse, Mug, Mushroom, Navigation, Octagon, Oval, OvalVertical, Paint,
-        PanoramaHorizontal, PanoramaVertical, ParkingCircle, Paw, Pennant, Pennant2, Pentagon,
-        Phone, Photo, PictureInPicture, PictureInPictureTop, Pill, Pin, Pinned, Pizza, PlayCard1,
-        PlayCard10, PlayCard2, PlayCard3, PlayCard4, PlayCard5, PlayCard6, PlayCard7, PlayCard8,
-        PlayCard9, PlayCardA, PlayCardJ, PlayCardK, PlayCardQ, PlayCardStar, PlayerEject,
-        PlayerPause, PlayerPlay, PlayerRecord, PlayerSkipBack, PlayerSkipForward, PlayerStop,
-        PlayerTrackNext, PlayerTrackPrev, Point, Pointer, Polaroid, Poo, Presentation,
-        PresentationAnalytics, Puzzle, Radar, Radioactive, Receipt, Rectangle, RectangleVertical,
-        RelationManyToMany, RelationOneToMany, RelationOneToOne, Replace, Rosette, RosetteDiscount,
-        RosetteDiscountCheck, Salad, ScubaDivingTank, Section, Seeding, Settings, Shield,
-        ShieldCheck, ShieldCheckered, ShieldHalf, ShieldLock, Shirt, ShoppingCart, SignLeft,
-        SignRight, Sitemap, SortAscending2, SortAscendingShapes, SortDescending2,
-        SortDescendingShapes, Soup, Spade, Square, SquareArrowDown, SquareArrowLeft,
-        SquareArrowRight, SquareArrowUp, SquareAsterisk, SquareCheck, SquareChevronDown,
-        SquareChevronLeft, SquareChevronRight, SquareChevronUp, SquareChevronsDown,
-        SquareChevronsLeft, SquareChevronsRight, SquareChevronsUp, SquareDot, SquareF0, SquareF1,
-        SquareF2, SquareF3, SquareF4, SquareF5, SquareF6, SquareF7, SquareF8, SquareF9,
-        SquareLetterA, SquareLetterB, SquareLetterC, SquareLetterD, SquareLetterE, SquareLetterF,
-        SquareLetterG, SquareLetterH, SquareLetterI, SquareLetterJ, SquareLetterK, SquareLetterL,
-        SquareLetterM, SquareLetterN, SquareLetterO, SquareLetterP, SquareLetterQ, SquareLetterR,
-        SquareLetterS, SquareLetterT, SquareLetterU, SquareLetterV, SquareLetterW, SquareLetterX,
-        SquareLetterY, SquareLetterZ, SquareMinus, SquareNumber0, SquareNumber1, SquareNumber2,
-        SquareNumber3, SquareNumber4, SquareNumber5, SquareNumber6, SquareNumber7, SquareNumber8,
-        SquareNumber9, SquareRotated, SquareRounded, SquareRoundedArrowDown, SquareRoundedArrowLeft,
-        SquareRoundedArrowRight, SquareRoundedArrowUp, SquareRoundedCheck, SquareRoundedChevronDown,
-        SquareRoundedChevronLeft, SquareRoundedChevronRight, SquareRoundedChevronUp,
-        SquareRoundedChevronsDown, SquareRoundedChevronsLeft, SquareRoundedChevronsRight,
-        SquareRoundedChevronsUp, SquareRoundedLetterA, SquareRoundedLetterB, SquareRoundedLetterC,
-        SquareRoundedLetterD, SquareRoundedLetterE, SquareRoundedLetterF, SquareRoundedLetterG,
-        SquareRoundedLetterH, SquareRoundedLetterI, SquareRoundedLetterJ, SquareRoundedLetterK,
-        SquareRoundedLetterL, SquareRoundedLetterM, SquareRoundedLetterN, SquareRoundedLetterO,
-        SquareRoundedLetterP, SquareRoundedLetterQ, SquareRoundedLetterR, SquareRoundedLetterS,
-        SquareRoundedLetterT, SquareRoundedLetterU, SquareRoundedLetterV, SquareRoundedLetterW,
-        SquareRoundedLetterX, SquareRoundedLetterY, SquareRoundedLetterZ, SquareRoundedMinus,
-        SquareRoundedNumber0, SquareRoundedNumber1, SquareRoundedNumber2, SquareRoundedNumber3,
-        SquareRoundedNumber4, SquareRoundedNumber5, SquareRoundedNumber6, SquareRoundedNumber7,
-        SquareRoundedNumber8, SquareRoundedNumber9, SquareRoundedPlus, SquareRoundedX, SquareX,
-        Squares, Stack, Stack2, Stack3, Star, StarHalf, Stars, SteeringWheel, Sun, Sunglasses,
-        SwipeDown, SwipeLeft, SwipeRight, SwipeUp, Table, Tag, Tags, TestPipe2, ThumbDown, ThumbUp,
-        TiltShift, TimelineEvent, ToggleLeft, ToggleRight, Transform, TransitionBottom,
-        TransitionLeft, TransitionRight, TransitionTop, Trash, TrashX, Triangle, TriangleInverted,
-        TriangleSquareCircle, Trophy, Umbrella, User, Versions, Windmill, Woman, XboxA, XboxB,
-        XboxX, XboxY, YinYang, Zeppelin, Zoom, ZoomCancel, ZoomCheck, ZoomCode, ZoomExclamation,
-        ZoomIn, ZoomInArea, ZoomMoney, ZoomOut, ZoomOutArea, ZoomPan, ZoomQuestion, ZoomScan)
+        LayoutSidebarRightCollapse, LayoutSidebarRightExpand, Lego, LivePhoto, LiveView, Location,
+        Lock, LockSquareRounded, Lungs, Macro, Magnet, Mail, MailOpened, Man, ManualGearbox, MapPin,
+        MedicalCross, Meeple, Melon, Message, Message2, MessageChatbot, MessageCircle,
+        MessageReport, Meteor, MichelinStar, Mickey, Microphone, Microwave, MilitaryRank, Milk,
+        MoodAngry, MoodConfuzed, MoodCrazyHappy, MoodEmpty, MoodHappy, MoodKid, MoodNeutral,
+        MoodSad, MoodSmile, MoodWrrr, Moon, Mountain, Mouse, Mug, Mushroom, Navigation, Nurse,
+        Octagon, Oval, OvalVertical, Paint, Palette, PanoramaHorizontal, PanoramaVertical,
+        ParkingCircle, Paw, Pennant, Pennant2, Pentagon, Phone, Photo, PictureInPicture,
+        PictureInPictureTop, Pill, Pin, Pinned, Pizza, PlayCard1, PlayCard10, PlayCard2, PlayCard3,
+        PlayCard4, PlayCard5, PlayCard6, PlayCard7, PlayCard8, PlayCard9, PlayCardA, PlayCardJ,
+        PlayCardK, PlayCardQ, PlayCardStar, PlayerEject, PlayerPause, PlayerPlay, PlayerRecord,
+        PlayerSkipBack, PlayerSkipForward, PlayerStop, PlayerTrackNext, PlayerTrackPrev, Point,
+        Pointer, Polaroid, Poo, Presentation, PresentationAnalytics, Puzzle, Quote, Radar,
+        Radioactive, Receipt, Rectangle, RectangleVertical, RelationManyToMany, RelationOneToMany,
+        RelationOneToOne, Replace, Rosette, RosetteDiscount, RosetteDiscountCheck, Salad,
+        ScubaDivingTank, Section, Seeding, Settings, Shield, ShieldCheck, ShieldCheckered,
+        ShieldHalf, ShieldLock, Shirt, ShoppingCart, SignLeft, SignRight, Sitemap, SortAscending2,
+        SortAscendingShapes, SortDescending2, SortDescendingShapes, Soup, Spade, Square,
+        SquareArrowDown, SquareArrowLeft, SquareArrowRight, SquareArrowUp, SquareAsterisk,
+        SquareCheck, SquareChevronDown, SquareChevronLeft, SquareChevronRight, SquareChevronUp,
+        SquareChevronsDown, SquareChevronsLeft, SquareChevronsRight, SquareChevronsUp, SquareDot,
+        SquareF0, SquareF1, SquareF2, SquareF3, SquareF4, SquareF5, SquareF6, SquareF7, SquareF8,
+        SquareF9, SquareLetterA, SquareLetterB, SquareLetterC, SquareLetterD, SquareLetterE,
+        SquareLetterF, SquareLetterG, SquareLetterH, SquareLetterI, SquareLetterJ, SquareLetterK,
+        SquareLetterL, SquareLetterM, SquareLetterN, SquareLetterO, SquareLetterP, SquareLetterQ,
+        SquareLetterR, SquareLetterS, SquareLetterT, SquareLetterU, SquareLetterV, SquareLetterW,
+        SquareLetterX, SquareLetterY, SquareLetterZ, SquareMinus, SquareNumber0, SquareNumber1,
+        SquareNumber2, SquareNumber3, SquareNumber4, SquareNumber5, SquareNumber6, SquareNumber7,
+        SquareNumber8, SquareNumber9, SquareRotated, SquareRounded, SquareRoundedArrowDown,
+        SquareRoundedArrowLeft, SquareRoundedArrowRight, SquareRoundedArrowUp, SquareRoundedCheck,
+        SquareRoundedChevronDown, SquareRoundedChevronLeft, SquareRoundedChevronRight,
+        SquareRoundedChevronUp, SquareRoundedChevronsDown, SquareRoundedChevronsLeft,
+        SquareRoundedChevronsRight, SquareRoundedChevronsUp, SquareRoundedLetterA,
+        SquareRoundedLetterB, SquareRoundedLetterC, SquareRoundedLetterD, SquareRoundedLetterE,
+        SquareRoundedLetterF, SquareRoundedLetterG, SquareRoundedLetterH, SquareRoundedLetterI,
+        SquareRoundedLetterJ, SquareRoundedLetterK, SquareRoundedLetterL, SquareRoundedLetterM,
+        SquareRoundedLetterN, SquareRoundedLetterO, SquareRoundedLetterP, SquareRoundedLetterQ,
+        SquareRoundedLetterR, SquareRoundedLetterS, SquareRoundedLetterT, SquareRoundedLetterU,
+        SquareRoundedLetterV, SquareRoundedLetterW, SquareRoundedLetterX, SquareRoundedLetterY,
+        SquareRoundedLetterZ, SquareRoundedMinus, SquareRoundedNumber0, SquareRoundedNumber1,
+        SquareRoundedNumber2, SquareRoundedNumber3, SquareRoundedNumber4, SquareRoundedNumber5,
+        SquareRoundedNumber6, SquareRoundedNumber7, SquareRoundedNumber8, SquareRoundedNumber9,
+        SquareRoundedPlus, SquareRoundedX, SquareX, Squares, Stack, Stack2, Stack3, Star, StarHalf,
+        Stars, SteeringWheel, Sun, Sunglasses, SwipeDown, SwipeLeft, SwipeRight, SwipeUp, Table,
+        Tag, Tags, TestPipe2, ThumbDown, ThumbUp, TiltShift, TimelineEvent, ToggleLeft, ToggleRight,
+        Transform, TransitionBottom, TransitionLeft, TransitionRight, TransitionTop, Trash, TrashX,
+        Triangle, TriangleInverted, TriangleSquareCircle, Trophy, Umbrella, User, Versions, Video,
+        Windmill, Windsock, Woman, XboxA, XboxB, XboxX, XboxY, YinYang, Zeppelin, Zoom, ZoomCancel,
+        ZoomCheck, ZoomCode, ZoomExclamation, ZoomIn, ZoomInArea, ZoomMoney, ZoomOut, ZoomOutArea,
+        ZoomPan, ZoomQuestion, ZoomScan)
     return __AllIcons!!
   }

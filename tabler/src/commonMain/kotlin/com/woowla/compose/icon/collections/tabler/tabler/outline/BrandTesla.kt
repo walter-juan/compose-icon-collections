@@ -13,38 +13,37 @@ import androidx.compose.ui.graphics.vector.path
 import androidx.compose.ui.unit.dp
 import com.woowla.compose.icon.collections.tabler.tabler.OutlineGroup
 
-public val OutlineGroup.Nurse: ImageVector
+public val OutlineGroup.BrandTesla: ImageVector
     get() {
-        if (_nurse != null) {
-            return _nurse!!
+        if (_brandTesla != null) {
+            return _brandTesla!!
         }
-        _nurse = Builder(name = "Nurse", defaultWidth = 24.0.dp, defaultHeight = 24.0.dp,
+        _brandTesla = Builder(name = "BrandTesla", defaultWidth = 24.0.dp, defaultHeight = 24.0.dp,
                 viewportWidth = 24.0f, viewportHeight = 24.0f).apply {
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(12.0f, 5.0f)
-                curveToRelative(2.941f, 0.0f, 6.685f, 1.537f, 9.0f, 3.0f)
-                lineToRelative(-2.0f, 11.0f)
-                horizontalLineToRelative(-14.0f)
-                lineToRelative(-2.0f, -11.0f)
-                curveToRelative(2.394f, -1.513f, 6.168f, -3.005f, 9.0f, -3.0f)
+                moveTo(12.0f, 21.0f)
+                lineToRelative(3.0f, -11.0f)
+                curveToRelative(2.359f, 0.0f, 3.0f, 0.0f, 3.0f, 1.0f)
+                curveToRelative(0.0f, 0.0f, 1.18f, -1.745f, 2.0f, -3.0f)
+                curveToRelative(-3.077f, -1.464f, -6.0f, -1.0f, -6.0f, -1.0f)
+                lineToRelative(-2.0f, 2.0f)
+                lineToRelative(-2.0f, -2.0f)
+                reflectiveCurveToRelative(-2.923f, -0.464f, -6.0f, 1.0f)
+                curveToRelative(0.82f, 1.255f, 2.0f, 3.0f, 2.0f, 3.0f)
+                curveToRelative(0.0f, -1.0f, 0.744f, -1.0f, 3.0f, -1.0f)
+                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(10.0f, 12.0f)
-                horizontalLineToRelative(4.0f)
-            }
-            path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
-                    StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(12.0f, 10.0f)
-                verticalLineToRelative(4.0f)
+                moveTo(20.0f, 5.0f)
+                curveToRelative(-5.114f, -2.0f, -10.886f, -2.0f, -16.0f, 0.0f)
             }
         }
         .build()
-        return _nurse!!
+        return _brandTesla!!
     }
 
-private var _nurse: ImageVector? = null
+private var _brandTesla: ImageVector? = null

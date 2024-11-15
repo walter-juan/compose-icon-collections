@@ -43,14 +43,6 @@
             ]
         },
         {
-            "name": "Tabler",
-            "value": "tabler",
-            "categories": [
-                "filled",
-                "outline"
-            ]
-        },
-        {
             "name": "Feather",
             "value": "feather",
             "categories": [
@@ -95,6 +87,14 @@
             "value": "simpleicons",
             "categories": [
                 ""
+            ]
+        },
+        {
+            "name": "Tabler",
+            "value": "tabler",
+            "categories": [
+                "filled",
+                "outline"
             ]
         }
     ]

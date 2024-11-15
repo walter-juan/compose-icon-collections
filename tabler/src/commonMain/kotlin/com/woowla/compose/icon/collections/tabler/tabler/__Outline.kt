@@ -906,6 +906,7 @@ import com.woowla.compose.icon.collections.tabler.tabler.outline.BrandTeams
 import com.woowla.compose.icon.collections.tabler.tabler.outline.BrandTed
 import com.woowla.compose.icon.collections.tabler.tabler.outline.BrandTelegram
 import com.woowla.compose.icon.collections.tabler.tabler.outline.BrandTerraform
+import com.woowla.compose.icon.collections.tabler.tabler.outline.BrandTesla
 import com.woowla.compose.icon.collections.tabler.tabler.outline.BrandTether
 import com.woowla.compose.icon.collections.tabler.tabler.outline.BrandThingiverse
 import com.woowla.compose.icon.collections.tabler.tabler.outline.BrandThreads
@@ -1442,6 +1443,7 @@ import com.woowla.compose.icon.collections.tabler.tabler.outline.ClipboardHeart
 import com.woowla.compose.icon.collections.tabler.tabler.outline.ClipboardList
 import com.woowla.compose.icon.collections.tabler.tabler.outline.ClipboardOff
 import com.woowla.compose.icon.collections.tabler.tabler.outline.ClipboardPlus
+import com.woowla.compose.icon.collections.tabler.tabler.outline.ClipboardSearch
 import com.woowla.compose.icon.collections.tabler.tabler.outline.ClipboardSmile
 import com.woowla.compose.icon.collections.tabler.tabler.outline.ClipboardText
 import com.woowla.compose.icon.collections.tabler.tabler.outline.ClipboardTypography
@@ -4454,7 +4456,9 @@ import com.woowla.compose.icon.collections.tabler.tabler.outline.TableShare
 import com.woowla.compose.icon.collections.tabler.tabler.outline.TableShortcut
 import com.woowla.compose.icon.collections.tabler.tabler.outline.TableSpark
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Tag
+import com.woowla.compose.icon.collections.tabler.tabler.outline.TagMinus
 import com.woowla.compose.icon.collections.tabler.tabler.outline.TagOff
+import com.woowla.compose.icon.collections.tabler.tabler.outline.TagPlus
 import com.woowla.compose.icon.collections.tabler.tabler.outline.TagStarred
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Tags
 import com.woowla.compose.icon.collections.tabler.tabler.outline.TagsOff
@@ -5046,7 +5050,7 @@ public val OutlineGroup.AllIcons: ____KtList<ImageVector>
         BrandStocktwits, BrandStorj, BrandStorybook, BrandStorytel, BrandStrava, BrandStripe,
         BrandSublimeText, BrandSugarizer, BrandSupabase, BrandSuperhuman, BrandSupernova,
         BrandSurfshark, BrandSvelte, BrandSwift, BrandSymfony, BrandTabler, BrandTailwind,
-        BrandTaobao, BrandTeams, BrandTed, BrandTelegram, BrandTerraform, BrandTether,
+        BrandTaobao, BrandTeams, BrandTed, BrandTelegram, BrandTerraform, BrandTesla, BrandTether,
         BrandThingiverse, BrandThreads, BrandThreejs, BrandTidal, BrandTiktok, BrandTinder,
         BrandTopbuzz, BrandTorchain, BrandToyota, BrandTrello, BrandTripadvisor, BrandTumblr,
         BrandTwilio, BrandTwitch, BrandTwitter, BrandTypescript, BrandUber, BrandUbuntu, BrandUnity,
@@ -5136,9 +5140,9 @@ public val OutlineGroup.AllIcons: ____KtList<ImageVector>
         CircuitGround, CircuitGroundDigital, CircuitInductor, CircuitMotor, CircuitPushbutton,
         CircuitResistor, CircuitSwitchClosed, CircuitSwitchOpen, CircuitVoltmeter, ClearAll,
         ClearFormatting, Click, CliffJumping, Clipboard, ClipboardCheck, ClipboardCopy,
-        ClipboardData, ClipboardHeart, ClipboardList, ClipboardOff, ClipboardPlus, ClipboardSmile,
-        ClipboardText, ClipboardTypography, ClipboardX, Clock, Clock12, Clock2, Clock24,
-        ClockBitcoin, ClockBolt, ClockCancel, ClockCheck, ClockCode, ClockCog, ClockDollar,
+        ClipboardData, ClipboardHeart, ClipboardList, ClipboardOff, ClipboardPlus, ClipboardSearch,
+        ClipboardSmile, ClipboardText, ClipboardTypography, ClipboardX, Clock, Clock12, Clock2,
+        Clock24, ClockBitcoin, ClockBolt, ClockCancel, ClockCheck, ClockCode, ClockCog, ClockDollar,
         ClockDown, ClockEdit, ClockExclamation, ClockHeart, ClockHour1, ClockHour10, ClockHour11,
         ClockHour12, ClockHour2, ClockHour3, ClockHour4, ClockHour5, ClockHour6, ClockHour7,
         ClockHour8, ClockHour9, ClockMinus, ClockOff, ClockPause, ClockPin, ClockPlay, ClockPlus,
@@ -5591,9 +5595,9 @@ public val OutlineGroup.AllIcons: ____KtList<ImageVector>
         Swimming, Swipe, SwipeDown, SwipeLeft, SwipeRight, SwipeUp, Switch, Switch2, Switch3,
         SwitchHorizontal, SwitchVertical, Sword, SwordOff, Swords, Table, TableAlias, TableColumn,
         TableDown, TableExport, TableHeart, TableImport, TableMinus, TableOff, TableOptions,
-        TablePlus, TableRow, TableShare, TableShortcut, TableSpark, Tag, TagOff, TagStarred, Tags,
-        TagsOff, Tallymark1, Tallymark2, Tallymark3, Tallymark4, Tallymarks, Tank, Target,
-        TargetArrow, TargetOff, Tax, TaxEuro, TaxPound, Teapot, Telescope, TelescopeOff,
+        TablePlus, TableRow, TableShare, TableShortcut, TableSpark, Tag, TagMinus, TagOff, TagPlus,
+        TagStarred, Tags, TagsOff, Tallymark1, Tallymark2, Tallymark3, Tallymark4, Tallymarks, Tank,
+        Target, TargetArrow, TargetOff, Tax, TaxEuro, TaxPound, Teapot, Telescope, TelescopeOff,
         Temperature, TemperatureCelsius, TemperatureFahrenheit, TemperatureMinus, TemperatureOff,
         TemperaturePlus, TemperatureSnow, TemperatureSun, Template, TemplateOff, Tent, TentOff,
         Terminal, Terminal2, TestPipe, TestPipe2, TestPipeOff, Tex, TextCaption, TextColor,
