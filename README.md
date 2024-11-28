@@ -7,6 +7,12 @@ Compose Multiplatform open source icon collections
 
 <a target="_blank" href="https://jetc.dev/issues/237.html"><img src="https://img.shields.io/badge/As_Seen_In-jetc.dev_Newsletter_Issue_%23237-blue?logo=Jetpack+Compose&amp;logoColor=white" alt="As Seen In - jetc.dev Newsletter Issue #237"></a>
 
+
+💻 Desktop | 📱 Android
+:------:|:------:|
+<img src="https://github.com/user-attachments/assets/68d3bd8b-cd0b-4869-97d1-536949421c4f" width="300" />|<img src="https://github.com/user-attachments/assets/0ab9703d-f9e9-45c7-8a63-36ec971fa4d1" height="300" />
+
+
 ## How to use it
 
 Available in [Maven Central](https://central.sonatype.com/namespace/com.woowla.compose.icon.collections)
