@@ -9,7 +9,7 @@ Compose Multiplatform open source icon collections. Available platforms: Android
 
 Android | iOS | Desktop | Web
 :------:|:------:|:------:|:------:|
-<img src="https://github.com/user-attachments/assets/0ab9703d-f9e9-45c7-8a63-36ec971fa4d1" height="300" />|<img src="https://github.com/user-attachments/assets/2bcbcfd9-c640-4f83-911f-940a11a11851" height="300" />|<img src="https://github.com/user-attachments/assets/68d3bd8b-cd0b-4869-97d1-536949421c4f" width="300" />|<img src="https://github.com/user-attachments/assets/4716b9ac-352c-41bc-b674-7f2e7abf9547" height="300" />
+<img width="125" src="https://github.com/user-attachments/assets/0ab9703d-f9e9-45c7-8a63-36ec971fa4d1"/>|<img width="175" src="https://github.com/user-attachments/assets/2bcbcfd9-c640-4f83-911f-940a11a11851"/>|<img width="250" src="https://github.com/user-attachments/assets/68d3bd8b-cd0b-4869-97d1-536949421c4f"/>|<img width="250" src="https://github.com/user-attachments/assets/4716b9ac-352c-41bc-b674-7f2e7abf9547"/>
 
 ## How to use it
 
