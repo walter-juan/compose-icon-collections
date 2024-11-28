@@ -1,6 +1,6 @@
 # Compose icon collections
 
-Compose Multiplatform open source icon collections. Available platforms: Androidm, iOS, Desktop (JVM), Web (Wasm)
+Compose Multiplatform open source icon collections. Available platforms: Android, iOS, Desktop (JVM), Web (Wasm)
 
 [![Platform](https://img.shields.io/badge/Platform-ComposeMultiplatform-brightgreen.svg)]()
 [![MIT License](https://img.shields.io/github/license/walter-juan/compose-icon-collections)](LICENSE)
