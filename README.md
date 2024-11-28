@@ -1,17 +1,15 @@
-# Compose icon collections
-
-Compose Multiplatform open source icon collections
-
 [![Platform](https://img.shields.io/badge/Platform-ComposeMultiplatform-brightgreen.svg)]()
 [![MIT License](https://img.shields.io/github/license/walter-juan/compose-icon-collections)](LICENSE)
 
 <a target="_blank" href="https://jetc.dev/issues/237.html"><img src="https://img.shields.io/badge/As_Seen_In-jetc.dev_Newsletter_Issue_%23237-blue?logo=Jetpack+Compose&amp;logoColor=white" alt="As Seen In - jetc.dev Newsletter Issue #237"></a>
 
+# Compose icon collections
 
-💻 Desktop | 📱 Android
-:------:|:------:|
-<img src="https://github.com/user-attachments/assets/68d3bd8b-cd0b-4869-97d1-536949421c4f" width="300" />|<img src="https://github.com/user-attachments/assets/0ab9703d-f9e9-45c7-8a63-36ec971fa4d1" height="300" />
+Compose Multiplatform open source icon collections. Available platforms: Androidm, iOS, Desktop (JVM), Web (Wasm)
 
+Android | iOS | Desktop | Web
+:------:|:------:|:------:|:------:|
+<img src="https://github.com/user-attachments/assets/0ab9703d-f9e9-45c7-8a63-36ec971fa4d1" height="300" />|<img src="https://github.com/user-attachments/assets/2bcbcfd9-c640-4f83-911f-940a11a11851" height="300" />|<img src="https://github.com/user-attachments/assets/68d3bd8b-cd0b-4869-97d1-536949421c4f" width="300" />|<img src="https://github.com/user-attachments/assets/4716b9ac-352c-41bc-b674-7f2e7abf9547" height="300" />
 
 ## How to use it
 
