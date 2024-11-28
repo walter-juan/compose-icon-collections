@@ -1,11 +1,11 @@
+# Compose icon collections
+
+Compose Multiplatform open source icon collections. Available platforms: Androidm, iOS, Desktop (JVM), Web (Wasm)
+
 [![Platform](https://img.shields.io/badge/Platform-ComposeMultiplatform-brightgreen.svg)]()
 [![MIT License](https://img.shields.io/github/license/walter-juan/compose-icon-collections)](LICENSE)
 
 <a target="_blank" href="https://jetc.dev/issues/237.html"><img src="https://img.shields.io/badge/As_Seen_In-jetc.dev_Newsletter_Issue_%23237-blue?logo=Jetpack+Compose&amp;logoColor=white" alt="As Seen In - jetc.dev Newsletter Issue #237"></a>
-
-# Compose icon collections
-
-Compose Multiplatform open source icon collections. Available platforms: Androidm, iOS, Desktop (JVM), Web (Wasm)
 
 Android | iOS | Desktop | Web
 :------:|:------:|:------:|:------:|
