@@ -16,34 +16,28 @@ public val BrandsGroup.Bluesky: ImageVector
         if (_bluesky != null) {
             return _bluesky!!
         }
-        _bluesky = Builder(name = "Bluesky", defaultWidth = 576.0.dp, defaultHeight = 512.0.dp,
-                viewportWidth = 576.0f, viewportHeight = 512.0f).apply {
+        _bluesky = Builder(name = "Bluesky", defaultWidth = 512.0.dp, defaultHeight = 512.0.dp,
+                viewportWidth = 512.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(407.8f, 294.7f)
-                curveToRelative(-3.3f, -0.4f, -6.7f, -0.8f, -10.0f, -1.3f)
-                curveToRelative(3.4f, 0.4f, 6.7f, 0.9f, 10.0f, 1.3f)
-                close()
-                moveTo(288.0f, 227.1f)
-                curveTo(261.9f, 176.4f, 190.9f, 81.9f, 124.9f, 35.3f)
-                curveTo(61.6f, -9.4f, 37.5f, -1.7f, 21.6f, 5.5f)
-                curveTo(3.3f, 13.8f, 0.0f, 41.9f, 0.0f, 58.4f)
-                reflectiveCurveTo(9.1f, 194.0f, 15.0f, 213.9f)
-                curveToRelative(19.5f, 65.7f, 89.1f, 87.9f, 153.2f, 80.7f)
-                curveToRelative(3.3f, -0.5f, 6.6f, -0.9f, 10.0f, -1.4f)
-                curveToRelative(-3.3f, 0.5f, -6.6f, 1.0f, -10.0f, 1.4f)
-                curveTo(74.3f, 308.6f, -9.1f, 342.8f, 100.3f, 464.5f)
-                curveTo(220.6f, 589.1f, 265.1f, 437.8f, 288.0f, 361.1f)
-                curveToRelative(22.9f, 76.7f, 49.2f, 222.5f, 185.6f, 103.4f)
-                curveToRelative(102.4f, -103.4f, 28.1f, -156.0f, -65.8f, -169.9f)
-                curveToRelative(-3.3f, -0.4f, -6.7f, -0.8f, -10.0f, -1.3f)
-                curveToRelative(3.4f, 0.4f, 6.7f, 0.9f, 10.0f, 1.3f)
-                curveToRelative(64.1f, 7.1f, 133.6f, -15.1f, 153.2f, -80.7f)
-                curveTo(566.9f, 194.0f, 576.0f, 75.0f, 576.0f, 58.4f)
-                reflectiveCurveToRelative(-3.3f, -44.7f, -21.6f, -52.9f)
-                curveToRelative(-15.8f, -7.1f, -40.0f, -14.9f, -103.2f, 29.8f)
-                curveTo(385.1f, 81.9f, 314.1f, 176.4f, 288.0f, 227.1f)
+                moveTo(111.8f, 62.2f)
+                curveTo(170.2f, 105.9f, 233.0f, 194.7f, 256.0f, 242.4f)
+                curveToRelative(23.0f, -47.6f, 85.8f, -136.4f, 144.2f, -180.2f)
+                curveToRelative(42.1f, -31.6f, 110.3f, -56.0f, 110.3f, 21.8f)
+                curveToRelative(0.0f, 15.5f, -8.9f, 130.5f, -14.1f, 149.2f)
+                curveTo(478.2f, 298.0f, 412.0f, 314.6f, 353.1f, 304.5f)
+                curveToRelative(102.9f, 17.5f, 129.1f, 75.5f, 72.5f, 133.5f)
+                curveToRelative(-107.4f, 110.2f, -154.3f, -27.6f, -166.3f, -62.9f)
+                lineToRelative(0.0f, 0.0f)
+                curveToRelative(-1.7f, -4.9f, -2.6f, -7.8f, -3.3f, -7.8f)
+                reflectiveCurveToRelative(-1.6f, 3.0f, -3.3f, 7.8f)
+                lineToRelative(0.0f, 0.0f)
+                curveToRelative(-12.0f, 35.3f, -59.0f, 173.1f, -166.3f, 62.9f)
+                curveToRelative(-56.5f, -58.0f, -30.4f, -116.0f, 72.5f, -133.5f)
+                curveTo(100.0f, 314.6f, 33.8f, 298.0f, 15.7f, 233.1f)
+                curveTo(10.4f, 214.4f, 1.5f, 99.4f, 1.5f, 83.9f)
+                curveToRelative(0.0f, -77.8f, 68.2f, -53.4f, 110.3f, -21.8f)
                 close()
             }
         }
