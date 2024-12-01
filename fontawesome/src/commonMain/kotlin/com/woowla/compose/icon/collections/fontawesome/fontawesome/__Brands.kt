@@ -96,6 +96,7 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Creati
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.CreativeCommonsShare
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.CreativeCommonsZero
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.CriticalRole
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Css
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Css3
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Css3Alt
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Cuttlefish
@@ -145,6 +146,7 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Fantas
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Fedex
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Fedora
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Figma
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.FilesPinwheel
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Firefox
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.FirefoxBrowser
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.FirstOrder
@@ -369,6 +371,7 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Speaka
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.SpeakerDeck
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Spotify
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.SquareBehance
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.SquareBluesky
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.SquareDribbble
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.SquareFacebook
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.SquareFontAwesome
@@ -521,52 +524,52 @@ public val BrandsGroup.AllIcons: ____KtList<ImageVector>
         CreativeCommonsNc, CreativeCommonsNcEu, CreativeCommonsNcJp, CreativeCommonsNd,
         CreativeCommonsPd, CreativeCommonsPdAlt, CreativeCommonsRemix, CreativeCommonsSa,
         CreativeCommonsSampling, CreativeCommonsSamplingPlus, CreativeCommonsShare,
-        CreativeCommonsZero, CriticalRole, Css3, Css3Alt, Cuttlefish, DAndD, DAndDBeyond,
+        CreativeCommonsZero, CriticalRole, Css, Css3, Css3Alt, Cuttlefish, DAndD, DAndDBeyond,
         Dailymotion, DartLang, Dashcube, Debian, Deezer, Delicious, Deploydog, Deskpro, Dev,
         Deviantart, Dhl, Diaspora, Digg, DigitalOcean, Discord, Discourse, Dochub, Docker,
         Draft2digital, Dribbble, Dropbox, Drupal, Dyalog, Earlybirds, Ebay, Edge, EdgeLegacy,
         Elementor, Ello, Ember, Empire, Envira, Erlang, Ethereum, Etsy, Evernote, Expeditedssl,
-        Facebook, FacebookF, FacebookMessenger, FantasyFlightGames, Fedex, Fedora, Figma, Firefox,
-        FirefoxBrowser, FirstOrder, FirstOrderAlt, Firstdraft, Flickr, Flipboard, Flutter, Fly,
-        FontAwesomeBrand, Fonticons, FonticonsFi, FortAwesome, FortAwesomeAlt, Forumbee, Foursquare,
-        FreeCodeCamp, Freebsd, Fulcrum, GalacticRepublic, GalacticSenate, GetPocket, Gg, GgCircle,
-        Git, GitAlt, Github, GithubAlt, Gitkraken, Gitlab, Gitter, Glide, GlideG, Gofore, Golang,
-        Goodreads, GoodreadsG, Google, GoogleDrive, GooglePay, GooglePlay, GooglePlus, GooglePlusG,
-        GoogleScholar, GoogleWallet, Gratipay, Grav, Gripfire, Grunt, Guilded, Gulp, HackerNews,
-        Hackerrank, Hashnode, Hips, HireAHelper, Hive, Hooli, Hornbill, Hotjar, Houzz, Html5,
-        Hubspot, Ideal, Imdb, Instagram, Instalod, Intercom, InternetExplorer, Invision, Ioxhost,
-        ItchIo, Itunes, ItunesNote, Java, JediOrder, Jenkins, Jira, Joget, Joomla, Js, Jsfiddle,
-        Jxl, Kaggle, Keybase, Keycdn, Kickstarter, KickstarterK, Korvue, Laravel, Lastfm, Leanpub,
-        Less, Letterboxd, Line, Linkedin, LinkedinIn, Linode, Linux, Lyft, Magento, Mailchimp,
-        Mandalorian, Markdown, Mastodon, Maxcdn, Mdb, Medapps, Medium, Medrt, Meetup, Megaport,
-        Mendeley, Meta, Microblog, Microsoft, Mintbit, Mix, Mixcloud, Mixer, Mizuni, Modx, Monero,
-        Napster, Neos, NfcDirectional, NfcSymbol, Nimblr, Node, NodeJs, Npm, Ns8, Number42Group,
-        Number500Px, Nutritionix, OctopusDeploy, Odnoklassniki, Odysee, OldRepublic, Opencart,
-        Openid, Opensuse, Opera, OptinMonster, Orcid, Osi, Padlet, Page4, Pagelines, Palfed,
-        Patreon, Paypal, Perbyte, Periscope, Phabricator, PhoenixFramework, PhoenixSquadron, Php,
-        PiedPiper, PiedPiperAlt, PiedPiperHat, PiedPiperPp, Pinterest, PinterestP, Pix, Pixiv,
-        Playstation, ProductHunt, Pushed, Python, Qq, Quinscape, Quora, RProject, RaspberryPi,
-        Ravelry, React, Reacteurope, Readme, Rebel, RedRiver, Reddit, RedditAlien, Redhat, Renren,
-        Replyd, Researchgate, Resolving, Rev, Rocketchat, Rockrms, Rust, Safari, Salesforce, Sass,
-        Schlix, Screenpal, Scribd, Searchengin, Sellcast, Sellsy, Servicestack, Shirtsinbulk,
-        Shoelace, Shopify, Shopware, SignalMessenger, Simplybuilt, Sistrix, Sith, Sitrox, Sketch,
-        Skyatlas, Skype, Slack, Slideshare, Snapchat, Soundcloud, Sourcetree, SpaceAwesome, Speakap,
-        SpeakerDeck, Spotify, SquareBehance, SquareDribbble, SquareFacebook, SquareFontAwesome,
-        SquareFontAwesomeStroke, SquareGit, SquareGithub, SquareGitlab, SquareGooglePlus,
-        SquareHackerNews, SquareInstagram, SquareJs, SquareLastfm, SquareLetterboxd,
-        SquareOdnoklassniki, SquarePiedPiper, SquarePinterest, SquareReddit, SquareSnapchat,
-        SquareSteam, SquareThreads, SquareTumblr, SquareTwitter, SquareUpwork, SquareViadeo,
-        SquareVimeo, SquareWebAwesome, SquareWebAwesomeStroke, SquareWhatsapp, SquareXTwitter,
-        SquareXing, SquareYoutube, Squarespace, StackExchange, StackOverflow, Stackpath, Staylinked,
-        Steam, SteamSymbol, StickerMule, Strava, Stripe, StripeS, Stubber, Studiovinari,
-        Stumbleupon, StumbleuponCircle, Superpowers, Supple, Suse, Swift, Symfony, Teamspeak,
-        Telegram, TencentWeibo, TheRedYeti, Themeco, Themeisle, ThinkPeaks, Threads, Tiktok,
-        TradeFederation, Trello, Tumblr, Twitch, Twitter, Typo3, Uber, Ubuntu, Uikit, Umbraco,
-        Uncharted, Uniregistry, Unity, Unsplash, Untappd, Ups, Upwork, Usb, Usps, Ussunnah, Vaadin,
-        Viacoin, Viadeo, Viber, Vimeo, VimeoV, Vine, Vk, Vnv, Vuejs, WatchmanMonitoring, Waze,
-        WebAwesome, Webflow, Weebly, Weibo, Weixin, Whatsapp, Whmcs, WikipediaW, Windows,
-        Wirsindhandwerk, Wix, WizardsOfTheCoast, Wodu, WolfPackBattalion, Wordpress,
-        WordpressSimple, Wpbeginner, Wpexplorer, Wpforms, Wpressr, XTwitter, Xbox, Xing,
+        Facebook, FacebookF, FacebookMessenger, FantasyFlightGames, Fedex, Fedora, Figma,
+        FilesPinwheel, Firefox, FirefoxBrowser, FirstOrder, FirstOrderAlt, Firstdraft, Flickr,
+        Flipboard, Flutter, Fly, FontAwesomeBrand, Fonticons, FonticonsFi, FortAwesome,
+        FortAwesomeAlt, Forumbee, Foursquare, FreeCodeCamp, Freebsd, Fulcrum, GalacticRepublic,
+        GalacticSenate, GetPocket, Gg, GgCircle, Git, GitAlt, Github, GithubAlt, Gitkraken, Gitlab,
+        Gitter, Glide, GlideG, Gofore, Golang, Goodreads, GoodreadsG, Google, GoogleDrive,
+        GooglePay, GooglePlay, GooglePlus, GooglePlusG, GoogleScholar, GoogleWallet, Gratipay, Grav,
+        Gripfire, Grunt, Guilded, Gulp, HackerNews, Hackerrank, Hashnode, Hips, HireAHelper, Hive,
+        Hooli, Hornbill, Hotjar, Houzz, Html5, Hubspot, Ideal, Imdb, Instagram, Instalod, Intercom,
+        InternetExplorer, Invision, Ioxhost, ItchIo, Itunes, ItunesNote, Java, JediOrder, Jenkins,
+        Jira, Joget, Joomla, Js, Jsfiddle, Jxl, Kaggle, Keybase, Keycdn, Kickstarter, KickstarterK,
+        Korvue, Laravel, Lastfm, Leanpub, Less, Letterboxd, Line, Linkedin, LinkedinIn, Linode,
+        Linux, Lyft, Magento, Mailchimp, Mandalorian, Markdown, Mastodon, Maxcdn, Mdb, Medapps,
+        Medium, Medrt, Meetup, Megaport, Mendeley, Meta, Microblog, Microsoft, Mintbit, Mix,
+        Mixcloud, Mixer, Mizuni, Modx, Monero, Napster, Neos, NfcDirectional, NfcSymbol, Nimblr,
+        Node, NodeJs, Npm, Ns8, Number42Group, Number500Px, Nutritionix, OctopusDeploy,
+        Odnoklassniki, Odysee, OldRepublic, Opencart, Openid, Opensuse, Opera, OptinMonster, Orcid,
+        Osi, Padlet, Page4, Pagelines, Palfed, Patreon, Paypal, Perbyte, Periscope, Phabricator,
+        PhoenixFramework, PhoenixSquadron, Php, PiedPiper, PiedPiperAlt, PiedPiperHat, PiedPiperPp,
+        Pinterest, PinterestP, Pix, Pixiv, Playstation, ProductHunt, Pushed, Python, Qq, Quinscape,
+        Quora, RProject, RaspberryPi, Ravelry, React, Reacteurope, Readme, Rebel, RedRiver, Reddit,
+        RedditAlien, Redhat, Renren, Replyd, Researchgate, Resolving, Rev, Rocketchat, Rockrms,
+        Rust, Safari, Salesforce, Sass, Schlix, Screenpal, Scribd, Searchengin, Sellcast, Sellsy,
+        Servicestack, Shirtsinbulk, Shoelace, Shopify, Shopware, SignalMessenger, Simplybuilt,
+        Sistrix, Sith, Sitrox, Sketch, Skyatlas, Skype, Slack, Slideshare, Snapchat, Soundcloud,
+        Sourcetree, SpaceAwesome, Speakap, SpeakerDeck, Spotify, SquareBehance, SquareBluesky,
+        SquareDribbble, SquareFacebook, SquareFontAwesome, SquareFontAwesomeStroke, SquareGit,
+        SquareGithub, SquareGitlab, SquareGooglePlus, SquareHackerNews, SquareInstagram, SquareJs,
+        SquareLastfm, SquareLetterboxd, SquareOdnoklassniki, SquarePiedPiper, SquarePinterest,
+        SquareReddit, SquareSnapchat, SquareSteam, SquareThreads, SquareTumblr, SquareTwitter,
+        SquareUpwork, SquareViadeo, SquareVimeo, SquareWebAwesome, SquareWebAwesomeStroke,
+        SquareWhatsapp, SquareXTwitter, SquareXing, SquareYoutube, Squarespace, StackExchange,
+        StackOverflow, Stackpath, Staylinked, Steam, SteamSymbol, StickerMule, Strava, Stripe,
+        StripeS, Stubber, Studiovinari, Stumbleupon, StumbleuponCircle, Superpowers, Supple, Suse,
+        Swift, Symfony, Teamspeak, Telegram, TencentWeibo, TheRedYeti, Themeco, Themeisle,
+        ThinkPeaks, Threads, Tiktok, TradeFederation, Trello, Tumblr, Twitch, Twitter, Typo3, Uber,
+        Ubuntu, Uikit, Umbraco, Uncharted, Uniregistry, Unity, Unsplash, Untappd, Ups, Upwork, Usb,
+        Usps, Ussunnah, Vaadin, Viacoin, Viadeo, Viber, Vimeo, VimeoV, Vine, Vk, Vnv, Vuejs,
+        WatchmanMonitoring, Waze, WebAwesome, Webflow, Weebly, Weibo, Weixin, Whatsapp, Whmcs,
+        WikipediaW, Windows, Wirsindhandwerk, Wix, WizardsOfTheCoast, Wodu, WolfPackBattalion,
+        Wordpress, WordpressSimple, Wpbeginner, Wpexplorer, Wpforms, Wpressr, XTwitter, Xbox, Xing,
         YCombinator, Yahoo, Yammer, Yandex, YandexInternational, Yarn, Yelp, Yoast, Youtube, Zhihu)
     return __AllIcons!!
   }

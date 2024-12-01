@@ -24,26 +24,24 @@ public val FilledGroup.Candle: ImageVector
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(14.0f, 10.0f)
-                horizontalLineToRelative(-4.0f)
-                arcToRelative(2.0f, 2.0f, 0.0f, false, false, -2.0f, 2.0f)
-                verticalLineToRelative(9.0f)
-                arcToRelative(1.0f, 1.0f, 0.0f, false, false, 1.0f, 1.0f)
-                horizontalLineToRelative(6.0f)
-                arcToRelative(1.0f, 1.0f, 0.0f, false, false, 1.0f, -1.0f)
-                verticalLineToRelative(-9.0f)
-                arcToRelative(2.0f, 2.0f, 0.0f, false, false, -2.0f, -2.0f)
+                moveTo(14.0f, 9.0f)
+                arcToRelative(2.0f, 2.0f, 0.0f, false, true, 2.0f, 2.0f)
+                verticalLineToRelative(10.0f)
+                arcToRelative(1.0f, 1.0f, 0.0f, false, true, -1.0f, 1.0f)
+                horizontalLineToRelative(-6.0f)
+                arcToRelative(1.0f, 1.0f, 0.0f, false, true, -1.0f, -1.0f)
+                verticalLineToRelative(-10.0f)
+                arcToRelative(2.0f, 2.0f, 0.0f, false, true, 2.0f, -2.0f)
                 close()
             }
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(11.254f, 2.334f)
-                lineToRelative(-1.55f, 1.737f)
-                curveToRelative(-1.042f, 1.277f, -0.898f, 3.097f, 0.296f, 4.166f)
-                arcToRelative(3.0f, 3.0f, 0.0f, false, false, 4.196f, -4.28f)
-                lineToRelative(-1.452f, -1.624f)
-                arcToRelative(1.0f, 1.0f, 0.0f, false, false, -1.491f, 0.001f)
+                moveTo(11.254f, 1.334f)
+                arcToRelative(1.0f, 1.0f, 0.0f, false, true, 1.491f, 0.0f)
+                lineToRelative(1.452f, 1.623f)
+                arcToRelative(3.0f, 3.0f, 0.0f, false, true, -4.196f, 4.28f)
+                curveToRelative(-1.195f, -1.07f, -1.339f, -2.889f, -0.297f, -4.166f)
                 close()
             }
         }

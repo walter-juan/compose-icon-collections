@@ -23,8 +23,7 @@ public val OutlineGroup.Badge8k: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(3.0f, 5.0f)
-                moveToRelative(0.0f, 2.0f)
+                moveTo(3.0f, 7.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, false, true, 2.0f, -2.0f)
                 horizontalLineToRelative(14.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, false, true, 2.0f, 2.0f)
@@ -65,7 +64,8 @@ public val OutlineGroup.Badge8k: ImageVector
                 arcToRelative(1.0f, 1.0f, 0.0f, false, true, 1.0f, 1.0f)
                 verticalLineToRelative(1.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, false, true, -1.0f, 1.0f)
-                horizontalLineToRelative(-1.0f)
+                close()
+                horizontalLineToRelative(-0.5f)
                 arcToRelative(1.0f, 1.0f, 0.0f, false, false, -1.0f, 1.0f)
                 verticalLineToRelative(1.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, false, false, 1.0f, 1.0f)

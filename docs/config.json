@@ -50,23 +50,6 @@
             ]
         },
         {
-            "name": "FontAwesome",
-            "value": "fontawesome",
-            "categories": [
-                "solid",
-                "brands",
-                "regular"
-            ]
-        },
-        {
-            "name": "Heroicons",
-            "value": "heroicons",
-            "categories": [
-                "solid",
-                "outline"
-            ]
-        },
-        {
             "name": "Ionicons",
             "value": "ionicons",
             "categories": [
@@ -83,18 +66,35 @@
             ]
         },
         {
-            "name": "Simpleicons",
-            "value": "simpleicons",
-            "categories": [
-                ""
-            ]
-        },
-        {
             "name": "Tabler",
             "value": "tabler",
             "categories": [
                 "filled",
                 "outline"
+            ]
+        },
+        {
+            "name": "FontAwesome",
+            "value": "fontawesome",
+            "categories": [
+                "regular",
+                "brands",
+                "solid"
+            ]
+        },
+        {
+            "name": "Heroicons",
+            "value": "heroicons",
+            "categories": [
+                "solid",
+                "outline"
+            ]
+        },
+        {
+            "name": "Simpleicons",
+            "value": "simpleicons",
+            "categories": [
+                ""
             ]
         }
     ]
