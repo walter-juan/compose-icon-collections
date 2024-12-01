@@ -13,12 +13,12 @@ import androidx.compose.ui.graphics.vector.path
 import androidx.compose.ui.unit.dp
 import com.woowla.compose.icon.collections.tabler.tabler.OutlineGroup
 
-public val OutlineGroup.Badge8k: ImageVector
+public val OutlineGroup.Badge5k: ImageVector
     get() {
-        if (_badge8k != null) {
-            return _badge8k!!
+        if (_badge5k != null) {
+            return _badge5k!!
         }
-        _badge8k = Builder(name = "Badge8k", defaultWidth = 24.0.dp, defaultHeight = 24.0.dp,
+        _badge5k = Builder(name = "Badge5k", defaultWidth = 24.0.dp, defaultHeight = 24.0.dp,
                 viewportWidth = 24.0f, viewportHeight = 24.0f).apply {
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -55,28 +55,18 @@ public val OutlineGroup.Badge8k: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(8.5f, 12.0f)
-                horizontalLineToRelative(-0.5f)
-                arcToRelative(1.0f, 1.0f, 0.0f, false, true, -1.0f, -1.0f)
-                verticalLineToRelative(-1.0f)
-                arcToRelative(1.0f, 1.0f, 0.0f, false, true, 1.0f, -1.0f)
-                horizontalLineToRelative(1.0f)
-                arcToRelative(1.0f, 1.0f, 0.0f, false, true, 1.0f, 1.0f)
-                verticalLineToRelative(1.0f)
-                arcToRelative(1.0f, 1.0f, 0.0f, false, true, -1.0f, 1.0f)
-                close()
-                horizontalLineToRelative(-0.5f)
-                arcToRelative(1.0f, 1.0f, 0.0f, false, false, -1.0f, 1.0f)
-                verticalLineToRelative(1.0f)
-                arcToRelative(1.0f, 1.0f, 0.0f, false, false, 1.0f, 1.0f)
-                horizontalLineToRelative(1.0f)
+                moveTo(7.0f, 15.0f)
+                horizontalLineToRelative(2.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, false, false, 1.0f, -1.0f)
                 verticalLineToRelative(-1.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, false, false, -1.0f, -1.0f)
+                horizontalLineToRelative(-2.0f)
+                verticalLineToRelative(-3.0f)
+                horizontalLineToRelative(3.0f)
             }
         }
         .build()
-        return _badge8k!!
+        return _badge5k!!
     }
 
-private var _badge8k: ImageVector? = null
+private var _badge5k: ImageVector? = null

@@ -13,70 +13,53 @@ import androidx.compose.ui.graphics.vector.path
 import androidx.compose.ui.unit.dp
 import com.woowla.compose.icon.collections.tabler.tabler.OutlineGroup
 
-public val OutlineGroup.Badge8k: ImageVector
+public val OutlineGroup.BrowserMaximize: ImageVector
     get() {
-        if (_badge8k != null) {
-            return _badge8k!!
+        if (_browserMaximize != null) {
+            return _browserMaximize!!
         }
-        _badge8k = Builder(name = "Badge8k", defaultWidth = 24.0.dp, defaultHeight = 24.0.dp,
-                viewportWidth = 24.0f, viewportHeight = 24.0f).apply {
+        _browserMaximize = Builder(name = "BrowserMaximize", defaultWidth = 24.0.dp, defaultHeight =
+                24.0.dp, viewportWidth = 24.0f, viewportHeight = 24.0f).apply {
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(3.0f, 7.0f)
-                arcToRelative(2.0f, 2.0f, 0.0f, false, true, 2.0f, -2.0f)
-                horizontalLineToRelative(14.0f)
-                arcToRelative(2.0f, 2.0f, 0.0f, false, true, 2.0f, 2.0f)
-                verticalLineToRelative(10.0f)
+                moveTo(4.0f, 8.0f)
+                horizontalLineToRelative(8.0f)
+            }
+            path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
+                    strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
+                    StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
+                moveTo(20.0f, 11.5f)
+                verticalLineToRelative(6.5f)
                 arcToRelative(2.0f, 2.0f, 0.0f, false, true, -2.0f, 2.0f)
-                horizontalLineToRelative(-14.0f)
+                horizontalLineToRelative(-12.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, false, true, -2.0f, -2.0f)
-                close()
+                verticalLineToRelative(-12.0f)
+                arcToRelative(2.0f, 2.0f, 0.0f, false, true, 2.0f, -2.0f)
+                horizontalLineToRelative(6.5f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(14.0f, 9.0f)
-                verticalLineToRelative(6.0f)
+                moveTo(8.0f, 4.0f)
+                verticalLineToRelative(4.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(17.0f, 9.0f)
-                lineToRelative(-2.0f, 3.0f)
-                lineToRelative(2.0f, 3.0f)
+                moveTo(16.0f, 8.0f)
+                lineToRelative(5.0f, -5.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(15.0f, 12.0f)
-                horizontalLineToRelative(-1.0f)
-            }
-            path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
-                    StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(8.5f, 12.0f)
-                horizontalLineToRelative(-0.5f)
-                arcToRelative(1.0f, 1.0f, 0.0f, false, true, -1.0f, -1.0f)
-                verticalLineToRelative(-1.0f)
-                arcToRelative(1.0f, 1.0f, 0.0f, false, true, 1.0f, -1.0f)
-                horizontalLineToRelative(1.0f)
-                arcToRelative(1.0f, 1.0f, 0.0f, false, true, 1.0f, 1.0f)
-                verticalLineToRelative(1.0f)
-                arcToRelative(1.0f, 1.0f, 0.0f, false, true, -1.0f, 1.0f)
-                close()
-                horizontalLineToRelative(-0.5f)
-                arcToRelative(1.0f, 1.0f, 0.0f, false, false, -1.0f, 1.0f)
-                verticalLineToRelative(1.0f)
-                arcToRelative(1.0f, 1.0f, 0.0f, false, false, 1.0f, 1.0f)
-                horizontalLineToRelative(1.0f)
-                arcToRelative(1.0f, 1.0f, 0.0f, false, false, 1.0f, -1.0f)
-                verticalLineToRelative(-1.0f)
-                arcToRelative(1.0f, 1.0f, 0.0f, false, false, -1.0f, -1.0f)
+                moveTo(21.0f, 7.5f)
+                verticalLineToRelative(-4.5f)
+                horizontalLineToRelative(-4.5f)
             }
         }
         .build()
-        return _badge8k!!
+        return _browserMaximize!!
     }
 
-private var _badge8k: ImageVector? = null
+private var _browserMaximize: ImageVector? = null
