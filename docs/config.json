@@ -50,14 +50,6 @@
             ]
         },
         {
-            "name": "Heroicons",
-            "value": "heroicons",
-            "categories": [
-                "solid",
-                "outline"
-            ]
-        },
-        {
             "name": "Ionicons",
             "value": "ionicons",
             "categories": [
@@ -95,6 +87,14 @@
                 "regular",
                 "brands",
                 "solid"
+            ]
+        },
+        {
+            "name": "Heroicons",
+            "value": "heroicons",
+            "categories": [
+                "solid",
+                "outline"
             ]
         }
     ]
