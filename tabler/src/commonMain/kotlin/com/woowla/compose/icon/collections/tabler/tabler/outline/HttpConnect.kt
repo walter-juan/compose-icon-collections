@@ -45,7 +45,6 @@ public val OutlineGroup.HttpConnect: ImageVector
                 arcToRelative(2.0f, 2.0f, 0.0f, true, true, -4.0f, 0.0f)
                 verticalLineToRelative(-4.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, false, true, 2.0f, -2.0f)
-                close()
             }
         }
         .build()

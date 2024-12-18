@@ -74,10 +74,14 @@ import com.woowla.compose.icon.collections.remix.remix.logos.FacebookFill
 import com.woowla.compose.icon.collections.remix.remix.logos.FacebookLine
 import com.woowla.compose.icon.collections.remix.remix.logos.FediverseFill
 import com.woowla.compose.icon.collections.remix.remix.logos.FediverseLine
+import com.woowla.compose.icon.collections.remix.remix.logos.FigmaFill
+import com.woowla.compose.icon.collections.remix.remix.logos.FigmaLine
 import com.woowla.compose.icon.collections.remix.remix.logos.FinderFill
 import com.woowla.compose.icon.collections.remix.remix.logos.FinderLine
 import com.woowla.compose.icon.collections.remix.remix.logos.FirebaseFill
 import com.woowla.compose.icon.collections.remix.remix.logos.FirebaseLine
+import com.woowla.compose.icon.collections.remix.remix.logos.FirefoxBrowserFill
+import com.woowla.compose.icon.collections.remix.remix.logos.FirefoxBrowserLine
 import com.woowla.compose.icon.collections.remix.remix.logos.FirefoxFill
 import com.woowla.compose.icon.collections.remix.remix.logos.FirefoxLine
 import com.woowla.compose.icon.collections.remix.remix.logos.FlickrFill
@@ -299,21 +303,21 @@ public val LogosGroup.AllIcons: ____KtList<ImageVector>
         DribbbleFill, DribbbleLine, DriveFill, DriveLine, DropboxFill, DropboxLine, EdgeFill,
         EdgeLine, EdgeNewFill, EdgeNewLine, EvernoteFill, EvernoteLine, FacebookBoxFill,
         FacebookBoxLine, FacebookCircleFill, FacebookCircleLine, FacebookFill, FacebookLine,
-        FediverseFill, FediverseLine, FinderFill, FinderLine, FirebaseFill, FirebaseLine,
-        FirefoxFill, FirefoxLine, FlickrFill, FlickrLine, FlutterFill, FlutterLine, FriendicaFill,
-        FriendicaLine, GatsbyFill, GatsbyLine, GeminiFill, GeminiLine, GithubFill, GithubLine,
-        GitlabFill, GitlabLine, GoogleFill, GoogleLine, GooglePlayFill, GooglePlayLine,
-        HonorOfKingsFill, HonorOfKingsLine, IeFill, IeLine, InstagramFill, InstagramLine,
-        InvisionFill, InvisionLine, JavaFill, JavaLine, KakaoTalkFill, KakaoTalkLine, KickFill,
-        KickLine, LineFill, LineLine, LinkedinBoxFill, LinkedinBoxLine, LinkedinFill, LinkedinLine,
-        MastercardFill, MastercardLine, MastodonFill, MastodonLine, MediumFill, MediumLine,
-        MessengerFill, MessengerLine, MetaFill, MetaLine, MicrosoftFill, MicrosoftLine,
-        MicrosoftLoopFill, MicrosoftLoopLine, MiniProgramFill, MiniProgramLine, MixtralFill,
-        MixtralLine, NeteaseCloudMusicFill, NeteaseCloudMusicLine, NetflixFill, NetflixLine,
-        NextjsFill, NextjsLine, NodejsFill, NodejsLine, NotionFill, NotionLine, NpmjsFill,
-        NpmjsLine, OpenSourceFill, OpenSourceLine, OpenaiFill, OpenaiLine, OpenbaseFill,
-        OpenbaseLine, OperaFill, OperaLine, PatreonFill, PatreonLine, PaypalFill, PaypalLine,
-        PerplexityFill, PerplexityLine, PinterestFill, PinterestLine, PixFill, PixLine,
+        FediverseFill, FediverseLine, FigmaFill, FigmaLine, FinderFill, FinderLine, FirebaseFill,
+        FirebaseLine, FirefoxBrowserFill, FirefoxBrowserLine, FirefoxFill, FirefoxLine, FlickrFill,
+        FlickrLine, FlutterFill, FlutterLine, FriendicaFill, FriendicaLine, GatsbyFill, GatsbyLine,
+        GeminiFill, GeminiLine, GithubFill, GithubLine, GitlabFill, GitlabLine, GoogleFill,
+        GoogleLine, GooglePlayFill, GooglePlayLine, HonorOfKingsFill, HonorOfKingsLine, IeFill,
+        IeLine, InstagramFill, InstagramLine, InvisionFill, InvisionLine, JavaFill, JavaLine,
+        KakaoTalkFill, KakaoTalkLine, KickFill, KickLine, LineFill, LineLine, LinkedinBoxFill,
+        LinkedinBoxLine, LinkedinFill, LinkedinLine, MastercardFill, MastercardLine, MastodonFill,
+        MastodonLine, MediumFill, MediumLine, MessengerFill, MessengerLine, MetaFill, MetaLine,
+        MicrosoftFill, MicrosoftLine, MicrosoftLoopFill, MicrosoftLoopLine, MiniProgramFill,
+        MiniProgramLine, MixtralFill, MixtralLine, NeteaseCloudMusicFill, NeteaseCloudMusicLine,
+        NetflixFill, NetflixLine, NextjsFill, NextjsLine, NodejsFill, NodejsLine, NotionFill,
+        NotionLine, NpmjsFill, NpmjsLine, OpenSourceFill, OpenSourceLine, OpenaiFill, OpenaiLine,
+        OpenbaseFill, OpenbaseLine, OperaFill, OperaLine, PatreonFill, PatreonLine, PaypalFill,
+        PaypalLine, PerplexityFill, PerplexityLine, PinterestFill, PinterestLine, PixFill, PixLine,
         PixelfedFill, PixelfedLine, PlaystationFill, PlaystationLine, ProductHuntFill,
         ProductHuntLine, QqFill, QqLine, ReactjsFill, ReactjsLine, RedditFill, RedditLine,
         RemixRunFill, RemixRunLine, RemixiconFill, RemixiconLine, SafariFill, SafariLine, SkypeFill,

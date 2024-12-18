@@ -34,7 +34,7 @@ public val ArrowsGroup.CornerUpRightDoubleFill: ImageVector
                 close()
                 moveTo(13.836f, 6.05f)
                 lineTo(15.25f, 4.636f)
-                lineTo(21.614f, 11.0f)
+                lineTo(21.615f, 11.0f)
                 lineTo(15.25f, 17.364f)
                 lineTo(13.836f, 15.95f)
                 lineTo(18.786f, 11.0f)

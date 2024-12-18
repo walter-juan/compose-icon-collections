@@ -10,6 +10,8 @@ import com.woowla.compose.icon.collections.remix.remix.system.AddFill
 import com.woowla.compose.icon.collections.remix.remix.system.AddLargeFill
 import com.woowla.compose.icon.collections.remix.remix.system.AddLargeLine
 import com.woowla.compose.icon.collections.remix.remix.system.AddLine
+import com.woowla.compose.icon.collections.remix.remix.system.AlarmAddFill
+import com.woowla.compose.icon.collections.remix.remix.system.AlarmAddLine
 import com.woowla.compose.icon.collections.remix.remix.system.AlarmFill
 import com.woowla.compose.icon.collections.remix.remix.system.AlarmLine
 import com.woowla.compose.icon.collections.remix.remix.system.AlarmSnoozeFill
@@ -347,13 +349,13 @@ public val SystemGroup.AllIcons: ____KtList<ImageVector>
       return __AllIcons!!
     }
     __AllIcons= listOf(AddBoxFill, AddBoxLine, AddCircleFill, AddCircleLine, AddFill, AddLargeFill,
-        AddLargeLine, AddLine, AlarmFill, AlarmLine, AlarmSnoozeFill, AlarmSnoozeLine,
-        AlarmWarningFill, AlarmWarningLine, AlertFill, AlertLine, Apps2AddFill, Apps2AddLine,
-        Apps2AiFill, Apps2AiLine, Apps2Fill, Apps2Line, AppsFill, AppsLine, CheckDoubleFill,
-        CheckDoubleLine, CheckFill, CheckLine, CheckboxBlankCircleFill, CheckboxBlankCircleLine,
-        CheckboxBlankFill, CheckboxBlankLine, CheckboxCircleFill, CheckboxCircleLine, CheckboxFill,
-        CheckboxIndeterminateFill, CheckboxIndeterminateLine, CheckboxLine,
-        CheckboxMultipleBlankFill, CheckboxMultipleBlankLine, CheckboxMultipleFill,
+        AddLargeLine, AddLine, AlarmAddFill, AlarmAddLine, AlarmFill, AlarmLine, AlarmSnoozeFill,
+        AlarmSnoozeLine, AlarmWarningFill, AlarmWarningLine, AlertFill, AlertLine, Apps2AddFill,
+        Apps2AddLine, Apps2AiFill, Apps2AiLine, Apps2Fill, Apps2Line, AppsFill, AppsLine,
+        CheckDoubleFill, CheckDoubleLine, CheckFill, CheckLine, CheckboxBlankCircleFill,
+        CheckboxBlankCircleLine, CheckboxBlankFill, CheckboxBlankLine, CheckboxCircleFill,
+        CheckboxCircleLine, CheckboxFill, CheckboxIndeterminateFill, CheckboxIndeterminateLine,
+        CheckboxLine, CheckboxMultipleBlankFill, CheckboxMultipleBlankLine, CheckboxMultipleFill,
         CheckboxMultipleLine, CloseCircleFill, CloseCircleLine, CloseFill, CloseLargeFill,
         CloseLargeLine, CloseLine, DashboardFill, DashboardHorizontalFill, DashboardHorizontalLine,
         DashboardLine, DeleteBack2Fill, DeleteBack2Line, DeleteBackFill, DeleteBackLine,

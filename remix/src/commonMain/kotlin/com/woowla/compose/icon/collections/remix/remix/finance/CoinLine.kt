@@ -36,7 +36,7 @@ public val FinanceGroup.CoinLine: ImageVector
                 curveTo(3.005f, 15.885f, 6.888f, 18.003f, 12.005f, 18.003f)
                 curveTo(17.016f, 18.003f, 20.843f, 15.972f, 21.0f, 14.121f)
                 lineTo(21.005f, 14.003f)
-                lineTo(21.006f, 13.452f)
+                lineTo(21.006f, 13.453f)
                 curveTo(19.015f, 14.995f, 15.726f, 16.003f, 12.005f, 16.003f)
                 close()
                 moveTo(12.005f, 6.003f)

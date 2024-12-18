@@ -2,6 +2,8 @@ package com.woowla.compose.icon.collections.remix.remix
 
 import androidx.compose.ui.graphics.vector.ImageVector
 import com.woowla.compose.icon.collections.remix.Remix
+import com.woowla.compose.icon.collections.remix.remix.others.AccessibilityFill
+import com.woowla.compose.icon.collections.remix.remix.others.AccessibilityLine
 import com.woowla.compose.icon.collections.remix.remix.others.ArmchairFill
 import com.woowla.compose.icon.collections.remix.remix.others.ArmchairLine
 import com.woowla.compose.icon.collections.remix.remix.others.BasketballFill
@@ -26,6 +28,8 @@ import com.woowla.compose.icon.collections.remix.remix.others.CandleFill
 import com.woowla.compose.icon.collections.remix.remix.others.CandleLine
 import com.woowla.compose.icon.collections.remix.remix.others.CharacterRecognitionFill
 import com.woowla.compose.icon.collections.remix.remix.others.CharacterRecognitionLine
+import com.woowla.compose.icon.collections.remix.remix.others.ChessFill
+import com.woowla.compose.icon.collections.remix.remix.others.ChessLine
 import com.woowla.compose.icon.collections.remix.remix.others.CrossFill
 import com.woowla.compose.icon.collections.remix.remix.others.CrossLine
 import com.woowla.compose.icon.collections.remix.remix.others.Dice1Fill
@@ -118,6 +122,8 @@ import com.woowla.compose.icon.collections.remix.remix.others.ScalesFill
 import com.woowla.compose.icon.collections.remix.remix.others.ScalesLine
 import com.woowla.compose.icon.collections.remix.remix.others.SeedlingFill
 import com.woowla.compose.icon.collections.remix.remix.others.SeedlingLine
+import com.woowla.compose.icon.collections.remix.remix.others.ServiceBellFill
+import com.woowla.compose.icon.collections.remix.remix.others.ServiceBellLine
 import com.woowla.compose.icon.collections.remix.remix.others.ShirtFill
 import com.woowla.compose.icon.collections.remix.remix.others.ShirtLine
 import com.woowla.compose.icon.collections.remix.remix.others.SofaFill
@@ -158,10 +164,11 @@ public val OthersGroup.AllIcons: ____KtList<ImageVector>
     if (__AllIcons != null) {
       return __AllIcons!!
     }
-    __AllIcons= listOf(ArmchairFill, ArmchairLine, BasketballFill, BasketballLine, BellFill,
-        BellLine, BilliardsFill, BilliardsLine, BookShelfFill, BookShelfLine, Box1Fill, Box1Line,
-        Box2Fill, Box2Line, Box3Fill, Box3Line, BoxingFill, BoxingLine, CactusFill, CactusLine,
-        CandleFill, CandleLine, CharacterRecognitionFill, CharacterRecognitionLine, CrossFill,
+    __AllIcons= listOf(AccessibilityFill, AccessibilityLine, ArmchairFill, ArmchairLine,
+        BasketballFill, BasketballLine, BellFill, BellLine, BilliardsFill, BilliardsLine,
+        BookShelfFill, BookShelfLine, Box1Fill, Box1Line, Box2Fill, Box2Line, Box3Fill, Box3Line,
+        BoxingFill, BoxingLine, CactusFill, CactusLine, CandleFill, CandleLine,
+        CharacterRecognitionFill, CharacterRecognitionLine, ChessFill, ChessLine, CrossFill,
         CrossLine, Dice1Fill, Dice1Line, Dice2Fill, Dice2Line, Dice3Fill, Dice3Line, Dice4Fill,
         Dice4Line, Dice5Fill, Dice5Line, Dice6Fill, Dice6Line, DiceFill, DiceLine, DoorClosedFill,
         DoorClosedLine, DoorFill, DoorLine, DoorLockBoxFill, DoorLockBoxLine, DoorLockFill,
@@ -175,10 +182,11 @@ public val OthersGroup.AllIcons: ____KtList<ImageVector>
         PokerClubsFill, PokerClubsLine, PokerDiamondsFill, PokerDiamondsLine, PokerHeartsFill,
         PokerHeartsLine, PokerSpadesFill, PokerSpadesLine, PoliceBadgeFill, PoliceBadgeLine,
         RecycleFill, RecycleLine, ReservedFill, ReservedLine, Scales2Fill, Scales2Line, Scales3Fill,
-        Scales3Line, ScalesFill, ScalesLine, SeedlingFill, SeedlingLine, ShirtFill, ShirtLine,
-        SofaFill, SofaLine, StairsFill, StairsLine, SwordFill, SwordLine, TShirt2Fill, TShirt2Line,
-        TShirtAirFill, TShirtAirLine, TShirtFill, TShirtLine, ToothFill, ToothLine, TreeFill,
-        TreeLine, UmbrellaFill, UmbrellaLine, VoiceRecognitionFill, VoiceRecognitionLine,
-        WeightFill, WeightLine, WheelchairFill, WheelchairLine)
+        Scales3Line, ScalesFill, ScalesLine, SeedlingFill, SeedlingLine, ServiceBellFill,
+        ServiceBellLine, ShirtFill, ShirtLine, SofaFill, SofaLine, StairsFill, StairsLine,
+        SwordFill, SwordLine, TShirt2Fill, TShirt2Line, TShirtAirFill, TShirtAirLine, TShirtFill,
+        TShirtLine, ToothFill, ToothLine, TreeFill, TreeLine, UmbrellaFill, UmbrellaLine,
+        VoiceRecognitionFill, VoiceRecognitionLine, WeightFill, WeightLine, WheelchairFill,
+        WheelchairLine)
     return __AllIcons!!
   }

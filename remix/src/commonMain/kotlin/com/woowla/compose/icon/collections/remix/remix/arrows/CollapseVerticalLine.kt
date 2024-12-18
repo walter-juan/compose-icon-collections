@@ -34,7 +34,7 @@ public val ArrowsGroup.CollapseVerticalLine: ImageVector
                 close()
                 moveTo(11.0f, 1.0f)
                 lineTo(11.0f, 6.67f)
-                lineTo(8.465f, 4.135f)
+                lineTo(8.464f, 4.135f)
                 lineTo(7.05f, 5.55f)
                 lineTo(12.0f, 10.5f)
                 lineTo(16.95f, 5.55f)

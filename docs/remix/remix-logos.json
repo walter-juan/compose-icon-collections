@@ -1,1090 +1,1106 @@
 [
     {
-        "name": "Remix.Logos.RedditLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/reddit-line.svg"
-    },
-    {
-        "name": "Remix.Logos.NpmjsFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/npmjs-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.KakaoTalkLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/kakao-talk-line.svg"
-    },
-    {
-        "name": "Remix.Logos.XboxFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/xbox-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.ClaudeFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/claude-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.AppStoreFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/app-store-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.OpenbaseFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/openbase-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.FinderFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/finder-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.SlackLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/slack-line.svg"
-    },
-    {
-        "name": "Remix.Logos.LinkedinBoxLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/linkedin-box-line.svg"
-    },
-    {
-        "name": "Remix.Logos.BaiduLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/baidu-line.svg"
-    },
-    {
-        "name": "Remix.Logos.WechatPayLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/wechat-pay-line.svg"
-    },
-    {
-        "name": "Remix.Logos.BehanceLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/behance-line.svg"
-    },
-    {
-        "name": "Remix.Logos.AppleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/apple-line.svg"
-    },
-    {
-        "name": "Remix.Logos.UbuntuFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/ubuntu-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.TelegramLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/telegram-line.svg"
-    },
-    {
-        "name": "Remix.Logos.StackshareFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/stackshare-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.FinderLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/finder-line.svg"
-    },
-    {
-        "name": "Remix.Logos.ProductHuntLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/product-hunt-line.svg"
-    },
-    {
-        "name": "Remix.Logos.HonorOfKingsLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/honor-of-kings-line.svg"
-    },
-    {
-        "name": "Remix.Logos.TiktokFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/tiktok-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.ThreadsLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/threads-line.svg"
-    },
-    {
-        "name": "Remix.Logos.TrelloLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/trello-line.svg"
-    },
-    {
-        "name": "Remix.Logos.JavaLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/java-line.svg"
-    },
-    {
-        "name": "Remix.Logos.YuqueFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/yuque-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.AlibabaCloudLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/alibaba-cloud-line.svg"
-    },
-    {
-        "name": "Remix.Logos.MetaFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/meta-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.SpectrumLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/spectrum-line.svg"
-    },
-    {
-        "name": "Remix.Logos.GoogleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/google-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.AppleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/apple-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.BlenderFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/blender-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.ZhihuLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/zhihu-line.svg"
-    },
-    {
-        "name": "Remix.Logos.OpenaiFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/openai-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.FirebaseLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/firebase-line.svg"
-    },
-    {
-        "name": "Remix.Logos.DisqusFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/disqus-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.PixelfedFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/pixelfed-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.UnsplashLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/unsplash-line.svg"
-    },
-    {
-        "name": "Remix.Logos.WebhookLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/webhook-line.svg"
-    },
-    {
-        "name": "Remix.Logos.EdgeLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/edge-line.svg"
-    },
-    {
-        "name": "Remix.Logos.PixelfedLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/pixelfed-line.svg"
-    },
-    {
-        "name": "Remix.Logos.LinkedinFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/linkedin-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.PlaystationLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/playstation-line.svg"
-    },
-    {
-        "name": "Remix.Logos.BlueskyFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/bluesky-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.BardFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/bard-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.ZhihuFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/zhihu-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.NextjsLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/nextjs-line.svg"
-    },
-    {
-        "name": "Remix.Logos.NodejsFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/nodejs-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.BlenderLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/blender-line.svg"
-    },
-    {
-        "name": "Remix.Logos.GitlabLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/gitlab-line.svg"
-    },
-    {
-        "name": "Remix.Logos.TumblrFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/tumblr-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.TwitterXLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/twitter-x-line.svg"
-    },
-    {
-        "name": "Remix.Logos.AlipayFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/alipay-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.VuejsLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/vuejs-line.svg"
-    },
-    {
-        "name": "Remix.Logos.FlickrFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/flickr-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.FacebookFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/facebook-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.MixtralFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/mixtral-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.VisaFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/visa-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.SafariLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/safari-line.svg"
-    },
-    {
-        "name": "Remix.Logos.BloggerLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/blogger-line.svg"
-    },
-    {
-        "name": "Remix.Logos.IeLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/ie-line.svg"
-    },
-    {
-        "name": "Remix.Logos.ZcoolLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/zcool-line.svg"
-    },
-    {
-        "name": "Remix.Logos.TwitterFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/twitter-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.SwitchLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/switch-line.svg"
-    },
-    {
-        "name": "Remix.Logos.SteamLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/steam-line.svg"
-    },
-    {
-        "name": "Remix.Logos.SoundcloudFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/soundcloud-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.FlutterFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/flutter-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.SpotifyFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/spotify-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.KakaoTalkFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/kakao-talk-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.VuejsFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/vuejs-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.WeiboFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/weibo-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.WebhookFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/webhook-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.OperaLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/opera-line.svg"
-    },
-    {
-        "name": "Remix.Logos.DropboxLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/dropbox-line.svg"
-    },
-    {
-        "name": "Remix.Logos.QqLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/qq-line.svg"
-    },
-    {
-        "name": "Remix.Logos.StackOverflowLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/stack-overflow-line.svg"
-    },
-    {
-        "name": "Remix.Logos.CopilotFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/copilot-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.TwitterXFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/twitter-x-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.MicrosoftFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/microsoft-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.WechatChannelsFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/wechat-channels-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.EdgeNewLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/edge-new-line.svg"
-    },
-    {
-        "name": "Remix.Logos.PerplexityLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/perplexity-line.svg"
-    },
-    {
-        "name": "Remix.Logos.BootstrapLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/bootstrap-line.svg"
-    },
-    {
-        "name": "Remix.Logos.EvernoteFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/evernote-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.SoundcloudLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/soundcloud-line.svg"
-    },
-    {
-        "name": "Remix.Logos.NotionLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/notion-line.svg"
-    },
-    {
-        "name": "Remix.Logos.MetaLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/meta-line.svg"
-    },
-    {
-        "name": "Remix.Logos.DoubanFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/douban-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.FacebookLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/facebook-line.svg"
-    },
-    {
-        "name": "Remix.Logos.NotionFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/notion-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.FediverseLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/fediverse-line.svg"
-    },
-    {
-        "name": "Remix.Logos.MiniProgramFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/mini-program-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.AmazonFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/amazon-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.TwitterLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/twitter-line.svg"
-    },
-    {
-        "name": "Remix.Logos.EdgeNewFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/edge-new-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.VimeoFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/vimeo-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.BlueskyLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/bluesky-line.svg"
-    },
-    {
-        "name": "Remix.Logos.VkLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/vk-line.svg"
-    },
-    {
-        "name": "Remix.Logos.SteamFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/steam-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.MicrosoftLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/microsoft-line.svg"
-    },
-    {
-        "name": "Remix.Logos.GoogleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/google-line.svg"
-    },
-    {
-        "name": "Remix.Logos.DiscordFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/discord-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.OpenbaseLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/openbase-line.svg"
-    },
-    {
-        "name": "Remix.Logos.BehanceFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/behance-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.FriendicaLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/friendica-line.svg"
-    },
-    {
-        "name": "Remix.Logos.SupabaseFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/supabase-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.SpectrumFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/spectrum-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.LineFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/line-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.InstagramLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/instagram-line.svg"
-    },
-    {
-        "name": "Remix.Logos.HonorOfKingsFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/honor-of-kings-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.TailwindCssFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/tailwind-css-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.Wechat2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/wechat-2-line.svg"
-    },
-    {
-        "name": "Remix.Logos.WechatFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/wechat-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.TrelloFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/trello-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.BaiduFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/baidu-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.IeFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/ie-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.TailwindCssLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/tailwind-css-line.svg"
-    },
-    {
-        "name": "Remix.Logos.CodepenFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/codepen-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.SkypeFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/skype-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.SnapchatLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/snapchat-line.svg"
-    },
-    {
-        "name": "Remix.Logos.ThreadsFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/threads-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.LinkedinLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/linkedin-line.svg"
-    },
-    {
-        "name": "Remix.Logos.AlipayLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/alipay-line.svg"
-    },
-    {
-        "name": "Remix.Logos.SafariFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/safari-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.UbuntuLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/ubuntu-line.svg"
-    },
-    {
-        "name": "Remix.Logos.KickLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/kick-line.svg"
-    },
-    {
-        "name": "Remix.Logos.CodepenLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/codepen-line.svg"
-    },
-    {
-        "name": "Remix.Logos.EdgeFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/edge-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.JavaFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/java-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.FediverseFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/fediverse-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.TwitchFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/twitch-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.OpenSourceFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/open-source-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.FriendicaFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/friendica-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.PixLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/pix-line.svg"
-    },
-    {
-        "name": "Remix.Logos.WindowsLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/windows-line.svg"
-    },
-    {
-        "name": "Remix.Logos.XingLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/xing-line.svg"
-    },
-    {
-        "name": "Remix.Logos.DropboxFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/dropbox-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.DingdingLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/dingding-line.svg"
-    },
-    {
-        "name": "Remix.Logos.PinterestLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/pinterest-line.svg"
-    },
-    {
-        "name": "Remix.Logos.NeteaseCloudMusicLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/netease-cloud-music-line.svg"
-    },
-    {
-        "name": "Remix.Logos.NpmjsLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/npmjs-line.svg"
-    },
-    {
-        "name": "Remix.Logos.LineLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/line-line.svg"
-    },
-    {
-        "name": "Remix.Logos.YuqueLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/yuque-line.svg"
-    },
-    {
-        "name": "Remix.Logos.AndroidLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/android-line.svg"
-    },
-    {
-        "name": "Remix.Logos.VkFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/vk-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.WechatChannelsLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/wechat-channels-line.svg"
-    },
-    {
-        "name": "Remix.Logos.CentosLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/centos-line.svg"
-    },
-    {
-        "name": "Remix.Logos.UnsplashFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/unsplash-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.MastodonLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/mastodon-line.svg"
-    },
-    {
-        "name": "Remix.Logos.DingdingFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/dingding-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.VercelFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/vercel-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.LinkedinBoxFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/linkedin-box-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.InvisionFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/invision-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.RemixRunFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/remix-run-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.ProductHuntFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/product-hunt-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.PatreonFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/patreon-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.TiktokLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/tiktok-line.svg"
-    },
-    {
-        "name": "Remix.Logos.DriveLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/drive-line.svg"
-    },
-    {
-        "name": "Remix.Logos.TaobaoFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/taobao-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.SupabaseLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/supabase-line.svg"
-    },
-    {
-        "name": "Remix.Logos.MicrosoftLoopFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/microsoft-loop-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.StackshareLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/stackshare-line.svg"
-    },
-    {
-        "name": "Remix.Logos.Telegram2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/telegram-2-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.SvelteLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/svelte-line.svg"
-    },
-    {
-        "name": "Remix.Logos.FacebookBoxFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/facebook-box-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.PinterestFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/pinterest-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.CentosFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/centos-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.GooglePlayLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/google-play-line.svg"
-    },
-    {
-        "name": "Remix.Logos.TaobaoLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/taobao-line.svg"
-    },
-    {
-        "name": "Remix.Logos.RemixiconFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/remixicon-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.VisaLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/visa-line.svg"
-    },
-    {
-        "name": "Remix.Logos.AlibabaCloudFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/alibaba-cloud-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.CopilotLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/copilot-line.svg"
-    },
-    {
-        "name": "Remix.Logos.MediumLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/medium-line.svg"
-    },
-    {
-        "name": "Remix.Logos.WeiboLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/weibo-line.svg"
-    },
-    {
-        "name": "Remix.Logos.MediumFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/medium-fill.svg"
-    },
-    {
         "name": "Remix.Logos.Wechat2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/wechat-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/wechat-2-fill.svg"
     },
     {
-        "name": "Remix.Logos.CoreosFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/coreos-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.WechatPayFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/wechat-pay-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.OpenaiLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/openai-line.svg"
-    },
-    {
-        "name": "Remix.Logos.WordpressLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/wordpress-line.svg"
-    },
-    {
-        "name": "Remix.Logos.RedditFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/reddit-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.PlaystationFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/playstation-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.GooglePlayFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/google-play-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.MessengerFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/messenger-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.BilibiliFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/bilibili-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.WhatsappFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/whatsapp-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.EvernoteLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/evernote-line.svg"
-    },
-    {
-        "name": "Remix.Logos.VimeoLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/vimeo-line.svg"
-    },
-    {
-        "name": "Remix.Logos.WordpressFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/wordpress-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.FlickrLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/flickr-line.svg"
-    },
-    {
-        "name": "Remix.Logos.FirebaseFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/firebase-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.ZcoolFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/zcool-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.MicrosoftLoopLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/microsoft-loop-line.svg"
-    },
-    {
-        "name": "Remix.Logos.SlackFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/slack-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.StackOverflowFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/stack-overflow-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.FirefoxFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/firefox-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.BootstrapFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/bootstrap-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.DoubanLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/douban-line.svg"
-    },
-    {
-        "name": "Remix.Logos.FacebookCircleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/facebook-circle-line.svg"
-    },
-    {
-        "name": "Remix.Logos.AndroidFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/android-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.DiscordLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/discord-line.svg"
-    },
-    {
-        "name": "Remix.Logos.MastercardFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/mastercard-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.MiniProgramLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/mini-program-line.svg"
-    },
-    {
-        "name": "Remix.Logos.MastodonFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/mastodon-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.GeminiFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/gemini-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.SwitchFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/switch-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.NetflixLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/netflix-line.svg"
-    },
-    {
-        "name": "Remix.Logos.TwitchLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/twitch-line.svg"
-    },
-    {
-        "name": "Remix.Logos.RemixRunLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/remix-run-line.svg"
-    },
-    {
-        "name": "Remix.Logos.DribbbleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/dribbble-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.FlutterLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/flutter-line.svg"
-    },
-    {
-        "name": "Remix.Logos.AppStoreLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/app-store-line.svg"
-    },
-    {
-        "name": "Remix.Logos.XingFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/xing-fill.svg"
+        "name": "Remix.Logos.RedditLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/reddit-line.svg"
     },
     {
         "name": "Remix.Logos.NeteaseCloudMusicFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/netease-cloud-music-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/netease-cloud-music-fill.svg"
     },
     {
-        "name": "Remix.Logos.NodejsLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/nodejs-line.svg"
+        "name": "Remix.Logos.BlueskyLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/bluesky-line.svg"
     },
     {
-        "name": "Remix.Logos.SkypeLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/skype-line.svg"
-    },
-    {
-        "name": "Remix.Logos.FacebookCircleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/facebook-circle-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.ReactjsFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/reactjs-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.OpenSourceLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/open-source-line.svg"
-    },
-    {
-        "name": "Remix.Logos.GeminiLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/gemini-line.svg"
-    },
-    {
-        "name": "Remix.Logos.GithubLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/github-line.svg"
+        "name": "Remix.Logos.AppleFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/apple-fill.svg"
     },
     {
         "name": "Remix.Logos.CoreosLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/coreos-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/coreos-line.svg"
     },
     {
-        "name": "Remix.Logos.SpotifyLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/spotify-line.svg"
+        "name": "Remix.Logos.ZhihuLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/zhihu-line.svg"
     },
     {
-        "name": "Remix.Logos.AmazonLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/amazon-line.svg"
+        "name": "Remix.Logos.AndroidLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/android-line.svg"
     },
     {
-        "name": "Remix.Logos.GitlabFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/gitlab-fill.svg"
+        "name": "Remix.Logos.EdgeFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/edge-fill.svg"
     },
     {
-        "name": "Remix.Logos.AngularjsFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/angularjs-fill.svg"
+        "name": "Remix.Logos.TelegramLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/telegram-line.svg"
     },
     {
-        "name": "Remix.Logos.InvisionLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/invision-line.svg"
+        "name": "Remix.Logos.RemixRunLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/remix-run-line.svg"
     },
     {
-        "name": "Remix.Logos.FacebookBoxLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/facebook-box-line.svg"
+        "name": "Remix.Logos.SupabaseLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/supabase-line.svg"
     },
     {
-        "name": "Remix.Logos.MessengerLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/messenger-line.svg"
+        "name": "Remix.Logos.TwitchFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/twitch-fill.svg"
     },
     {
-        "name": "Remix.Logos.ReactjsLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/reactjs-line.svg"
+        "name": "Remix.Logos.FlutterLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/flutter-line.svg"
     },
     {
-        "name": "Remix.Logos.VercelLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/vercel-line.svg"
+        "name": "Remix.Logos.VisaFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/visa-fill.svg"
     },
     {
-        "name": "Remix.Logos.AnthropicFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/anthropic-fill.svg"
+        "name": "Remix.Logos.WechatPayFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/wechat-pay-fill.svg"
     },
     {
-        "name": "Remix.Logos.DisqusLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/disqus-line.svg"
-    },
-    {
-        "name": "Remix.Logos.PaypalLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/paypal-line.svg"
-    },
-    {
-        "name": "Remix.Logos.DribbbleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/dribbble-line.svg"
-    },
-    {
-        "name": "Remix.Logos.YoutubeLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/youtube-line.svg"
-    },
-    {
-        "name": "Remix.Logos.Telegram2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/telegram-2-line.svg"
-    },
-    {
-        "name": "Remix.Logos.AnthropicLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/anthropic-line.svg"
-    },
-    {
-        "name": "Remix.Logos.RemixiconLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/remixicon-line.svg"
-    },
-    {
-        "name": "Remix.Logos.InstagramFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/instagram-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.DriveFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/drive-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.PaypalFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/paypal-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.FirefoxLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/firefox-line.svg"
-    },
-    {
-        "name": "Remix.Logos.SnapchatFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/snapchat-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.GithubFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/github-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.KickFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/kick-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.WhatsappLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/whatsapp-line.svg"
-    },
-    {
-        "name": "Remix.Logos.NextjsFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/nextjs-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.WindowsFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/windows-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.ChromeFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/chrome-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.OperaFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/opera-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.BilibiliLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/bilibili-line.svg"
-    },
-    {
-        "name": "Remix.Logos.BardLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/bard-line.svg"
-    },
-    {
-        "name": "Remix.Logos.TelegramFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/telegram-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.GatsbyFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/gatsby-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.QqFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/qq-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.ChromeLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/chrome-line.svg"
-    },
-    {
-        "name": "Remix.Logos.GatsbyLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/gatsby-line.svg"
-    },
-    {
-        "name": "Remix.Logos.MastercardLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/mastercard-line.svg"
-    },
-    {
-        "name": "Remix.Logos.SvelteFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/svelte-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.NetflixFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/netflix-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.WechatLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/wechat-line.svg"
-    },
-    {
-        "name": "Remix.Logos.XboxLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/xbox-line.svg"
-    },
-    {
-        "name": "Remix.Logos.BloggerFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/blogger-fill.svg"
-    },
-    {
-        "name": "Remix.Logos.PatreonLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/patreon-line.svg"
+        "name": "Remix.Logos.Telegram2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/telegram-2-fill.svg"
     },
     {
         "name": "Remix.Logos.AngularjsLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/angularjs-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/angularjs-line.svg"
     },
     {
-        "name": "Remix.Logos.ClaudeLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/claude-line.svg"
+        "name": "Remix.Logos.CentosLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/centos-line.svg"
     },
     {
-        "name": "Remix.Logos.PerplexityFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/perplexity-fill.svg"
+        "name": "Remix.Logos.NotionLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/notion-line.svg"
     },
     {
-        "name": "Remix.Logos.YoutubeFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/youtube-fill.svg"
+        "name": "Remix.Logos.DriveLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/drive-line.svg"
     },
     {
-        "name": "Remix.Logos.TumblrLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/tumblr-line.svg"
+        "name": "Remix.Logos.BehanceLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/behance-line.svg"
     },
     {
-        "name": "Remix.Logos.MixtralLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/mixtral-line.svg"
+        "name": "Remix.Logos.DoubanLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/douban-line.svg"
+    },
+    {
+        "name": "Remix.Logos.TwitterXFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/twitter-x-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.BootstrapLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/bootstrap-line.svg"
+    },
+    {
+        "name": "Remix.Logos.FirefoxFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/firefox-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.DropboxFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/dropbox-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.MixtralFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/mixtral-fill.svg"
     },
     {
         "name": "Remix.Logos.PixFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Logos/pix-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/pix-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.LinkedinBoxLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/linkedin-box-line.svg"
+    },
+    {
+        "name": "Remix.Logos.SpotifyFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/spotify-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.AppStoreLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/app-store-line.svg"
+    },
+    {
+        "name": "Remix.Logos.BaiduLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/baidu-line.svg"
+    },
+    {
+        "name": "Remix.Logos.FriendicaFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/friendica-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.WechatChannelsFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/wechat-channels-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.DribbbleLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/dribbble-line.svg"
+    },
+    {
+        "name": "Remix.Logos.FinderFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/finder-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.GeminiFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/gemini-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.WhatsappLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/whatsapp-line.svg"
+    },
+    {
+        "name": "Remix.Logos.ZcoolFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/zcool-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.PatreonFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/patreon-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.OpenbaseFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/openbase-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.SpectrumLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/spectrum-line.svg"
+    },
+    {
+        "name": "Remix.Logos.UbuntuLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/ubuntu-line.svg"
+    },
+    {
+        "name": "Remix.Logos.AppleLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/apple-line.svg"
+    },
+    {
+        "name": "Remix.Logos.OpenSourceFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/open-source-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.StackOverflowLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/stack-overflow-line.svg"
+    },
+    {
+        "name": "Remix.Logos.TumblrLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/tumblr-line.svg"
+    },
+    {
+        "name": "Remix.Logos.MastercardLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/mastercard-line.svg"
+    },
+    {
+        "name": "Remix.Logos.FacebookCircleLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/facebook-circle-line.svg"
+    },
+    {
+        "name": "Remix.Logos.OpenbaseLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/openbase-line.svg"
+    },
+    {
+        "name": "Remix.Logos.KickLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/kick-line.svg"
+    },
+    {
+        "name": "Remix.Logos.MixtralLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/mixtral-line.svg"
+    },
+    {
+        "name": "Remix.Logos.BilibiliLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/bilibili-line.svg"
+    },
+    {
+        "name": "Remix.Logos.EdgeNewLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/edge-new-line.svg"
+    },
+    {
+        "name": "Remix.Logos.InstagramLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/instagram-line.svg"
+    },
+    {
+        "name": "Remix.Logos.MediumLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/medium-line.svg"
+    },
+    {
+        "name": "Remix.Logos.BilibiliFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/bilibili-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.ThreadsLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/threads-line.svg"
+    },
+    {
+        "name": "Remix.Logos.SlackFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/slack-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.FacebookFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/facebook-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.LinkedinBoxFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/linkedin-box-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.MediumFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/medium-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.CopilotFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/copilot-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.BootstrapFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/bootstrap-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.InstagramFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/instagram-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.FirefoxLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/firefox-line.svg"
+    },
+    {
+        "name": "Remix.Logos.PlaystationLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/playstation-line.svg"
+    },
+    {
+        "name": "Remix.Logos.MessengerLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/messenger-line.svg"
+    },
+    {
+        "name": "Remix.Logos.TwitterFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/twitter-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.VimeoFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/vimeo-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.SteamFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/steam-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.PinterestFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/pinterest-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.RedditFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/reddit-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.GooglePlayLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/google-play-line.svg"
+    },
+    {
+        "name": "Remix.Logos.TailwindCssFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/tailwind-css-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.ProductHuntLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/product-hunt-line.svg"
+    },
+    {
+        "name": "Remix.Logos.IeFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/ie-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.GitlabFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/gitlab-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.YoutubeFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/youtube-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.XboxFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/xbox-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.JavaFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/java-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.WeiboFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/weibo-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.UnsplashFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/unsplash-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.FinderLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/finder-line.svg"
+    },
+    {
+        "name": "Remix.Logos.OpenSourceLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/open-source-line.svg"
+    },
+    {
+        "name": "Remix.Logos.InvisionFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/invision-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.ChromeLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/chrome-line.svg"
+    },
+    {
+        "name": "Remix.Logos.UnsplashLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/unsplash-line.svg"
+    },
+    {
+        "name": "Remix.Logos.PaypalLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/paypal-line.svg"
+    },
+    {
+        "name": "Remix.Logos.BardLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/bard-line.svg"
+    },
+    {
+        "name": "Remix.Logos.CopilotLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/copilot-line.svg"
+    },
+    {
+        "name": "Remix.Logos.GooglePlayFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/google-play-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.SupabaseFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/supabase-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.OpenaiLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/openai-line.svg"
+    },
+    {
+        "name": "Remix.Logos.LinkedinFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/linkedin-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.HonorOfKingsFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/honor-of-kings-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.GithubFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/github-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.FirefoxBrowserFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/firefox-browser-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.AndroidFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/android-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.NpmjsLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/npmjs-line.svg"
+    },
+    {
+        "name": "Remix.Logos.SkypeFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/skype-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.WechatChannelsLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/wechat-channels-line.svg"
+    },
+    {
+        "name": "Remix.Logos.NetflixFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/netflix-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.Wechat2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/wechat-2-line.svg"
+    },
+    {
+        "name": "Remix.Logos.FlutterFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/flutter-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.NotionFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/notion-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.ProductHuntFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/product-hunt-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.EdgeLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/edge-line.svg"
+    },
+    {
+        "name": "Remix.Logos.AlipayFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/alipay-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.MastodonFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/mastodon-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.BlenderLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/blender-line.svg"
+    },
+    {
+        "name": "Remix.Logos.TailwindCssLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/tailwind-css-line.svg"
+    },
+    {
+        "name": "Remix.Logos.ZhihuFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/zhihu-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.TumblrFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/tumblr-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.TiktokFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/tiktok-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.SnapchatFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/snapchat-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.EvernoteFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/evernote-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.NextjsFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/nextjs-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.OperaLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/opera-line.svg"
+    },
+    {
+        "name": "Remix.Logos.NetflixLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/netflix-line.svg"
+    },
+    {
+        "name": "Remix.Logos.AlipayLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/alipay-line.svg"
+    },
+    {
+        "name": "Remix.Logos.KickFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/kick-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.FirebaseFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/firebase-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.BloggerFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/blogger-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.VuejsLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/vuejs-line.svg"
+    },
+    {
+        "name": "Remix.Logos.BardFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/bard-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.PinterestLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/pinterest-line.svg"
+    },
+    {
+        "name": "Remix.Logos.TaobaoLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/taobao-line.svg"
+    },
+    {
+        "name": "Remix.Logos.CoreosFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/coreos-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.SoundcloudFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/soundcloud-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.DiscordLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/discord-line.svg"
+    },
+    {
+        "name": "Remix.Logos.ClaudeFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/claude-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.PatreonLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/patreon-line.svg"
+    },
+    {
+        "name": "Remix.Logos.JavaLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/java-line.svg"
+    },
+    {
+        "name": "Remix.Logos.DoubanFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/douban-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.DingdingLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/dingding-line.svg"
+    },
+    {
+        "name": "Remix.Logos.ReactjsLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/reactjs-line.svg"
+    },
+    {
+        "name": "Remix.Logos.ZcoolLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/zcool-line.svg"
+    },
+    {
+        "name": "Remix.Logos.FigmaLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/figma-line.svg"
+    },
+    {
+        "name": "Remix.Logos.OperaFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/opera-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.SteamLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/steam-line.svg"
+    },
+    {
+        "name": "Remix.Logos.DropboxLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/dropbox-line.svg"
+    },
+    {
+        "name": "Remix.Logos.LineLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/line-line.svg"
+    },
+    {
+        "name": "Remix.Logos.VercelLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/vercel-line.svg"
+    },
+    {
+        "name": "Remix.Logos.UbuntuFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/ubuntu-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.DribbbleFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/dribbble-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.TrelloFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/trello-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.TaobaoFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/taobao-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.AmazonFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/amazon-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.MiniProgramFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/mini-program-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.WebhookLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/webhook-line.svg"
+    },
+    {
+        "name": "Remix.Logos.MicrosoftLoopLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/microsoft-loop-line.svg"
+    },
+    {
+        "name": "Remix.Logos.GitlabLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/gitlab-line.svg"
+    },
+    {
+        "name": "Remix.Logos.WechatPayLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/wechat-pay-line.svg"
+    },
+    {
+        "name": "Remix.Logos.VuejsFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/vuejs-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.RemixiconFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/remixicon-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.DiscordFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/discord-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.FediverseFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/fediverse-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.AngularjsFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/angularjs-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.MastercardFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/mastercard-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.AnthropicLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/anthropic-line.svg"
+    },
+    {
+        "name": "Remix.Logos.KakaoTalkLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/kakao-talk-line.svg"
+    },
+    {
+        "name": "Remix.Logos.WordpressFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/wordpress-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.DingdingFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/dingding-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.Telegram2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/telegram-2-line.svg"
+    },
+    {
+        "name": "Remix.Logos.MetaFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/meta-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.WebhookFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/webhook-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.TelegramFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/telegram-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.LineFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/line-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.SpotifyLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/spotify-line.svg"
+    },
+    {
+        "name": "Remix.Logos.SvelteLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/svelte-line.svg"
+    },
+    {
+        "name": "Remix.Logos.OpenaiFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/openai-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.GatsbyLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/gatsby-line.svg"
+    },
+    {
+        "name": "Remix.Logos.IeLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/ie-line.svg"
+    },
+    {
+        "name": "Remix.Logos.WordpressLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/wordpress-line.svg"
+    },
+    {
+        "name": "Remix.Logos.XboxLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/xbox-line.svg"
+    },
+    {
+        "name": "Remix.Logos.ChromeFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/chrome-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.WindowsFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/windows-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.VercelFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/vercel-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.SlackLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/slack-line.svg"
+    },
+    {
+        "name": "Remix.Logos.GatsbyFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/gatsby-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.StackOverflowFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/stack-overflow-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.InvisionLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/invision-line.svg"
+    },
+    {
+        "name": "Remix.Logos.SnapchatLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/snapchat-line.svg"
+    },
+    {
+        "name": "Remix.Logos.WechatLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/wechat-line.svg"
+    },
+    {
+        "name": "Remix.Logos.AnthropicFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/anthropic-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.CentosFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/centos-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.TiktokLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/tiktok-line.svg"
+    },
+    {
+        "name": "Remix.Logos.FacebookBoxLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/facebook-box-line.svg"
+    },
+    {
+        "name": "Remix.Logos.QqLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/qq-line.svg"
+    },
+    {
+        "name": "Remix.Logos.AlibabaCloudFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/alibaba-cloud-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.ReactjsFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/reactjs-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.FacebookCircleFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/facebook-circle-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.QqFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/qq-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.MessengerFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/messenger-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.BloggerLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/blogger-line.svg"
+    },
+    {
+        "name": "Remix.Logos.TwitterXLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/twitter-x-line.svg"
+    },
+    {
+        "name": "Remix.Logos.NodejsFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/nodejs-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.GoogleLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/google-line.svg"
+    },
+    {
+        "name": "Remix.Logos.FacebookLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/facebook-line.svg"
+    },
+    {
+        "name": "Remix.Logos.WeiboLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/weibo-line.svg"
+    },
+    {
+        "name": "Remix.Logos.YoutubeLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/youtube-line.svg"
+    },
+    {
+        "name": "Remix.Logos.DisqusFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/disqus-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.XingLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/xing-line.svg"
+    },
+    {
+        "name": "Remix.Logos.FriendicaLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/friendica-line.svg"
+    },
+    {
+        "name": "Remix.Logos.KakaoTalkFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/kakao-talk-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.RemixiconLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/remixicon-line.svg"
+    },
+    {
+        "name": "Remix.Logos.WindowsLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/windows-line.svg"
+    },
+    {
+        "name": "Remix.Logos.WechatFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/wechat-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.LinkedinLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/linkedin-line.svg"
+    },
+    {
+        "name": "Remix.Logos.ClaudeLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/claude-line.svg"
+    },
+    {
+        "name": "Remix.Logos.PaypalFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/paypal-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.WhatsappFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/whatsapp-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.VimeoLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/vimeo-line.svg"
+    },
+    {
+        "name": "Remix.Logos.GithubLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/github-line.svg"
+    },
+    {
+        "name": "Remix.Logos.YuqueLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/yuque-line.svg"
+    },
+    {
+        "name": "Remix.Logos.VkLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/vk-line.svg"
+    },
+    {
+        "name": "Remix.Logos.FlickrLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/flickr-line.svg"
+    },
+    {
+        "name": "Remix.Logos.HonorOfKingsLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/honor-of-kings-line.svg"
+    },
+    {
+        "name": "Remix.Logos.MastodonLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/mastodon-line.svg"
+    },
+    {
+        "name": "Remix.Logos.NextjsLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/nextjs-line.svg"
+    },
+    {
+        "name": "Remix.Logos.FacebookBoxFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/facebook-box-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.BlueskyFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/bluesky-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.PerplexityLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/perplexity-line.svg"
+    },
+    {
+        "name": "Remix.Logos.EdgeNewFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/edge-new-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.MicrosoftLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/microsoft-line.svg"
+    },
+    {
+        "name": "Remix.Logos.FigmaFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/figma-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.CodepenLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/codepen-line.svg"
+    },
+    {
+        "name": "Remix.Logos.BaiduFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/baidu-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.SpectrumFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/spectrum-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.VkFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/vk-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.SoundcloudLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/soundcloud-line.svg"
+    },
+    {
+        "name": "Remix.Logos.RemixRunFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/remix-run-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.FirefoxBrowserLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/firefox-browser-line.svg"
+    },
+    {
+        "name": "Remix.Logos.ThreadsFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/threads-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.PlaystationFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/playstation-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.StackshareLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/stackshare-line.svg"
+    },
+    {
+        "name": "Remix.Logos.MiniProgramLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/mini-program-line.svg"
+    },
+    {
+        "name": "Remix.Logos.GoogleFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/google-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.SafariLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/safari-line.svg"
+    },
+    {
+        "name": "Remix.Logos.CodepenFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/codepen-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.SwitchFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/switch-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.FlickrFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/flickr-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.PixelfedLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/pixelfed-line.svg"
+    },
+    {
+        "name": "Remix.Logos.AppStoreFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/app-store-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.StackshareFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/stackshare-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.EvernoteLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/evernote-line.svg"
+    },
+    {
+        "name": "Remix.Logos.PixLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/pix-line.svg"
+    },
+    {
+        "name": "Remix.Logos.YuqueFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/yuque-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.NodejsLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/nodejs-line.svg"
+    },
+    {
+        "name": "Remix.Logos.TrelloLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/trello-line.svg"
+    },
+    {
+        "name": "Remix.Logos.NpmjsFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/npmjs-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.FediverseLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/fediverse-line.svg"
+    },
+    {
+        "name": "Remix.Logos.AmazonLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/amazon-line.svg"
+    },
+    {
+        "name": "Remix.Logos.XingFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/xing-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.MetaLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/meta-line.svg"
+    },
+    {
+        "name": "Remix.Logos.MicrosoftLoopFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/microsoft-loop-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.FirebaseLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/firebase-line.svg"
+    },
+    {
+        "name": "Remix.Logos.DriveFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/drive-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.SvelteFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/svelte-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.PixelfedFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/pixelfed-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.SkypeLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/skype-line.svg"
+    },
+    {
+        "name": "Remix.Logos.BlenderFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/blender-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.VisaLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/visa-line.svg"
+    },
+    {
+        "name": "Remix.Logos.AlibabaCloudLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/alibaba-cloud-line.svg"
+    },
+    {
+        "name": "Remix.Logos.BehanceFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/behance-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.NeteaseCloudMusicLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/netease-cloud-music-line.svg"
+    },
+    {
+        "name": "Remix.Logos.SwitchLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/switch-line.svg"
+    },
+    {
+        "name": "Remix.Logos.SafariFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/safari-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.TwitterLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/twitter-line.svg"
+    },
+    {
+        "name": "Remix.Logos.TwitchLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/twitch-line.svg"
+    },
+    {
+        "name": "Remix.Logos.DisqusLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/disqus-line.svg"
+    },
+    {
+        "name": "Remix.Logos.PerplexityFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/perplexity-fill.svg"
+    },
+    {
+        "name": "Remix.Logos.GeminiLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/gemini-line.svg"
+    },
+    {
+        "name": "Remix.Logos.MicrosoftFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Logos/microsoft-fill.svg"
     }
 ]
