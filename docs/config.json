@@ -11,13 +11,6 @@
             ]
         },
         {
-            "name": "Octicons",
-            "value": "octicons",
-            "categories": [
-                ""
-            ]
-        },
-        {
             "name": "Feather",
             "value": "feather",
             "categories": [
@@ -95,6 +88,13 @@
                 "healthandmedical",
                 "document",
                 "design"
+            ]
+        },
+        {
+            "name": "Octicons",
+            "value": "octicons",
+            "categories": [
+                ""
             ]
         }
     ]
