@@ -42,13 +42,6 @@
             ]
         },
         {
-            "name": "Simpleicons",
-            "value": "simpleicons",
-            "categories": [
-                ""
-            ]
-        },
-        {
             "name": "Remix icons",
             "value": "remix",
             "categories": [
@@ -95,6 +88,13 @@
                 "regular",
                 "solid",
                 "brands"
+            ]
+        },
+        {
+            "name": "Simpleicons",
+            "value": "simpleicons",
+            "categories": [
+                ""
             ]
         }
     ]
