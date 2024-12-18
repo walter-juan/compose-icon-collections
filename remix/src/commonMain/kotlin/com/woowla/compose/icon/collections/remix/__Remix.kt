@@ -32,10 +32,10 @@ public val Remix.AllIcons: ____KtList<ImageVector>
     if (__AllIcons != null) {
       return __AllIcons!!
     }
-    __AllIcons= Design.AllIcons + UserAndFaces.AllIcons + Food.AllIcons + Map.AllIcons +
-        Communication.AllIcons + HealthAndMedical.AllIcons + System.AllIcons + Document.AllIcons +
-        Weather.AllIcons + Media.AllIcons + Logos.AllIcons + Buildings.AllIcons +
-        Business.AllIcons + Development.AllIcons + Editor.AllIcons + Device.AllIcons +
-        Arrows.AllIcons + Finance.AllIcons + Others.AllIcons + listOf()
+    __AllIcons= Others.AllIcons + Business.AllIcons + Media.AllIcons + Finance.AllIcons +
+        UserAndFaces.AllIcons + Arrows.AllIcons + Map.AllIcons + Logos.AllIcons + System.AllIcons +
+        Editor.AllIcons + Device.AllIcons + Food.AllIcons + Communication.AllIcons +
+        Weather.AllIcons + Development.AllIcons + Buildings.AllIcons + HealthAndMedical.AllIcons +
+        Document.AllIcons + Design.AllIcons + listOf()
     return __AllIcons!!
   }

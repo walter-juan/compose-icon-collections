@@ -1,570 +1,594 @@
 [
     {
-        "name": "Remix.Others.Dice1Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/dice-1-fill.svg"
-    },
-    {
-        "name": "Remix.Others.InfinityLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/infinity-line.svg"
-    },
-    {
-        "name": "Remix.Others.Plug2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/plug-2-fill.svg"
-    },
-    {
-        "name": "Remix.Others.SeedlingLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/seedling-line.svg"
-    },
-    {
-        "name": "Remix.Others.ToothLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/tooth-line.svg"
-    },
-    {
-        "name": "Remix.Others.FootballLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/football-line.svg"
-    },
-    {
-        "name": "Remix.Others.Dice5Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/dice-5-fill.svg"
-    },
-    {
-        "name": "Remix.Others.InfinityFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/infinity-fill.svg"
-    },
-    {
-        "name": "Remix.Others.Scales2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/scales-2-fill.svg"
-    },
-    {
-        "name": "Remix.Others.DoorLockBoxFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/door-lock-box-fill.svg"
-    },
-    {
-        "name": "Remix.Others.SwordFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/sword-fill.svg"
-    },
-    {
-        "name": "Remix.Others.Key2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/key-2-line.svg"
-    },
-    {
-        "name": "Remix.Others.TShirtLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/t-shirt-line.svg"
-    },
-    {
-        "name": "Remix.Others.BasketballFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/basketball-fill.svg"
-    },
-    {
-        "name": "Remix.Others.GogglesFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/goggles-fill.svg"
-    },
-    {
-        "name": "Remix.Others.PlugLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/plug-line.svg"
-    },
-    {
-        "name": "Remix.Others.FridgeFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/fridge-fill.svg"
-    },
-    {
-        "name": "Remix.Others.TShirt2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/t-shirt-2-line.svg"
-    },
-    {
-        "name": "Remix.Others.PokerDiamondsFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/poker-diamonds-fill.svg"
-    },
-    {
-        "name": "Remix.Others.VoiceRecognitionFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/voice-recognition-fill.svg"
-    },
-    {
-        "name": "Remix.Others.BoxingLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/boxing-line.svg"
-    },
-    {
-        "name": "Remix.Others.Plug2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/plug-2-line.svg"
-    },
-    {
-        "name": "Remix.Others.DoorLockBoxLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/door-lock-box-line.svg"
-    },
-    {
-        "name": "Remix.Others.Box2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/box-2-line.svg"
-    },
-    {
-        "name": "Remix.Others.TreeFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/tree-fill.svg"
-    },
-    {
-        "name": "Remix.Others.Scales2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/scales-2-line.svg"
-    },
-    {
-        "name": "Remix.Others.PokerSpadesFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/poker-spades-fill.svg"
-    },
-    {
-        "name": "Remix.Others.ShirtFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/shirt-fill.svg"
-    },
-    {
-        "name": "Remix.Others.Box1Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/box-1-fill.svg"
-    },
-    {
-        "name": "Remix.Others.GraduationCapFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/graduation-cap-fill.svg"
-    },
-    {
-        "name": "Remix.Others.PingPongFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/ping-pong-fill.svg"
-    },
-    {
-        "name": "Remix.Others.DoorLockLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/door-lock-line.svg"
-    },
-    {
-        "name": "Remix.Others.SeedlingFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/seedling-fill.svg"
-    },
-    {
-        "name": "Remix.Others.SofaFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/sofa-fill.svg"
-    },
-    {
-        "name": "Remix.Others.ToothFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/tooth-fill.svg"
-    },
-    {
-        "name": "Remix.Others.DoorFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/door-fill.svg"
-    },
-    {
-        "name": "Remix.Others.PlugFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/plug-fill.svg"
-    },
-    {
-        "name": "Remix.Others.CandleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/candle-line.svg"
-    },
-    {
-        "name": "Remix.Others.WheelchairLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/wheelchair-line.svg"
-    },
-    {
-        "name": "Remix.Others.GraduationCapLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/graduation-cap-line.svg"
-    },
-    {
-        "name": "Remix.Others.DoorClosedLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/door-closed-line.svg"
-    },
-    {
-        "name": "Remix.Others.DoorOpenLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/door-open-line.svg"
-    },
-    {
-        "name": "Remix.Others.DoorOpenFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/door-open-fill.svg"
-    },
-    {
-        "name": "Remix.Others.ShirtLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/shirt-line.svg"
-    },
-    {
-        "name": "Remix.Others.ScalesFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/scales-fill.svg"
-    },
-    {
-        "name": "Remix.Others.ReservedFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/reserved-fill.svg"
-    },
-    {
-        "name": "Remix.Others.LightbulbFlashLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/lightbulb-flash-line.svg"
-    },
-    {
-        "name": "Remix.Others.GolfBallFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/golf-ball-fill.svg"
-    },
-    {
-        "name": "Remix.Others.PokerClubsLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/poker-clubs-line.svg"
-    },
-    {
-        "name": "Remix.Others.BookShelfFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/book-shelf-fill.svg"
-    },
-    {
-        "name": "Remix.Others.Dice1Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/dice-1-line.svg"
-    },
-    {
-        "name": "Remix.Others.HandbagLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/handbag-line.svg"
-    },
-    {
-        "name": "Remix.Others.FlowerFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/flower-fill.svg"
-    },
-    {
-        "name": "Remix.Others.StairsFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/stairs-fill.svg"
-    },
-    {
-        "name": "Remix.Others.PokerClubsFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/poker-clubs-fill.svg"
-    },
-    {
-        "name": "Remix.Others.PlantLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/plant-line.svg"
-    },
-    {
-        "name": "Remix.Others.Dice6Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/dice-6-fill.svg"
-    },
-    {
-        "name": "Remix.Others.Box3Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/box-3-fill.svg"
-    },
-    {
-        "name": "Remix.Others.Scales3Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/scales-3-fill.svg"
-    },
-    {
-        "name": "Remix.Others.PingPongLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/ping-pong-line.svg"
-    },
-    {
-        "name": "Remix.Others.KeyLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/key-line.svg"
-    },
-    {
-        "name": "Remix.Others.LightbulbFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/lightbulb-fill.svg"
-    },
-    {
-        "name": "Remix.Others.PokerHeartsLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/poker-hearts-line.svg"
-    },
-    {
-        "name": "Remix.Others.Dice2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/dice-2-fill.svg"
-    },
-    {
-        "name": "Remix.Others.BookShelfLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/book-shelf-line.svg"
-    },
-    {
-        "name": "Remix.Others.Box1Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/box-1-line.svg"
-    },
-    {
-        "name": "Remix.Others.LeafFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/leaf-fill.svg"
-    },
-    {
-        "name": "Remix.Others.GolfBallLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/golf-ball-line.svg"
-    },
-    {
-        "name": "Remix.Others.PokerDiamondsLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/poker-diamonds-line.svg"
-    },
-    {
-        "name": "Remix.Others.GogglesLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/goggles-line.svg"
-    },
-    {
-        "name": "Remix.Others.Glasses2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/glasses-2-line.svg"
-    },
-    {
-        "name": "Remix.Others.OutletLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/outlet-line.svg"
-    },
-    {
-        "name": "Remix.Others.Key2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/key-2-fill.svg"
-    },
-    {
-        "name": "Remix.Others.Dice4Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/dice-4-line.svg"
-    },
-    {
-        "name": "Remix.Others.PoliceBadgeLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/police-badge-line.svg"
-    },
-    {
-        "name": "Remix.Others.TShirtAirLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/t-shirt-air-line.svg"
-    },
-    {
-        "name": "Remix.Others.CrossLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/cross-line.svg"
-    },
-    {
-        "name": "Remix.Others.FridgeLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/fridge-line.svg"
-    },
-    {
-        "name": "Remix.Others.RecycleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/recycle-line.svg"
-    },
-    {
-        "name": "Remix.Others.TreeLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/tree-line.svg"
-    },
-    {
-        "name": "Remix.Others.GameLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/game-line.svg"
-    },
-    {
-        "name": "Remix.Others.RecycleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/recycle-fill.svg"
-    },
-    {
-        "name": "Remix.Others.Box3Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/box-3-line.svg"
-    },
-    {
-        "name": "Remix.Others.BellLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/bell-line.svg"
-    },
-    {
-        "name": "Remix.Others.BasketballLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/basketball-line.svg"
-    },
-    {
-        "name": "Remix.Others.WeightLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/weight-line.svg"
-    },
-    {
-        "name": "Remix.Others.VoiceRecognitionLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/voice-recognition-line.svg"
-    },
-    {
-        "name": "Remix.Others.TShirt2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/t-shirt-2-fill.svg"
-    },
-    {
-        "name": "Remix.Others.DoorLockFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/door-lock-fill.svg"
-    },
-    {
-        "name": "Remix.Others.CactusFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/cactus-fill.svg"
-    },
-    {
-        "name": "Remix.Others.BellFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/bell-fill.svg"
-    },
-    {
-        "name": "Remix.Others.WheelchairFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/wheelchair-fill.svg"
-    },
-    {
-        "name": "Remix.Others.UmbrellaLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/umbrella-line.svg"
-    },
-    {
-        "name": "Remix.Others.Dice4Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/dice-4-fill.svg"
-    },
-    {
-        "name": "Remix.Others.DiceLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/dice-line.svg"
-    },
-    {
-        "name": "Remix.Others.KeyFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/key-fill.svg"
-    },
-    {
-        "name": "Remix.Others.TShirtAirFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/t-shirt-air-fill.svg"
-    },
-    {
-        "name": "Remix.Others.PoliceBadgeFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/police-badge-fill.svg"
-    },
-    {
-        "name": "Remix.Others.PokerHeartsFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/poker-hearts-fill.svg"
-    },
-    {
-        "name": "Remix.Others.UmbrellaFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/umbrella-fill.svg"
-    },
-    {
-        "name": "Remix.Others.GameFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/game-fill.svg"
-    },
-    {
-        "name": "Remix.Others.BoxingFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/boxing-fill.svg"
-    },
-    {
-        "name": "Remix.Others.FlowerLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/flower-line.svg"
-    },
-    {
-        "name": "Remix.Others.ArmchairLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/armchair-line.svg"
-    },
-    {
-        "name": "Remix.Others.Dice3Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/dice-3-line.svg"
-    },
-    {
-        "name": "Remix.Others.TShirtFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/t-shirt-fill.svg"
-    },
-    {
-        "name": "Remix.Others.GlassesLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/glasses-line.svg"
-    },
-    {
-        "name": "Remix.Others.CharacterRecognitionLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/character-recognition-line.svg"
-    },
-    {
-        "name": "Remix.Others.CactusLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/cactus-line.svg"
-    },
-    {
-        "name": "Remix.Others.LeafLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/leaf-line.svg"
-    },
-    {
-        "name": "Remix.Others.FootballFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/football-fill.svg"
-    },
-    {
-        "name": "Remix.Others.Box2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/box-2-fill.svg"
-    },
-    {
-        "name": "Remix.Others.CharacterRecognitionFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/character-recognition-fill.svg"
-    },
-    {
-        "name": "Remix.Others.Outlet2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/outlet-2-line.svg"
-    },
-    {
-        "name": "Remix.Others.StairsLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/stairs-line.svg"
-    },
-    {
-        "name": "Remix.Others.Dice2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/dice-2-line.svg"
-    },
-    {
-        "name": "Remix.Others.SofaLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/sofa-line.svg"
-    },
-    {
-        "name": "Remix.Others.DiceFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/dice-fill.svg"
-    },
-    {
-        "name": "Remix.Others.DoorClosedFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/door-closed-fill.svg"
-    },
-    {
-        "name": "Remix.Others.Outlet2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/outlet-2-fill.svg"
-    },
-    {
-        "name": "Remix.Others.Glasses2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/glasses-2-fill.svg"
-    },
-    {
-        "name": "Remix.Others.GlassesFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/glasses-fill.svg"
-    },
-    {
-        "name": "Remix.Others.PlantFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/plant-fill.svg"
-    },
-    {
-        "name": "Remix.Others.ReservedLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/reserved-line.svg"
-    },
-    {
-        "name": "Remix.Others.Scales3Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/scales-3-line.svg"
-    },
-    {
         "name": "Remix.Others.BilliardsFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/billiards-fill.svg"
-    },
-    {
-        "name": "Remix.Others.ArmchairFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/armchair-fill.svg"
-    },
-    {
-        "name": "Remix.Others.Dice3Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/dice-3-fill.svg"
-    },
-    {
-        "name": "Remix.Others.SwordLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/sword-line.svg"
-    },
-    {
-        "name": "Remix.Others.LightbulbFlashFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/lightbulb-flash-fill.svg"
-    },
-    {
-        "name": "Remix.Others.OutletFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/outlet-fill.svg"
-    },
-    {
-        "name": "Remix.Others.ScalesLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/scales-line.svg"
-    },
-    {
-        "name": "Remix.Others.Dice6Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/dice-6-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/billiards-fill.svg"
     },
     {
         "name": "Remix.Others.HandbagFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/handbag-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/handbag-fill.svg"
     },
     {
-        "name": "Remix.Others.WeightFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/weight-fill.svg"
+        "name": "Remix.Others.StairsLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/stairs-line.svg"
     },
     {
-        "name": "Remix.Others.LightbulbLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/lightbulb-line.svg"
+        "name": "Remix.Others.DoorClosedLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/door-closed-line.svg"
+    },
+    {
+        "name": "Remix.Others.ShirtFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/shirt-fill.svg"
+    },
+    {
+        "name": "Remix.Others.Dice3Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/dice-3-line.svg"
+    },
+    {
+        "name": "Remix.Others.Dice2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/dice-2-fill.svg"
+    },
+    {
+        "name": "Remix.Others.Scales2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/scales-2-fill.svg"
+    },
+    {
+        "name": "Remix.Others.TShirtLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/t-shirt-line.svg"
+    },
+    {
+        "name": "Remix.Others.DoorLockBoxLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/door-lock-box-line.svg"
     },
     {
         "name": "Remix.Others.BilliardsLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/billiards-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/billiards-line.svg"
     },
     {
-        "name": "Remix.Others.PokerSpadesLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/poker-spades-line.svg"
-    },
-    {
-        "name": "Remix.Others.DoorLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/door-line.svg"
-    },
-    {
-        "name": "Remix.Others.CandleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/candle-fill.svg"
-    },
-    {
-        "name": "Remix.Others.Dice5Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/dice-5-line.svg"
+        "name": "Remix.Others.CrossLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/cross-line.svg"
     },
     {
         "name": "Remix.Others.CrossFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Others/cross-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/cross-fill.svg"
+    },
+    {
+        "name": "Remix.Others.CactusLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/cactus-line.svg"
+    },
+    {
+        "name": "Remix.Others.TreeFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/tree-fill.svg"
+    },
+    {
+        "name": "Remix.Others.TShirt2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/t-shirt-2-line.svg"
+    },
+    {
+        "name": "Remix.Others.WeightFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/weight-fill.svg"
+    },
+    {
+        "name": "Remix.Others.BasketballLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/basketball-line.svg"
+    },
+    {
+        "name": "Remix.Others.Box1Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/box-1-line.svg"
+    },
+    {
+        "name": "Remix.Others.ArmchairFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/armchair-fill.svg"
+    },
+    {
+        "name": "Remix.Others.RecycleFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/recycle-fill.svg"
+    },
+    {
+        "name": "Remix.Others.RecycleLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/recycle-line.svg"
+    },
+    {
+        "name": "Remix.Others.UmbrellaFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/umbrella-fill.svg"
+    },
+    {
+        "name": "Remix.Others.Dice2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/dice-2-line.svg"
+    },
+    {
+        "name": "Remix.Others.ReservedLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/reserved-line.svg"
+    },
+    {
+        "name": "Remix.Others.CharacterRecognitionFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/character-recognition-fill.svg"
+    },
+    {
+        "name": "Remix.Others.VoiceRecognitionLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/voice-recognition-line.svg"
+    },
+    {
+        "name": "Remix.Others.Dice3Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/dice-3-fill.svg"
+    },
+    {
+        "name": "Remix.Others.DoorLockFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/door-lock-fill.svg"
+    },
+    {
+        "name": "Remix.Others.WheelchairLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/wheelchair-line.svg"
+    },
+    {
+        "name": "Remix.Others.Key2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/key-2-fill.svg"
+    },
+    {
+        "name": "Remix.Others.Plug2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/plug-2-fill.svg"
+    },
+    {
+        "name": "Remix.Others.Scales3Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/scales-3-fill.svg"
+    },
+    {
+        "name": "Remix.Others.WheelchairFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/wheelchair-fill.svg"
+    },
+    {
+        "name": "Remix.Others.DoorFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/door-fill.svg"
+    },
+    {
+        "name": "Remix.Others.GolfBallLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/golf-ball-line.svg"
+    },
+    {
+        "name": "Remix.Others.PokerDiamondsFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/poker-diamonds-fill.svg"
+    },
+    {
+        "name": "Remix.Others.Dice5Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/dice-5-line.svg"
+    },
+    {
+        "name": "Remix.Others.Outlet2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/outlet-2-fill.svg"
+    },
+    {
+        "name": "Remix.Others.Box2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/box-2-line.svg"
+    },
+    {
+        "name": "Remix.Others.BookShelfLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/book-shelf-line.svg"
+    },
+    {
+        "name": "Remix.Others.PokerClubsLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/poker-clubs-line.svg"
+    },
+    {
+        "name": "Remix.Others.ShirtLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/shirt-line.svg"
+    },
+    {
+        "name": "Remix.Others.PlugFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/plug-fill.svg"
+    },
+    {
+        "name": "Remix.Others.SwordLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/sword-line.svg"
+    },
+    {
+        "name": "Remix.Others.CactusFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/cactus-fill.svg"
+    },
+    {
+        "name": "Remix.Others.Dice4Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/dice-4-fill.svg"
+    },
+    {
+        "name": "Remix.Others.PingPongFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/ping-pong-fill.svg"
+    },
+    {
+        "name": "Remix.Others.PoliceBadgeFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/police-badge-fill.svg"
+    },
+    {
+        "name": "Remix.Others.GraduationCapFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/graduation-cap-fill.svg"
+    },
+    {
+        "name": "Remix.Others.CandleLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/candle-line.svg"
+    },
+    {
+        "name": "Remix.Others.GameFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/game-fill.svg"
+    },
+    {
+        "name": "Remix.Others.KeyLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/key-line.svg"
+    },
+    {
+        "name": "Remix.Others.ScalesFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/scales-fill.svg"
+    },
+    {
+        "name": "Remix.Others.DoorLockBoxFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/door-lock-box-fill.svg"
+    },
+    {
+        "name": "Remix.Others.DoorOpenFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/door-open-fill.svg"
+    },
+    {
+        "name": "Remix.Others.Dice4Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/dice-4-line.svg"
+    },
+    {
+        "name": "Remix.Others.Dice6Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/dice-6-fill.svg"
+    },
+    {
+        "name": "Remix.Others.ToothLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/tooth-line.svg"
+    },
+    {
+        "name": "Remix.Others.OutletLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/outlet-line.svg"
+    },
+    {
+        "name": "Remix.Others.AccessibilityFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/accessibility-fill.svg"
+    },
+    {
+        "name": "Remix.Others.Dice1Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/dice-1-line.svg"
+    },
+    {
+        "name": "Remix.Others.GogglesLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/goggles-line.svg"
+    },
+    {
+        "name": "Remix.Others.KeyFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/key-fill.svg"
+    },
+    {
+        "name": "Remix.Others.LeafFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/leaf-fill.svg"
+    },
+    {
+        "name": "Remix.Others.Outlet2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/outlet-2-line.svg"
+    },
+    {
+        "name": "Remix.Others.VoiceRecognitionFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/voice-recognition-fill.svg"
+    },
+    {
+        "name": "Remix.Others.ChessLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/chess-line.svg"
+    },
+    {
+        "name": "Remix.Others.BellLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/bell-line.svg"
+    },
+    {
+        "name": "Remix.Others.ArmchairLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/armchair-line.svg"
+    },
+    {
+        "name": "Remix.Others.TShirtAirLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/t-shirt-air-line.svg"
+    },
+    {
+        "name": "Remix.Others.PoliceBadgeLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/police-badge-line.svg"
+    },
+    {
+        "name": "Remix.Others.Box3Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/box-3-line.svg"
+    },
+    {
+        "name": "Remix.Others.PokerHeartsFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/poker-hearts-fill.svg"
+    },
+    {
+        "name": "Remix.Others.CandleFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/candle-fill.svg"
+    },
+    {
+        "name": "Remix.Others.AccessibilityLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/accessibility-line.svg"
+    },
+    {
+        "name": "Remix.Others.BoxingLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/boxing-line.svg"
+    },
+    {
+        "name": "Remix.Others.GraduationCapLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/graduation-cap-line.svg"
+    },
+    {
+        "name": "Remix.Others.LightbulbFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/lightbulb-fill.svg"
+    },
+    {
+        "name": "Remix.Others.Key2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/key-2-line.svg"
+    },
+    {
+        "name": "Remix.Others.TShirtAirFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/t-shirt-air-fill.svg"
+    },
+    {
+        "name": "Remix.Others.FridgeFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/fridge-fill.svg"
+    },
+    {
+        "name": "Remix.Others.PokerDiamondsLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/poker-diamonds-line.svg"
+    },
+    {
+        "name": "Remix.Others.PokerSpadesLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/poker-spades-line.svg"
+    },
+    {
+        "name": "Remix.Others.BasketballFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/basketball-fill.svg"
+    },
+    {
+        "name": "Remix.Others.ChessFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/chess-fill.svg"
+    },
+    {
+        "name": "Remix.Others.Dice1Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/dice-1-fill.svg"
+    },
+    {
+        "name": "Remix.Others.Box1Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/box-1-fill.svg"
+    },
+    {
+        "name": "Remix.Others.DoorLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/door-line.svg"
+    },
+    {
+        "name": "Remix.Others.BellFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/bell-fill.svg"
+    },
+    {
+        "name": "Remix.Others.BookShelfFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/book-shelf-fill.svg"
+    },
+    {
+        "name": "Remix.Others.Plug2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/plug-2-line.svg"
+    },
+    {
+        "name": "Remix.Others.FridgeLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/fridge-line.svg"
+    },
+    {
+        "name": "Remix.Others.DoorLockLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/door-lock-line.svg"
+    },
+    {
+        "name": "Remix.Others.PlantLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/plant-line.svg"
+    },
+    {
+        "name": "Remix.Others.FlowerLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/flower-line.svg"
+    },
+    {
+        "name": "Remix.Others.CharacterRecognitionLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/character-recognition-line.svg"
+    },
+    {
+        "name": "Remix.Others.InfinityFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/infinity-fill.svg"
+    },
+    {
+        "name": "Remix.Others.Scales2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/scales-2-line.svg"
+    },
+    {
+        "name": "Remix.Others.LightbulbLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/lightbulb-line.svg"
+    },
+    {
+        "name": "Remix.Others.SwordFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/sword-fill.svg"
+    },
+    {
+        "name": "Remix.Others.Box2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/box-2-fill.svg"
+    },
+    {
+        "name": "Remix.Others.ToothFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/tooth-fill.svg"
+    },
+    {
+        "name": "Remix.Others.SofaFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/sofa-fill.svg"
+    },
+    {
+        "name": "Remix.Others.PingPongLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/ping-pong-line.svg"
+    },
+    {
+        "name": "Remix.Others.BoxingFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/boxing-fill.svg"
+    },
+    {
+        "name": "Remix.Others.SofaLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/sofa-line.svg"
+    },
+    {
+        "name": "Remix.Others.LightbulbFlashFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/lightbulb-flash-fill.svg"
+    },
+    {
+        "name": "Remix.Others.TreeLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/tree-line.svg"
+    },
+    {
+        "name": "Remix.Others.OutletFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/outlet-fill.svg"
+    },
+    {
+        "name": "Remix.Others.ServiceBellLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/service-bell-line.svg"
+    },
+    {
+        "name": "Remix.Others.Box3Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/box-3-fill.svg"
+    },
+    {
+        "name": "Remix.Others.GolfBallFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/golf-ball-fill.svg"
+    },
+    {
+        "name": "Remix.Others.PokerClubsFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/poker-clubs-fill.svg"
+    },
+    {
+        "name": "Remix.Others.DoorClosedFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/door-closed-fill.svg"
+    },
+    {
+        "name": "Remix.Others.SeedlingFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/seedling-fill.svg"
+    },
+    {
+        "name": "Remix.Others.PlantFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/plant-fill.svg"
+    },
+    {
+        "name": "Remix.Others.DiceFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/dice-fill.svg"
+    },
+    {
+        "name": "Remix.Others.PlugLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/plug-line.svg"
+    },
+    {
+        "name": "Remix.Others.ScalesLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/scales-line.svg"
+    },
+    {
+        "name": "Remix.Others.Dice5Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/dice-5-fill.svg"
+    },
+    {
+        "name": "Remix.Others.GogglesFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/goggles-fill.svg"
+    },
+    {
+        "name": "Remix.Others.ServiceBellFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/service-bell-fill.svg"
+    },
+    {
+        "name": "Remix.Others.UmbrellaLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/umbrella-line.svg"
+    },
+    {
+        "name": "Remix.Others.Dice6Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/dice-6-line.svg"
+    },
+    {
+        "name": "Remix.Others.DoorOpenLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/door-open-line.svg"
+    },
+    {
+        "name": "Remix.Others.LeafLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/leaf-line.svg"
+    },
+    {
+        "name": "Remix.Others.HandbagLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/handbag-line.svg"
+    },
+    {
+        "name": "Remix.Others.Glasses2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/glasses-2-line.svg"
+    },
+    {
+        "name": "Remix.Others.GlassesFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/glasses-fill.svg"
+    },
+    {
+        "name": "Remix.Others.WeightLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/weight-line.svg"
+    },
+    {
+        "name": "Remix.Others.SeedlingLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/seedling-line.svg"
+    },
+    {
+        "name": "Remix.Others.PokerHeartsLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/poker-hearts-line.svg"
+    },
+    {
+        "name": "Remix.Others.InfinityLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/infinity-line.svg"
+    },
+    {
+        "name": "Remix.Others.GameLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/game-line.svg"
+    },
+    {
+        "name": "Remix.Others.StairsFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/stairs-fill.svg"
+    },
+    {
+        "name": "Remix.Others.FlowerFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/flower-fill.svg"
+    },
+    {
+        "name": "Remix.Others.GlassesLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/glasses-line.svg"
+    },
+    {
+        "name": "Remix.Others.DiceLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/dice-line.svg"
+    },
+    {
+        "name": "Remix.Others.FootballFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/football-fill.svg"
+    },
+    {
+        "name": "Remix.Others.Glasses2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/glasses-2-fill.svg"
+    },
+    {
+        "name": "Remix.Others.TShirt2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/t-shirt-2-fill.svg"
+    },
+    {
+        "name": "Remix.Others.FootballLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/football-line.svg"
+    },
+    {
+        "name": "Remix.Others.Scales3Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/scales-3-line.svg"
+    },
+    {
+        "name": "Remix.Others.PokerSpadesFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/poker-spades-fill.svg"
+    },
+    {
+        "name": "Remix.Others.ReservedFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/reserved-fill.svg"
+    },
+    {
+        "name": "Remix.Others.LightbulbFlashLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/lightbulb-flash-line.svg"
+    },
+    {
+        "name": "Remix.Others.TShirtFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Others/t-shirt-fill.svg"
     }
 ]

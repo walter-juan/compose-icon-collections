@@ -1,250 +1,250 @@
 [
     {
-        "name": "Remix.Buildings.BuildingLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/building-line.svg"
-    },
-    {
-        "name": "Remix.Buildings.HomeSmileFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/home-smile-fill.svg"
-    },
-    {
-        "name": "Remix.Buildings.BankLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/bank-line.svg"
-    },
-    {
-        "name": "Remix.Buildings.Home7Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/home-7-fill.svg"
-    },
-    {
-        "name": "Remix.Buildings.Home2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/home-2-line.svg"
-    },
-    {
-        "name": "Remix.Buildings.GovernmentLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/government-line.svg"
-    },
-    {
-        "name": "Remix.Buildings.CommunityLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/community-line.svg"
-    },
-    {
-        "name": "Remix.Buildings.Building3Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/building-3-line.svg"
-    },
-    {
-        "name": "Remix.Buildings.HomeWifiFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/home-wifi-fill.svg"
-    },
-    {
-        "name": "Remix.Buildings.HomeLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/home-line.svg"
+        "name": "Remix.Buildings.Home8Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/home-8-fill.svg"
     },
     {
         "name": "Remix.Buildings.HotelLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/hotel-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/hotel-line.svg"
     },
     {
-        "name": "Remix.Buildings.Home3Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/home-3-line.svg"
-    },
-    {
-        "name": "Remix.Buildings.Home8Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/home-8-fill.svg"
-    },
-    {
-        "name": "Remix.Buildings.BankFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/bank-fill.svg"
-    },
-    {
-        "name": "Remix.Buildings.HomeSmile2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/home-smile-2-line.svg"
-    },
-    {
-        "name": "Remix.Buildings.Home6Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/home-6-line.svg"
-    },
-    {
-        "name": "Remix.Buildings.HomeSmile2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/home-smile-2-fill.svg"
-    },
-    {
-        "name": "Remix.Buildings.HospitalLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/hospital-line.svg"
-    },
-    {
-        "name": "Remix.Buildings.Building3Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/building-3-fill.svg"
-    },
-    {
-        "name": "Remix.Buildings.Building2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/building-2-line.svg"
-    },
-    {
-        "name": "Remix.Buildings.HomeGearLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/home-gear-line.svg"
-    },
-    {
-        "name": "Remix.Buildings.Home9Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/home-9-fill.svg"
-    },
-    {
-        "name": "Remix.Buildings.AncientGateLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/ancient-gate-line.svg"
-    },
-    {
-        "name": "Remix.Buildings.Home5Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/home-5-fill.svg"
-    },
-    {
-        "name": "Remix.Buildings.Home9Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/home-9-line.svg"
+        "name": "Remix.Buildings.BankLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/bank-line.svg"
     },
     {
         "name": "Remix.Buildings.Building4Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/building-4-fill.svg"
-    },
-    {
-        "name": "Remix.Buildings.Building2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/building-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/building-4-fill.svg"
     },
     {
         "name": "Remix.Buildings.BuildingFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/building-fill.svg"
-    },
-    {
-        "name": "Remix.Buildings.Home3Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/home-3-fill.svg"
-    },
-    {
-        "name": "Remix.Buildings.Home8Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/home-8-line.svg"
-    },
-    {
-        "name": "Remix.Buildings.AncientPavilionFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/ancient-pavilion-fill.svg"
-    },
-    {
-        "name": "Remix.Buildings.CommunityFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/community-fill.svg"
-    },
-    {
-        "name": "Remix.Buildings.Store3Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/store-3-line.svg"
-    },
-    {
-        "name": "Remix.Buildings.StoreLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/store-line.svg"
-    },
-    {
-        "name": "Remix.Buildings.HomeHeartLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/home-heart-line.svg"
-    },
-    {
-        "name": "Remix.Buildings.SchoolLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/school-line.svg"
-    },
-    {
-        "name": "Remix.Buildings.HomeOfficeLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/home-office-line.svg"
-    },
-    {
-        "name": "Remix.Buildings.Home2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/home-2-fill.svg"
-    },
-    {
-        "name": "Remix.Buildings.HotelFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/hotel-fill.svg"
-    },
-    {
-        "name": "Remix.Buildings.Home6Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/home-6-fill.svg"
-    },
-    {
-        "name": "Remix.Buildings.Store2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/store-2-line.svg"
-    },
-    {
-        "name": "Remix.Buildings.AncientGateFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/ancient-gate-fill.svg"
-    },
-    {
-        "name": "Remix.Buildings.Home5Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/home-5-line.svg"
-    },
-    {
-        "name": "Remix.Buildings.Store2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/store-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/building-fill.svg"
     },
     {
         "name": "Remix.Buildings.HomeFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/home-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/home-fill.svg"
     },
     {
-        "name": "Remix.Buildings.TentLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/tent-line.svg"
+        "name": "Remix.Buildings.HomeWifiFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/home-wifi-fill.svg"
     },
     {
-        "name": "Remix.Buildings.Home4Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/home-4-line.svg"
+        "name": "Remix.Buildings.HomeSmile2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/home-smile-2-fill.svg"
     },
     {
-        "name": "Remix.Buildings.StoreFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/store-fill.svg"
+        "name": "Remix.Buildings.Home3Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/home-3-line.svg"
     },
     {
-        "name": "Remix.Buildings.HomeGearFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/home-gear-fill.svg"
-    },
-    {
-        "name": "Remix.Buildings.HomeWifiLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/home-wifi-line.svg"
-    },
-    {
-        "name": "Remix.Buildings.Store3Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/store-3-fill.svg"
-    },
-    {
-        "name": "Remix.Buildings.GovernmentFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/government-fill.svg"
-    },
-    {
-        "name": "Remix.Buildings.HomeHeartFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/home-heart-fill.svg"
+        "name": "Remix.Buildings.AncientGateLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/ancient-gate-line.svg"
     },
     {
         "name": "Remix.Buildings.Building4Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/building-4-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/building-4-line.svg"
     },
     {
-        "name": "Remix.Buildings.HomeSmileLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/home-smile-line.svg"
+        "name": "Remix.Buildings.Home2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/home-2-line.svg"
     },
     {
-        "name": "Remix.Buildings.HomeOfficeFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/home-office-fill.svg"
+        "name": "Remix.Buildings.Home4Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/home-4-line.svg"
     },
     {
-        "name": "Remix.Buildings.HospitalFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/hospital-fill.svg"
+        "name": "Remix.Buildings.TentLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/tent-line.svg"
+    },
+    {
+        "name": "Remix.Buildings.HomeGearLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/home-gear-line.svg"
     },
     {
         "name": "Remix.Buildings.TentFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/tent-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/tent-fill.svg"
+    },
+    {
+        "name": "Remix.Buildings.HospitalFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/hospital-fill.svg"
+    },
+    {
+        "name": "Remix.Buildings.SchoolLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/school-line.svg"
+    },
+    {
+        "name": "Remix.Buildings.HomeWifiLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/home-wifi-line.svg"
+    },
+    {
+        "name": "Remix.Buildings.Building3Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/building-3-fill.svg"
+    },
+    {
+        "name": "Remix.Buildings.HomeLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/home-line.svg"
+    },
+    {
+        "name": "Remix.Buildings.BuildingLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/building-line.svg"
+    },
+    {
+        "name": "Remix.Buildings.Store2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/store-2-line.svg"
     },
     {
         "name": "Remix.Buildings.Home7Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/home-7-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/home-7-line.svg"
     },
     {
-        "name": "Remix.Buildings.SchoolFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/school-fill.svg"
+        "name": "Remix.Buildings.HomeOfficeLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/home-office-line.svg"
     },
     {
-        "name": "Remix.Buildings.Home4Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/home-4-fill.svg"
+        "name": "Remix.Buildings.GovernmentFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/government-fill.svg"
+    },
+    {
+        "name": "Remix.Buildings.BankFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/bank-fill.svg"
+    },
+    {
+        "name": "Remix.Buildings.Building3Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/building-3-line.svg"
+    },
+    {
+        "name": "Remix.Buildings.Building2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/building-2-fill.svg"
+    },
+    {
+        "name": "Remix.Buildings.HomeSmileFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/home-smile-fill.svg"
+    },
+    {
+        "name": "Remix.Buildings.HomeOfficeFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/home-office-fill.svg"
+    },
+    {
+        "name": "Remix.Buildings.HomeGearFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/home-gear-fill.svg"
+    },
+    {
+        "name": "Remix.Buildings.Home9Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/home-9-fill.svg"
+    },
+    {
+        "name": "Remix.Buildings.HomeHeartFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/home-heart-fill.svg"
+    },
+    {
+        "name": "Remix.Buildings.Home5Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/home-5-line.svg"
+    },
+    {
+        "name": "Remix.Buildings.HospitalLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/hospital-line.svg"
+    },
+    {
+        "name": "Remix.Buildings.StoreLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/store-line.svg"
+    },
+    {
+        "name": "Remix.Buildings.Store3Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/store-3-fill.svg"
+    },
+    {
+        "name": "Remix.Buildings.Home6Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/home-6-line.svg"
+    },
+    {
+        "name": "Remix.Buildings.CommunityFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/community-fill.svg"
+    },
+    {
+        "name": "Remix.Buildings.Store2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/store-2-fill.svg"
     },
     {
         "name": "Remix.Buildings.AncientPavilionLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Buildings/ancient-pavilion-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/ancient-pavilion-line.svg"
+    },
+    {
+        "name": "Remix.Buildings.Home2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/home-2-fill.svg"
+    },
+    {
+        "name": "Remix.Buildings.Building2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/building-2-line.svg"
+    },
+    {
+        "name": "Remix.Buildings.AncientGateFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/ancient-gate-fill.svg"
+    },
+    {
+        "name": "Remix.Buildings.Home4Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/home-4-fill.svg"
+    },
+    {
+        "name": "Remix.Buildings.SchoolFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/school-fill.svg"
+    },
+    {
+        "name": "Remix.Buildings.StoreFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/store-fill.svg"
+    },
+    {
+        "name": "Remix.Buildings.HotelFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/hotel-fill.svg"
+    },
+    {
+        "name": "Remix.Buildings.HomeSmileLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/home-smile-line.svg"
+    },
+    {
+        "name": "Remix.Buildings.AncientPavilionFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/ancient-pavilion-fill.svg"
+    },
+    {
+        "name": "Remix.Buildings.Home9Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/home-9-line.svg"
+    },
+    {
+        "name": "Remix.Buildings.Home3Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/home-3-fill.svg"
+    },
+    {
+        "name": "Remix.Buildings.Store3Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/store-3-line.svg"
+    },
+    {
+        "name": "Remix.Buildings.Home8Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/home-8-line.svg"
+    },
+    {
+        "name": "Remix.Buildings.Home5Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/home-5-fill.svg"
+    },
+    {
+        "name": "Remix.Buildings.CommunityLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/community-line.svg"
+    },
+    {
+        "name": "Remix.Buildings.Home6Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/home-6-fill.svg"
+    },
+    {
+        "name": "Remix.Buildings.HomeHeartLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/home-heart-line.svg"
+    },
+    {
+        "name": "Remix.Buildings.Home7Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/home-7-fill.svg"
+    },
+    {
+        "name": "Remix.Buildings.HomeSmile2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/home-smile-2-line.svg"
+    },
+    {
+        "name": "Remix.Buildings.GovernmentLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Buildings/government-line.svg"
     }
 ]

@@ -1,650 +1,714 @@
 [
     {
-        "name": "Remix.Arrows.ArrowUpCircleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-up-circle-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowTurnBackLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-turn-back-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowRightDownLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-right-down-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.SkipLeftLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/skip-left-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowRightBoxFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-right-box-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowUpDownLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-up-down-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.CornerDownRightFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/corner-down-right-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowRightDownFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-right-down-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowUpDownFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-up-down-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ExpandDiagonalSLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/expand-diagonal-s-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ExpandLeftRightFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/expand-left-right-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.SkipRightLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/skip-right-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.CollapseDiagonalLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/collapse-diagonal-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowDownWideFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-down-wide-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowDownBoxLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-down-box-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.SkipLeftFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/skip-left-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowDropRightLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-drop-right-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ScrollToBottomFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/scroll-to-bottom-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.CornerLeftDownLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/corner-left-down-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowDownBoxFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-down-box-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowLeftSLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-left-s-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowLeftFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-left-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowDownCircleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-down-circle-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowDropLeftFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-drop-left-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ExpandVerticalFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/expand-vertical-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ContractLeftRightLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/contract-left-right-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowLeftDoubleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-left-double-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ContractLeftFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/contract-left-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowRightUpBoxFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-right-up-box-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ExpandLeftFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/expand-left-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.CollapseDiagonalFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/collapse-diagonal-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowLeftLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-left-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ExpandUpDownLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/expand-up-down-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ScrollToBottomLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/scroll-to-bottom-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ContractRightFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/contract-right-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowDownSFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-down-s-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowLeftDownBoxLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-left-down-box-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ContractUpDownFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/contract-up-down-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowUpFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-up-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowDropUpLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-drop-up-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ExpandVerticalSLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/expand-vertical-s-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowRightDoubleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-right-double-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ExpandWidthFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/expand-width-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowDownWideLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-down-wide-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ContractLeftLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/contract-left-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowRightUpBoxLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-right-up-box-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ExpandDiagonalSFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/expand-diagonal-s-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowTurnForwardFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-turn-forward-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ExpandHorizontalLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/expand-horizontal-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowRightSFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-right-s-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.CornerUpRightDoubleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/corner-up-right-double-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowLeftDownFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-left-down-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowLeftUpBoxFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-left-up-box-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ContractLeftRightFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/contract-left-right-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ExpandDiagonalS2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/expand-diagonal-s-2-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowUpCircleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-up-circle-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.CornerRightUpFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/corner-right-up-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ExpandRightLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/expand-right-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.SkipUpFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/skip-up-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.SkipDownLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/skip-down-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowLeftBoxFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-left-box-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.CornerUpLeftFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/corner-up-left-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.CollapseDiagonal2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/collapse-diagonal-2-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowDownFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-down-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ExpandDiagonalLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/expand-diagonal-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowLeftUpFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-left-up-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.CornerDownRightLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/corner-down-right-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.CornerUpRightDoubleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/corner-up-right-double-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowTurnBackFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-turn-back-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowRightCircleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-right-circle-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowDropRightFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-drop-right-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ExpandHeightFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/expand-height-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ExpandRightFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/expand-right-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowLeftWideLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-left-wide-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ExpandVerticalLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/expand-vertical-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowRightWideLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-right-wide-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ExpandUpDownFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/expand-up-down-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowRightUpFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-right-up-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowRightCircleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-right-circle-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.DragMoveLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/drag-move-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.CornerUpRightLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/corner-up-right-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowRightWideFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-right-wide-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowRightSLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-right-s-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.CornerDownLeftLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/corner-down-left-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowDownCircleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-down-circle-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowRightLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-right-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ExpandDiagonalFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/expand-diagonal-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowLeftRightLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-left-right-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowUpBoxFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-up-box-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.SkipRightFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/skip-right-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowLeftWideFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-left-wide-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ExpandDiagonalS2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/expand-diagonal-s-2-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ExpandLeftRightLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/expand-left-right-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.CollapseHorizontalLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/collapse-horizontal-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.CornerLeftUpFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/corner-left-up-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowDownDoubleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-down-double-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowRightUpLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-right-up-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowLeftDownLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-left-down-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.SkipDownFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/skip-down-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.CornerUpLeftLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/corner-up-left-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowUpDoubleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-up-double-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowLeftCircleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-left-circle-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowRightDoubleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-right-double-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.CornerUpRightFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/corner-up-right-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ExpandVerticalSFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/expand-vertical-s-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.CollapseVerticalFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/collapse-vertical-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ExpandDiagonal2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/expand-diagonal-2-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowGoForwardFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-go-forward-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ExpandDiagonal2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/expand-diagonal-2-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ExpandHorizontalSFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/expand-horizontal-s-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowDropDownLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-drop-down-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowRightBoxLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-right-box-line.svg"
-    },
-    {
         "name": "Remix.Arrows.CollapseHorizontalFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/collapse-horizontal-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.CornerRightUpLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/corner-right-up-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowLeftBoxLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-left-box-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowUpSFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-up-s-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.DragMoveFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/drag-move-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.DragMove2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/drag-move-2-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.CollapseDiagonal2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/collapse-diagonal-2-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ExpandHorizontalSLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/expand-horizontal-s-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowLeftDownBoxFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-left-down-box-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowDownLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-down-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowGoBackFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-go-back-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/collapse-horizontal-fill.svg"
     },
     {
         "name": "Remix.Arrows.CornerRightDownLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/corner-right-down-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/corner-right-down-line.svg"
     },
     {
-        "name": "Remix.Arrows.ArrowRightDownBoxLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-right-down-box-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowDownDoubleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-down-double-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowGoForwardLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-go-forward-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowLeftCircleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-left-circle-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowDropLeftLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-drop-left-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ExpandWidthLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/expand-width-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowUpWideFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-up-wide-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowDropUpFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-drop-up-fill.svg"
+        "name": "Remix.Arrows.ArrowRightLongLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-right-long-line.svg"
     },
     {
         "name": "Remix.Arrows.ArrowLeftRightFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-left-right-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-left-right-fill.svg"
     },
     {
-        "name": "Remix.Arrows.ArrowUpSLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-up-s-line.svg"
+        "name": "Remix.Arrows.ArrowUpLongFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-up-long-fill.svg"
     },
     {
-        "name": "Remix.Arrows.ArrowTurnForwardLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-turn-forward-line.svg"
+        "name": "Remix.Arrows.CornerUpLeftLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/corner-up-left-line.svg"
     },
     {
-        "name": "Remix.Arrows.ArrowRightFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-right-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.CornerLeftDownFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/corner-left-down-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ContractRightLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/contract-right-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.CornerDownLeftFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/corner-down-left-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ExpandLeftLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/expand-left-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowUpBoxLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-up-box-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.CornerUpLeftDoubleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/corner-up-left-double-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowRightDownBoxFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-right-down-box-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.CollapseVerticalLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/collapse-vertical-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowGoBackLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-go-back-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowLeftUpBoxLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-left-up-box-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.CornerLeftUpLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/corner-left-up-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.CornerUpLeftDoubleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/corner-up-left-double-fill.svg"
-    },
-    {
-        "name": "Remix.Arrows.ArrowUpWideLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-up-wide-line.svg"
-    },
-    {
-        "name": "Remix.Arrows.CornerRightDownFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/corner-right-down-fill.svg"
+        "name": "Remix.Arrows.DragMoveLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/drag-move-line.svg"
     },
     {
         "name": "Remix.Arrows.ArrowDropDownFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-drop-down-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-drop-down-fill.svg"
     },
     {
-        "name": "Remix.Arrows.ArrowLeftUpLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-left-up-line.svg"
+        "name": "Remix.Arrows.SkipDownLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/skip-down-line.svg"
     },
     {
-        "name": "Remix.Arrows.DragMove2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/drag-move-2-fill.svg"
+        "name": "Remix.Arrows.CollapseDiagonal2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/collapse-diagonal-2-line.svg"
     },
     {
-        "name": "Remix.Arrows.SkipUpLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/skip-up-line.svg"
+        "name": "Remix.Arrows.ExpandDiagonalSLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/expand-diagonal-s-line.svg"
     },
     {
-        "name": "Remix.Arrows.ArrowUpLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-up-line.svg"
+        "name": "Remix.Arrows.CornerRightDownFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/corner-right-down-fill.svg"
     },
     {
-        "name": "Remix.Arrows.ArrowUpDoubleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-up-double-line.svg"
+        "name": "Remix.Arrows.ArrowRightUpBoxLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-right-up-box-line.svg"
     },
     {
-        "name": "Remix.Arrows.ContractUpDownLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/contract-up-down-line.svg"
+        "name": "Remix.Arrows.ArrowUpLongLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-up-long-line.svg"
     },
     {
-        "name": "Remix.Arrows.ArrowDownSLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-down-s-line.svg"
+        "name": "Remix.Arrows.CollapseDiagonal2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/collapse-diagonal-2-fill.svg"
     },
     {
-        "name": "Remix.Arrows.ExpandHorizontalFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/expand-horizontal-fill.svg"
+        "name": "Remix.Arrows.ContractLeftRightFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/contract-left-right-fill.svg"
     },
     {
-        "name": "Remix.Arrows.ArrowLeftSFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-left-s-fill.svg"
+        "name": "Remix.Arrows.ExpandVerticalLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/expand-vertical-line.svg"
     },
     {
-        "name": "Remix.Arrows.ArrowLeftDoubleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/arrow-left-double-line.svg"
+        "name": "Remix.Arrows.ArrowRightWideLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-right-wide-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowUpCircleFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-up-circle-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowLeftUpLongFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-left-up-long-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowDownDoubleFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-down-double-fill.svg"
     },
     {
         "name": "Remix.Arrows.ExpandHeightLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Arrows/expand-height-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/expand-height-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.DragMoveFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/drag-move-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowDownLongFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-down-long-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowRightDownLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-right-down-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowRightDownBoxFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-right-down-box-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowDownLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-down-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ScrollToBottomLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/scroll-to-bottom-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowGoForwardLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-go-forward-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowUpLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-up-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowLeftUpLongLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-left-up-long-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.CornerLeftDownFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/corner-left-down-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.CollapseHorizontalLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/collapse-horizontal-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.CornerUpLeftFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/corner-up-left-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowLeftFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-left-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.CollapseDiagonalLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/collapse-diagonal-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowGoForwardFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-go-forward-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowRightDoubleFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-right-double-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowLeftSFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-left-s-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowRightDownLongLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-right-down-long-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowRightLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-right-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowLeftRightLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-left-right-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.CornerDownRightLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/corner-down-right-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.CornerDownLeftFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/corner-down-left-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.CornerDownLeftLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/corner-down-left-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.CornerLeftUpFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/corner-left-up-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowLeftWideLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-left-wide-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.CornerUpRightLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/corner-up-right-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowLeftCircleFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-left-circle-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowRightFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-right-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowLeftUpBoxLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-left-up-box-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowDownSFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-down-s-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowUpWideLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-up-wide-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowLeftCircleLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-left-circle-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowRightDownBoxLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-right-down-box-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowRightCircleLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-right-circle-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowRightSLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-right-s-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowDropRightLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-drop-right-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowLeftDownLongFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-left-down-long-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowRightDownFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-right-down-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowLeftLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-left-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ExpandRightLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/expand-right-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowLeftBoxFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-left-box-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowUpDownFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-up-down-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowRightDownLongFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-right-down-long-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowRightWideFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-right-wide-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowDownWideFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-down-wide-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.SkipDownFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/skip-down-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowRightLongFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-right-long-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowUpDoubleLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-up-double-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowUpDownLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-up-down-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowUpDoubleFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-up-double-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ExpandWidthLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/expand-width-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowRightBoxLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-right-box-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowLeftUpFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-left-up-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowTurnForwardLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-turn-forward-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.SkipRightFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/skip-right-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowRightBoxFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-right-box-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowDownBoxLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-down-box-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowDownBoxFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-down-box-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ContractRightLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/contract-right-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowDownDoubleLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-down-double-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ExpandDiagonalLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/expand-diagonal-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowDropUpFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-drop-up-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowDownSLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-down-s-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowTurnForwardFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-turn-forward-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowDropLeftFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-drop-left-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ContractUpDownFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/contract-up-down-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowDownLongLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-down-long-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowLeftDownLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-left-down-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ContractLeftFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/contract-left-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowLeftDoubleLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-left-double-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowLeftUpLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-left-up-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ExpandDiagonalSFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/expand-diagonal-s-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.CollapseVerticalFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/collapse-vertical-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ContractLeftRightLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/contract-left-right-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.SkipUpLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/skip-up-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.DragMove2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/drag-move-2-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowUpBoxLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-up-box-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowDropRightFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-drop-right-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowLeftDownBoxLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-left-down-box-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ExpandVerticalSFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/expand-vertical-s-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowRightSFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-right-s-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.CornerRightUpFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/corner-right-up-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowUpWideFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-up-wide-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ExpandUpDownLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/expand-up-down-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.CornerDownRightFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/corner-down-right-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowGoBackFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-go-back-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ExpandLeftFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/expand-left-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowRightUpLongLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-right-up-long-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowLeftDoubleFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-left-double-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.SkipUpFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/skip-up-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowLeftLongLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-left-long-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowLeftDownLongLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-left-down-long-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowUpFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-up-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowRightDoubleLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-right-double-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowLeftDownFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-left-down-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowGoBackLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-go-back-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowLeftSLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-left-s-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ExpandLeftRightFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/expand-left-right-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.DragMove2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/drag-move-2-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ExpandHorizontalFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/expand-horizontal-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ExpandVerticalSLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/expand-vertical-s-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ExpandDiagonal2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/expand-diagonal-2-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ExpandUpDownFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/expand-up-down-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ContractUpDownLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/contract-up-down-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowTurnBackLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-turn-back-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.CornerRightUpLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/corner-right-up-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.SkipLeftFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/skip-left-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.CornerUpLeftDoubleFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/corner-up-left-double-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowRightUpLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-right-up-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowRightUpFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-right-up-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.CornerLeftUpLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/corner-left-up-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ExpandHorizontalSFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/expand-horizontal-s-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ExpandLeftRightLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/expand-left-right-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowLeftUpBoxFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-left-up-box-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowRightCircleFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-right-circle-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.CollapseDiagonalFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/collapse-diagonal-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ExpandLeftLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/expand-left-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ExpandHeightFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/expand-height-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ContractRightFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/contract-right-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ExpandHorizontalSLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/expand-horizontal-s-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ExpandWidthFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/expand-width-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowRightUpLongFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-right-up-long-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowDownCircleLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-down-circle-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.CornerLeftDownLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/corner-left-down-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.CornerUpLeftDoubleLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/corner-up-left-double-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.CornerUpRightFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/corner-up-right-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowTurnBackFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-turn-back-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.SkipRightLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/skip-right-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowDownFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-down-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowUpCircleLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-up-circle-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowDropDownLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-drop-down-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.CollapseVerticalLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/collapse-vertical-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowUpSLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-up-s-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ContractLeftLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/contract-left-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ExpandRightFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/expand-right-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowLeftBoxLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-left-box-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowLeftWideFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-left-wide-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowDropLeftLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-drop-left-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowDropUpLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-drop-up-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowLeftLongFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-left-long-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.SkipLeftLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/skip-left-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ExpandDiagonalS2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/expand-diagonal-s-2-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.CornerUpRightDoubleLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/corner-up-right-double-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowUpBoxFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-up-box-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowRightUpBoxFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-right-up-box-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowDownCircleFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-down-circle-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ExpandDiagonal2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/expand-diagonal-2-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ExpandDiagonalFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/expand-diagonal-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowLeftDownBoxFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-left-down-box-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowUpSFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-up-s-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ArrowDownWideLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/arrow-down-wide-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ExpandDiagonalS2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/expand-diagonal-s-2-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ExpandHorizontalLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/expand-horizontal-line.svg"
+    },
+    {
+        "name": "Remix.Arrows.ExpandVerticalFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/expand-vertical-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.CornerUpRightDoubleFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/corner-up-right-double-fill.svg"
+    },
+    {
+        "name": "Remix.Arrows.ScrollToBottomFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Arrows/scroll-to-bottom-fill.svg"
     }
 ]

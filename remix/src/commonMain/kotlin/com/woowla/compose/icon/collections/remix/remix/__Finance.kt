@@ -36,6 +36,10 @@ import com.woowla.compose.icon.collections.remix.remix.finance.CouponFill
 import com.woowla.compose.icon.collections.remix.remix.finance.CouponLine
 import com.woowla.compose.icon.collections.remix.remix.finance.CurrencyFill
 import com.woowla.compose.icon.collections.remix.remix.finance.CurrencyLine
+import com.woowla.compose.icon.collections.remix.remix.finance.DiamondFill
+import com.woowla.compose.icon.collections.remix.remix.finance.DiamondLine
+import com.woowla.compose.icon.collections.remix.remix.finance.DiamondRingFill
+import com.woowla.compose.icon.collections.remix.remix.finance.DiamondRingLine
 import com.woowla.compose.icon.collections.remix.remix.finance.DiscountPercentFill
 import com.woowla.compose.icon.collections.remix.remix.finance.DiscountPercentLine
 import com.woowla.compose.icon.collections.remix.remix.finance.EthFill
@@ -66,6 +70,8 @@ import com.woowla.compose.icon.collections.remix.remix.finance.HandHeartFill
 import com.woowla.compose.icon.collections.remix.remix.finance.HandHeartLine
 import com.woowla.compose.icon.collections.remix.remix.finance.IncreaseDecreaseFill
 import com.woowla.compose.icon.collections.remix.remix.finance.IncreaseDecreaseLine
+import com.woowla.compose.icon.collections.remix.remix.finance.JewelryFill
+import com.woowla.compose.icon.collections.remix.remix.finance.JewelryLine
 import com.woowla.compose.icon.collections.remix.remix.finance.MoneyCnyBoxFill
 import com.woowla.compose.icon.collections.remix.remix.finance.MoneyCnyBoxLine
 import com.woowla.compose.icon.collections.remix.remix.finance.MoneyCnyCircleFill
@@ -86,6 +92,10 @@ import com.woowla.compose.icon.collections.remix.remix.finance.MoneyRupeeCircleF
 import com.woowla.compose.icon.collections.remix.remix.finance.MoneyRupeeCircleLine
 import com.woowla.compose.icon.collections.remix.remix.finance.NftFill
 import com.woowla.compose.icon.collections.remix.remix.finance.NftLine
+import com.woowla.compose.icon.collections.remix.remix.finance.NoCreditCardFill
+import com.woowla.compose.icon.collections.remix.remix.finance.NoCreditCardLine
+import com.woowla.compose.icon.collections.remix.remix.finance.Number24HoursFill
+import com.woowla.compose.icon.collections.remix.remix.finance.Number24HoursLine
 import com.woowla.compose.icon.collections.remix.remix.finance.P2pFill
 import com.woowla.compose.icon.collections.remix.remix.finance.P2pLine
 import com.woowla.compose.icon.collections.remix.remix.finance.PercentFill
@@ -164,8 +174,6 @@ import com.woowla.compose.icon.collections.remix.remix.finance.XrpFill
 import com.woowla.compose.icon.collections.remix.remix.finance.XrpLine
 import com.woowla.compose.icon.collections.remix.remix.finance.XtzFill
 import com.woowla.compose.icon.collections.remix.remix.finance.XtzLine
-import com.woowla.compose.icon.collections.remix.remix.finance.`4HoursFill`
-import com.woowla.compose.icon.collections.remix.remix.finance.`4HoursLine`
 import kotlin.collections.List as ____KtList
 
 public object FinanceGroup
@@ -180,34 +188,35 @@ public val FinanceGroup.AllIcons: ____KtList<ImageVector>
     if (__AllIcons != null) {
       return __AllIcons!!
     }
-    __AllIcons= listOf(`4HoursFill`, `4HoursLine`, AuctionFill, AuctionLine, BankCard2Fill,
-        BankCard2Line, BankCardFill, BankCardLine, BitCoinFill, BitCoinLine, BnbFill, BnbLine,
-        BtcFill, BtcLine, CashFill, CashLine, CoinFill, CoinLine, CoinsFill, CoinsLine,
-        CopperCoinFill, CopperCoinLine, CopperDiamondFill, CopperDiamondLine, Coupon2Fill,
-        Coupon2Line, Coupon3Fill, Coupon3Line, Coupon4Fill, Coupon4Line, Coupon5Fill, Coupon5Line,
-        CouponFill, CouponLine, CurrencyFill, CurrencyLine, DiscountPercentFill,
-        DiscountPercentLine, EthFill, EthLine, Exchange2Fill, Exchange2Line, ExchangeBoxFill,
-        ExchangeBoxLine, ExchangeCnyFill, ExchangeCnyLine, ExchangeDollarFill, ExchangeDollarLine,
-        ExchangeFill, ExchangeFundsFill, ExchangeFundsLine, ExchangeLine, FundsBoxFill,
-        FundsBoxLine, FundsFill, FundsLine, Gift2Fill, Gift2Line, GiftFill, GiftLine, HandCoinFill,
-        HandCoinLine, HandHeartFill, HandHeartLine, IncreaseDecreaseFill, IncreaseDecreaseLine,
-        MoneyCnyBoxFill, MoneyCnyBoxLine, MoneyCnyCircleFill, MoneyCnyCircleLine,
-        MoneyDollarBoxFill, MoneyDollarBoxLine, MoneyDollarCircleFill, MoneyDollarCircleLine,
-        MoneyEuroBoxFill, MoneyEuroBoxLine, MoneyEuroCircleFill, MoneyEuroCircleLine,
-        MoneyPoundBoxFill, MoneyPoundBoxLine, MoneyPoundCircleFill, MoneyPoundCircleLine,
-        MoneyRupeeCircleFill, MoneyRupeeCircleLine, NftFill, NftLine, P2pFill, P2pLine, PercentFill,
-        PercentLine, PriceTag2Fill, PriceTag2Line, PriceTag3Fill, PriceTag3Line, PriceTagFill,
-        PriceTagLine, RedPacketFill, RedPacketLine, Refund2Fill, Refund2Line, RefundFill,
-        RefundLine, Safe2Fill, Safe2Line, Safe3Fill, Safe3Line, SafeFill, SafeLine,
-        SecurePaymentFill, SecurePaymentLine, ShoppingBag2Fill, ShoppingBag2Line, ShoppingBag3Fill,
-        ShoppingBag3Line, ShoppingBag4Fill, ShoppingBag4Line, ShoppingBagFill, ShoppingBagLine,
-        ShoppingBasket2Fill, ShoppingBasket2Line, ShoppingBasketFill, ShoppingBasketLine,
-        ShoppingCart2Fill, ShoppingCart2Line, ShoppingCartFill, ShoppingCartLine, StockFill,
-        StockLine, Swap2Fill, Swap2Line, Swap3Fill, Swap3Line, SwapBoxFill, SwapBoxLine, SwapFill,
-        SwapLine, Ticket2Fill, Ticket2Line, TicketFill, TicketLine, TokenSwapFill, TokenSwapLine,
-        TrophyFill, TrophyLine, VipCrown2Fill, VipCrown2Line, VipCrownFill, VipCrownLine,
-        VipDiamondFill, VipDiamondLine, VipFill, VipLine, Wallet2Fill, Wallet2Line, Wallet3Fill,
-        Wallet3Line, WalletFill, WalletLine, WaterFlashFill, WaterFlashLine, XrpFill, XrpLine,
-        XtzFill, XtzLine)
+    __AllIcons= listOf(AuctionFill, AuctionLine, BankCard2Fill, BankCard2Line, BankCardFill,
+        BankCardLine, BitCoinFill, BitCoinLine, BnbFill, BnbLine, BtcFill, BtcLine, CashFill,
+        CashLine, CoinFill, CoinLine, CoinsFill, CoinsLine, CopperCoinFill, CopperCoinLine,
+        CopperDiamondFill, CopperDiamondLine, Coupon2Fill, Coupon2Line, Coupon3Fill, Coupon3Line,
+        Coupon4Fill, Coupon4Line, Coupon5Fill, Coupon5Line, CouponFill, CouponLine, CurrencyFill,
+        CurrencyLine, DiamondFill, DiamondLine, DiamondRingFill, DiamondRingLine,
+        DiscountPercentFill, DiscountPercentLine, EthFill, EthLine, Exchange2Fill, Exchange2Line,
+        ExchangeBoxFill, ExchangeBoxLine, ExchangeCnyFill, ExchangeCnyLine, ExchangeDollarFill,
+        ExchangeDollarLine, ExchangeFill, ExchangeFundsFill, ExchangeFundsLine, ExchangeLine,
+        FundsBoxFill, FundsBoxLine, FundsFill, FundsLine, Gift2Fill, Gift2Line, GiftFill, GiftLine,
+        HandCoinFill, HandCoinLine, HandHeartFill, HandHeartLine, IncreaseDecreaseFill,
+        IncreaseDecreaseLine, JewelryFill, JewelryLine, MoneyCnyBoxFill, MoneyCnyBoxLine,
+        MoneyCnyCircleFill, MoneyCnyCircleLine, MoneyDollarBoxFill, MoneyDollarBoxLine,
+        MoneyDollarCircleFill, MoneyDollarCircleLine, MoneyEuroBoxFill, MoneyEuroBoxLine,
+        MoneyEuroCircleFill, MoneyEuroCircleLine, MoneyPoundBoxFill, MoneyPoundBoxLine,
+        MoneyPoundCircleFill, MoneyPoundCircleLine, MoneyRupeeCircleFill, MoneyRupeeCircleLine,
+        NftFill, NftLine, NoCreditCardFill, NoCreditCardLine, Number24HoursFill, Number24HoursLine,
+        P2pFill, P2pLine, PercentFill, PercentLine, PriceTag2Fill, PriceTag2Line, PriceTag3Fill,
+        PriceTag3Line, PriceTagFill, PriceTagLine, RedPacketFill, RedPacketLine, Refund2Fill,
+        Refund2Line, RefundFill, RefundLine, Safe2Fill, Safe2Line, Safe3Fill, Safe3Line, SafeFill,
+        SafeLine, SecurePaymentFill, SecurePaymentLine, ShoppingBag2Fill, ShoppingBag2Line,
+        ShoppingBag3Fill, ShoppingBag3Line, ShoppingBag4Fill, ShoppingBag4Line, ShoppingBagFill,
+        ShoppingBagLine, ShoppingBasket2Fill, ShoppingBasket2Line, ShoppingBasketFill,
+        ShoppingBasketLine, ShoppingCart2Fill, ShoppingCart2Line, ShoppingCartFill,
+        ShoppingCartLine, StockFill, StockLine, Swap2Fill, Swap2Line, Swap3Fill, Swap3Line,
+        SwapBoxFill, SwapBoxLine, SwapFill, SwapLine, Ticket2Fill, Ticket2Line, TicketFill,
+        TicketLine, TokenSwapFill, TokenSwapLine, TrophyFill, TrophyLine, VipCrown2Fill,
+        VipCrown2Line, VipCrownFill, VipCrownLine, VipDiamondFill, VipDiamondLine, VipFill, VipLine,
+        Wallet2Fill, Wallet2Line, Wallet3Fill, Wallet3Line, WalletFill, WalletLine, WaterFlashFill,
+        WaterFlashLine, XrpFill, XrpLine, XtzFill, XtzLine)
     return __AllIcons!!
   }

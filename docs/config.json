@@ -18,31 +18,6 @@
             ]
         },
         {
-            "name": "Remix icons",
-            "value": "remix",
-            "categories": [
-                "design",
-                "userandfaces",
-                "food",
-                "map",
-                "communication",
-                "healthandmedical",
-                "system",
-                "document",
-                "weather",
-                "media",
-                "logos",
-                "buildings",
-                "business",
-                "development",
-                "editor",
-                "device",
-                "arrows",
-                "finance",
-                "others"
-            ]
-        },
-        {
             "name": "Feather",
             "value": "feather",
             "categories": [
@@ -95,6 +70,31 @@
             "value": "simpleicons",
             "categories": [
                 ""
+            ]
+        },
+        {
+            "name": "Remix icons",
+            "value": "remix",
+            "categories": [
+                "others",
+                "business",
+                "media",
+                "finance",
+                "userandfaces",
+                "arrows",
+                "map",
+                "logos",
+                "system",
+                "editor",
+                "device",
+                "food",
+                "communication",
+                "weather",
+                "development",
+                "buildings",
+                "healthandmedical",
+                "document",
+                "design"
             ]
         }
     ]

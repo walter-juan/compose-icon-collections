@@ -1,866 +1,866 @@
 [
     {
-        "name": "Remix.Design.Edit2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/edit-2-fill.svg"
-    },
-    {
-        "name": "Remix.Design.PenNibFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/pen-nib-fill.svg"
-    },
-    {
-        "name": "Remix.Design.PaletteLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/palette-line.svg"
-    },
-    {
-        "name": "Remix.Design.QuillPenLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/quill-pen-line.svg"
-    },
-    {
-        "name": "Remix.Design.ColorFilterLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/color-filter-line.svg"
-    },
-    {
-        "name": "Remix.Design.QuillPenFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/quill-pen-fill.svg"
-    },
-    {
-        "name": "Remix.Design.FlipVertical2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/flip-vertical-2-line.svg"
-    },
-    {
-        "name": "Remix.Design.DragDropLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/drag-drop-line.svg"
-    },
-    {
-        "name": "Remix.Design.PantoneFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/pantone-fill.svg"
-    },
-    {
-        "name": "Remix.Design.TableLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/table-line.svg"
-    },
-    {
-        "name": "Remix.Design.SquareFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/square-fill.svg"
-    },
-    {
-        "name": "Remix.Design.Scissors2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/scissors-2-fill.svg"
-    },
-    {
-        "name": "Remix.Design.AlignItemBottomFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/align-item-bottom-fill.svg"
-    },
-    {
-        "name": "Remix.Design.SipFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/sip-fill.svg"
-    },
-    {
-        "name": "Remix.Design.SliceLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/slice-line.svg"
-    },
-    {
         "name": "Remix.Design.Brush2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/brush-2-line.svg"
-    },
-    {
-        "name": "Remix.Design.DropLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/drop-line.svg"
-    },
-    {
-        "name": "Remix.Design.Layout5Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/layout-5-line.svg"
-    },
-    {
-        "name": "Remix.Design.ShadowFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/shadow-fill.svg"
-    },
-    {
-        "name": "Remix.Design.ColorFilterAiLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/color-filter-ai-line.svg"
-    },
-    {
-        "name": "Remix.Design.LayoutColumnFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/layout-column-fill.svg"
-    },
-    {
-        "name": "Remix.Design.LayoutTopFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/layout-top-fill.svg"
-    },
-    {
-        "name": "Remix.Design.LayoutTopLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/layout-top-line.svg"
-    },
-    {
-        "name": "Remix.Design.QuillPenAiFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/quill-pen-ai-fill.svg"
-    },
-    {
-        "name": "Remix.Design.RectangleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/rectangle-fill.svg"
-    },
-    {
-        "name": "Remix.Design.Crosshair2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/crosshair-2-line.svg"
-    },
-    {
-        "name": "Remix.Design.EditBoxLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/edit-box-line.svg"
-    },
-    {
-        "name": "Remix.Design.ShapeFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/shape-fill.svg"
-    },
-    {
-        "name": "Remix.Design.LayoutColumnLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/layout-column-line.svg"
-    },
-    {
-        "name": "Remix.Design.MagicLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/magic-line.svg"
-    },
-    {
-        "name": "Remix.Design.AlignItemRightLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/align-item-right-line.svg"
-    },
-    {
-        "name": "Remix.Design.CircleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/circle-fill.svg"
-    },
-    {
-        "name": "Remix.Design.EditLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/edit-line.svg"
-    },
-    {
-        "name": "Remix.Design.AlignItemRightFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/align-item-right-fill.svg"
-    },
-    {
-        "name": "Remix.Design.ContrastDrop2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/contrast-drop-2-fill.svg"
-    },
-    {
-        "name": "Remix.Design.MarkupFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/markup-fill.svg"
-    },
-    {
-        "name": "Remix.Design.PencilRuler2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/pencil-ruler-2-fill.svg"
-    },
-    {
-        "name": "Remix.Design.LayoutGrid2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/layout-grid-2-fill.svg"
-    },
-    {
-        "name": "Remix.Design.AlignItemTopFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/align-item-top-fill.svg"
-    },
-    {
-        "name": "Remix.Design.Crop2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/crop-2-fill.svg"
-    },
-    {
-        "name": "Remix.Design.Layout5Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/layout-5-fill.svg"
-    },
-    {
-        "name": "Remix.Design.TBoxFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/t-box-fill.svg"
-    },
-    {
-        "name": "Remix.Design.ScreenshotFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/screenshot-fill.svg"
-    },
-    {
-        "name": "Remix.Design.LayoutRowLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/layout-row-line.svg"
-    },
-    {
-        "name": "Remix.Design.Contrast2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/contrast-2-line.svg"
-    },
-    {
-        "name": "Remix.Design.GridFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/grid-fill.svg"
-    },
-    {
-        "name": "Remix.Design.ScissorsFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/scissors-fill.svg"
-    },
-    {
-        "name": "Remix.Design.MarkPenLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/mark-pen-line.svg"
-    },
-    {
-        "name": "Remix.Design.Screenshot2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/screenshot-2-line.svg"
-    },
-    {
-        "name": "Remix.Design.AlignItemBottomLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/align-item-bottom-line.svg"
-    },
-    {
-        "name": "Remix.Design.Layout4Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/layout-4-fill.svg"
-    },
-    {
-        "name": "Remix.Design.PencilRulerFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/pencil-ruler-fill.svg"
-    },
-    {
-        "name": "Remix.Design.LayoutBottom2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/layout-bottom-2-fill.svg"
-    },
-    {
-        "name": "Remix.Design.EraserFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/eraser-fill.svg"
-    },
-    {
-        "name": "Remix.Design.PencilFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/pencil-fill.svg"
-    },
-    {
-        "name": "Remix.Design.Brush2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/brush-2-fill.svg"
-    },
-    {
-        "name": "Remix.Design.CrosshairFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/crosshair-fill.svg"
-    },
-    {
-        "name": "Remix.Design.SliceFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/slice-fill.svg"
-    },
-    {
-        "name": "Remix.Design.Artboard2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/artboard-2-line.svg"
-    },
-    {
-        "name": "Remix.Design.Screenshot2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/screenshot-2-fill.svg"
-    },
-    {
-        "name": "Remix.Design.LayoutBottomLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/layout-bottom-line.svg"
-    },
-    {
-        "name": "Remix.Design.ShapesLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/shapes-line.svg"
-    },
-    {
-        "name": "Remix.Design.FlipHorizontalFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/flip-horizontal-fill.svg"
-    },
-    {
-        "name": "Remix.Design.LayoutHorizontalLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/layout-horizontal-line.svg"
-    },
-    {
-        "name": "Remix.Design.EditBoxFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/edit-box-fill.svg"
-    },
-    {
-        "name": "Remix.Design.InputMethodLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/input-method-line.svg"
-    },
-    {
-        "name": "Remix.Design.TriangleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/triangle-fill.svg"
-    },
-    {
-        "name": "Remix.Design.LayoutRightLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/layout-right-line.svg"
-    },
-    {
-        "name": "Remix.Design.Layout6Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/layout-6-fill.svg"
-    },
-    {
-        "name": "Remix.Design.Brush4Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/brush-4-line.svg"
-    },
-    {
-        "name": "Remix.Design.ToolsFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/tools-fill.svg"
-    },
-    {
-        "name": "Remix.Design.Ruler2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/ruler-2-line.svg"
-    },
-    {
-        "name": "Remix.Design.PaintBrushLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/paint-brush-line.svg"
-    },
-    {
-        "name": "Remix.Design.FlipHorizontalLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/flip-horizontal-line.svg"
-    },
-    {
-        "name": "Remix.Design.ContrastDropLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/contrast-drop-line.svg"
-    },
-    {
-        "name": "Remix.Design.MagicFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/magic-fill.svg"
-    },
-    {
-        "name": "Remix.Design.DragDropFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/drag-drop-fill.svg"
-    },
-    {
-        "name": "Remix.Design.FlipVerticalFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/flip-vertical-fill.svg"
-    },
-    {
-        "name": "Remix.Design.HammerFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/hammer-fill.svg"
-    },
-    {
-        "name": "Remix.Design.LayoutTop2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/layout-top-2-fill.svg"
-    },
-    {
-        "name": "Remix.Design.Anticlockwise2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/anticlockwise-2-fill.svg"
-    },
-    {
-        "name": "Remix.Design.ContrastLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/contrast-line.svg"
-    },
-    {
-        "name": "Remix.Design.PencilRuler2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/pencil-ruler-2-line.svg"
-    },
-    {
-        "name": "Remix.Design.BlurOffFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/blur-off-fill.svg"
-    },
-    {
-        "name": "Remix.Design.LayoutRight2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/layout-right-2-fill.svg"
-    },
-    {
-        "name": "Remix.Design.ColorFilterFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/color-filter-fill.svg"
-    },
-    {
-        "name": "Remix.Design.Focus3Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/focus-3-fill.svg"
-    },
-    {
-        "name": "Remix.Design.Anticlockwise2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/anticlockwise-2-line.svg"
-    },
-    {
-        "name": "Remix.Design.ToolsLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/tools-line.svg"
-    },
-    {
-        "name": "Remix.Design.CollageFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/collage-fill.svg"
-    },
-    {
-        "name": "Remix.Design.Contrast2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/contrast-2-fill.svg"
-    },
-    {
-        "name": "Remix.Design.RectangleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/rectangle-line.svg"
-    },
-    {
-        "name": "Remix.Design.Clockwise2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/clockwise-2-fill.svg"
-    },
-    {
-        "name": "Remix.Design.LayoutRowFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/layout-row-fill.svg"
-    },
-    {
-        "name": "Remix.Design.DropFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/drop-fill.svg"
-    },
-    {
-        "name": "Remix.Design.GridLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/grid-line.svg"
-    },
-    {
-        "name": "Remix.Design.Crop2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/crop-2-line.svg"
-    },
-    {
-        "name": "Remix.Design.LayoutTop2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/layout-top-2-line.svg"
-    },
-    {
-        "name": "Remix.Design.PaintLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/paint-line.svg"
-    },
-    {
-        "name": "Remix.Design.Scissors2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/scissors-2-line.svg"
-    },
-    {
-        "name": "Remix.Design.ScreenshotLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/screenshot-line.svg"
-    },
-    {
-        "name": "Remix.Design.LayoutGrid2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/layout-grid-2-line.svg"
-    },
-    {
-        "name": "Remix.Design.TableAltFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/table-alt-fill.svg"
-    },
-    {
-        "name": "Remix.Design.LayoutLeft2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/layout-left-2-line.svg"
-    },
-    {
-        "name": "Remix.Design.LayoutGridFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/layout-grid-fill.svg"
-    },
-    {
-        "name": "Remix.Design.LayoutLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/layout-line.svg"
-    },
-    {
-        "name": "Remix.Design.Brush4Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/brush-4-fill.svg"
-    },
-    {
-        "name": "Remix.Design.PaintFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/paint-fill.svg"
-    },
-    {
-        "name": "Remix.Design.Layout4Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/layout-4-line.svg"
-    },
-    {
-        "name": "Remix.Design.LayoutGridLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/layout-grid-line.svg"
-    },
-    {
-        "name": "Remix.Design.Focus3Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/focus-3-line.svg"
-    },
-    {
-        "name": "Remix.Design.LayoutBottom2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/layout-bottom-2-line.svg"
-    },
-    {
-        "name": "Remix.Design.ShapesFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/shapes-fill.svg"
-    },
-    {
-        "name": "Remix.Design.FlipHorizontal2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/flip-horizontal-2-line.svg"
-    },
-    {
-        "name": "Remix.Design.CompassesFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/compasses-fill.svg"
-    },
-    {
-        "name": "Remix.Design.AlignItemVerticalCenterFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/align-item-vertical-center-fill.svg"
-    },
-    {
-        "name": "Remix.Design.Layout6Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/layout-6-line.svg"
-    },
-    {
-        "name": "Remix.Design.Brush3Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/brush-3-fill.svg"
-    },
-    {
-        "name": "Remix.Design.BrushLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/brush-line.svg"
-    },
-    {
-        "name": "Remix.Design.Shape2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/shape-2-fill.svg"
-    },
-    {
-        "name": "Remix.Design.LayoutHorizontalFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/layout-horizontal-fill.svg"
-    },
-    {
-        "name": "Remix.Design.Compasses2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/compasses-2-fill.svg"
-    },
-    {
-        "name": "Remix.Design.BallPenFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/ball-pen-fill.svg"
-    },
-    {
-        "name": "Remix.Design.CropFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/crop-fill.svg"
-    },
-    {
-        "name": "Remix.Design.AlignItemHorizontalCenterFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/align-item-horizontal-center-fill.svg"
-    },
-    {
-        "name": "Remix.Design.PentagonFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/pentagon-fill.svg"
-    },
-    {
-        "name": "Remix.Design.CollageLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/collage-line.svg"
-    },
-    {
-        "name": "Remix.Design.ScissorsLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/scissors-line.svg"
-    },
-    {
-        "name": "Remix.Design.TriangleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/triangle-line.svg"
-    },
-    {
-        "name": "Remix.Design.SquareLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/square-line.svg"
-    },
-    {
-        "name": "Remix.Design.CropLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/crop-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/brush-2-line.svg"
     },
     {
         "name": "Remix.Design.LayoutVerticalLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/layout-vertical-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/layout-vertical-line.svg"
     },
     {
-        "name": "Remix.Design.BlurOffLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/blur-off-line.svg"
-    },
-    {
-        "name": "Remix.Design.Layout2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/layout-2-line.svg"
-    },
-    {
-        "name": "Remix.Design.RulerLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/ruler-line.svg"
-    },
-    {
-        "name": "Remix.Design.BrushFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/brush-fill.svg"
-    },
-    {
-        "name": "Remix.Design.QuillPenAiLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/quill-pen-ai-line.svg"
-    },
-    {
-        "name": "Remix.Design.EraserLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/eraser-line.svg"
-    },
-    {
-        "name": "Remix.Design.RulerFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/ruler-fill.svg"
-    },
-    {
-        "name": "Remix.Design.ContrastDropFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/contrast-drop-fill.svg"
-    },
-    {
-        "name": "Remix.Design.Clockwise2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/clockwise-2-line.svg"
-    },
-    {
-        "name": "Remix.Design.Compasses2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/compasses-2-line.svg"
-    },
-    {
-        "name": "Remix.Design.ShapeLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/shape-line.svg"
-    },
-    {
-        "name": "Remix.Design.PencilRulerLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/pencil-ruler-line.svg"
-    },
-    {
-        "name": "Remix.Design.ScissorsCutLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/scissors-cut-line.svg"
-    },
-    {
-        "name": "Remix.Design.LayoutVerticalFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/layout-vertical-fill.svg"
-    },
-    {
-        "name": "Remix.Design.FocusLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/focus-line.svg"
-    },
-    {
-        "name": "Remix.Design.LayoutRightFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/layout-right-fill.svg"
-    },
-    {
-        "name": "Remix.Design.CrosshairLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/crosshair-line.svg"
-    },
-    {
-        "name": "Remix.Design.BallPenLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/ball-pen-line.svg"
-    },
-    {
-        "name": "Remix.Design.ContrastDrop2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/contrast-drop-2-line.svg"
-    },
-    {
-        "name": "Remix.Design.Ruler2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/ruler-2-fill.svg"
-    },
-    {
-        "name": "Remix.Design.PenNibLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/pen-nib-line.svg"
-    },
-    {
-        "name": "Remix.Design.FlipVerticalLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/flip-vertical-line.svg"
-    },
-    {
-        "name": "Remix.Design.CircleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/circle-line.svg"
-    },
-    {
-        "name": "Remix.Design.ClockwiseFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/clockwise-fill.svg"
-    },
-    {
-        "name": "Remix.Design.InkBottleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/ink-bottle-line.svg"
-    },
-    {
-        "name": "Remix.Design.TBoxLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/t-box-line.svg"
-    },
-    {
-        "name": "Remix.Design.HammerLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/hammer-line.svg"
-    },
-    {
-        "name": "Remix.Design.Layout3Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/layout-3-line.svg"
-    },
-    {
-        "name": "Remix.Design.ClockwiseLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/clockwise-line.svg"
-    },
-    {
-        "name": "Remix.Design.LayoutRight2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/layout-right-2-line.svg"
-    },
-    {
-        "name": "Remix.Design.FlipVertical2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/flip-vertical-2-fill.svg"
-    },
-    {
-        "name": "Remix.Design.Layout2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/layout-2-fill.svg"
-    },
-    {
-        "name": "Remix.Design.Crosshair2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/crosshair-2-fill.svg"
-    },
-    {
-        "name": "Remix.Design.CompassesLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/compasses-line.svg"
-    },
-    {
-        "name": "Remix.Design.Brush3Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/brush-3-line.svg"
-    },
-    {
-        "name": "Remix.Design.FocusFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/focus-fill.svg"
-    },
-    {
-        "name": "Remix.Design.AlignItemVerticalCenterLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/align-item-vertical-center-line.svg"
-    },
-    {
-        "name": "Remix.Design.Focus2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/focus-2-line.svg"
-    },
-    {
-        "name": "Remix.Design.LayoutMasonryFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/layout-masonry-fill.svg"
-    },
-    {
-        "name": "Remix.Design.LayoutBottomFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/layout-bottom-fill.svg"
-    },
-    {
-        "name": "Remix.Design.HexagonLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/hexagon-line.svg"
-    },
-    {
-        "name": "Remix.Design.ArtboardFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/artboard-fill.svg"
-    },
-    {
-        "name": "Remix.Design.LayoutLeft2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/layout-left-2-fill.svg"
-    },
-    {
-        "name": "Remix.Design.TableFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/table-fill.svg"
-    },
-    {
-        "name": "Remix.Design.ContrastFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/contrast-fill.svg"
-    },
-    {
-        "name": "Remix.Design.AnticlockwiseFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/anticlockwise-fill.svg"
-    },
-    {
-        "name": "Remix.Design.AnticlockwiseLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/anticlockwise-line.svg"
-    },
-    {
-        "name": "Remix.Design.BrushAiFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/brush-ai-fill.svg"
-    },
-    {
-        "name": "Remix.Design.PentagonLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/pentagon-line.svg"
-    },
-    {
-        "name": "Remix.Design.PaletteFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/palette-fill.svg"
-    },
-    {
-        "name": "Remix.Design.AlignItemHorizontalCenterLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/align-item-horizontal-center-line.svg"
-    },
-    {
-        "name": "Remix.Design.PantoneLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/pantone-line.svg"
-    },
-    {
-        "name": "Remix.Design.OctagonFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/octagon-fill.svg"
-    },
-    {
-        "name": "Remix.Design.Focus2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/focus-2-fill.svg"
-    },
-    {
-        "name": "Remix.Design.LayoutLeftLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/layout-left-line.svg"
-    },
-    {
-        "name": "Remix.Design.OctagonLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/octagon-line.svg"
-    },
-    {
-        "name": "Remix.Design.ShadowLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/shadow-line.svg"
+        "name": "Remix.Design.LayoutBottom2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/layout-bottom-2-line.svg"
     },
     {
         "name": "Remix.Design.ScissorsCutFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/scissors-cut-fill.svg"
-    },
-    {
-        "name": "Remix.Design.Layout3Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/layout-3-fill.svg"
-    },
-    {
-        "name": "Remix.Design.LayoutLeftFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/layout-left-fill.svg"
-    },
-    {
-        "name": "Remix.Design.EditFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/edit-fill.svg"
-    },
-    {
-        "name": "Remix.Design.SipLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/sip-line.svg"
-    },
-    {
-        "name": "Remix.Design.InkBottleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/ink-bottle-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/scissors-cut-fill.svg"
     },
     {
         "name": "Remix.Design.ArtboardLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/artboard-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/artboard-line.svg"
     },
     {
-        "name": "Remix.Design.InputMethodFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/input-method-fill.svg"
+        "name": "Remix.Design.Screenshot2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/screenshot-2-fill.svg"
     },
     {
-        "name": "Remix.Design.LayoutFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/layout-fill.svg"
+        "name": "Remix.Design.TableAltFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/table-alt-fill.svg"
     },
     {
-        "name": "Remix.Design.PaintBrushFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/paint-brush-fill.svg"
+        "name": "Remix.Design.Focus3Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/focus-3-fill.svg"
     },
     {
-        "name": "Remix.Design.EditCircleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/edit-circle-fill.svg"
+        "name": "Remix.Design.Layout2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/layout-2-fill.svg"
     },
     {
-        "name": "Remix.Design.HexagonFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/hexagon-fill.svg"
+        "name": "Remix.Design.PaintFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/paint-fill.svg"
     },
     {
-        "name": "Remix.Design.MarkupLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/markup-line.svg"
+        "name": "Remix.Design.HexagonLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/hexagon-line.svg"
     },
     {
-        "name": "Remix.Design.TableAltLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/table-alt-line.svg"
+        "name": "Remix.Design.Brush2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/brush-2-fill.svg"
     },
     {
-        "name": "Remix.Design.PencilLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/pencil-line.svg"
+        "name": "Remix.Design.ToolsFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/tools-fill.svg"
     },
     {
-        "name": "Remix.Design.ColorFilterAiFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/color-filter-ai-fill.svg"
+        "name": "Remix.Design.PencilRulerLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/pencil-ruler-line.svg"
     },
     {
-        "name": "Remix.Design.Artboard2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/artboard-2-fill.svg"
+        "name": "Remix.Design.TriangleFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/triangle-fill.svg"
     },
     {
-        "name": "Remix.Design.BrushAiLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/brush-ai-line.svg"
+        "name": "Remix.Design.LayoutColumnFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/layout-column-fill.svg"
     },
     {
-        "name": "Remix.Design.AlignItemLeftFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/align-item-left-fill.svg"
+        "name": "Remix.Design.FocusFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/focus-fill.svg"
     },
     {
-        "name": "Remix.Design.Edit2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/edit-2-line.svg"
+        "name": "Remix.Design.HammerFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/hammer-fill.svg"
+    },
+    {
+        "name": "Remix.Design.FlipVerticalLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/flip-vertical-line.svg"
+    },
+    {
+        "name": "Remix.Design.QuillPenLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/quill-pen-line.svg"
+    },
+    {
+        "name": "Remix.Design.PencilRulerFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/pencil-ruler-fill.svg"
     },
     {
         "name": "Remix.Design.LayoutMasonryLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/layout-masonry-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/layout-masonry-line.svg"
+    },
+    {
+        "name": "Remix.Design.QuillPenFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/quill-pen-fill.svg"
+    },
+    {
+        "name": "Remix.Design.ColorFilterFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/color-filter-fill.svg"
+    },
+    {
+        "name": "Remix.Design.PaintBrushLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/paint-brush-line.svg"
+    },
+    {
+        "name": "Remix.Design.LayoutLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/layout-line.svg"
+    },
+    {
+        "name": "Remix.Design.LayoutGridLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/layout-grid-line.svg"
+    },
+    {
+        "name": "Remix.Design.ColorFilterAiLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/color-filter-ai-line.svg"
+    },
+    {
+        "name": "Remix.Design.EditBoxLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/edit-box-line.svg"
+    },
+    {
+        "name": "Remix.Design.Brush3Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/brush-3-line.svg"
+    },
+    {
+        "name": "Remix.Design.ContrastDrop2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/contrast-drop-2-line.svg"
+    },
+    {
+        "name": "Remix.Design.ContrastFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/contrast-fill.svg"
+    },
+    {
+        "name": "Remix.Design.Artboard2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/artboard-2-line.svg"
+    },
+    {
+        "name": "Remix.Design.ScissorsCutLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/scissors-cut-line.svg"
+    },
+    {
+        "name": "Remix.Design.FlipHorizontalFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/flip-horizontal-fill.svg"
+    },
+    {
+        "name": "Remix.Design.LayoutRightFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/layout-right-fill.svg"
+    },
+    {
+        "name": "Remix.Design.InputMethodFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/input-method-fill.svg"
+    },
+    {
+        "name": "Remix.Design.HammerLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/hammer-line.svg"
+    },
+    {
+        "name": "Remix.Design.OctagonFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/octagon-fill.svg"
+    },
+    {
+        "name": "Remix.Design.Focus3Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/focus-3-line.svg"
+    },
+    {
+        "name": "Remix.Design.CompassesFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/compasses-fill.svg"
+    },
+    {
+        "name": "Remix.Design.PentagonLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/pentagon-line.svg"
+    },
+    {
+        "name": "Remix.Design.Ruler2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/ruler-2-line.svg"
+    },
+    {
+        "name": "Remix.Design.LayoutGrid2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/layout-grid-2-line.svg"
+    },
+    {
+        "name": "Remix.Design.ContrastDropFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/contrast-drop-fill.svg"
+    },
+    {
+        "name": "Remix.Design.ClockwiseLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/clockwise-line.svg"
     },
     {
         "name": "Remix.Design.FlipHorizontal2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/flip-horizontal-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/flip-horizontal-2-fill.svg"
     },
     {
-        "name": "Remix.Design.Shape2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/shape-2-line.svg"
+        "name": "Remix.Design.CircleLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/circle-line.svg"
+    },
+    {
+        "name": "Remix.Design.MarkupLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/markup-line.svg"
+    },
+    {
+        "name": "Remix.Design.Anticlockwise2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/anticlockwise-2-line.svg"
+    },
+    {
+        "name": "Remix.Design.ShapesLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/shapes-line.svg"
+    },
+    {
+        "name": "Remix.Design.LayoutRight2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/layout-right-2-line.svg"
+    },
+    {
+        "name": "Remix.Design.PentagonFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/pentagon-fill.svg"
+    },
+    {
+        "name": "Remix.Design.ScreenshotLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/screenshot-line.svg"
+    },
+    {
+        "name": "Remix.Design.MarkupFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/markup-fill.svg"
+    },
+    {
+        "name": "Remix.Design.Screenshot2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/screenshot-2-line.svg"
+    },
+    {
+        "name": "Remix.Design.BrushAiFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/brush-ai-fill.svg"
     },
     {
         "name": "Remix.Design.EditCircleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/edit-circle-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/edit-circle-line.svg"
+    },
+    {
+        "name": "Remix.Design.PaintLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/paint-line.svg"
+    },
+    {
+        "name": "Remix.Design.Contrast2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/contrast-2-fill.svg"
+    },
+    {
+        "name": "Remix.Design.LayoutVerticalFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/layout-vertical-fill.svg"
+    },
+    {
+        "name": "Remix.Design.LayoutBottom2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/layout-bottom-2-fill.svg"
+    },
+    {
+        "name": "Remix.Design.AlignItemHorizontalCenterLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/align-item-horizontal-center-line.svg"
+    },
+    {
+        "name": "Remix.Design.Clockwise2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/clockwise-2-line.svg"
+    },
+    {
+        "name": "Remix.Design.Layout6Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/layout-6-fill.svg"
+    },
+    {
+        "name": "Remix.Design.ArtboardFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/artboard-fill.svg"
+    },
+    {
+        "name": "Remix.Design.FlipVerticalFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/flip-vertical-fill.svg"
+    },
+    {
+        "name": "Remix.Design.EditLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/edit-line.svg"
+    },
+    {
+        "name": "Remix.Design.CompassesLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/compasses-line.svg"
+    },
+    {
+        "name": "Remix.Design.DropFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/drop-fill.svg"
+    },
+    {
+        "name": "Remix.Design.Brush4Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/brush-4-line.svg"
+    },
+    {
+        "name": "Remix.Design.AlignItemVerticalCenterFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/align-item-vertical-center-fill.svg"
+    },
+    {
+        "name": "Remix.Design.Crop2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/crop-2-line.svg"
+    },
+    {
+        "name": "Remix.Design.PencilRuler2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/pencil-ruler-2-line.svg"
+    },
+    {
+        "name": "Remix.Design.EditBoxFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/edit-box-fill.svg"
+    },
+    {
+        "name": "Remix.Design.LayoutRightLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/layout-right-line.svg"
+    },
+    {
+        "name": "Remix.Design.LayoutRight2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/layout-right-2-fill.svg"
+    },
+    {
+        "name": "Remix.Design.ColorFilterLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/color-filter-line.svg"
+    },
+    {
+        "name": "Remix.Design.BrushFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/brush-fill.svg"
+    },
+    {
+        "name": "Remix.Design.PantoneFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/pantone-fill.svg"
+    },
+    {
+        "name": "Remix.Design.FlipHorizontal2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/flip-horizontal-2-line.svg"
+    },
+    {
+        "name": "Remix.Design.Compasses2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/compasses-2-fill.svg"
+    },
+    {
+        "name": "Remix.Design.SipFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/sip-fill.svg"
+    },
+    {
+        "name": "Remix.Design.FlipHorizontalLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/flip-horizontal-line.svg"
+    },
+    {
+        "name": "Remix.Design.Layout3Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/layout-3-line.svg"
+    },
+    {
+        "name": "Remix.Design.Anticlockwise2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/anticlockwise-2-fill.svg"
+    },
+    {
+        "name": "Remix.Design.Shape2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/shape-2-fill.svg"
+    },
+    {
+        "name": "Remix.Design.Layout4Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/layout-4-fill.svg"
+    },
+    {
+        "name": "Remix.Design.PenNibLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/pen-nib-line.svg"
+    },
+    {
+        "name": "Remix.Design.RulerFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/ruler-fill.svg"
+    },
+    {
+        "name": "Remix.Design.RectangleFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/rectangle-fill.svg"
+    },
+    {
+        "name": "Remix.Design.Layout5Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/layout-5-line.svg"
+    },
+    {
+        "name": "Remix.Design.EditCircleFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/edit-circle-fill.svg"
+    },
+    {
+        "name": "Remix.Design.PencilRuler2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/pencil-ruler-2-fill.svg"
+    },
+    {
+        "name": "Remix.Design.EraserFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/eraser-fill.svg"
+    },
+    {
+        "name": "Remix.Design.QuillPenAiFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/quill-pen-ai-fill.svg"
+    },
+    {
+        "name": "Remix.Design.RectangleLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/rectangle-line.svg"
+    },
+    {
+        "name": "Remix.Design.Artboard2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/artboard-2-fill.svg"
+    },
+    {
+        "name": "Remix.Design.LayoutLeft2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/layout-left-2-fill.svg"
+    },
+    {
+        "name": "Remix.Design.TBoxFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/t-box-fill.svg"
+    },
+    {
+        "name": "Remix.Design.ContrastDrop2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/contrast-drop-2-fill.svg"
+    },
+    {
+        "name": "Remix.Design.Compasses2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/compasses-2-line.svg"
+    },
+    {
+        "name": "Remix.Design.MagicLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/magic-line.svg"
+    },
+    {
+        "name": "Remix.Design.ShapesFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/shapes-fill.svg"
+    },
+    {
+        "name": "Remix.Design.CrosshairFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/crosshair-fill.svg"
+    },
+    {
+        "name": "Remix.Design.Edit2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/edit-2-fill.svg"
+    },
+    {
+        "name": "Remix.Design.ContrastDropLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/contrast-drop-line.svg"
+    },
+    {
+        "name": "Remix.Design.SquareFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/square-fill.svg"
+    },
+    {
+        "name": "Remix.Design.ShapeFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/shape-fill.svg"
+    },
+    {
+        "name": "Remix.Design.TableAltLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/table-alt-line.svg"
+    },
+    {
+        "name": "Remix.Design.Clockwise2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/clockwise-2-fill.svg"
+    },
+    {
+        "name": "Remix.Design.AlignItemBottomFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/align-item-bottom-fill.svg"
+    },
+    {
+        "name": "Remix.Design.RulerLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/ruler-line.svg"
+    },
+    {
+        "name": "Remix.Design.GridFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/grid-fill.svg"
+    },
+    {
+        "name": "Remix.Design.SquareLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/square-line.svg"
+    },
+    {
+        "name": "Remix.Design.BrushLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/brush-line.svg"
+    },
+    {
+        "name": "Remix.Design.DropLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/drop-line.svg"
+    },
+    {
+        "name": "Remix.Design.Focus2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/focus-2-line.svg"
+    },
+    {
+        "name": "Remix.Design.Shape2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/shape-2-line.svg"
+    },
+    {
+        "name": "Remix.Design.LayoutFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/layout-fill.svg"
+    },
+    {
+        "name": "Remix.Design.ScissorsFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/scissors-fill.svg"
+    },
+    {
+        "name": "Remix.Design.LayoutRowFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/layout-row-fill.svg"
     },
     {
         "name": "Remix.Design.MarkPenFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/mark-pen-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/mark-pen-fill.svg"
+    },
+    {
+        "name": "Remix.Design.SipLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/sip-line.svg"
+    },
+    {
+        "name": "Remix.Design.LayoutLeft2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/layout-left-2-line.svg"
+    },
+    {
+        "name": "Remix.Design.LayoutLeftFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/layout-left-fill.svg"
+    },
+    {
+        "name": "Remix.Design.AlignItemVerticalCenterLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/align-item-vertical-center-line.svg"
+    },
+    {
+        "name": "Remix.Design.FlipVertical2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/flip-vertical-2-line.svg"
+    },
+    {
+        "name": "Remix.Design.AlignItemHorizontalCenterFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/align-item-horizontal-center-fill.svg"
+    },
+    {
+        "name": "Remix.Design.EditFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/edit-fill.svg"
+    },
+    {
+        "name": "Remix.Design.Crop2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/crop-2-fill.svg"
+    },
+    {
+        "name": "Remix.Design.InkBottleFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/ink-bottle-fill.svg"
+    },
+    {
+        "name": "Remix.Design.GridLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/grid-line.svg"
+    },
+    {
+        "name": "Remix.Design.QuillPenAiLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/quill-pen-ai-line.svg"
+    },
+    {
+        "name": "Remix.Design.Edit2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/edit-2-line.svg"
+    },
+    {
+        "name": "Remix.Design.Layout2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/layout-2-line.svg"
+    },
+    {
+        "name": "Remix.Design.FocusLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/focus-line.svg"
+    },
+    {
+        "name": "Remix.Design.Layout4Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/layout-4-line.svg"
+    },
+    {
+        "name": "Remix.Design.ContrastLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/contrast-line.svg"
+    },
+    {
+        "name": "Remix.Design.SliceLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/slice-line.svg"
+    },
+    {
+        "name": "Remix.Design.LayoutLeftLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/layout-left-line.svg"
+    },
+    {
+        "name": "Remix.Design.OctagonLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/octagon-line.svg"
+    },
+    {
+        "name": "Remix.Design.Brush3Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/brush-3-fill.svg"
+    },
+    {
+        "name": "Remix.Design.PaintBrushFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/paint-brush-fill.svg"
+    },
+    {
+        "name": "Remix.Design.PenNibFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/pen-nib-fill.svg"
+    },
+    {
+        "name": "Remix.Design.AnticlockwiseFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/anticlockwise-fill.svg"
+    },
+    {
+        "name": "Remix.Design.LayoutColumnLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/layout-column-line.svg"
+    },
+    {
+        "name": "Remix.Design.Layout6Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/layout-6-line.svg"
+    },
+    {
+        "name": "Remix.Design.LayoutTopFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/layout-top-fill.svg"
+    },
+    {
+        "name": "Remix.Design.ShadowFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/shadow-fill.svg"
+    },
+    {
+        "name": "Remix.Design.LayoutTop2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/layout-top-2-line.svg"
+    },
+    {
+        "name": "Remix.Design.TableFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/table-fill.svg"
+    },
+    {
+        "name": "Remix.Design.EraserLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/eraser-line.svg"
+    },
+    {
+        "name": "Remix.Design.AlignItemBottomLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/align-item-bottom-line.svg"
+    },
+    {
+        "name": "Remix.Design.AlignItemRightFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/align-item-right-fill.svg"
+    },
+    {
+        "name": "Remix.Design.Crosshair2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/crosshair-2-fill.svg"
+    },
+    {
+        "name": "Remix.Design.MarkPenLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/mark-pen-line.svg"
+    },
+    {
+        "name": "Remix.Design.PaletteFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/palette-fill.svg"
+    },
+    {
+        "name": "Remix.Design.Ruler2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/ruler-2-fill.svg"
+    },
+    {
+        "name": "Remix.Design.Crosshair2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/crosshair-2-line.svg"
+    },
+    {
+        "name": "Remix.Design.Scissors2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/scissors-2-line.svg"
+    },
+    {
+        "name": "Remix.Design.LayoutHorizontalFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/layout-horizontal-fill.svg"
+    },
+    {
+        "name": "Remix.Design.LayoutMasonryFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/layout-masonry-fill.svg"
+    },
+    {
+        "name": "Remix.Design.AlignItemTopFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/align-item-top-fill.svg"
+    },
+    {
+        "name": "Remix.Design.AlignItemLeftFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/align-item-left-fill.svg"
+    },
+    {
+        "name": "Remix.Design.TBoxLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/t-box-line.svg"
+    },
+    {
+        "name": "Remix.Design.BlurOffLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/blur-off-line.svg"
+    },
+    {
+        "name": "Remix.Design.PencilFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/pencil-fill.svg"
+    },
+    {
+        "name": "Remix.Design.CollageLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/collage-line.svg"
+    },
+    {
+        "name": "Remix.Design.TableLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/table-line.svg"
+    },
+    {
+        "name": "Remix.Design.CollageFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/collage-fill.svg"
+    },
+    {
+        "name": "Remix.Design.DragDropFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/drag-drop-fill.svg"
+    },
+    {
+        "name": "Remix.Design.MagicFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/magic-fill.svg"
+    },
+    {
+        "name": "Remix.Design.Focus2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/focus-2-fill.svg"
+    },
+    {
+        "name": "Remix.Design.InputMethodLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/input-method-line.svg"
+    },
+    {
+        "name": "Remix.Design.BlurOffFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/blur-off-fill.svg"
+    },
+    {
+        "name": "Remix.Design.PaletteLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/palette-line.svg"
+    },
+    {
+        "name": "Remix.Design.ToolsLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/tools-line.svg"
+    },
+    {
+        "name": "Remix.Design.SliceFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/slice-fill.svg"
+    },
+    {
+        "name": "Remix.Design.PantoneLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/pantone-line.svg"
+    },
+    {
+        "name": "Remix.Design.CrosshairLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/crosshair-line.svg"
+    },
+    {
+        "name": "Remix.Design.ScreenshotFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/screenshot-fill.svg"
+    },
+    {
+        "name": "Remix.Design.Scissors2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/scissors-2-fill.svg"
+    },
+    {
+        "name": "Remix.Design.PencilLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/pencil-line.svg"
+    },
+    {
+        "name": "Remix.Design.Layout5Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/layout-5-fill.svg"
+    },
+    {
+        "name": "Remix.Design.LayoutGrid2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/layout-grid-2-fill.svg"
+    },
+    {
+        "name": "Remix.Design.Brush4Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/brush-4-fill.svg"
+    },
+    {
+        "name": "Remix.Design.FlipVertical2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/flip-vertical-2-fill.svg"
+    },
+    {
+        "name": "Remix.Design.AnticlockwiseLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/anticlockwise-line.svg"
+    },
+    {
+        "name": "Remix.Design.LayoutTop2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/layout-top-2-fill.svg"
     },
     {
         "name": "Remix.Design.AlignItemLeftLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/align-item-left-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/align-item-left-line.svg"
+    },
+    {
+        "name": "Remix.Design.CropFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/crop-fill.svg"
+    },
+    {
+        "name": "Remix.Design.ColorFilterAiFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/color-filter-ai-fill.svg"
+    },
+    {
+        "name": "Remix.Design.TriangleLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/triangle-line.svg"
+    },
+    {
+        "name": "Remix.Design.LayoutGridFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/layout-grid-fill.svg"
+    },
+    {
+        "name": "Remix.Design.CropLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/crop-line.svg"
+    },
+    {
+        "name": "Remix.Design.LayoutHorizontalLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/layout-horizontal-line.svg"
+    },
+    {
+        "name": "Remix.Design.InkBottleLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/ink-bottle-line.svg"
+    },
+    {
+        "name": "Remix.Design.LayoutBottomFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/layout-bottom-fill.svg"
+    },
+    {
+        "name": "Remix.Design.DragDropLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/drag-drop-line.svg"
+    },
+    {
+        "name": "Remix.Design.ScissorsLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/scissors-line.svg"
+    },
+    {
+        "name": "Remix.Design.LayoutTopLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/layout-top-line.svg"
+    },
+    {
+        "name": "Remix.Design.BallPenLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/ball-pen-line.svg"
+    },
+    {
+        "name": "Remix.Design.LayoutBottomLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/layout-bottom-line.svg"
     },
     {
         "name": "Remix.Design.AlignItemTopLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Design/align-item-top-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/align-item-top-line.svg"
+    },
+    {
+        "name": "Remix.Design.ClockwiseFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/clockwise-fill.svg"
+    },
+    {
+        "name": "Remix.Design.CircleFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/circle-fill.svg"
+    },
+    {
+        "name": "Remix.Design.AlignItemRightLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/align-item-right-line.svg"
+    },
+    {
+        "name": "Remix.Design.LayoutRowLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/layout-row-line.svg"
+    },
+    {
+        "name": "Remix.Design.ShadowLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/shadow-line.svg"
+    },
+    {
+        "name": "Remix.Design.Contrast2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/contrast-2-line.svg"
+    },
+    {
+        "name": "Remix.Design.BrushAiLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/brush-ai-line.svg"
+    },
+    {
+        "name": "Remix.Design.HexagonFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/hexagon-fill.svg"
+    },
+    {
+        "name": "Remix.Design.BallPenFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/ball-pen-fill.svg"
+    },
+    {
+        "name": "Remix.Design.ShapeLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/shape-line.svg"
+    },
+    {
+        "name": "Remix.Design.Layout3Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Design/layout-3-fill.svg"
     }
 ]

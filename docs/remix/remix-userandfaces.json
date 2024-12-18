@@ -1,506 +1,506 @@
 [
     {
-        "name": "Remix.UserAndFaces.UserSharedFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/user-shared-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.AccountPinBoxFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/account-pin-box-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.UserVoiceLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/user-voice-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.UserSmileLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/user-smile-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.TravestiLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/travesti-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.UserSettingsFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/user-settings-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.User5Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/user-5-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.AccountBox2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/account-box-2-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.AccountCircleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/account-circle-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.UserHeartLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/user-heart-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.GhostFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/ghost-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.EmotionUnhappyFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/emotion-unhappy-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.Skull2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/skull-2-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.UserMinusLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/user-minus-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.User6Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/user-6-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.AccountCircle2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/account-circle-2-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.Group3Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/group-3-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.ParentLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/parent-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.User2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/user-2-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.Group2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/group-2-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.Robot3Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/robot-3-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.User2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/user-2-fill.svg"
+        "name": "Remix.UserAndFaces.MenFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/men-fill.svg"
     },
     {
         "name": "Remix.UserAndFaces.UserReceivedLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/user-received-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.UserCommunityFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/user-community-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.RobotLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/robot-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.SkullLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/skull-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.UserUnfollowLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/user-unfollow-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.CriminalLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/criminal-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.EmotionLaughFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/emotion-laugh-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.UserAddLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/user-add-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.BearSmileLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/bear-smile-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.User4Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/user-4-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.CriminalFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/criminal-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.MickeyLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/mickey-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.UserHeartFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/user-heart-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.StarSmileLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/star-smile-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.MenFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/men-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.EmotionSadLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/emotion-sad-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.WomenFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/women-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.Group3Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/group-3-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.Skull2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/skull-2-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.UserForbidFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/user-forbid-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.TeamFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/team-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.GenderlessFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/genderless-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.UserFollowFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/user-follow-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.AccountCircleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/account-circle-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.UserFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/user-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.UserAddFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/user-add-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.UserReceivedFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/user-received-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.UserForbidLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/user-forbid-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.EmotionFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/emotion-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.GenderlessLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/genderless-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.SkullFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/skull-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.UserLocationFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/user-location-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.Emotion2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/emotion-2-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.UserLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/user-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.MickeyFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/mickey-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.UserMinusFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/user-minus-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.UserStarFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/user-star-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.User3Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/user-3-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.User6Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/user-6-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.EmotionHappyFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/emotion-happy-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.MenLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/men-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.UserShared2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/user-shared-2-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.UserVoiceFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/user-voice-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.UserSharedLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/user-shared-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.EmotionNormalFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/emotion-normal-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.SpyFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/spy-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.UserUnfollowFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/user-unfollow-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.ContactsLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/contacts-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.EmotionNormalLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/emotion-normal-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.AccountCircle2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/account-circle-2-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.GroupLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/group-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.AccountPinBoxLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/account-pin-box-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.AccountBox2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/account-box-2-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.ContactsFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/contacts-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.GhostLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/ghost-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.Robot2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/robot-2-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.AccountBoxFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/account-box-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.UserFollowLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/user-follow-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.AccountPinCircleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/account-pin-circle-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.Robot3Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/robot-3-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.BodyScanFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/body-scan-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.AccountPinCircleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/account-pin-circle-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.Ghost2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/ghost-2-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.Group2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/group-2-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.TravestiFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/travesti-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.GhostSmileLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/ghost-smile-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.UserSettingsLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/user-settings-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.AliensLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/aliens-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.EmotionUnhappyLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/emotion-unhappy-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.WomenLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/women-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.UserReceived2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/user-received-2-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.AdminFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/admin-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.StarSmileFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/star-smile-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.UserShared2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/user-shared-2-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.RobotFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/robot-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.User3Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/user-3-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.UserCommunityLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/user-community-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.BearSmileFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/bear-smile-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.UserReceived2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/user-received-2-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.SpyLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/spy-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.GroupFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/group-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.TeamLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/team-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.BodyScanLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/body-scan-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.UserSearchFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/user-search-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.AliensFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/aliens-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.AdminLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/admin-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.User5Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/user-5-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.UserSmileFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/user-smile-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.Emotion2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/emotion-2-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.Ghost2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/ghost-2-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.EmotionLaughLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/emotion-laugh-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.EmotionLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/emotion-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.User4Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/user-4-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.UserStarLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/user-star-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.Robot2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/robot-2-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.UserSearchLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/user-search-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.EmotionSadFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/emotion-sad-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.UserLocationLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/user-location-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.ParentFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/parent-fill.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.OpenArmLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/open-arm-line.svg"
-    },
-    {
-        "name": "Remix.UserAndFaces.EmotionHappyLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/emotion-happy-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/user-received-line.svg"
     },
     {
         "name": "Remix.UserAndFaces.OpenArmFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/open-arm-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/open-arm-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.RobotLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/robot-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.UserCommunityLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/user-community-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.MenLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/men-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.StarSmileFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/star-smile-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.User3Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/user-3-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.EmotionHappyFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/emotion-happy-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.UserForbidFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/user-forbid-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.EmotionNormalFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/emotion-normal-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.TravestiFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/travesti-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.WomenFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/women-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.UserVoiceLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/user-voice-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.UserLocationFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/user-location-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.TravestiLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/travesti-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.UserReceivedFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/user-received-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.UserAddLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/user-add-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.UserStarFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/user-star-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.UserSettingsLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/user-settings-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.EmotionSadLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/emotion-sad-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.Emotion2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/emotion-2-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.AdminLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/admin-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.UserCommunityFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/user-community-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.ParentLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/parent-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.EmotionUnhappyLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/emotion-unhappy-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.EmotionFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/emotion-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.SkullLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/skull-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.AliensLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/aliens-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.GroupLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/group-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.UserUnfollowFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/user-unfollow-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.UserHeartLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/user-heart-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.User4Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/user-4-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.UserAddFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/user-add-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.UserSettingsFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/user-settings-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.GroupFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/group-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.UserSharedLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/user-shared-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.UserLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/user-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.UserHeartFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/user-heart-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.AliensFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/aliens-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.WomenLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/women-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.UserForbidLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/user-forbid-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.UserReceived2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/user-received-2-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.ParentFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/parent-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.GhostSmileLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/ghost-smile-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.UserStarLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/user-star-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.Emotion2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/emotion-2-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.AccountPinBoxLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/account-pin-box-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.UserFollowFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/user-follow-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.Group2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/group-2-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.SpyFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/spy-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.AccountBoxFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/account-box-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.Robot3Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/robot-3-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.UserSharedFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/user-shared-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.AccountCircle2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/account-circle-2-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.AdminFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/admin-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.AccountCircleFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/account-circle-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.UserSmileFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/user-smile-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.AccountPinBoxFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/account-pin-box-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.User4Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/user-4-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.EmotionNormalLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/emotion-normal-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.User2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/user-2-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.Ghost2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/ghost-2-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.UserShared2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/user-shared-2-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.User3Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/user-3-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.SpyLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/spy-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.GhostFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/ghost-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.GhostLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/ghost-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.ContactsFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/contacts-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.User5Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/user-5-fill.svg"
     },
     {
         "name": "Remix.UserAndFaces.AccountBoxLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/account-box-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/account-box-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.EmotionLaughLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/emotion-laugh-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.UserSearchLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/user-search-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.Group3Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/group-3-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.UserReceived2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/user-received-2-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.GenderlessFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/genderless-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.User6Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/user-6-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.Robot2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/robot-2-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.TeamFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/team-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.UserLocationLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/user-location-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.Group2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/group-2-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.UserVoiceFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/user-voice-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.UserSearchFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/user-search-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.EmotionLaughFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/emotion-laugh-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.EmotionLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/emotion-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.UserMinusLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/user-minus-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.StarSmileLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/star-smile-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.UserFollowLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/user-follow-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.Robot3Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/robot-3-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.ContactsLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/contacts-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.BodyScanLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/body-scan-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.UserMinusFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/user-minus-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.User2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/user-2-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.EmotionUnhappyFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/emotion-unhappy-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.Robot2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/robot-2-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.Skull2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/skull-2-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.BodyScanFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/body-scan-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.BearSmileFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/bear-smile-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.User5Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/user-5-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.AccountBox2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/account-box-2-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.CriminalFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/criminal-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.AccountPinCircleLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/account-pin-circle-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.Ghost2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/ghost-2-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.UserSmileLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/user-smile-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.AccountPinCircleFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/account-pin-circle-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.EmotionSadFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/emotion-sad-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.BearSmileLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/bear-smile-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.MickeyFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/mickey-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.UserUnfollowLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/user-unfollow-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.GenderlessLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/genderless-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.MickeyLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/mickey-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.SkullFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/skull-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.Skull2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/skull-2-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.AccountBox2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/account-box-2-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.AccountCircle2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/account-circle-2-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.RobotFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/robot-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.UserFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/user-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.TeamLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/team-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.UserShared2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/user-shared-2-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.Group3Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/group-3-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.CriminalLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/criminal-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.AccountCircleLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/account-circle-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.OpenArmLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/open-arm-line.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.User6Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/user-6-line.svg"
     },
     {
         "name": "Remix.UserAndFaces.GhostSmileFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/User & Faces/ghost-smile-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/ghost-smile-fill.svg"
+    },
+    {
+        "name": "Remix.UserAndFaces.EmotionHappyLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/User & Faces/emotion-happy-line.svg"
     }
 ]

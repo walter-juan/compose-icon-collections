@@ -1,658 +1,690 @@
 [
     {
-        "name": "Remix.Finance.SafeFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/safe-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.ExchangeFundsLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/exchange-funds-line.svg"
-    },
-    {
-        "name": "Remix.Finance.StockLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/stock-line.svg"
-    },
-    {
-        "name": "Remix.Finance.FundsBoxLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/funds-box-line.svg"
-    },
-    {
-        "name": "Remix.Finance.Wallet3Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/wallet-3-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.Wallet2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/wallet-2-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.Exchange2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/exchange-2-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.BitCoinLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/bit-coin-line.svg"
-    },
-    {
-        "name": "Remix.Finance.MoneyEuroCircleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/money-euro-circle-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.MoneyCnyCircleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/money-cny-circle-line.svg"
-    },
-    {
-        "name": "Remix.Finance.Swap3Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/swap-3-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.CopperDiamondLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/copper-diamond-line.svg"
-    },
-    {
-        "name": "Remix.Finance.ShoppingBag3Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/shopping-bag-3-line.svg"
-    },
-    {
-        "name": "Remix.Finance.BankCard2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/bank-card-2-line.svg"
-    },
-    {
-        "name": "Remix.Finance.MoneyEuroBoxFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/money-euro-box-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.ShoppingBag4Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/shopping-bag-4-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.ShoppingBag4Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/shopping-bag-4-line.svg"
-    },
-    {
-        "name": "Remix.Finance.Coupon4Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/coupon-4-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.MoneyDollarBoxLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/money-dollar-box-line.svg"
-    },
-    {
-        "name": "Remix.Finance.MoneyDollarBoxFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/money-dollar-box-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.ShoppingBasketLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/shopping-basket-line.svg"
-    },
-    {
-        "name": "Remix.Finance.CurrencyLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/currency-line.svg"
-    },
-    {
-        "name": "Remix.Finance.ExchangeFundsFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/exchange-funds-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.MoneyDollarCircleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/money-dollar-circle-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.Coupon5Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/coupon-5-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.FundsFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/funds-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.MoneyDollarCircleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/money-dollar-circle-line.svg"
-    },
-    {
-        "name": "Remix.Finance.HandHeartFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/hand-heart-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.SwapLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/swap-line.svg"
-    },
-    {
-        "name": "Remix.Finance.XtzLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/xtz-line.svg"
-    },
-    {
-        "name": "Remix.Finance.Swap3Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/swap-3-line.svg"
-    },
-    {
-        "name": "Remix.Finance.StockFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/stock-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.MoneyRupeeCircleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/money-rupee-circle-line.svg"
-    },
-    {
-        "name": "Remix.Finance.TicketLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/ticket-line.svg"
-    },
-    {
-        "name": "Remix.Finance.ShoppingBasket2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/shopping-basket-2-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.Swap2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/swap-2-line.svg"
-    },
-    {
-        "name": "Remix.Finance.PriceTagLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/price-tag-line.svg"
-    },
-    {
         "name": "Remix.Finance.RefundFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/refund-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.CurrencyFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/currency-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.EthLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/eth-line.svg"
-    },
-    {
-        "name": "Remix.Finance.GiftLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/gift-line.svg"
-    },
-    {
-        "name": "Remix.Finance.IncreaseDecreaseFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/increase-decrease-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.VipCrown2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/vip-crown-2-line.svg"
-    },
-    {
-        "name": "Remix.Finance.CoinFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/coin-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.ShoppingBag3Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/shopping-bag-3-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.FundsLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/funds-line.svg"
-    },
-    {
-        "name": "Remix.Finance.Ticket2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/ticket-2-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.WalletLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/wallet-line.svg"
-    },
-    {
-        "name": "Remix.Finance.MoneyRupeeCircleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/money-rupee-circle-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.ShoppingBagLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/shopping-bag-line.svg"
-    },
-    {
-        "name": "Remix.Finance.CoinLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/coin-line.svg"
-    },
-    {
-        "name": "Remix.Finance.Wallet2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/wallet-2-line.svg"
-    },
-    {
-        "name": "Remix.Finance.MoneyEuroBoxLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/money-euro-box-line.svg"
-    },
-    {
-        "name": "Remix.Finance.ShoppingBasket2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/shopping-basket-2-line.svg"
-    },
-    {
-        "name": "Remix.Finance.ExchangeDollarLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/exchange-dollar-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/refund-fill.svg"
     },
     {
         "name": "Remix.Finance.FundsBoxFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/funds-box-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/funds-box-fill.svg"
     },
     {
-        "name": "Remix.Finance.ExchangeLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/exchange-line.svg"
-    },
-    {
-        "name": "Remix.Finance.VipFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/vip-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.P2pLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/p2p-line.svg"
-    },
-    {
-        "name": "Remix.Finance.PercentFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/percent-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.TicketFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/ticket-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.EthFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/eth-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.MoneyPoundBoxFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/money-pound-box-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.Coupon5Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/coupon-5-line.svg"
-    },
-    {
-        "name": "Remix.Finance.Safe3Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/safe-3-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.IncreaseDecreaseLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/increase-decrease-line.svg"
-    },
-    {
-        "name": "Remix.Finance.PriceTag2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/price-tag-2-line.svg"
-    },
-    {
-        "name": "Remix.Finance.NftFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/nft-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.ExchangeBoxLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/exchange-box-line.svg"
-    },
-    {
-        "name": "Remix.Finance.PercentLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/percent-line.svg"
-    },
-    {
-        "name": "Remix.Finance.GiftFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/gift-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.Coupon3Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/coupon-3-line.svg"
+        "name": "Remix.Finance.MoneyEuroBoxLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/money-euro-box-line.svg"
     },
     {
         "name": "Remix.Finance.CashLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/cash-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/cash-line.svg"
     },
     {
-        "name": "Remix.Finance.ShoppingBag2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/shopping-bag-2-line.svg"
-    },
-    {
-        "name": "Remix.Finance.TokenSwapLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/token-swap-line.svg"
-    },
-    {
-        "name": "Remix.Finance.WalletFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/wallet-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.DiscountPercentFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/discount-percent-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.CopperDiamondFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/copper-diamond-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.TokenSwapFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/token-swap-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.VipCrownFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/vip-crown-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.MoneyEuroCircleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/money-euro-circle-line.svg"
-    },
-    {
-        "name": "Remix.Finance.BnbFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/bnb-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.ExchangeCnyLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/exchange-cny-line.svg"
-    },
-    {
-        "name": "Remix.Finance.CouponLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/coupon-line.svg"
-    },
-    {
-        "name": "Remix.Finance.XrpLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/xrp-line.svg"
-    },
-    {
-        "name": "Remix.Finance.4HoursLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/24-hours-line.svg"
-    },
-    {
-        "name": "Remix.Finance.AuctionFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/auction-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.TrophyLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/trophy-line.svg"
-    },
-    {
-        "name": "Remix.Finance.ExchangeDollarFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/exchange-dollar-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.Coupon2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/coupon-2-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.MoneyCnyCircleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/money-cny-circle-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.Safe2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/safe-2-line.svg"
-    },
-    {
-        "name": "Remix.Finance.RedPacketLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/red-packet-line.svg"
-    },
-    {
-        "name": "Remix.Finance.ExchangeFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/exchange-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.ShoppingCart2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/shopping-cart-2-line.svg"
-    },
-    {
-        "name": "Remix.Finance.CashFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/cash-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.VipCrownLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/vip-crown-line.svg"
-    },
-    {
-        "name": "Remix.Finance.XtzFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/xtz-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.VipDiamondLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/vip-diamond-line.svg"
-    },
-    {
-        "name": "Remix.Finance.BnbLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/bnb-line.svg"
-    },
-    {
-        "name": "Remix.Finance.WaterFlashLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/water-flash-line.svg"
-    },
-    {
-        "name": "Remix.Finance.RefundLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/refund-line.svg"
-    },
-    {
-        "name": "Remix.Finance.VipDiamondFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/vip-diamond-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.Ticket2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/ticket-2-line.svg"
-    },
-    {
-        "name": "Remix.Finance.Coupon3Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/coupon-3-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.PriceTagFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/price-tag-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.Refund2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/refund-2-line.svg"
-    },
-    {
-        "name": "Remix.Finance.DiscountPercentLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/discount-percent-line.svg"
-    },
-    {
-        "name": "Remix.Finance.BitCoinFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/bit-coin-fill.svg"
+        "name": "Remix.Finance.ShoppingBag4Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/shopping-bag-4-line.svg"
     },
     {
         "name": "Remix.Finance.Coupon4Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/coupon-4-line.svg"
-    },
-    {
-        "name": "Remix.Finance.BankCard2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/bank-card-2-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.Exchange2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/exchange-2-line.svg"
-    },
-    {
-        "name": "Remix.Finance.ShoppingCartLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/shopping-cart-line.svg"
-    },
-    {
-        "name": "Remix.Finance.TrophyFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/trophy-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.ShoppingCartFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/shopping-cart-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.ExchangeCnyFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/exchange-cny-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.SecurePaymentFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/secure-payment-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.BtcFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/btc-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.Gift2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/gift-2-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.SecurePaymentLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/secure-payment-line.svg"
-    },
-    {
-        "name": "Remix.Finance.Coupon2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/coupon-2-line.svg"
-    },
-    {
-        "name": "Remix.Finance.4HoursFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/24-hours-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.HandCoinFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/hand-coin-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.ExchangeBoxFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/exchange-box-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.VipCrown2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/vip-crown-2-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.NftLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/nft-line.svg"
-    },
-    {
-        "name": "Remix.Finance.HandHeartLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/hand-heart-line.svg"
-    },
-    {
-        "name": "Remix.Finance.Swap2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/swap-2-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.RedPacketFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/red-packet-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.MoneyPoundCircleFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/money-pound-circle-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.SwapBoxLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/swap-box-line.svg"
-    },
-    {
-        "name": "Remix.Finance.SwapFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/swap-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.SwapBoxFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/swap-box-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.CopperCoinFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/copper-coin-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.ShoppingBag2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/shopping-bag-2-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.ShoppingCart2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/shopping-cart-2-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.BtcLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/btc-line.svg"
-    },
-    {
-        "name": "Remix.Finance.CouponFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/coupon-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.MoneyCnyBoxLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/money-cny-box-line.svg"
-    },
-    {
-        "name": "Remix.Finance.CopperCoinLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/copper-coin-line.svg"
-    },
-    {
-        "name": "Remix.Finance.AuctionLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/auction-line.svg"
-    },
-    {
-        "name": "Remix.Finance.Gift2Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/gift-2-line.svg"
-    },
-    {
-        "name": "Remix.Finance.MoneyCnyBoxFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/money-cny-box-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.P2pFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/p2p-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.MoneyPoundBoxLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/money-pound-box-line.svg"
-    },
-    {
-        "name": "Remix.Finance.Wallet3Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/wallet-3-line.svg"
-    },
-    {
-        "name": "Remix.Finance.XrpFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/xrp-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.WaterFlashFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/water-flash-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.PriceTag3Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/price-tag-3-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.BankCardFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/bank-card-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.PriceTag3Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/price-tag-3-line.svg"
-    },
-    {
-        "name": "Remix.Finance.CoinsLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/coins-line.svg"
-    },
-    {
-        "name": "Remix.Finance.BankCardLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/bank-card-line.svg"
-    },
-    {
-        "name": "Remix.Finance.Safe3Line",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/safe-3-line.svg"
-    },
-    {
-        "name": "Remix.Finance.CoinsFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/coins-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.ShoppingBagFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/shopping-bag-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.MoneyPoundCircleLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/money-pound-circle-line.svg"
-    },
-    {
-        "name": "Remix.Finance.Refund2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/refund-2-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.VipLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/vip-line.svg"
-    },
-    {
-        "name": "Remix.Finance.ShoppingBasketFill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/shopping-basket-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.SafeLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/safe-line.svg"
-    },
-    {
-        "name": "Remix.Finance.PriceTag2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/price-tag-2-fill.svg"
-    },
-    {
-        "name": "Remix.Finance.HandCoinLine",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/hand-coin-line.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/coupon-4-line.svg"
     },
     {
         "name": "Remix.Finance.Safe2Fill",
-        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.5.0/icons/Finance/safe-2-fill.svg"
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/safe-2-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.ShoppingBag2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/shopping-bag-2-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.VipCrownFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/vip-crown-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.IncreaseDecreaseFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/increase-decrease-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.Exchange2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/exchange-2-line.svg"
+    },
+    {
+        "name": "Remix.Finance.ShoppingBag2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/shopping-bag-2-line.svg"
+    },
+    {
+        "name": "Remix.Finance.MoneyCnyBoxLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/money-cny-box-line.svg"
+    },
+    {
+        "name": "Remix.Finance.TokenSwapFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/token-swap-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.BankCardFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/bank-card-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.MoneyPoundCircleFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/money-pound-circle-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.JewelryFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/jewelry-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.ShoppingCart2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/shopping-cart-2-line.svg"
+    },
+    {
+        "name": "Remix.Finance.Gift2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/gift-2-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.ShoppingBagFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/shopping-bag-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.JewelryLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/jewelry-line.svg"
+    },
+    {
+        "name": "Remix.Finance.Number24HoursLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/24-hours-line.svg"
+    },
+    {
+        "name": "Remix.Finance.SwapBoxFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/swap-box-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.FundsFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/funds-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.MoneyRupeeCircleFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/money-rupee-circle-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.DiamondRingLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/diamond-ring-line.svg"
+    },
+    {
+        "name": "Remix.Finance.MoneyPoundCircleLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/money-pound-circle-line.svg"
+    },
+    {
+        "name": "Remix.Finance.Wallet3Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/wallet-3-line.svg"
+    },
+    {
+        "name": "Remix.Finance.ShoppingCart2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/shopping-cart-2-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.MoneyEuroBoxFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/money-euro-box-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.BtcLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/btc-line.svg"
+    },
+    {
+        "name": "Remix.Finance.CoinsLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/coins-line.svg"
+    },
+    {
+        "name": "Remix.Finance.PriceTagLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/price-tag-line.svg"
+    },
+    {
+        "name": "Remix.Finance.Exchange2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/exchange-2-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.TrophyLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/trophy-line.svg"
+    },
+    {
+        "name": "Remix.Finance.BnbFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/bnb-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.ExchangeBoxFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/exchange-box-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.FundsLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/funds-line.svg"
+    },
+    {
+        "name": "Remix.Finance.Wallet2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/wallet-2-line.svg"
+    },
+    {
+        "name": "Remix.Finance.HandCoinLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/hand-coin-line.svg"
+    },
+    {
+        "name": "Remix.Finance.TicketLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/ticket-line.svg"
+    },
+    {
+        "name": "Remix.Finance.MoneyDollarBoxLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/money-dollar-box-line.svg"
+    },
+    {
+        "name": "Remix.Finance.RefundLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/refund-line.svg"
+    },
+    {
+        "name": "Remix.Finance.CopperCoinLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/copper-coin-line.svg"
+    },
+    {
+        "name": "Remix.Finance.AuctionLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/auction-line.svg"
+    },
+    {
+        "name": "Remix.Finance.DiamondRingFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/diamond-ring-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.XrpFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/xrp-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.SafeFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/safe-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.PercentLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/percent-line.svg"
+    },
+    {
+        "name": "Remix.Finance.NftFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/nft-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.NoCreditCardFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/no-credit-card-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.BankCardLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/bank-card-line.svg"
+    },
+    {
+        "name": "Remix.Finance.BitCoinLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/bit-coin-line.svg"
+    },
+    {
+        "name": "Remix.Finance.WalletLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/wallet-line.svg"
+    },
+    {
+        "name": "Remix.Finance.AuctionFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/auction-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.BtcFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/btc-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.Coupon2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/coupon-2-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.ShoppingBag3Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/shopping-bag-3-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.PriceTag2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/price-tag-2-line.svg"
+    },
+    {
+        "name": "Remix.Finance.SwapBoxLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/swap-box-line.svg"
+    },
+    {
+        "name": "Remix.Finance.ShoppingCartFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/shopping-cart-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.CoinLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/coin-line.svg"
+    },
+    {
+        "name": "Remix.Finance.CurrencyLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/currency-line.svg"
+    },
+    {
+        "name": "Remix.Finance.SecurePaymentFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/secure-payment-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.SecurePaymentLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/secure-payment-line.svg"
+    },
+    {
+        "name": "Remix.Finance.ExchangeCnyFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/exchange-cny-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.HandHeartFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/hand-heart-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.VipFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/vip-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.BnbLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/bnb-line.svg"
+    },
+    {
+        "name": "Remix.Finance.XtzLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/xtz-line.svg"
+    },
+    {
+        "name": "Remix.Finance.P2pLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/p2p-line.svg"
+    },
+    {
+        "name": "Remix.Finance.P2pFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/p2p-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.ShoppingBasket2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/shopping-basket-2-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.MoneyPoundBoxFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/money-pound-box-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.BankCard2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/bank-card-2-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.PriceTagFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/price-tag-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.Coupon5Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/coupon-5-line.svg"
+    },
+    {
+        "name": "Remix.Finance.CurrencyFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/currency-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.CouponFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/coupon-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.TrophyFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/trophy-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.GiftLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/gift-line.svg"
+    },
+    {
+        "name": "Remix.Finance.Wallet2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/wallet-2-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.Number24HoursFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/24-hours-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.VipCrownLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/vip-crown-line.svg"
+    },
+    {
+        "name": "Remix.Finance.Coupon5Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/coupon-5-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.DiscountPercentLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/discount-percent-line.svg"
+    },
+    {
+        "name": "Remix.Finance.RedPacketFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/red-packet-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.VipCrown2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/vip-crown-2-line.svg"
+    },
+    {
+        "name": "Remix.Finance.ShoppingBag3Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/shopping-bag-3-line.svg"
+    },
+    {
+        "name": "Remix.Finance.PercentFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/percent-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.ExchangeCnyLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/exchange-cny-line.svg"
+    },
+    {
+        "name": "Remix.Finance.MoneyCnyCircleLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/money-cny-circle-line.svg"
+    },
+    {
+        "name": "Remix.Finance.SwapFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/swap-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.DiscountPercentFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/discount-percent-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.DiamondLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/diamond-line.svg"
+    },
+    {
+        "name": "Remix.Finance.DiamondFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/diamond-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.VipDiamondFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/vip-diamond-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.ExchangeDollarLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/exchange-dollar-line.svg"
+    },
+    {
+        "name": "Remix.Finance.MoneyCnyCircleFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/money-cny-circle-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.Gift2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/gift-2-line.svg"
+    },
+    {
+        "name": "Remix.Finance.FundsBoxLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/funds-box-line.svg"
+    },
+    {
+        "name": "Remix.Finance.ShoppingBasket2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/shopping-basket-2-line.svg"
+    },
+    {
+        "name": "Remix.Finance.NoCreditCardLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/no-credit-card-line.svg"
+    },
+    {
+        "name": "Remix.Finance.Ticket2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/ticket-2-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.MoneyDollarCircleFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/money-dollar-circle-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.Swap3Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/swap-3-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.Swap3Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/swap-3-line.svg"
+    },
+    {
+        "name": "Remix.Finance.VipDiamondLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/vip-diamond-line.svg"
+    },
+    {
+        "name": "Remix.Finance.EthFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/eth-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.XrpLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/xrp-line.svg"
+    },
+    {
+        "name": "Remix.Finance.PriceTag2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/price-tag-2-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.Coupon3Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/coupon-3-line.svg"
+    },
+    {
+        "name": "Remix.Finance.CopperCoinFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/copper-coin-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.ShoppingBagLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/shopping-bag-line.svg"
+    },
+    {
+        "name": "Remix.Finance.Wallet3Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/wallet-3-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.IncreaseDecreaseLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/increase-decrease-line.svg"
+    },
+    {
+        "name": "Remix.Finance.Safe2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/safe-2-line.svg"
+    },
+    {
+        "name": "Remix.Finance.ExchangeLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/exchange-line.svg"
+    },
+    {
+        "name": "Remix.Finance.WaterFlashLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/water-flash-line.svg"
+    },
+    {
+        "name": "Remix.Finance.MoneyCnyBoxFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/money-cny-box-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.Refund2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/refund-2-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.MoneyPoundBoxLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/money-pound-box-line.svg"
+    },
+    {
+        "name": "Remix.Finance.CashFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/cash-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.ShoppingBasketLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/shopping-basket-line.svg"
+    },
+    {
+        "name": "Remix.Finance.ShoppingCartLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/shopping-cart-line.svg"
+    },
+    {
+        "name": "Remix.Finance.MoneyDollarBoxFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/money-dollar-box-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.ExchangeFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/exchange-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.MoneyDollarCircleLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/money-dollar-circle-line.svg"
+    },
+    {
+        "name": "Remix.Finance.SafeLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/safe-line.svg"
+    },
+    {
+        "name": "Remix.Finance.PriceTag3Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/price-tag-3-line.svg"
+    },
+    {
+        "name": "Remix.Finance.MoneyEuroCircleFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/money-euro-circle-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.VipCrown2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/vip-crown-2-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.TicketFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/ticket-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.Safe3Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/safe-3-line.svg"
+    },
+    {
+        "name": "Remix.Finance.SwapLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/swap-line.svg"
+    },
+    {
+        "name": "Remix.Finance.BankCard2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/bank-card-2-line.svg"
+    },
+    {
+        "name": "Remix.Finance.HandCoinFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/hand-coin-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.CoinFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/coin-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.TokenSwapLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/token-swap-line.svg"
+    },
+    {
+        "name": "Remix.Finance.Coupon4Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/coupon-4-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.GiftFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/gift-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.EthLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/eth-line.svg"
+    },
+    {
+        "name": "Remix.Finance.Coupon3Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/coupon-3-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.CopperDiamondLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/copper-diamond-line.svg"
+    },
+    {
+        "name": "Remix.Finance.Ticket2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/ticket-2-line.svg"
+    },
+    {
+        "name": "Remix.Finance.BitCoinFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/bit-coin-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.Swap2Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/swap-2-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.MoneyRupeeCircleLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/money-rupee-circle-line.svg"
+    },
+    {
+        "name": "Remix.Finance.Coupon2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/coupon-2-line.svg"
+    },
+    {
+        "name": "Remix.Finance.CopperDiamondFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/copper-diamond-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.ExchangeBoxLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/exchange-box-line.svg"
+    },
+    {
+        "name": "Remix.Finance.PriceTag3Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/price-tag-3-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.CoinsFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/coins-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.NftLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/nft-line.svg"
+    },
+    {
+        "name": "Remix.Finance.XtzFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/xtz-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.ShoppingBag4Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/shopping-bag-4-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.ExchangeDollarFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/exchange-dollar-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.StockFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/stock-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.CouponLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/coupon-line.svg"
+    },
+    {
+        "name": "Remix.Finance.Safe3Fill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/safe-3-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.VipLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/vip-line.svg"
+    },
+    {
+        "name": "Remix.Finance.Swap2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/swap-2-line.svg"
+    },
+    {
+        "name": "Remix.Finance.Refund2Line",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/refund-2-line.svg"
+    },
+    {
+        "name": "Remix.Finance.ExchangeFundsFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/exchange-funds-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.ShoppingBasketFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/shopping-basket-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.HandHeartLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/hand-heart-line.svg"
+    },
+    {
+        "name": "Remix.Finance.WalletFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/wallet-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.StockLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/stock-line.svg"
+    },
+    {
+        "name": "Remix.Finance.MoneyEuroCircleLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/money-euro-circle-line.svg"
+    },
+    {
+        "name": "Remix.Finance.WaterFlashFill",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/water-flash-fill.svg"
+    },
+    {
+        "name": "Remix.Finance.RedPacketLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/red-packet-line.svg"
+    },
+    {
+        "name": "Remix.Finance.ExchangeFundsLine",
+        "svg": "https://raw.githubusercontent.com/Remix-Design/RemixIcon/v4.6.0/icons/Finance/exchange-funds-line.svg"
     }
 ]
