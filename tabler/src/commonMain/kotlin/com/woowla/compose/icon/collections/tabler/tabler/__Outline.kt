@@ -1063,6 +1063,7 @@ import com.woowla.compose.icon.collections.tabler.tabler.outline.Cactus
 import com.woowla.compose.icon.collections.tabler.tabler.outline.CactusOff
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Cake
 import com.woowla.compose.icon.collections.tabler.tabler.outline.CakeOff
+import com.woowla.compose.icon.collections.tabler.tabler.outline.CakeRoll
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Calculator
 import com.woowla.compose.icon.collections.tabler.tabler.outline.CalculatorOff
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Calendar
@@ -2670,15 +2671,25 @@ import com.woowla.compose.icon.collections.tabler.tabler.outline.Hours12
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Hours24
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Html
 import com.woowla.compose.icon.collections.tabler.tabler.outline.HttpConnect
+import com.woowla.compose.icon.collections.tabler.tabler.outline.HttpConnectOff
 import com.woowla.compose.icon.collections.tabler.tabler.outline.HttpDelete
+import com.woowla.compose.icon.collections.tabler.tabler.outline.HttpDeleteOff
 import com.woowla.compose.icon.collections.tabler.tabler.outline.HttpGet
+import com.woowla.compose.icon.collections.tabler.tabler.outline.HttpGetOff
 import com.woowla.compose.icon.collections.tabler.tabler.outline.HttpHead
+import com.woowla.compose.icon.collections.tabler.tabler.outline.HttpHeadOff
 import com.woowla.compose.icon.collections.tabler.tabler.outline.HttpOptions
+import com.woowla.compose.icon.collections.tabler.tabler.outline.HttpOptionsOff
 import com.woowla.compose.icon.collections.tabler.tabler.outline.HttpPatch
+import com.woowla.compose.icon.collections.tabler.tabler.outline.HttpPatchOff
 import com.woowla.compose.icon.collections.tabler.tabler.outline.HttpPost
+import com.woowla.compose.icon.collections.tabler.tabler.outline.HttpPostOff
 import com.woowla.compose.icon.collections.tabler.tabler.outline.HttpPut
+import com.woowla.compose.icon.collections.tabler.tabler.outline.HttpPutOff
 import com.woowla.compose.icon.collections.tabler.tabler.outline.HttpQue
+import com.woowla.compose.icon.collections.tabler.tabler.outline.HttpQueOff
 import com.woowla.compose.icon.collections.tabler.tabler.outline.HttpTrace
+import com.woowla.compose.icon.collections.tabler.tabler.outline.HttpTraceOff
 import com.woowla.compose.icon.collections.tabler.tabler.outline.IceCream
 import com.woowla.compose.icon.collections.tabler.tabler.outline.IceCream2
 import com.woowla.compose.icon.collections.tabler.tabler.outline.IceCreamOff
@@ -3129,6 +3140,7 @@ import com.woowla.compose.icon.collections.tabler.tabler.outline.MathXPlusY
 import com.woowla.compose.icon.collections.tabler.tabler.outline.MathXy
 import com.woowla.compose.icon.collections.tabler.tabler.outline.MathYMinusY
 import com.woowla.compose.icon.collections.tabler.tabler.outline.MathYPlusY
+import com.woowla.compose.icon.collections.tabler.tabler.outline.Matrix
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Maximize
 import com.woowla.compose.icon.collections.tabler.tabler.outline.MaximizeOff
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Meat
@@ -4038,8 +4050,8 @@ import com.woowla.compose.icon.collections.tabler.tabler.outline.Search
 import com.woowla.compose.icon.collections.tabler.tabler.outline.SearchOff
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Section
 import com.woowla.compose.icon.collections.tabler.tabler.outline.SectionSign
-import com.woowla.compose.icon.collections.tabler.tabler.outline.Seeding
-import com.woowla.compose.icon.collections.tabler.tabler.outline.SeedingOff
+import com.woowla.compose.icon.collections.tabler.tabler.outline.Seedling
+import com.woowla.compose.icon.collections.tabler.tabler.outline.SeedlingOff
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Select
 import com.woowla.compose.icon.collections.tabler.tabler.outline.SelectAll
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Selector
@@ -4261,6 +4273,7 @@ import com.woowla.compose.icon.collections.tabler.tabler.outline.SquareChevronsD
 import com.woowla.compose.icon.collections.tabler.tabler.outline.SquareChevronsLeft
 import com.woowla.compose.icon.collections.tabler.tabler.outline.SquareChevronsRight
 import com.woowla.compose.icon.collections.tabler.tabler.outline.SquareChevronsUp
+import com.woowla.compose.icon.collections.tabler.tabler.outline.SquareDashed
 import com.woowla.compose.icon.collections.tabler.tabler.outline.SquareDot
 import com.woowla.compose.icon.collections.tabler.tabler.outline.SquareF0
 import com.woowla.compose.icon.collections.tabler.tabler.outline.SquareF1
@@ -4455,6 +4468,7 @@ import com.woowla.compose.icon.collections.tabler.tabler.outline.Swords
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Table
 import com.woowla.compose.icon.collections.tabler.tabler.outline.TableAlias
 import com.woowla.compose.icon.collections.tabler.tabler.outline.TableColumn
+import com.woowla.compose.icon.collections.tabler.tabler.outline.TableDashed
 import com.woowla.compose.icon.collections.tabler.tabler.outline.TableDown
 import com.woowla.compose.icon.collections.tabler.tabler.outline.TableExport
 import com.woowla.compose.icon.collections.tabler.tabler.outline.TableHeart
@@ -5089,7 +5103,7 @@ public val OutlineGroup.AllIcons: ____KtList<ImageVector>
         BuildingPavilion, BuildingPlus, BuildingSkyscraper, BuildingStadium, BuildingStore,
         BuildingTunnel, BuildingWarehouse, BuildingWindTurbine, Buildings, Bulb, BulbOff, Bulldozer,
         Burger, Bus, BusOff, BusStop, Businessplan, Butterfly, Cactus, CactusOff, Cake, CakeOff,
-        Calculator, CalculatorOff, Calendar, CalendarBolt, CalendarCancel, CalendarCheck,
+        CakeRoll, Calculator, CalculatorOff, Calendar, CalendarBolt, CalendarCancel, CalendarCheck,
         CalendarClock, CalendarCode, CalendarCog, CalendarDollar, CalendarDot, CalendarDown,
         CalendarDue, CalendarEvent, CalendarExclamation, CalendarHeart, CalendarMinus,
         CalendarMonth, CalendarOff, CalendarPause, CalendarPin, CalendarPlus, CalendarQuestion,
@@ -5344,18 +5358,19 @@ public val OutlineGroup.AllIcons: ____KtList<ImageVector>
         HomeRibbon, HomeSearch, HomeShare, HomeShield, HomeSignal, HomeSpark, HomeStar, HomeStats,
         HomeUp, HomeX, Horse, HorseToy, Horseshoe, Hospital, HospitalCircle, HotelService,
         Hourglass, HourglassEmpty, HourglassHigh, HourglassLow, HourglassOff, Hours12, Hours24,
-        Html, HttpConnect, HttpDelete, HttpGet, HttpHead, HttpOptions, HttpPatch, HttpPost, HttpPut,
-        HttpQue, HttpTrace, IceCream, IceCream2, IceCreamOff, IceSkating, Icons, IconsOff, Id,
-        IdBadge, IdBadge2, IdBadgeOff, IdOff, Ikosaedr, ImageInPicture, Inbox, InboxOff,
-        IndentDecrease, IndentIncrease, Infinity, InfinityOff, InfoCircle, InfoHexagon, InfoOctagon,
-        InfoSmall, InfoSquare, InfoSquareRounded, InfoTriangle, InnerShadowBottom,
-        InnerShadowBottomLeft, InnerShadowBottomRight, InnerShadowLeft, InnerShadowRight,
-        InnerShadowTop, InnerShadowTopLeft, InnerShadowTopRight, InputAi, InputCheck, InputSearch,
-        InputSpark, InputX, Invoice, Ironing, Ironing1, Ironing2, Ironing3, IroningOff,
-        IroningSteam, IroningSteamOff, IrregularPolyhedron, IrregularPolyhedronOff,
-        IrregularPolyhedronPlus, Italic, Jacket, Jetpack, JewishStar, JoinBevel, JoinRound,
-        JoinStraight, Joker, Jpg, Json, JumpRope, Karate, Kayak, Kerning, Key, KeyOff, Keyboard,
-        KeyboardHide, KeyboardOff, KeyboardShow, Keyframe, KeyframeAlignCenter,
+        Html, HttpConnect, HttpConnectOff, HttpDelete, HttpDeleteOff, HttpGet, HttpGetOff, HttpHead,
+        HttpHeadOff, HttpOptions, HttpOptionsOff, HttpPatch, HttpPatchOff, HttpPost, HttpPostOff,
+        HttpPut, HttpPutOff, HttpQue, HttpQueOff, HttpTrace, HttpTraceOff, IceCream, IceCream2,
+        IceCreamOff, IceSkating, Icons, IconsOff, Id, IdBadge, IdBadge2, IdBadgeOff, IdOff,
+        Ikosaedr, ImageInPicture, Inbox, InboxOff, IndentDecrease, IndentIncrease, Infinity,
+        InfinityOff, InfoCircle, InfoHexagon, InfoOctagon, InfoSmall, InfoSquare, InfoSquareRounded,
+        InfoTriangle, InnerShadowBottom, InnerShadowBottomLeft, InnerShadowBottomRight,
+        InnerShadowLeft, InnerShadowRight, InnerShadowTop, InnerShadowTopLeft, InnerShadowTopRight,
+        InputAi, InputCheck, InputSearch, InputSpark, InputX, Invoice, Ironing, Ironing1, Ironing2,
+        Ironing3, IroningOff, IroningSteam, IroningSteamOff, IrregularPolyhedron,
+        IrregularPolyhedronOff, IrregularPolyhedronPlus, Italic, Jacket, Jetpack, JewishStar,
+        JoinBevel, JoinRound, JoinStraight, Joker, Jpg, Json, JumpRope, Karate, Kayak, Kerning, Key,
+        KeyOff, Keyboard, KeyboardHide, KeyboardOff, KeyboardShow, Keyframe, KeyframeAlignCenter,
         KeyframeAlignHorizontal, KeyframeAlignVertical, Keyframes, Label, LabelImportant, LabelOff,
         Ladder, LadderOff, Ladle, Lambda, Lamp, Lamp2, LampOff, Lane, Language, LanguageHiragana,
         LanguageKatakana, LanguageOff, Lasso, LassoOff, LassoPolygon, LaurelWreath, LaurelWreath1,
@@ -5408,20 +5423,20 @@ public val OutlineGroup.AllIcons: ____KtList<ImageVector>
         MathGreater, MathIntegral, MathIntegralX, MathIntegrals, MathLower, MathMax, MathMaxMin,
         MathMin, MathNot, MathOff, MathPi, MathPiDivide2, MathSec, MathSin, MathSymbols, MathTg,
         MathXDivide2, MathXDivideY, MathXDivideY2, MathXFloorDivideY, MathXMinusX, MathXMinusY,
-        MathXPlusX, MathXPlusY, MathXy, MathYMinusY, MathYPlusY, Maximize, MaximizeOff, Meat,
-        MeatOff, Medal, Medal2, MedicalCross, MedicalCrossCircle, MedicalCrossOff, MedicineSyrup,
-        Meeple, Melon, Menorah, Menu, Menu2, Menu3, Menu4, MenuDeep, MenuOrder, Message, Message2,
-        Message2Bolt, Message2Cancel, Message2Check, Message2Code, Message2Cog, Message2Dollar,
-        Message2Down, Message2Exclamation, Message2Heart, Message2Minus, Message2Off, Message2Pause,
-        Message2Pin, Message2Plus, Message2Question, Message2Search, Message2Share, Message2Star,
-        Message2Up, Message2X, MessageBolt, MessageCancel, MessageChatbot, MessageCheck,
-        MessageCircle, MessageCircleBolt, MessageCircleCancel, MessageCircleCheck,
-        MessageCircleCode, MessageCircleCog, MessageCircleDollar, MessageCircleDown,
-        MessageCircleExclamation, MessageCircleHeart, MessageCircleMinus, MessageCircleOff,
-        MessageCirclePause, MessageCirclePin, MessageCirclePlus, MessageCircleQuestion,
-        MessageCircleSearch, MessageCircleShare, MessageCircleStar, MessageCircleUp,
-        MessageCircleUser, MessageCircleX, MessageCode, MessageCog, MessageDollar, MessageDots,
-        MessageDown, MessageExclamation, MessageForward, MessageHeart, MessageLanguage,
+        MathXPlusX, MathXPlusY, MathXy, MathYMinusY, MathYPlusY, Matrix, Maximize, MaximizeOff,
+        Meat, MeatOff, Medal, Medal2, MedicalCross, MedicalCrossCircle, MedicalCrossOff,
+        MedicineSyrup, Meeple, Melon, Menorah, Menu, Menu2, Menu3, Menu4, MenuDeep, MenuOrder,
+        Message, Message2, Message2Bolt, Message2Cancel, Message2Check, Message2Code, Message2Cog,
+        Message2Dollar, Message2Down, Message2Exclamation, Message2Heart, Message2Minus,
+        Message2Off, Message2Pause, Message2Pin, Message2Plus, Message2Question, Message2Search,
+        Message2Share, Message2Star, Message2Up, Message2X, MessageBolt, MessageCancel,
+        MessageChatbot, MessageCheck, MessageCircle, MessageCircleBolt, MessageCircleCancel,
+        MessageCircleCheck, MessageCircleCode, MessageCircleCog, MessageCircleDollar,
+        MessageCircleDown, MessageCircleExclamation, MessageCircleHeart, MessageCircleMinus,
+        MessageCircleOff, MessageCirclePause, MessageCirclePin, MessageCirclePlus,
+        MessageCircleQuestion, MessageCircleSearch, MessageCircleShare, MessageCircleStar,
+        MessageCircleUp, MessageCircleUser, MessageCircleX, MessageCode, MessageCog, MessageDollar,
+        MessageDots, MessageDown, MessageExclamation, MessageForward, MessageHeart, MessageLanguage,
         MessageMinus, MessageOff, MessagePause, MessagePin, MessagePlus, MessageQuestion,
         MessageReply, MessageReport, MessageSearch, MessageShare, MessageStar, MessageUp,
         MessageUser, MessageX, Messages, MessagesOff, Meteor, MeteorOff, MeterCube, MeterSquare,
@@ -5542,7 +5557,7 @@ public val OutlineGroup.AllIcons: ____KtList<ImageVector>
         Schema, SchemaOff, School, SchoolBell, SchoolOff, Scissors, ScissorsOff, Scooter,
         ScooterElectric, Scoreboard, ScreenShare, ScreenShareOff, Screenshot, Scribble, ScribbleOff,
         Script, ScriptMinus, ScriptPlus, ScriptX, ScubaDiving, ScubaDivingTank, ScubaMask,
-        ScubaMaskOff, Sdk, Search, SearchOff, Section, SectionSign, Seeding, SeedingOff, Select,
+        ScubaMaskOff, Sdk, Search, SearchOff, Section, SectionSign, Seedling, SeedlingOff, Select,
         SelectAll, Selector, Send, Send2, SendOff, Seo, Separator, SeparatorHorizontal,
         SeparatorVertical, Server, Server2, ServerBolt, ServerCog, ServerOff, ServerSpark,
         Servicemark, Settings, Settings2, SettingsAutomation, SettingsBolt, SettingsCancel,
@@ -5576,17 +5591,17 @@ public val OutlineGroup.AllIcons: ____KtList<ImageVector>
         SphereOff, SpherePlus, Spider, Spiral, SpiralOff, SportBillard, Spray, Spy, SpyOff, Sql,
         Square, SquareArrowDown, SquareArrowLeft, SquareArrowRight, SquareArrowUp, SquareAsterisk,
         SquareCheck, SquareChevronDown, SquareChevronLeft, SquareChevronRight, SquareChevronUp,
-        SquareChevronsDown, SquareChevronsLeft, SquareChevronsRight, SquareChevronsUp, SquareDot,
-        SquareF0, SquareF1, SquareF2, SquareF3, SquareF4, SquareF5, SquareF6, SquareF7, SquareF8,
-        SquareF9, SquareForbid, SquareForbid2, SquareHalf, SquareKey, SquareLetterA, SquareLetterB,
-        SquareLetterC, SquareLetterD, SquareLetterE, SquareLetterF, SquareLetterG, SquareLetterH,
-        SquareLetterI, SquareLetterJ, SquareLetterK, SquareLetterL, SquareLetterM, SquareLetterN,
-        SquareLetterO, SquareLetterP, SquareLetterQ, SquareLetterR, SquareLetterS, SquareLetterT,
-        SquareLetterU, SquareLetterV, SquareLetterW, SquareLetterX, SquareLetterY, SquareLetterZ,
-        SquareMinus, SquareNumber0, SquareNumber1, SquareNumber2, SquareNumber3, SquareNumber4,
-        SquareNumber5, SquareNumber6, SquareNumber7, SquareNumber8, SquareNumber9, SquareOff,
-        SquarePercentage, SquarePlus, SquarePlus2, SquareRoot, SquareRoot2, SquareRotated,
-        SquareRotatedForbid, SquareRotatedForbid2, SquareRotatedOff, SquareRounded,
+        SquareChevronsDown, SquareChevronsLeft, SquareChevronsRight, SquareChevronsUp, SquareDashed,
+        SquareDot, SquareF0, SquareF1, SquareF2, SquareF3, SquareF4, SquareF5, SquareF6, SquareF7,
+        SquareF8, SquareF9, SquareForbid, SquareForbid2, SquareHalf, SquareKey, SquareLetterA,
+        SquareLetterB, SquareLetterC, SquareLetterD, SquareLetterE, SquareLetterF, SquareLetterG,
+        SquareLetterH, SquareLetterI, SquareLetterJ, SquareLetterK, SquareLetterL, SquareLetterM,
+        SquareLetterN, SquareLetterO, SquareLetterP, SquareLetterQ, SquareLetterR, SquareLetterS,
+        SquareLetterT, SquareLetterU, SquareLetterV, SquareLetterW, SquareLetterX, SquareLetterY,
+        SquareLetterZ, SquareMinus, SquareNumber0, SquareNumber1, SquareNumber2, SquareNumber3,
+        SquareNumber4, SquareNumber5, SquareNumber6, SquareNumber7, SquareNumber8, SquareNumber9,
+        SquareOff, SquarePercentage, SquarePlus, SquarePlus2, SquareRoot, SquareRoot2,
+        SquareRotated, SquareRotatedForbid, SquareRotatedForbid2, SquareRotatedOff, SquareRounded,
         SquareRoundedArrowDown, SquareRoundedArrowLeft, SquareRoundedArrowRight,
         SquareRoundedArrowUp, SquareRoundedCheck, SquareRoundedChevronDown,
         SquareRoundedChevronLeft, SquareRoundedChevronRight, SquareRoundedChevronUp,
@@ -5611,14 +5626,14 @@ public val OutlineGroup.AllIcons: ____KtList<ImageVector>
         SunLow, SunMoon, SunOff, SunWind, Sunglasses, Sunrise, Sunset, Sunset2, Superscript, Svg,
         Swimming, Swipe, SwipeDown, SwipeLeft, SwipeRight, SwipeUp, Switch, Switch2, Switch3,
         SwitchHorizontal, SwitchVertical, Sword, SwordOff, Swords, Table, TableAlias, TableColumn,
-        TableDown, TableExport, TableHeart, TableImport, TableMinus, TableOff, TableOptions,
-        TablePlus, TableRow, TableShare, TableShortcut, TableSpark, Tag, TagMinus, TagOff, TagPlus,
-        TagStarred, Tags, TagsOff, Tallymark1, Tallymark2, Tallymark3, Tallymark4, Tallymarks, Tank,
-        Target, TargetArrow, TargetOff, Tax, TaxEuro, TaxPound, Teapot, Telescope, TelescopeOff,
-        Temperature, TemperatureCelsius, TemperatureFahrenheit, TemperatureMinus, TemperatureOff,
-        TemperaturePlus, TemperatureSnow, TemperatureSun, Template, TemplateOff, Tent, TentOff,
-        Terminal, Terminal2, TestPipe, TestPipe2, TestPipeOff, Tex, TextCaption, TextColor,
-        TextDecrease, TextDirectionLtr, TextDirectionRtl, TextGrammar, TextIncrease,
+        TableDashed, TableDown, TableExport, TableHeart, TableImport, TableMinus, TableOff,
+        TableOptions, TablePlus, TableRow, TableShare, TableShortcut, TableSpark, Tag, TagMinus,
+        TagOff, TagPlus, TagStarred, Tags, TagsOff, Tallymark1, Tallymark2, Tallymark3, Tallymark4,
+        Tallymarks, Tank, Target, TargetArrow, TargetOff, Tax, TaxEuro, TaxPound, Teapot, Telescope,
+        TelescopeOff, Temperature, TemperatureCelsius, TemperatureFahrenheit, TemperatureMinus,
+        TemperatureOff, TemperaturePlus, TemperatureSnow, TemperatureSun, Template, TemplateOff,
+        Tent, TentOff, Terminal, Terminal2, TestPipe, TestPipe2, TestPipeOff, Tex, TextCaption,
+        TextColor, TextDecrease, TextDirectionLtr, TextDirectionRtl, TextGrammar, TextIncrease,
         TextOrientation, TextPlus, TextRecognition, TextResize, TextScan2, TextSize, TextSpellcheck,
         TextWrap, TextWrapColumn, TextWrapDisabled, Texture, Theater, Thermometer, ThumbDown,
         ThumbDownOff, ThumbUp, ThumbUpOff, TicTac, Ticket, TicketOff, Tie, Tilde, TiltShift,

@@ -34,14 +34,6 @@
             ]
         },
         {
-            "name": "Tabler",
-            "value": "tabler",
-            "categories": [
-                "filled",
-                "outline"
-            ]
-        },
-        {
             "name": "FontAwesome",
             "value": "fontawesome",
             "categories": [
@@ -95,6 +87,14 @@
             "value": "octicons",
             "categories": [
                 ""
+            ]
+        },
+        {
+            "name": "Tabler",
+            "value": "tabler",
+            "categories": [
+                "outline",
+                "filled"
             ]
         }
     ]
