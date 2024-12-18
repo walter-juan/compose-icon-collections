@@ -1,1982 +1,1982 @@
 [
     {
-        "name": "FontAwesome.Brands.Sellsy",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/sellsy.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.CcMastercard",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/cc-mastercard.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.AccessibleIcon",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/accessible-icon.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Uncharted",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/uncharted.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.SquareSnapchat",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/square-snapchat.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Brave",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/brave.svg"
-    },
-    {
         "name": "FontAwesome.Brands.Sass",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/sass.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Centercode",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/centercode.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Windows",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/windows.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Codiepie",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/codiepie.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Firefox",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/firefox.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.CcStripe",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/cc-stripe.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Cloudversify",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/cloudversify.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Periscope",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/periscope.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.SignalMessenger",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/signal-messenger.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.StackExchange",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/stack-exchange.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Wix",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/wix.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Xing",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/xing.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.TradeFederation",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/trade-federation.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Typo3",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/typo3.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Google",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/google.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Behance",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/behance.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Grunt",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/grunt.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Flutter",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/flutter.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Pagelines",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/pagelines.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Slack",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/slack.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.CcJcb",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/cc-jcb.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Delicious",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/delicious.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.SquareBehance",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/square-behance.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.GooglePlay",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/google-play.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.ApplePay",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/apple-pay.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Suse",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/suse.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.CcDiscover",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/cc-discover.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Mailchimp",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/mailchimp.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Wpexplorer",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/wpexplorer.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.SquareVimeo",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/square-vimeo.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.PiedPiperPp",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/pied-piper-pp.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.YandexInternational",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/yandex-international.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Gitter",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/gitter.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Mdb",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/mdb.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Modx",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/modx.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Leanpub",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/leanpub.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Linode",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/linode.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Researchgate",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/researchgate.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.CreativeCommons",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/creative-commons.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Staylinked",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/staylinked.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Goodreads",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/goodreads.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Mixcloud",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/mixcloud.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.SquareGit",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/square-git.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Css3Alt",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/css3-alt.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Openid",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/openid.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Bluesky",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/bluesky.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Bootstrap",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/bootstrap.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Gofore",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/gofore.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Atlassian",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/atlassian.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Fulcrum",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/fulcrum.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.DigitalOcean",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/digital-ocean.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.CreativeCommonsSamplingPlus",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/creative-commons-sampling-plus.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Mendeley",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/mendeley.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Strava",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/strava.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.SquarePinterest",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/square-pinterest.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Pixiv",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/pixiv.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.SquareTwitter",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/square-twitter.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Itunes",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/itunes.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.SquareViadeo",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/square-viadeo.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.SquareFontAwesomeStroke",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/square-font-awesome-stroke.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.VimeoV",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/vimeo-v.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Autoprefixer",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/autoprefixer.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Bimobject",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/bimobject.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Renren",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/renren.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.BattleNet",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/battle-net.svg"
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/sass.svg"
     },
     {
         "name": "FontAwesome.Brands.Java",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/java.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Telegram",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/telegram.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.ItunesNote",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/itunes-note.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.React",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/react.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Megaport",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/megaport.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Threads",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/threads.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Centos",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/centos.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.StickerMule",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/sticker-mule.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.CcPaypal",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/cc-paypal.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.EdgeLegacy",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/edge-legacy.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.SquarePiedPiper",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/square-pied-piper.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Medium",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/medium.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Stumbleupon",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/stumbleupon.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Css3",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/css3.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.CcAmazonPay",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/cc-amazon-pay.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.GalacticRepublic",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/galactic-republic.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Gitkraken",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/gitkraken.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.SquareFontAwesome",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/square-font-awesome.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Magento",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/magento.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Superpowers",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/superpowers.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Untappd",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/untappd.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Amazon",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/amazon.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Hips",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/hips.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.SquareGooglePlus",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/square-google-plus.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.RaspberryPi",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/raspberry-pi.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Apple",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/apple.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Deviantart",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/deviantart.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.FreeCodeCamp",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/free-code-camp.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Ubuntu",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/ubuntu.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Dribbble",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/dribbble.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Ussunnah",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/ussunnah.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.SquareHackerNews",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/square-hacker-news.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Uniregistry",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/uniregistry.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Gripfire",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/gripfire.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Stripe",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/stripe.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Tumblr",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/tumblr.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Hooli",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/hooli.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Freebsd",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/freebsd.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Lastfm",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/lastfm.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Hashnode",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/hashnode.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Reddit",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/reddit.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.FantasyFlightGames",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/fantasy-flight-games.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Screenpal",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/screenpal.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.AmazonPay",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/amazon-pay.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Sellcast",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/sellcast.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.SquareTumblr",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/square-tumblr.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Jxl",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/jxl.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.SquareOdnoklassniki",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/square-odnoklassniki.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.SquareJs",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/square-js.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.FontAwesomeBrand",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/font-awesome.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Microblog",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/microblog.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.RedRiver",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/red-river.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Flickr",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/flickr.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.GooglePlusG",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/google-plus-g.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.FilesPinwheel",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/files-pinwheel.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Squarespace",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/squarespace.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Dyalog",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/dyalog.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Jenkins",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/jenkins.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Bots",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/bots.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Fly",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/fly.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Sketch",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/sketch.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Ebay",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/ebay.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Vaadin",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/vaadin.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Symfony",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/symfony.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Rev",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/rev.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.CreativeCommonsBy",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/creative-commons-by.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Hornbill",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/hornbill.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Sitrox",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/sitrox.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Phabricator",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/phabricator.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.FacebookF",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/facebook-f.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Sith",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/sith.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Hive",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/hive.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Perbyte",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/perbyte.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Viacoin",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/viacoin.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Vuejs",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/vuejs.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Themeisle",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/themeisle.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.CreativeCommonsPdAlt",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/creative-commons-pd-alt.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Ember",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/ember.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Opera",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/opera.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Ideal",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/ideal.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Mix",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/mix.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Sourcetree",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/sourcetree.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Shoelace",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/shoelace.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.SteamSymbol",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/steam-symbol.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Cloudscale",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/cloudscale.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Buromobelexperte",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/buromobelexperte.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Vnv",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/vnv.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.WebAwesome",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/web-awesome.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.GgCircle",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/gg-circle.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Letterboxd",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/letterboxd.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Youtube",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/youtube.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Medapps",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/medapps.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Mandalorian",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/mandalorian.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Weebly",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/weebly.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Connectdevelop",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/connectdevelop.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.StumbleuponCircle",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/stumbleupon-circle.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Upwork",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/upwork.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Safari",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/safari.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.YCombinator",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/y-combinator.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.OctopusDeploy",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/octopus-deploy.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Quinscape",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/quinscape.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.SquareLetterboxd",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/square-letterboxd.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Mintbit",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/mintbit.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.FirefoxBrowser",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/firefox-browser.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Jsfiddle",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/jsfiddle.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Bitcoin",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/bitcoin.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.ThinkPeaks",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/think-peaks.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.FortAwesome",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/fort-awesome.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Replyd",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/replyd.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Confluence",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/confluence.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Jira",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/jira.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Blogger",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/blogger.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Codepen",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/codepen.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.PiedPiperHat",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/pied-piper-hat.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Debian",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/debian.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.FacebookMessenger",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/facebook-messenger.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.SquareXing",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/square-xing.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Mixer",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/mixer.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Avianex",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/avianex.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Uikit",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/uikit.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.StripeS",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/stripe-s.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.BuyNLarge",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/buy-n-large.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Vk",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/vk.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Facebook",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/facebook.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Trello",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/trello.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Whmcs",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/whmcs.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Mizuni",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/mizuni.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.WolfPackBattalion",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/wolf-pack-battalion.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.PhoenixSquadron",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/phoenix-squadron.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Unity",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/unity.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Snapchat",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/snapchat.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Linux",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/linux.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Searchengin",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/searchengin.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Yarn",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/yarn.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Bilibili",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/bilibili.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Yammer",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/yammer.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.TencentWeibo",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/tencent-weibo.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Chromecast",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/chromecast.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Python",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/python.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Sistrix",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/sistrix.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Yahoo",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/yahoo.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.FortAwesomeAlt",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/fort-awesome-alt.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Markdown",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/markdown.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Foursquare",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/foursquare.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.GoogleDrive",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/google-drive.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Chrome",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/chrome.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Yelp",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/yelp.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.BlackTie",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/black-tie.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Wirsindhandwerk",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/wirsindhandwerk.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.SquareGitlab",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/square-gitlab.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.CreativeCommonsNcEu",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/creative-commons-nc-eu.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.FirstOrder",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/first-order.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Shirtsinbulk",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/shirtsinbulk.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.ProductHunt",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/product-hunt.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Redhat",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/redhat.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Discord",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/discord.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Npm",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/npm.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.CreativeCommonsSampling",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/creative-commons-sampling.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.XTwitter",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/x-twitter.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Simplybuilt",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/simplybuilt.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Rockrms",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/rockrms.svg"
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/java.svg"
     },
     {
         "name": "FontAwesome.Brands.Viber",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/viber.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Neos",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/neos.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Forumbee",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/forumbee.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Hubspot",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/hubspot.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.ItchIo",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/itch-io.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Nutritionix",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/nutritionix.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Angular",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/angular.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Dev",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/dev.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Spotify",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/spotify.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Paypal",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/paypal.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Bluetooth",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/bluetooth.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Cloudflare",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/cloudflare.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.WizardsOfTheCoast",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/wizards-of-the-coast.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Firstdraft",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/firstdraft.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Buffer",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/buffer.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.DAndD",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/d-and-d.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.AppStore",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/app-store.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Invision",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/invision.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Node",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/node.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Html5",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/html5.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Php",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/php.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Artstation",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/artstation.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.SquareYoutube",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/square-youtube.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.HireAHelper",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/hire-a-helper.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Evernote",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/evernote.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Gitlab",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/gitlab.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Hackerrank",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/hackerrank.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Unsplash",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/unsplash.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Contao",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/contao.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Instagram",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/instagram.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Yoast",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/yoast.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Shopify",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/shopify.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Adn",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/adn.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.RProject",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/r-project.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Dropbox",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/dropbox.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Angellist",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/angellist.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Affiliatetheme",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/affiliatetheme.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Gratipay",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/gratipay.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.GoogleWallet",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/google-wallet.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Drupal",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/drupal.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Joget",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/joget.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Erlang",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/erlang.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Aviato",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/aviato.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.JediOrder",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/jedi-order.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Keycdn",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/keycdn.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Quora",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/quora.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Elementor",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/elementor.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Linkedin",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/linkedin.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Korvue",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/korvue.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.PhoenixFramework",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/phoenix-framework.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Shopware",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/shopware.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Speakap",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/speakap.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.HackerNews",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/hacker-news.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.SpeakerDeck",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/speaker-deck.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.SquareSteam",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/square-steam.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.WatchmanMonitoring",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/watchman-monitoring.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Page4",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/page4.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Playstation",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/playstation.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Vine",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/vine.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Figma",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/figma.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Studiovinari",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/studiovinari.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.CcDinersClub",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/cc-diners-club.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Hotjar",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/hotjar.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.GetPocket",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/get-pocket.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Docker",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/docker.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Android",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/android.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.RedditAlien",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/reddit-alien.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Deploydog",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/deploydog.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.SquareBluesky",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/square-bluesky.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Golang",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/golang.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Twitch",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/twitch.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.BloggerB",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/blogger-b.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.SquareThreads",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/square-threads.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Github",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/github.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Rust",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/rust.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.NodeJs",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/node-js.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Accusoft",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/accusoft.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.CreativeCommonsShare",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/creative-commons-share.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.NfcDirectional",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/nfc-directional.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Gg",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/gg.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Qq",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/qq.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.SquareWebAwesome",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/square-web-awesome.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Meta",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/meta.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Wpbeginner",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/wpbeginner.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.AppStoreIos",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/app-store-ios.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.GithubAlt",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/github-alt.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Schlix",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/schlix.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Resolving",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/resolving.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Weixin",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/weixin.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.GoodreadsG",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/goodreads-g.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Readme",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/readme.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Apper",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/apper.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Soundcloud",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/soundcloud.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Cpanel",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/cpanel.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Discourse",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/discourse.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Whatsapp",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/whatsapp.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Adversal",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/adversal.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.GlideG",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/glide-g.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Less",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/less.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.CreativeCommonsNd",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/creative-commons-nd.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.BluetoothB",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/bluetooth-b.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.SquareGithub",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/square-github.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.OptinMonster",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/optin-monster.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Algolia",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/algolia.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Supple",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/supple.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Keybase",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/keybase.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Waze",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/waze.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Asymmetrik",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/asymmetrik.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Salesforce",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/salesforce.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Imdb",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/imdb.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Skype",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/skype.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Glide",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/glide.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Themeco",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/themeco.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Ups",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/ups.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.CanadianMapleLeaf",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/canadian-maple-leaf.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Rocketchat",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/rocketchat.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.SpaceAwesome",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/space-awesome.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.CreativeCommonsZero",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/creative-commons-zero.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Opencart",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/opencart.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.DAndDBeyond",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/d-and-d-beyond.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Odnoklassniki",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/odnoklassniki.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Microsoft",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/microsoft.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Ioxhost",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/ioxhost.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.SquareUpwork",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/square-upwork.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Osi",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/osi.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.CriticalRole",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/critical-role.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Reacteurope",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/reacteurope.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.StackOverflow",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/stack-overflow.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Webflow",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/webflow.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Stubber",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/stubber.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Houzz",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/houzz.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Joomla",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/joomla.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Cmplid",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/cmplid.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Orcid",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/orcid.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.OldRepublic",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/old-republic.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Intercom",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/intercom.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Meetup",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/meetup.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.SquareReddit",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/square-reddit.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Digg",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/digg.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.SquareFacebook",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/square-facebook.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.GitAlt",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/git-alt.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Git",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/git.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.DartLang",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/dart-lang.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Mastodon",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/mastodon.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Fonticons",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/fonticons.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Patreon",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/patreon.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Dashcube",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/dashcube.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Airbnb",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/airbnb.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Earlybirds",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/earlybirds.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Usps",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/usps.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.GalacticSenate",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/galactic-senate.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.BraveReverse",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/brave-reverse.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Deskpro",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/deskpro.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Dailymotion",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/dailymotion.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.PinterestP",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/pinterest-p.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.SquareWebAwesomeStroke",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/square-web-awesome-stroke.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Deezer",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/deezer.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.FonticonsFi",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/fonticons-fi.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Css",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/css.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Aws",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/aws.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Swift",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/swift.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Ns8",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/ns8.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.CreativeCommonsSa",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/creative-commons-sa.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.LinkedinIn",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/linkedin-in.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Amilia",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/amilia.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.CreativeCommonsNc",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/creative-commons-nc.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.CreativeCommonsPd",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/creative-commons-pd.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Zhihu",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/zhihu.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.GooglePlus",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/google-plus.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.KickstarterK",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/kickstarter-k.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Usb",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/usb.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.FirstOrderAlt",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/first-order-alt.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Nimblr",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/nimblr.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.CreativeCommonsNcJp",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/creative-commons-nc-jp.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Guilded",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/guilded.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.WordpressSimple",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/wordpress-simple.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Servicestack",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/servicestack.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Cuttlefish",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/cuttlefish.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.WikipediaW",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/wikipedia-w.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Ravelry",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/ravelry.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Number500Px",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/500px.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Wordpress",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/wordpress.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.CreativeCommonsRemix",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/creative-commons-remix.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.SquareInstagram",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/square-instagram.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Skyatlas",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/skyatlas.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.PiedPiper",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/pied-piper.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Expeditedssl",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/expeditedssl.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Grav",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/grav.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Dochub",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/dochub.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Medrt",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/medrt.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Slideshare",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/slideshare.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Weibo",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/weibo.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.CcAmex",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/cc-amex.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Edge",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/edge.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.NfcSymbol",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/nfc-symbol.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Palfed",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/palfed.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Vimeo",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/vimeo.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Buysellads",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/buysellads.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Bity",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/bity.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.SquareDribbble",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/square-dribbble.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Draft2digital",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/draft2digital.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.GoogleScholar",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/google-scholar.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Etsy",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/etsy.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Wodu",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/wodu.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Blackberry",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/blackberry.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Kaggle",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/kaggle.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Lyft",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/lyft.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Number42Group",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/42-group.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Bitbucket",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/bitbucket.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.GooglePay",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/google-pay.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Cloudsmith",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/cloudsmith.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Twitter",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/twitter.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Umbraco",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/umbraco.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Line",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/line.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Flipboard",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/flipboard.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Empire",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/empire.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Alipay",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/alipay.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Diaspora",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/diaspora.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Padlet",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/padlet.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Wpforms",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/wpforms.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Napster",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/napster.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Fedora",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/fedora.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.CcVisa",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/cc-visa.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Angrycreative",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/angrycreative.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.SquareWhatsapp",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/square-whatsapp.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Ello",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/ello.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Wpressr",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/wpressr.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Kickstarter",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/kickstarter.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Js",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/js.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Gulp",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/gulp.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Yandex",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/yandex.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Bandcamp",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/bandcamp.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Envira",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/envira.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Monero",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/monero.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Stackpath",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/stackpath.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Odysee",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/odysee.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Dhl",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/dhl.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Pinterest",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/pinterest.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Uber",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/uber.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Fedex",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/fedex.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Pix",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/pix.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.SquareXTwitter",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/square-x-twitter.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Xbox",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/xbox.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.CcApplePay",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/cc-apple-pay.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Teamspeak",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/teamspeak.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Btc",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/btc.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.TheRedYeti",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/the-red-yeti.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Audible",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/audible.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Pushed",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/pushed.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Steam",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/steam.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.SquareLastfm",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/square-lastfm.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.PiedPiperAlt",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/pied-piper-alt.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Laravel",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/laravel.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Viadeo",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/viadeo.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.InternetExplorer",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/internet-explorer.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Maxcdn",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/maxcdn.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Scribd",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/scribd.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Instalod",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/instalod.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Tiktok",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/tiktok.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Ethereum",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/ethereum.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Opensuse",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/opensuse.svg"
-    },
-    {
-        "name": "FontAwesome.Brands.Rebel",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/rebel.svg"
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/viber.svg"
     },
     {
         "name": "FontAwesome.Brands.CottonBureau",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.1/svgs/brands/cotton-bureau.svg"
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/cotton-bureau.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.SquareFontAwesome",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/square-font-awesome.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Buffer",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/buffer.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.CreativeCommonsRemix",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/creative-commons-remix.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.HackerNews",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/hacker-news.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.SquareXTwitter",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/square-x-twitter.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Keycdn",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/keycdn.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Line",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/line.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Themeco",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/themeco.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Rev",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/rev.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Spotify",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/spotify.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.SquareInstagram",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/square-instagram.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Hips",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/hips.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Rebel",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/rebel.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.DartLang",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/dart-lang.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Audible",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/audible.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.CreativeCommonsNcEu",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/creative-commons-nc-eu.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Js",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/js.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.NodeJs",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/node-js.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.GoogleScholar",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/google-scholar.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.YandexInternational",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/yandex-international.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.SteamSymbol",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/steam-symbol.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Qq",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/qq.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Bilibili",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/bilibili.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.PiedPiperHat",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/pied-piper-hat.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Wordpress",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/wordpress.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.SquareXing",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/square-xing.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Google",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/google.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Elementor",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/elementor.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Codiepie",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/codiepie.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Cmplid",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/cmplid.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Jsfiddle",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/jsfiddle.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Viacoin",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/viacoin.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Researchgate",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/researchgate.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Fedora",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/fedora.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Yarn",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/yarn.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Monero",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/monero.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.CreativeCommonsZero",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/creative-commons-zero.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.CcAmazonPay",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/cc-amazon-pay.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Golang",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/golang.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Erlang",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/erlang.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Goodreads",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/goodreads.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Ethereum",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/ethereum.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Bluesky",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/bluesky.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Ns8",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/ns8.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Dochub",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/dochub.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Waze",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/waze.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Android",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/android.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Meta",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/meta.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Jxl",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/jxl.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Sitrox",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/sitrox.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Vuejs",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/vuejs.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Grav",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/grav.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Symfony",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/symfony.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Drupal",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/drupal.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Modx",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/modx.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Odnoklassniki",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/odnoklassniki.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.JediOrder",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/jedi-order.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Diaspora",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/diaspora.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Reddit",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/reddit.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Microsoft",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/microsoft.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Aviato",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/aviato.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Bimobject",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/bimobject.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.WatchmanMonitoring",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/watchman-monitoring.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Less",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/less.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Medium",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/medium.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Asymmetrik",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/asymmetrik.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Buromobelexperte",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/buromobelexperte.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Fly",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/fly.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Adn",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/adn.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.CcVisa",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/cc-visa.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Upwork",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/upwork.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Quinscape",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/quinscape.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.GoogleDrive",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/google-drive.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Mix",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/mix.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Kickstarter",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/kickstarter.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.GitAlt",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/git-alt.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Ussunnah",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/ussunnah.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.React",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/react.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.DigitalOcean",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/digital-ocean.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Wpbeginner",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/wpbeginner.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Cuttlefish",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/cuttlefish.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Earlybirds",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/earlybirds.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.RaspberryPi",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/raspberry-pi.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.SquareFontAwesomeStroke",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/square-font-awesome-stroke.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Sith",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/sith.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Pagelines",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/pagelines.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Pixiv",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/pixiv.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Autoprefixer",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/autoprefixer.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Resolving",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/resolving.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Delicious",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/delicious.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Steam",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/steam.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Mandalorian",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/mandalorian.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Keybase",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/keybase.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.ItchIo",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/itch-io.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Codepen",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/codepen.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.SquareLastfm",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/square-lastfm.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.FilesPinwheel",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/files-pinwheel.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Number500Px",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/500px.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Opencart",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/opencart.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Twitter",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/twitter.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.GgCircle",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/gg-circle.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Algolia",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/algolia.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Expeditedssl",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/expeditedssl.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.ItunesNote",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/itunes-note.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Hooli",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/hooli.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.AppStore",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/app-store.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Angellist",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/angellist.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.GooglePay",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/google-pay.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Accusoft",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/accusoft.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Hotjar",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/hotjar.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Whatsapp",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/whatsapp.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Simplybuilt",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/simplybuilt.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.DAndDBeyond",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/d-and-d-beyond.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Letterboxd",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/letterboxd.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.CreativeCommonsPd",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/creative-commons-pd.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Zhihu",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/zhihu.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Screenpal",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/screenpal.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Git",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/git.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Stackpath",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/stackpath.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Searchengin",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/searchengin.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Renren",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/renren.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Contao",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/contao.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.StickerMule",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/sticker-mule.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Shirtsinbulk",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/shirtsinbulk.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.OldRepublic",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/old-republic.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Pushed",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/pushed.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Facebook",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/facebook.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.FontAwesomeBrand",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/font-awesome.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Neos",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/neos.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Sistrix",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/sistrix.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Npm",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/npm.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Html5",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/html5.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Wpressr",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/wpressr.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Jenkins",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/jenkins.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.CreativeCommonsNc",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/creative-commons-nc.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Telegram",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/telegram.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Unity",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/unity.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Shopware",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/shopware.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.WebAwesome",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/web-awesome.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Glide",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/glide.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Css3Alt",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/css3-alt.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Bandcamp",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/bandcamp.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Angrycreative",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/angrycreative.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Squarespace",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/squarespace.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Redhat",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/redhat.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Ioxhost",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/ioxhost.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Docker",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/docker.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.SquareGooglePlus",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/square-google-plus.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Unsplash",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/unsplash.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.YCombinator",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/y-combinator.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Apper",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/apper.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.GooglePlusG",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/google-plus-g.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Hubspot",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/hubspot.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.CcStripe",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/cc-stripe.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Mailchimp",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/mailchimp.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Grunt",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/grunt.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Imdb",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/imdb.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.CreativeCommonsNd",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/creative-commons-nd.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Avianex",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/avianex.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Css3",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/css3.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Scribd",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/scribd.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Swift",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/swift.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Ideal",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/ideal.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.FantasyFlightGames",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/fantasy-flight-games.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Gripfire",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/gripfire.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Bluetooth",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/bluetooth.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.AppStoreIos",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/app-store-ios.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.FortAwesome",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/fort-awesome.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.SquareBehance",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/square-behance.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.SquareOdnoklassniki",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/square-odnoklassniki.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Soundcloud",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/soundcloud.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Patreon",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/patreon.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Figma",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/figma.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Artstation",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/artstation.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Etsy",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/etsy.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Windows",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/windows.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Ember",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/ember.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.EdgeLegacy",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/edge-legacy.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Affiliatetheme",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/affiliatetheme.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.CreativeCommonsSampling",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/creative-commons-sampling.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Uber",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/uber.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Stubber",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/stubber.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Suse",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/suse.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Yandex",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/yandex.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Megaport",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/megaport.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Umbraco",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/umbraco.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.TencentWeibo",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/tencent-weibo.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.CcApplePay",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/cc-apple-pay.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Threads",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/threads.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Uncharted",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/uncharted.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Vimeo",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/vimeo.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Airbnb",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/airbnb.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Dashcube",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/dashcube.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.GalacticRepublic",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/galactic-republic.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.ProductHunt",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/product-hunt.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Weibo",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/weibo.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Flickr",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/flickr.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.StackOverflow",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/stack-overflow.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Wpforms",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/wpforms.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Flipboard",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/flipboard.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Cloudflare",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/cloudflare.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Fulcrum",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/fulcrum.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Orcid",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/orcid.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.CreativeCommonsBy",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/creative-commons-by.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Reacteurope",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/reacteurope.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Dribbble",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/dribbble.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.SquareSnapchat",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/square-snapchat.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.SquareTwitter",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/square-twitter.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.GooglePlay",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/google-play.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Forumbee",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/forumbee.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Slack",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/slack.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Paypal",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/paypal.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.ApplePay",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/apple-pay.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Hackerrank",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/hackerrank.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Vine",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/vine.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Dev",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/dev.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.FreeCodeCamp",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/free-code-camp.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Hornbill",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/hornbill.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.BloggerB",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/blogger-b.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Centercode",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/centercode.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Studiovinari",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/studiovinari.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Node",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/node.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Stumbleupon",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/stumbleupon.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.CcMastercard",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/cc-mastercard.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Rockrms",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/rockrms.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Webflow",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/webflow.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Bitcoin",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/bitcoin.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Lyft",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/lyft.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Usb",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/usb.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Slideshare",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/slideshare.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Napster",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/napster.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Untappd",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/untappd.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.KickstarterK",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/kickstarter-k.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.FacebookMessenger",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/facebook-messenger.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Opensuse",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/opensuse.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Connectdevelop",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/connectdevelop.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.NfcSymbol",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/nfc-symbol.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.PiedPiper",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/pied-piper.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.SquareWebAwesomeStroke",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/square-web-awesome-stroke.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Vnv",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/vnv.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Invision",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/invision.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Page4",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/page4.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.CriticalRole",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/critical-role.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.WizardsOfTheCoast",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/wizards-of-the-coast.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Uniregistry",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/uniregistry.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.CcPaypal",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/cc-paypal.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Btc",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/btc.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.CreativeCommonsShare",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/creative-commons-share.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Kaggle",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/kaggle.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Dhl",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/dhl.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Mdb",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/mdb.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Linkedin",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/linkedin.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Salesforce",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/salesforce.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Instalod",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/instalod.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.SquareYoutube",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/square-youtube.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Wodu",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/wodu.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Replyd",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/replyd.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Number42Group",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/42-group.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.BattleNet",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/battle-net.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Deskpro",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/deskpro.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.SpeakerDeck",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/speaker-deck.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Gulp",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/gulp.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Aws",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/aws.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.SquareUpwork",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/square-upwork.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.CreativeCommons",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/creative-commons.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Superpowers",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/superpowers.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.FirstOrderAlt",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/first-order-alt.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.TradeFederation",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/trade-federation.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.SquareThreads",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/square-threads.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Amilia",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/amilia.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Magento",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/magento.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Envira",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/envira.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Laravel",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/laravel.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Linux",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/linux.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Mixer",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/mixer.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Leanpub",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/leanpub.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.CreativeCommonsPdAlt",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/creative-commons-pd-alt.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Cloudscale",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/cloudscale.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Confluence",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/confluence.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Gofore",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/gofore.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.GooglePlus",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/google-plus.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Nutritionix",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/nutritionix.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.CreativeCommonsNcJp",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/creative-commons-nc-jp.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Gitlab",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/gitlab.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.SquareGitlab",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/square-gitlab.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Deploydog",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/deploydog.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Supple",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/supple.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.SquareWhatsapp",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/square-whatsapp.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Yelp",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/yelp.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.CanadianMapleLeaf",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/canadian-maple-leaf.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Yoast",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/yoast.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.SignalMessenger",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/signal-messenger.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.RedRiver",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/red-river.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.TheRedYeti",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/the-red-yeti.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Readme",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/readme.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Medrt",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/medrt.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Fedex",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/fedex.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Joomla",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/joomla.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Ups",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/ups.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Php",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/php.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Staylinked",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/staylinked.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Bity",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/bity.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.SquareWebAwesome",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/square-web-awesome.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.XTwitter",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/x-twitter.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Cloudversify",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/cloudversify.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Bitbucket",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/bitbucket.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Markdown",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/markdown.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Yammer",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/yammer.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.BuyNLarge",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/buy-n-large.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Teamspeak",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/teamspeak.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Draft2digital",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/draft2digital.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.FonticonsFi",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/fonticons-fi.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Alipay",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/alipay.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.WikipediaW",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/wikipedia-w.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Centos",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/centos.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Palfed",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/palfed.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Adversal",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/adversal.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.OctopusDeploy",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/octopus-deploy.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.SpaceAwesome",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/space-awesome.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Cpanel",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/cpanel.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Gitkraken",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/gitkraken.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Yahoo",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/yahoo.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Gitter",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/gitter.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Xing",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/xing.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.SquarePiedPiper",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/square-pied-piper.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Korvue",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/korvue.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Freebsd",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/freebsd.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Osi",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/osi.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.PiedPiperAlt",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/pied-piper-alt.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Linode",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/linode.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Pix",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/pix.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Blackberry",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/blackberry.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.StumbleuponCircle",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/stumbleupon-circle.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.SquareSteam",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/square-steam.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Gratipay",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/gratipay.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Instagram",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/instagram.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.SquareBluesky",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/square-bluesky.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.ThinkPeaks",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/think-peaks.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Evernote",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/evernote.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.SquareReddit",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/square-reddit.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Snapchat",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/snapchat.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.SquareLetterboxd",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/square-letterboxd.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.SquareHackerNews",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/square-hacker-news.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Viadeo",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/viadeo.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Ubuntu",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/ubuntu.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Bots",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/bots.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.SquareVimeo",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/square-vimeo.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.SquareTumblr",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/square-tumblr.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.BlackTie",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/black-tie.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Cloudsmith",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/cloudsmith.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.PhoenixFramework",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/phoenix-framework.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.WolfPackBattalion",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/wolf-pack-battalion.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Angular",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/angular.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.PinterestP",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/pinterest-p.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.RProject",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/r-project.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Sketch",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/sketch.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Discord",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/discord.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.SquareGithub",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/square-github.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Themeisle",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/themeisle.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Padlet",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/padlet.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Flutter",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/flutter.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Openid",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/openid.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Mixcloud",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/mixcloud.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Vk",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/vk.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Uikit",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/uikit.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Twitch",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/twitch.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.NfcDirectional",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/nfc-directional.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.AmazonPay",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/amazon-pay.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Deezer",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/deezer.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.CcDinersClub",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/cc-diners-club.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.GlideG",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/glide-g.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Github",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/github.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Hive",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/hive.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Chrome",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/chrome.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Wirsindhandwerk",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/wirsindhandwerk.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Rocketchat",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/rocketchat.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.GoodreadsG",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/goodreads-g.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Servicestack",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/servicestack.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.FirstOrder",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/first-order.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Empire",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/empire.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Brave",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/brave.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Xbox",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/xbox.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Edge",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/edge.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Speakap",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/speakap.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Trello",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/trello.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.SquareGit",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/square-git.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Schlix",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/schlix.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Maxcdn",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/maxcdn.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Css",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/css.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Fonticons",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/fonticons.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Joget",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/joget.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.StackExchange",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/stack-exchange.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.InternetExplorer",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/internet-explorer.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Meetup",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/meetup.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Firstdraft",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/firstdraft.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Shopify",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/shopify.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Guilded",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/guilded.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.BluetoothB",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/bluetooth-b.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Intercom",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/intercom.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Dailymotion",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/dailymotion.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Usps",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/usps.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Sourcetree",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/sourcetree.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Wix",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/wix.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.LinkedinIn",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/linkedin-in.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Tumblr",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/tumblr.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.OptinMonster",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/optin-monster.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Gg",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/gg.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.VimeoV",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/vimeo-v.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Apple",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/apple.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.CcAmex",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/cc-amex.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Medapps",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/medapps.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Foursquare",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/foursquare.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Vaadin",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/vaadin.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Blogger",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/blogger.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Skyatlas",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/skyatlas.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.WordpressSimple",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/wordpress-simple.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Python",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/python.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Mastodon",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/mastodon.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.GalacticSenate",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/galactic-senate.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Wpexplorer",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/wpexplorer.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.GoogleWallet",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/google-wallet.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Tiktok",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/tiktok.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Firefox",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/firefox.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.GithubAlt",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/github-alt.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Deviantart",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/deviantart.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Playstation",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/playstation.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Microblog",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/microblog.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.SquarePinterest",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/square-pinterest.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Itunes",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/itunes.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Phabricator",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/phabricator.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Chromecast",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/chromecast.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Digg",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/digg.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Perbyte",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/perbyte.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Rust",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/rust.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Opera",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/opera.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.SquareJs",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/square-js.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Mizuni",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/mizuni.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Mendeley",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/mendeley.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.AccessibleIcon",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/accessible-icon.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Skype",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/skype.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.PiedPiperPp",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/pied-piper-pp.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.BraveReverse",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/brave-reverse.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Ebay",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/ebay.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.GetPocket",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/get-pocket.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Weebly",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/weebly.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Sellsy",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/sellsy.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Whmcs",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/whmcs.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Discourse",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/discourse.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.FortAwesomeAlt",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/fort-awesome-alt.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Quora",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/quora.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Weixin",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/weixin.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Safari",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/safari.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Bootstrap",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/bootstrap.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Nimblr",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/nimblr.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Amazon",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/amazon.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Youtube",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/youtube.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Dropbox",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/dropbox.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Dyalog",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/dyalog.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Periscope",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/periscope.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.CcDiscover",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/cc-discover.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.SquareViadeo",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/square-viadeo.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.DAndD",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/d-and-d.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.RedditAlien",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/reddit-alien.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Houzz",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/houzz.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Ello",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/ello.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.CcJcb",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/cc-jcb.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Debian",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/debian.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Strava",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/strava.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.StripeS",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/stripe-s.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Buysellads",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/buysellads.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Behance",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/behance.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.CreativeCommonsSamplingPlus",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/creative-commons-sampling-plus.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Jira",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/jira.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.SquareDribbble",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/square-dribbble.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Lastfm",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/lastfm.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.FacebookF",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/facebook-f.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Hashnode",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/hashnode.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.SquareFacebook",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/square-facebook.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.PhoenixSquadron",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/phoenix-squadron.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Odysee",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/odysee.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Stripe",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/stripe.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.CreativeCommonsSa",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/creative-commons-sa.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.FirefoxBrowser",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/firefox-browser.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Pinterest",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/pinterest.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Sellcast",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/sellcast.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Mintbit",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/mintbit.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Shoelace",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/shoelace.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Ravelry",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/ravelry.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Typo3",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/typo3.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.HireAHelper",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/hire-a-helper.svg"
+    },
+    {
+        "name": "FontAwesome.Brands.Atlassian",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/atlassian.svg"
     }
 ]
