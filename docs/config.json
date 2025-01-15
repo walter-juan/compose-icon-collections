@@ -74,14 +74,6 @@
             ]
         },
         {
-            "name": "Tabler",
-            "value": "tabler",
-            "categories": [
-                "outline",
-                "filled"
-            ]
-        },
-        {
             "name": "FontAwesome",
             "value": "fontawesome",
             "categories": [
@@ -95,6 +87,14 @@
             "value": "simpleicons",
             "categories": [
                 ""
+            ]
+        },
+        {
+            "name": "Tabler",
+            "value": "tabler",
+            "categories": [
+                "outline",
+                "filled"
             ]
         }
     ]
