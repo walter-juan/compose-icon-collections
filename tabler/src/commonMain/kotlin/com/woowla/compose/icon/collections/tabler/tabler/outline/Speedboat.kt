@@ -23,19 +23,15 @@ public val OutlineGroup.Speedboat: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(3.0f, 17.0f)
-                horizontalLineToRelative(13.4f)
+                moveTo(2.0f, 17.0f)
+                horizontalLineToRelative(14.4f)
                 arcToRelative(3.0f, 3.0f, 0.0f, false, false, 2.5f, -1.34f)
                 lineToRelative(3.1f, -4.66f)
-                horizontalLineToRelative(0.0f)
                 horizontalLineToRelative(-6.23f)
                 arcToRelative(4.0f, 4.0f, 0.0f, false, false, -1.49f, 0.29f)
                 lineToRelative(-3.56f, 1.42f)
                 arcToRelative(4.0f, 4.0f, 0.0f, false, true, -1.49f, 0.29f)
-                horizontalLineToRelative(-3.73f)
-                horizontalLineToRelative(0.0f)
-                horizontalLineToRelative(-1.0f)
-                lineToRelative(-1.5f, 4.0f)
+                horizontalLineToRelative(-5.73f)
                 close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),

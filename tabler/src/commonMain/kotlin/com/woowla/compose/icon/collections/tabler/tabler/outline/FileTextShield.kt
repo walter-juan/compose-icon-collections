@@ -13,61 +13,63 @@ import androidx.compose.ui.graphics.vector.path
 import androidx.compose.ui.unit.dp
 import com.woowla.compose.icon.collections.tabler.tabler.OutlineGroup
 
-public val OutlineGroup.Train: ImageVector
+public val OutlineGroup.FileTextShield: ImageVector
     get() {
-        if (_train != null) {
-            return _train!!
+        if (_fileTextShield != null) {
+            return _fileTextShield!!
         }
-        _train = Builder(name = "Train", defaultWidth = 24.0.dp, defaultHeight = 24.0.dp,
-                viewportWidth = 24.0f, viewportHeight = 24.0f).apply {
+        _fileTextShield = Builder(name = "FileTextShield", defaultWidth = 24.0.dp, defaultHeight =
+                24.0.dp, viewportWidth = 24.0f, viewportHeight = 24.0f).apply {
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(21.0f, 13.0f)
-                curveToRelative(0.0f, -3.87f, -3.37f, -7.0f, -10.0f, -7.0f)
-                horizontalLineToRelative(-8.0f)
-            }
-            path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
-                    StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(3.0f, 15.0f)
-                horizontalLineToRelative(16.0f)
-                arcToRelative(2.0f, 2.0f, 0.0f, false, false, 2.0f, -2.0f)
-            }
-            path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
-                    StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(3.0f, 6.0f)
-                verticalLineToRelative(5.0f)
-                horizontalLineToRelative(17.5f)
-            }
-            path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
-                    StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(3.0f, 11.0f)
+                moveTo(13.0f, 3.0f)
                 verticalLineToRelative(4.0f)
+                arcToRelative(0.997f, 0.997f, 0.0f, false, false, 1.0f, 1.0f)
+                horizontalLineToRelative(4.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(8.0f, 11.0f)
-                verticalLineToRelative(-5.0f)
+                moveTo(11.0f, 21.0f)
+                horizontalLineToRelative(-5.0f)
+                arcToRelative(2.0f, 2.0f, 0.0f, false, true, -2.0f, -2.0f)
+                verticalLineToRelative(-14.0f)
+                arcToRelative(2.0f, 2.0f, 0.0f, false, true, 2.0f, -2.0f)
+                horizontalLineToRelative(7.0f)
+                lineToRelative(5.0f, 5.0f)
+                verticalLineToRelative(3.5f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(13.0f, 11.0f)
-                verticalLineToRelative(-4.5f)
+                moveTo(8.0f, 9.0f)
+                horizontalLineToRelative(1.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(3.0f, 19.0f)
-                horizontalLineToRelative(18.0f)
+                moveTo(8.0f, 12.994f)
+                lineToRelative(3.0f, 0.0f)
+            }
+            path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
+                    strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
+                    StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
+                moveTo(8.0f, 16.997f)
+                lineToRelative(2.0f, 0.0f)
+            }
+            path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
+                    strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
+                    StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
+                moveTo(21.0f, 15.994f)
+                curveToRelative(0.0f, 4.0f, -2.5f, 6.0f, -3.5f, 6.0f)
+                reflectiveCurveToRelative(-3.5f, -2.0f, -3.5f, -6.0f)
+                curveToRelative(1.0f, 0.0f, 2.5f, -0.5f, 3.5f, -1.5f)
+                curveToRelative(1.0f, 1.0f, 2.5f, 1.5f, 3.5f, 1.5f)
             }
         }
         .build()
-        return _train!!
+        return _fileTextShield!!
     }
 
-private var _train: ImageVector? = null
+private var _fileTextShield: ImageVector? = null

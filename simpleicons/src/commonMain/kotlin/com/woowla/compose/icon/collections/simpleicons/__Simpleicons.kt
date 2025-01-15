@@ -591,6 +591,7 @@ import com.woowla.compose.icon.collections.simpleicons.simpleicons.Comma
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Commerzbank
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Commitlint
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Commodore
+import com.woowla.compose.icon.collections.simpleicons.simpleicons.Commonlisp
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Commonworkflowlanguage
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Compilerexplorer
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Composer
@@ -1029,6 +1030,7 @@ import com.woowla.compose.icon.collections.simpleicons.simpleicons.Furaffinity
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Furrynetwork
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Fusionauth
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Futurelearn
+import com.woowla.compose.icon.collections.simpleicons.simpleicons.Fyle
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.G2
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.G2a
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.G2g
@@ -1162,6 +1164,7 @@ import com.woowla.compose.icon.collections.simpleicons.simpleicons.Googletasks
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Googletranslate
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Gotomeeting
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Grab
+import com.woowla.compose.icon.collections.simpleicons.simpleicons.Gradio
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Gradle
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Gradleplaypublisher
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Grafana
@@ -1877,6 +1880,7 @@ import com.woowla.compose.icon.collections.simpleicons.simpleicons.Nextra
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Nextui
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Nexusmods
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Nfc
+import com.woowla.compose.icon.collections.simpleicons.simpleicons.Nfcore
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Nginx
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Nginxproxymanager
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Ngrok
@@ -2991,6 +2995,7 @@ import com.woowla.compose.icon.collections.simpleicons.simpleicons.Usps
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Utorrent
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Uv
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.V
+import com.woowla.compose.icon.collections.simpleicons.simpleicons.V0
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.V2ex
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.V8
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Vaadin
@@ -3161,6 +3166,7 @@ import com.woowla.compose.icon.collections.simpleicons.simpleicons.Wprocket
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Writedotas
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Wwe
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Wwise
+import com.woowla.compose.icon.collections.simpleicons.simpleicons.Wxt
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Wykop
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Wyze
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.X
@@ -3329,7 +3335,7 @@ public val Simpleicons.AllIcons: ____KtList<ImageVector>
         Codementor, Codemirror, Codenewbie, Codepen, Codeproject, Coder, Codersrank, Coderwall,
         Codesandbox, Codeship, Codesignal, Codestream, Codewars, Codingame, Codingninjas, Codio,
         Coffeescript, Coggle, Cognizant, Cohost, Coinbase, Coinmarketcap, Collaboraonline,
-        Comicfury, Comma, Commerzbank, Commitlint, Commodore, Commonworkflowlanguage,
+        Comicfury, Comma, Commerzbank, Commitlint, Commodore, Commonlisp, Commonworkflowlanguage,
         Compilerexplorer, Composer, Comptia, Comsol, Conan, Concourse, Condaforge, Conekta,
         Confluence, Construct3, Consul, Contabo, Contactlesspayment, Containerd, Contao, Contentful,
         Contentstack, Continente, Contributorcovenant, Conventionalcommits, Convertio, Cookiecutter,
@@ -3380,7 +3386,7 @@ public val Simpleicons.AllIcons: ____KtList<ImageVector>
         Fraunhofergesellschaft, Freebsd, Freecad, Freecodecamp, Freedesktopdotorg, Freelancer,
         Freelancermap, Freenas, Freenet, Freepik, Fresh, Frontendmentor, Frontify, Fsecure, Fsharp,
         Fubo, Fueler, Fugacloud, Fujifilm, Fujitsu, Furaffinity, Furrynetwork, Fusionauth,
-        Futurelearn, G2, G2a, G2g, Galaxus, Gamebanana, Gamedeveloper, Gamejolt, Gameloft,
+        Futurelearn, Fyle, G2, G2a, G2g, Galaxus, Gamebanana, Gamedeveloper, Gamejolt, Gameloft,
         Gamemaker, Gamescience, Garmin, Gatling, Gatsby, Gcore, Gdal, Geeksforgeeks,
         Generalelectric, Generalmotors, Genius, Gentoo, Geocaching, Geode, Geopandas, Gerrit, Getx,
         Ghost, Ghostery, Gimp, Gin, Giphy, Git, Gitbook, Gitconnected, Gitea, Gitee, Gitextensions,
@@ -3398,10 +3404,10 @@ public val Simpleicons.AllIcons: ____KtList<ImageVector>
         Googlegemini, Googlehome, Googlekeep, Googlelens, Googlemaps, Googlemarketingplatform,
         Googlemeet, Googlemessages, Googlenearby, Googlenews, Googlepay, Googlephotos, Googleplay,
         Googlepubsub, Googlescholar, Googlesearchconsole, Googlesheets, Googleslides,
-        Googlestreetview, Googletagmanager, Googletasks, Googletranslate, Gotomeeting, Grab, Gradle,
-        Gradleplaypublisher, Grafana, Grammarly, Grandfrais, Grapheneos, Graphite, Graphql, Grav,
-        Gravatar, Graylog, Greasyfork, Greatlearning, Greenhouse, Greensock, Griddotai, Gridsome,
-        Grocy, Groupme, Groupon, Grubhub, Grunt, Gsk, Gsmarenadotcom, Gstreamer, Gtk,
+        Googlestreetview, Googletagmanager, Googletasks, Googletranslate, Gotomeeting, Grab, Gradio,
+        Gradle, Gradleplaypublisher, Grafana, Grammarly, Grandfrais, Grapheneos, Graphite, Graphql,
+        Grav, Gravatar, Graylog, Greasyfork, Greatlearning, Greenhouse, Greensock, Griddotai,
+        Gridsome, Grocy, Groupme, Groupon, Grubhub, Grunt, Gsk, Gsmarenadotcom, Gstreamer, Gtk,
         Guangzhoumetro, Guilded, Guitarpro, Gulp, Gumroad, Gumtree, Gunicorn, Gurobi, Gusto,
         Gutenberg, H3, Habr, Hackaday, Hackclub, Hackerearth, Hackernoon, Hackerone, Hackerrank,
         Hackster, Hackthebox, Hal, Handlebarsdotjs, Handm, Handshake, HandshakeProtocol, Happycow,
@@ -3477,21 +3483,21 @@ public val Simpleicons.AllIcons: ____KtList<ImageVector>
         Neptune, Nestjs, Netapp, Netbsd, Netcup, Netdata, Neteasecloudmusic, Netflix, Netgear,
         Netlify, Nette, Netto, Neutralinojs, Newbalance, Newegg, Newjapanprowrestling, Newrelic,
         Newyorktimes, Nexon, Nextbilliondotai, Nextcloud, Nextdns, Nextdoor, Nextdotjs, Nextflow,
-        Nextra, Nextui, Nexusmods, Nfc, Nginx, Nginxproxymanager, Ngrok, Ngrx, Nhl, Nicehash,
-        Niconico, Nike, Nikon, Nim, Nissan, Nixos, Nodedotjs, Nodemon, Nodered, Nokia, Nomad, Norco,
-        Nordicsemiconductor, Nordvpn, Normalizedotcss, Norton, Norwegian, Notepadplusplus, Notion,
-        Notist, Nounproject, Novu, Now, Npm, Nrwl, Nsis, Ntfy, Nubank, Nucleo, Nuget, Nuke, Numba,
-        Number1001Tracklists, Number1And1, Number1Dot1dot1dot1, Number1Panel, Number1Password,
-        Number2Fas, Number2K, Number30Secondsofcode, Number365Datascience, Number3M, Number42,
-        Number4Chan, Number4D, Number500Px, Number7Zip, Number99Designs, Number9Gag, Numpy,
-        Nunjucks, Nushell, Nutanix, Nuxt, Nvidia, Nvm, Nx, Nxp, Nzxt, O2, Obb, Observable, Obsidian,
-        Obsstudio, Obtainium, Ocaml, Oclc, Oclif, Octanerender, Octave, Octobercms, Octoprint,
-        Octopusdeploy, Oculus, Odin, Odnoklassniki, Odoo, Odysee, Ohdear, Okcupid, Okta, Okx,
-        Ollama, Omadacloud, Oneplus, Onlyfans, Onlyoffice, Onnx, Onstar, Opel, Openaccess, Openai,
-        Openaigym, Openapiinitiative, Openbadges, Openbsd, Openbugbounty, Opencollective,
-        Opencontainersinitiative, Opencv, Openfaas, Opengl, Openhab, Openid, Openjdk,
-        Openjsfoundation, Openlayers, Openmediavault, Openmined, Opennebula, Openproject, Openscad,
-        Opensea, Opensearch, Opensourcehardware, Opensourceinitiative, Openssl, Openstack,
+        Nextra, Nextui, Nexusmods, Nfc, Nfcore, Nginx, Nginxproxymanager, Ngrok, Ngrx, Nhl,
+        Nicehash, Niconico, Nike, Nikon, Nim, Nissan, Nixos, Nodedotjs, Nodemon, Nodered, Nokia,
+        Nomad, Norco, Nordicsemiconductor, Nordvpn, Normalizedotcss, Norton, Norwegian,
+        Notepadplusplus, Notion, Notist, Nounproject, Novu, Now, Npm, Nrwl, Nsis, Ntfy, Nubank,
+        Nucleo, Nuget, Nuke, Numba, Number1001Tracklists, Number1And1, Number1Dot1dot1dot1,
+        Number1Panel, Number1Password, Number2Fas, Number2K, Number30Secondsofcode,
+        Number365Datascience, Number3M, Number42, Number4Chan, Number4D, Number500Px, Number7Zip,
+        Number99Designs, Number9Gag, Numpy, Nunjucks, Nushell, Nutanix, Nuxt, Nvidia, Nvm, Nx, Nxp,
+        Nzxt, O2, Obb, Observable, Obsidian, Obsstudio, Obtainium, Ocaml, Oclc, Oclif, Octanerender,
+        Octave, Octobercms, Octoprint, Octopusdeploy, Oculus, Odin, Odnoklassniki, Odoo, Odysee,
+        Ohdear, Okcupid, Okta, Okx, Ollama, Omadacloud, Oneplus, Onlyfans, Onlyoffice, Onnx, Onstar,
+        Opel, Openaccess, Openai, Openaigym, Openapiinitiative, Openbadges, Openbsd, Openbugbounty,
+        Opencollective, Opencontainersinitiative, Opencv, Openfaas, Opengl, Openhab, Openid,
+        Openjdk, Openjsfoundation, Openlayers, Openmediavault, Openmined, Opennebula, Openproject,
+        Openscad, Opensea, Opensearch, Opensourcehardware, Opensourceinitiative, Openssl, Openstack,
         Openstreetmap, Opensuse, Opentelemetry, Opentext, Opentofu, Openverse, Openvpn, Openwrt,
         Openzeppelin, Openzfs, Opera, Operagx, Opnsense, Oppo, Opsgenie, Opslevel, Optimism, Orange,
         Orcid, Oreilly, Org, Organicmaps, Origin, Osano, Osf, Osgeo, Oshkosh, Osmc, Osu, Otto,
@@ -3605,7 +3611,7 @@ public val Simpleicons.AllIcons: ____KtList<ImageVector>
         Ulule, Umami, Umbraco, Uml, Unacademy, Underarmour, Underscoredotjs, Undertale, Unicode,
         Unilever, Uniqlo, UniqloJa, Unitedairlines, Unitednations, Unity, Unjs, Unlicense, Unocss,
         Unpkg, Unraid, Unrealengine, Unsplash, Untappd, Upcloud, Uphold, Uplabs, Upptime, Ups,
-        Upstash, Uptimekuma, Upwork, Usps, Utorrent, Uv, V, V2ex, V8, Vaadin, Vagrant, Vala,
+        Upstash, Uptimekuma, Upwork, Usps, Utorrent, Uv, V, V0, V2ex, V8, Vaadin, Vagrant, Vala,
         Valorant, Valve, Vapor, Vault, Vaultwarden, Vauxhall, Vbulletin, Vectary, Vectorlogozone,
         Vectorworks, Veeam, Veed, Veepee, Vega, Vegas, Velog, Vencord, Venmo, Vercel, Verdaccio,
         Veritas, Verizon, Vespa, Vestel, Vexxhost, Vfairs, Viadeo, Viaplay, Viber, Viblo,
@@ -3624,7 +3630,7 @@ public val Simpleicons.AllIcons: ____KtList<ImageVector>
         Wikimediafoundation, Wikipedia, Wikiquote, Wikiversity, Wikivoyage, Winamp, Wine, Wipro,
         Wire, Wireguard, Wireshark, Wise, Wish, Wistia, Wix, Wizzair, Wolfram, Wolframlanguage,
         Wolframmathematica, Wondershare, Wondersharefilmora, Woo, Woocommerce, Wordpress, Workplace,
-        Worldhealthorganization, Wpengine, Wpexplorer, Wprocket, Writedotas, Wwe, Wwise, Wykop,
+        Worldhealthorganization, Wpengine, Wpexplorer, Wprocket, Writedotas, Wwe, Wwise, Wxt, Wykop,
         Wyze, X, Xampp, Xcode, Xdadevelopers, Xdotorg, Xendit, Xero, Xfce, Xiaohongshu, Xiaomi,
         Xing, Xml, Xmpp, Xo, Xrp, Xsplit, Xstate, Xubuntu, Yabai, Yale, Yamahacorporation,
         Yamahamotorcorporation, Yaml, Yandexcloud, Yarn, Ycombinator, Yelp, Yeti, Yii, Yoast,

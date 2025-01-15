@@ -2231,6 +2231,7 @@ import com.woowla.compose.icon.collections.tabler.tabler.outline.FileStar
 import com.woowla.compose.icon.collections.tabler.tabler.outline.FileSymlink
 import com.woowla.compose.icon.collections.tabler.tabler.outline.FileText
 import com.woowla.compose.icon.collections.tabler.tabler.outline.FileTextAi
+import com.woowla.compose.icon.collections.tabler.tabler.outline.FileTextShield
 import com.woowla.compose.icon.collections.tabler.tabler.outline.FileTextSpark
 import com.woowla.compose.icon.collections.tabler.tabler.outline.FileTime
 import com.woowla.compose.icon.collections.tabler.tabler.outline.FileTypeBmp
@@ -2489,6 +2490,7 @@ import com.woowla.compose.icon.collections.tabler.tabler.outline.H6
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Hammer
 import com.woowla.compose.icon.collections.tabler.tabler.outline.HammerOff
 import com.woowla.compose.icon.collections.tabler.tabler.outline.HandClick
+import com.woowla.compose.icon.collections.tabler.tabler.outline.HandClickOff
 import com.woowla.compose.icon.collections.tabler.tabler.outline.HandFinger
 import com.woowla.compose.icon.collections.tabler.tabler.outline.HandFingerDown
 import com.woowla.compose.icon.collections.tabler.tabler.outline.HandFingerLeft
@@ -3912,6 +3914,7 @@ import com.woowla.compose.icon.collections.tabler.tabler.outline.RepeatOff
 import com.woowla.compose.icon.collections.tabler.tabler.outline.RepeatOnce
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Replace
 import com.woowla.compose.icon.collections.tabler.tabler.outline.ReplaceOff
+import com.woowla.compose.icon.collections.tabler.tabler.outline.ReplaceUser
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Report
 import com.woowla.compose.icon.collections.tabler.tabler.outline.ReportAnalytics
 import com.woowla.compose.icon.collections.tabler.tabler.outline.ReportMedical
@@ -5296,13 +5299,13 @@ public val OutlineGroup.AllIcons: ____KtList<ImageVector>
         FileLambda, FileLike, FileMinus, FileMusic, FileNeutral, FileOff, FileOrientation,
         FilePencil, FilePercent, FilePhone, FilePlus, FilePower, FileReport, FileRss, FileSad,
         FileScissors, FileSearch, FileSettings, FileShredder, FileSignal, FileSmile, FileSpark,
-        FileSpreadsheet, FileStack, FileStar, FileSymlink, FileText, FileTextAi, FileTextSpark,
-        FileTime, FileTypeBmp, FileTypeCss, FileTypeCsv, FileTypeDoc, FileTypeDocx, FileTypeHtml,
-        FileTypeJpg, FileTypeJs, FileTypeJsx, FileTypePdf, FileTypePhp, FileTypePng, FileTypePpt,
-        FileTypeRs, FileTypeSql, FileTypeSvg, FileTypeTs, FileTypeTsx, FileTypeTxt, FileTypeVue,
-        FileTypeXls, FileTypeXml, FileTypeZip, FileTypography, FileUnknown, FileUpload, FileVector,
-        FileWord, FileX, FileZip, Files, FilesOff, Filter, FilterBolt, FilterCancel, FilterCheck,
-        FilterCode, FilterCog, FilterDiscount, FilterDollar, FilterDown, FilterEdit,
+        FileSpreadsheet, FileStack, FileStar, FileSymlink, FileText, FileTextAi, FileTextShield,
+        FileTextSpark, FileTime, FileTypeBmp, FileTypeCss, FileTypeCsv, FileTypeDoc, FileTypeDocx,
+        FileTypeHtml, FileTypeJpg, FileTypeJs, FileTypeJsx, FileTypePdf, FileTypePhp, FileTypePng,
+        FileTypePpt, FileTypeRs, FileTypeSql, FileTypeSvg, FileTypeTs, FileTypeTsx, FileTypeTxt,
+        FileTypeVue, FileTypeXls, FileTypeXml, FileTypeZip, FileTypography, FileUnknown, FileUpload,
+        FileVector, FileWord, FileX, FileZip, Files, FilesOff, Filter, FilterBolt, FilterCancel,
+        FilterCheck, FilterCode, FilterCog, FilterDiscount, FilterDollar, FilterDown, FilterEdit,
         FilterExclamation, FilterHeart, FilterMinus, FilterOff, FilterPause, FilterPin, FilterPlus,
         FilterQuestion, FilterSearch, FilterShare, FilterStar, FilterUp, FilterX, Filters,
         Fingerprint, FingerprintOff, FingerprintScan, FireExtinguisher, FireHydrant, FireHydrantOff,
@@ -5330,7 +5333,7 @@ public val OutlineGroup.AllIcons: ____KtList<ImageVector>
         GlassOff, Globe, GlobeOff, GoGame, Golf, GolfOff, Gps, Gradienter, Grain, Graph, GraphOff,
         Grave, Grave2, Grid3x3, Grid4x4, GridDots, GridGoldenratio, GridPattern, GridScan, Grill,
         GrillFork, GrillOff, GrillSpatula, GripHorizontal, GripVertical, Growth, GuitarPick,
-        Gymnastics, H1, H2, H3, H4, H5, H6, Hammer, HammerOff, HandClick, HandFinger,
+        Gymnastics, H1, H2, H3, H4, H5, H6, Hammer, HammerOff, HandClick, HandClickOff, HandFinger,
         HandFingerDown, HandFingerLeft, HandFingerOff, HandFingerRight, HandGrab, HandLittleFinger,
         HandLoveYou, HandMiddleFinger, HandMove, HandOff, HandRingFinger, HandSanitizer, HandStop,
         HandThreeFingers, HandTwoFingers, Hanger, Hanger2, HangerOff, Hash, Haze, HazeMoon, Hdr,
@@ -5538,34 +5541,34 @@ public val OutlineGroup.AllIcons: ____KtList<ImageVector>
         RectangularPrismOff, RectangularPrismPlus, Recycle, RecycleOff, Refresh, RefreshAlert,
         RefreshDot, RefreshOff, Regex, RegexOff, Registered, RelationManyToMany, RelationOneToMany,
         RelationOneToOne, Reload, Reorder, Repeat, RepeatOff, RepeatOnce, Replace, ReplaceOff,
-        Report, ReportAnalytics, ReportMedical, ReportMoney, ReportOff, ReportSearch, ReservedLine,
-        Resize, Restore, RewindBackward10, RewindBackward15, RewindBackward20, RewindBackward30,
-        RewindBackward40, RewindBackward5, RewindBackward50, RewindBackward60, RewindForward10,
-        RewindForward15, RewindForward20, RewindForward30, RewindForward40, RewindForward5,
-        RewindForward50, RewindForward60, RibbonHealth, Rings, Ripple, RippleOff, Road, RoadOff,
-        RoadSign, Robot, RobotFace, RobotOff, Rocket, RocketOff, RollerSkating, Rollercoaster,
-        RollercoasterOff, Rosette, RosetteDiscount, RosetteDiscountCheck, RosetteDiscountCheckOff,
-        RosetteDiscountOff, RosetteNumber0, RosetteNumber1, RosetteNumber2, RosetteNumber3,
-        RosetteNumber4, RosetteNumber5, RosetteNumber6, RosetteNumber7, RosetteNumber8,
-        RosetteNumber9, Rotate, Rotate2, Rotate360, Rotate3d, RotateClockwise, RotateClockwise2,
-        RotateDot, RotateRectangle, Route, Route2, RouteAltLeft, RouteAltRight, RouteOff, RouteScan,
-        RouteSquare, RouteSquare2, RouteX, RouteX2, Router, RouterOff, RowInsertBottom,
-        RowInsertTop, RowRemove, Rss, RubberStamp, RubberStampOff, Ruler, Ruler2, Ruler2Off, Ruler3,
-        RulerMeasure, RulerMeasure2, RulerOff, Run, RvTruck, STurnDown, STurnLeft, STurnRight,
-        STurnUp, Sailboat, Sailboat2, SailboatOff, Salad, Salt, Sandbox, Satellite, SatelliteOff,
-        Sausage, Scale, ScaleOff, ScaleOutline, ScaleOutlineOff, Scan, ScanEye, ScanPosition,
-        Schema, SchemaOff, School, SchoolBell, SchoolOff, Scissors, ScissorsOff, Scooter,
-        ScooterElectric, Scoreboard, ScreenShare, ScreenShareOff, Screenshot, Scribble, ScribbleOff,
-        Script, ScriptMinus, ScriptPlus, ScriptX, ScubaDiving, ScubaDivingTank, ScubaMask,
-        ScubaMaskOff, Sdk, Search, SearchOff, Section, SectionSign, Seedling, SeedlingOff, Select,
-        SelectAll, Selector, Send, Send2, SendOff, Seo, Separator, SeparatorHorizontal,
-        SeparatorVertical, Server, Server2, ServerBolt, ServerCog, ServerOff, ServerSpark,
-        Servicemark, Settings, Settings2, SettingsAutomation, SettingsBolt, SettingsCancel,
-        SettingsCheck, SettingsCode, SettingsCog, SettingsDollar, SettingsDown, SettingsExclamation,
-        SettingsHeart, SettingsMinus, SettingsOff, SettingsPause, SettingsPin, SettingsPlus,
-        SettingsQuestion, SettingsSearch, SettingsShare, SettingsSpark, SettingsStar, SettingsUp,
-        SettingsX, Shadow, ShadowOff, Shape, Shape2, Shape3, ShapeOff, Share, Share2, Share3,
-        ShareOff, Shareplay, Shield, ShieldBolt, ShieldCancel, ShieldCheck, ShieldCheckered,
+        ReplaceUser, Report, ReportAnalytics, ReportMedical, ReportMoney, ReportOff, ReportSearch,
+        ReservedLine, Resize, Restore, RewindBackward10, RewindBackward15, RewindBackward20,
+        RewindBackward30, RewindBackward40, RewindBackward5, RewindBackward50, RewindBackward60,
+        RewindForward10, RewindForward15, RewindForward20, RewindForward30, RewindForward40,
+        RewindForward5, RewindForward50, RewindForward60, RibbonHealth, Rings, Ripple, RippleOff,
+        Road, RoadOff, RoadSign, Robot, RobotFace, RobotOff, Rocket, RocketOff, RollerSkating,
+        Rollercoaster, RollercoasterOff, Rosette, RosetteDiscount, RosetteDiscountCheck,
+        RosetteDiscountCheckOff, RosetteDiscountOff, RosetteNumber0, RosetteNumber1, RosetteNumber2,
+        RosetteNumber3, RosetteNumber4, RosetteNumber5, RosetteNumber6, RosetteNumber7,
+        RosetteNumber8, RosetteNumber9, Rotate, Rotate2, Rotate360, Rotate3d, RotateClockwise,
+        RotateClockwise2, RotateDot, RotateRectangle, Route, Route2, RouteAltLeft, RouteAltRight,
+        RouteOff, RouteScan, RouteSquare, RouteSquare2, RouteX, RouteX2, Router, RouterOff,
+        RowInsertBottom, RowInsertTop, RowRemove, Rss, RubberStamp, RubberStampOff, Ruler, Ruler2,
+        Ruler2Off, Ruler3, RulerMeasure, RulerMeasure2, RulerOff, Run, RvTruck, STurnDown,
+        STurnLeft, STurnRight, STurnUp, Sailboat, Sailboat2, SailboatOff, Salad, Salt, Sandbox,
+        Satellite, SatelliteOff, Sausage, Scale, ScaleOff, ScaleOutline, ScaleOutlineOff, Scan,
+        ScanEye, ScanPosition, Schema, SchemaOff, School, SchoolBell, SchoolOff, Scissors,
+        ScissorsOff, Scooter, ScooterElectric, Scoreboard, ScreenShare, ScreenShareOff, Screenshot,
+        Scribble, ScribbleOff, Script, ScriptMinus, ScriptPlus, ScriptX, ScubaDiving,
+        ScubaDivingTank, ScubaMask, ScubaMaskOff, Sdk, Search, SearchOff, Section, SectionSign,
+        Seedling, SeedlingOff, Select, SelectAll, Selector, Send, Send2, SendOff, Seo, Separator,
+        SeparatorHorizontal, SeparatorVertical, Server, Server2, ServerBolt, ServerCog, ServerOff,
+        ServerSpark, Servicemark, Settings, Settings2, SettingsAutomation, SettingsBolt,
+        SettingsCancel, SettingsCheck, SettingsCode, SettingsCog, SettingsDollar, SettingsDown,
+        SettingsExclamation, SettingsHeart, SettingsMinus, SettingsOff, SettingsPause, SettingsPin,
+        SettingsPlus, SettingsQuestion, SettingsSearch, SettingsShare, SettingsSpark, SettingsStar,
+        SettingsUp, SettingsX, Shadow, ShadowOff, Shape, Shape2, Shape3, ShapeOff, Share, Share2,
+        Share3, ShareOff, Shareplay, Shield, ShieldBolt, ShieldCancel, ShieldCheck, ShieldCheckered,
         ShieldChevron, ShieldCode, ShieldCog, ShieldDollar, ShieldDown, ShieldExclamation,
         ShieldHalf, ShieldHeart, ShieldLock, ShieldMinus, ShieldOff, ShieldPause, ShieldPin,
         ShieldPlus, ShieldQuestion, ShieldSearch, ShieldShare, ShieldStar, ShieldUp, ShieldX, Ship,

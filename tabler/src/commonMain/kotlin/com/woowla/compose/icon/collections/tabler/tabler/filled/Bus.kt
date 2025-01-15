@@ -11,60 +11,58 @@ import androidx.compose.ui.graphics.vector.path
 import androidx.compose.ui.unit.dp
 import com.woowla.compose.icon.collections.tabler.tabler.FilledGroup
 
-public val FilledGroup.Car: ImageVector
+public val FilledGroup.Bus: ImageVector
     get() {
-        if (_car != null) {
-            return _car!!
+        if (_bus != null) {
+            return _bus!!
         }
-        _car = Builder(name = "Car", defaultWidth = 24.0.dp, defaultHeight = 24.0.dp, viewportWidth
+        _bus = Builder(name = "Bus", defaultWidth = 24.0.dp, defaultHeight = 24.0.dp, viewportWidth
                 = 24.0f, viewportHeight = 24.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(14.0f, 5.0f)
-                arcToRelative(1.0f, 1.0f, 0.0f, false, true, 0.694f, 0.28f)
-                lineToRelative(0.087f, 0.095f)
-                lineToRelative(3.699f, 4.625f)
-                horizontalLineToRelative(0.52f)
-                arcToRelative(3.0f, 3.0f, 0.0f, false, true, 2.995f, 2.824f)
-                lineToRelative(0.005f, 0.176f)
-                verticalLineToRelative(4.0f)
+                moveTo(17.0f, 4.0f)
+                curveToRelative(3.4f, 0.0f, 6.0f, 3.64f, 6.0f, 8.0f)
+                verticalLineToRelative(5.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, false, true, -1.0f, 1.0f)
                 horizontalLineToRelative(-1.171f)
                 arcToRelative(3.001f, 3.001f, 0.0f, false, true, -5.658f, 0.0f)
-                horizontalLineToRelative(-4.342f)
+                horizontalLineToRelative(-6.342f)
                 arcToRelative(3.001f, 3.001f, 0.0f, false, true, -5.658f, 0.0f)
                 horizontalLineToRelative(-1.171f)
                 arcToRelative(1.0f, 1.0f, 0.0f, false, true, -1.0f, -1.0f)
-                verticalLineToRelative(-6.0f)
-                lineToRelative(0.007f, -0.117f)
-                lineToRelative(0.008f, -0.056f)
-                lineToRelative(0.017f, -0.078f)
-                lineToRelative(0.012f, -0.036f)
-                lineToRelative(0.014f, -0.05f)
-                lineToRelative(2.014f, -5.034f)
-                arcToRelative(1.0f, 1.0f, 0.0f, false, true, 0.928f, -0.629f)
+                verticalLineToRelative(-11.0f)
+                arcToRelative(2.0f, 2.0f, 0.0f, false, true, 2.0f, -2.0f)
                 close()
-                moveTo(7.0f, 16.0f)
+                moveTo(6.0f, 16.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, true, false, 0.0f, 2.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, false, false, 0.0f, -2.0f)
-                moveToRelative(10.0f, 0.0f)
+                moveToRelative(12.0f, 0.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, true, false, 0.0f, 2.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, false, false, 0.0f, -2.0f)
-                moveToRelative(-6.0f, -9.0f)
-                horizontalLineToRelative(-5.324f)
-                lineToRelative(-1.2f, 3.0f)
-                horizontalLineToRelative(6.524f)
-                close()
-                moveTo(13.52f, 7.0f)
-                horizontalLineToRelative(-0.52f)
+                moveToRelative(-0.76f, -9.989f)
+                lineToRelative(1.068f, 4.989f)
+                horizontalLineToRelative(2.636f)
+                curveToRelative(-0.313f, -2.756f, -1.895f, -4.82f, -3.704f, -4.989f)
+                moveToRelative(-11.24f, -0.011f)
+                horizontalLineToRelative(-3.0f)
                 verticalLineToRelative(3.0f)
-                horizontalLineToRelative(2.92f)
+                horizontalLineToRelative(3.0f)
+                close()
+                moveTo(11.0f, 6.0f)
+                horizontalLineToRelative(-3.0f)
+                verticalLineToRelative(3.0f)
+                horizontalLineToRelative(3.0f)
+                close()
+                moveTo(15.191f, 6.0f)
+                horizontalLineToRelative(-2.191f)
+                verticalLineToRelative(3.0f)
+                horizontalLineToRelative(2.834f)
                 close()
             }
         }
         .build()
-        return _car!!
+        return _bus!!
     }
 
-private var _car: ImageVector? = null
+private var _bus: ImageVector? = null

@@ -74,20 +74,20 @@
             ]
         },
         {
-            "name": "Tabler",
-            "value": "tabler",
-            "categories": [
-                "outline",
-                "filled"
-            ]
-        },
-        {
             "name": "FontAwesome",
             "value": "fontawesome",
             "categories": [
                 "regular",
                 "solid",
                 "brands"
+            ]
+        },
+        {
+            "name": "Tabler",
+            "value": "tabler",
+            "categories": [
+                "outline",
+                "filled"
             ]
         },
         {
