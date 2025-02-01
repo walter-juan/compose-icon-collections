@@ -389,6 +389,7 @@ import com.woowla.compose.icon.collections.tabler.tabler.filled.Crop75
 import com.woowla.compose.icon.collections.tabler.tabler.filled.CropLandscape
 import com.woowla.compose.icon.collections.tabler.tabler.filled.CropPortrait
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Cross
+import com.woowla.compose.icon.collections.tabler.tabler.filled.CurrentLocation
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Dashboard
 import com.woowla.compose.icon.collections.tabler.tabler.filled.DeviceCctv
 import com.woowla.compose.icon.collections.tabler.tabler.filled.DeviceDesktop
@@ -430,12 +431,29 @@ import com.woowla.compose.icon.collections.tabler.tabler.filled.EggCracked
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Elevator
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Engine
 import com.woowla.compose.icon.collections.tabler.tabler.filled.ExclamationCircle
+import com.woowla.compose.icon.collections.tabler.tabler.filled.Exposure
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Eye
+import com.woowla.compose.icon.collections.tabler.tabler.filled.EyeTable
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Eyeglass
+import com.woowla.compose.icon.collections.tabler.tabler.filled.Eyeglass2
+import com.woowla.compose.icon.collections.tabler.tabler.filled.FaceMask
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Favicon
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Feather
+import com.woowla.compose.icon.collections.tabler.tabler.filled.Fence
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Ferry
+import com.woowla.compose.icon.collections.tabler.tabler.filled.FidgetSpinner
 import com.woowla.compose.icon.collections.tabler.tabler.filled.File
+import com.woowla.compose.icon.collections.tabler.tabler.filled.FileDescription
+import com.woowla.compose.icon.collections.tabler.tabler.filled.FileDigit
+import com.woowla.compose.icon.collections.tabler.tabler.filled.FileHorizontal
+import com.woowla.compose.icon.collections.tabler.tabler.filled.FileInvoice
+import com.woowla.compose.icon.collections.tabler.tabler.filled.FileMinus
+import com.woowla.compose.icon.collections.tabler.tabler.filled.FileNeutral
+import com.woowla.compose.icon.collections.tabler.tabler.filled.FilePower
+import com.woowla.compose.icon.collections.tabler.tabler.filled.FileSad
+import com.woowla.compose.icon.collections.tabler.tabler.filled.FileSmile
+import com.woowla.compose.icon.collections.tabler.tabler.filled.FileStar
+import com.woowla.compose.icon.collections.tabler.tabler.filled.FileText
 import com.woowla.compose.icon.collections.tabler.tabler.filled.FileX
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Filter
 import com.woowla.compose.icon.collections.tabler.tabler.filled.Filters
@@ -982,36 +1000,38 @@ public val FilledGroup.AllIcons: ____KtList<ImageVector>
         CoinMonero, CoinPound, CoinRupee, CoinTaka, CoinYen, CoinYuan, Compass, Cone, Cone2,
         Contrast, Contrast2, Cookie, CookieMan, CopyCheck, CopyMinus, CopyPlus, CopyX, Copyleft,
         Copyright, CreditCard, Crop11, Crop169, Crop32, Crop54, Crop75, CropLandscape, CropPortrait,
-        Cross, Dashboard, DeviceCctv, DeviceDesktop, DeviceGamepad3, DeviceHeartMonitor, DeviceImac,
-        DeviceIpad, DeviceMobile, DeviceRemote, DeviceSpeaker, DeviceTablet, DeviceTv, DeviceTvOld,
-        DeviceUnknown, DeviceUsb, DeviceVisionPro, DeviceWatch, Dialpad, Diamond, Diamonds, Dice,
-        Dice1, Dice2, Dice3, Dice4, Dice5, Dice6, DirectionArrows, DirectionSign, Directions, Disc,
-        Discount, Droplet, DropletHalf, DropletHalf2, Droplets, Egg, EggCracked, Elevator, Engine,
-        ExclamationCircle, Eye, Eyeglass, Favicon, Feather, Ferry, File, FileX, Filter, Filters,
-        FishBone, Flag, Flag2, Flag3, Flame, Flare, Flask, Flask2, Flower, Folder, Folders, Forbid,
-        Forbid2, Fountain, Function, GardenCart, GasStation, Gauge, Ghost, Ghost2, Ghost3, Gift,
-        GiftCard, Glass, GlassFull, Globe, Golf, Gps, Graph, GridPattern, GuitarPick, Hanger2,
-        Headphones, Heart, Helicopter, HelicopterLanding, HelpCircle, HelpHexagon, HelpOctagon,
-        HelpSquare, HelpSquareRounded, HelpTriangle, Hexagon, HexagonLetterA, HexagonLetterB,
-        HexagonLetterC, HexagonLetterD, HexagonLetterE, HexagonLetterF, HexagonLetterG,
-        HexagonLetterH, HexagonLetterI, HexagonLetterJ, HexagonLetterK, HexagonLetterL,
-        HexagonLetterM, HexagonLetterN, HexagonLetterO, HexagonLetterP, HexagonLetterQ,
-        HexagonLetterR, HexagonLetterS, HexagonLetterT, HexagonLetterU, HexagonLetterV,
-        HexagonLetterW, HexagonLetterX, HexagonLetterY, HexagonLetterZ, HexagonMinus,
-        HexagonNumber0, HexagonNumber1, HexagonNumber2, HexagonNumber3, HexagonNumber4,
-        HexagonNumber5, HexagonNumber6, HexagonNumber7, HexagonNumber8, HexagonNumber9, HexagonPlus,
-        Home, HospitalCircle, Hourglass, Icons, InfoCircle, InfoHexagon, InfoOctagon, InfoSquare,
-        InfoSquareRounded, InfoTriangle, InnerShadowBottom, InnerShadowBottomLeft,
-        InnerShadowBottomRight, InnerShadowLeft, InnerShadowRight, InnerShadowTop,
-        InnerShadowTopLeft, InnerShadowTopRight, Ironing, Ironing1, Ironing2, Ironing3,
-        IroningSteam, Jetpack, JewishStar, Key, Keyboard, Keyframe, KeyframeAlignCenter,
-        KeyframeAlignHorizontal, KeyframeAlignVertical, Keyframes, Label, LabelImportant,
-        LassoPolygon, LaurelWreath, Layout, Layout2, LayoutAlignBottom, LayoutAlignCenter,
-        LayoutAlignLeft, LayoutAlignMiddle, LayoutAlignRight, LayoutAlignTop, LayoutBottombar,
-        LayoutBottombarCollapse, LayoutBottombarExpand, LayoutCards, LayoutDashboard,
-        LayoutDistributeHorizontal, LayoutDistributeVertical, LayoutGrid, LayoutKanban, LayoutList,
-        LayoutNavbar, LayoutNavbarCollapse, LayoutNavbarExpand, LayoutSidebar,
-        LayoutSidebarLeftCollapse, LayoutSidebarLeftExpand, LayoutSidebarRight,
+        Cross, CurrentLocation, Dashboard, DeviceCctv, DeviceDesktop, DeviceGamepad3,
+        DeviceHeartMonitor, DeviceImac, DeviceIpad, DeviceMobile, DeviceRemote, DeviceSpeaker,
+        DeviceTablet, DeviceTv, DeviceTvOld, DeviceUnknown, DeviceUsb, DeviceVisionPro, DeviceWatch,
+        Dialpad, Diamond, Diamonds, Dice, Dice1, Dice2, Dice3, Dice4, Dice5, Dice6, DirectionArrows,
+        DirectionSign, Directions, Disc, Discount, Droplet, DropletHalf, DropletHalf2, Droplets,
+        Egg, EggCracked, Elevator, Engine, ExclamationCircle, Exposure, Eye, EyeTable, Eyeglass,
+        Eyeglass2, FaceMask, Favicon, Feather, Fence, Ferry, FidgetSpinner, File, FileDescription,
+        FileDigit, FileHorizontal, FileInvoice, FileMinus, FileNeutral, FilePower, FileSad,
+        FileSmile, FileStar, FileText, FileX, Filter, Filters, FishBone, Flag, Flag2, Flag3, Flame,
+        Flare, Flask, Flask2, Flower, Folder, Folders, Forbid, Forbid2, Fountain, Function,
+        GardenCart, GasStation, Gauge, Ghost, Ghost2, Ghost3, Gift, GiftCard, Glass, GlassFull,
+        Globe, Golf, Gps, Graph, GridPattern, GuitarPick, Hanger2, Headphones, Heart, Helicopter,
+        HelicopterLanding, HelpCircle, HelpHexagon, HelpOctagon, HelpSquare, HelpSquareRounded,
+        HelpTriangle, Hexagon, HexagonLetterA, HexagonLetterB, HexagonLetterC, HexagonLetterD,
+        HexagonLetterE, HexagonLetterF, HexagonLetterG, HexagonLetterH, HexagonLetterI,
+        HexagonLetterJ, HexagonLetterK, HexagonLetterL, HexagonLetterM, HexagonLetterN,
+        HexagonLetterO, HexagonLetterP, HexagonLetterQ, HexagonLetterR, HexagonLetterS,
+        HexagonLetterT, HexagonLetterU, HexagonLetterV, HexagonLetterW, HexagonLetterX,
+        HexagonLetterY, HexagonLetterZ, HexagonMinus, HexagonNumber0, HexagonNumber1,
+        HexagonNumber2, HexagonNumber3, HexagonNumber4, HexagonNumber5, HexagonNumber6,
+        HexagonNumber7, HexagonNumber8, HexagonNumber9, HexagonPlus, Home, HospitalCircle,
+        Hourglass, Icons, InfoCircle, InfoHexagon, InfoOctagon, InfoSquare, InfoSquareRounded,
+        InfoTriangle, InnerShadowBottom, InnerShadowBottomLeft, InnerShadowBottomRight,
+        InnerShadowLeft, InnerShadowRight, InnerShadowTop, InnerShadowTopLeft, InnerShadowTopRight,
+        Ironing, Ironing1, Ironing2, Ironing3, IroningSteam, Jetpack, JewishStar, Key, Keyboard,
+        Keyframe, KeyframeAlignCenter, KeyframeAlignHorizontal, KeyframeAlignVertical, Keyframes,
+        Label, LabelImportant, LassoPolygon, LaurelWreath, Layout, Layout2, LayoutAlignBottom,
+        LayoutAlignCenter, LayoutAlignLeft, LayoutAlignMiddle, LayoutAlignRight, LayoutAlignTop,
+        LayoutBottombar, LayoutBottombarCollapse, LayoutBottombarExpand, LayoutCards,
+        LayoutDashboard, LayoutDistributeHorizontal, LayoutDistributeVertical, LayoutGrid,
+        LayoutKanban, LayoutList, LayoutNavbar, LayoutNavbarCollapse, LayoutNavbarExpand,
+        LayoutSidebar, LayoutSidebarLeftCollapse, LayoutSidebarLeftExpand, LayoutSidebarRight,
         LayoutSidebarRightCollapse, LayoutSidebarRightExpand, Lego, Lemon2, Lifebuoy, LivePhoto,
         LiveView, Location, Lock, LockSquareRounded, Lungs, Macro, Magnet, Mail, MailOpened, Man,
         ManualGearbox, MapPin, MedicalCross, Meeple, Melon, Message, Message2, MessageChatbot,
