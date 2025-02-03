@@ -3,7 +3,7 @@ name: Update icons
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 14 1,15 * *" # At 14:00 on day-of-month 1 and 15 (every 2 weeks more or less) https://crontab.guru/
+    - cron: "0 14 15 * *" # At 14:00 on day-of-month 15 https://crontab.guru/
 
 permissions:
   contents: write
