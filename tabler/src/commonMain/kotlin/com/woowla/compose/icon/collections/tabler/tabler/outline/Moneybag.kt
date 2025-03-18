@@ -30,7 +30,6 @@ public val OutlineGroup.Moneybag: ImageVector
                 horizontalLineToRelative(-1.0f)
                 arcToRelative(3.5f, 3.5f, 0.0f, false, true, -3.5f, -3.5f)
                 arcToRelative(1.5f, 1.5f, 0.0f, false, true, 1.5f, -1.5f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -42,7 +41,6 @@ public val OutlineGroup.Moneybag: ImageVector
                 arcToRelative(4.0f, 4.0f, 0.0f, false, true, -4.0f, 4.0f)
                 horizontalLineToRelative(-8.0f)
                 arcToRelative(4.0f, 4.0f, 0.0f, false, true, -4.0f, -4.0f)
-                close()
             }
         }
         .build()
