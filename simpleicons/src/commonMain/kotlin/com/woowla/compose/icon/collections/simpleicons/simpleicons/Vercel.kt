@@ -21,10 +21,9 @@ public val Simpleicons.Vercel: ImageVector
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(24.0f, 22.525f)
+                moveToRelative(12.0f, 1.608f)
+                lineToRelative(12.0f, 20.784f)
                 horizontalLineTo(0.0f)
-                lineToRelative(12.0f, -21.05f)
-                lineToRelative(12.0f, 21.05f)
                 close()
             }
         }

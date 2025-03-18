@@ -67,13 +67,6 @@
             ]
         },
         {
-            "name": "Octicons",
-            "value": "octicons",
-            "categories": [
-                ""
-            ]
-        },
-        {
             "name": "FontAwesome",
             "value": "fontawesome",
             "categories": [
@@ -83,11 +76,18 @@
             ]
         },
         {
+            "name": "Octicons",
+            "value": "octicons",
+            "categories": [
+                ""
+            ]
+        },
+        {
             "name": "Tabler",
             "value": "tabler",
             "categories": [
-                "filled",
-                "outline"
+                "outline",
+                "filled"
             ]
         },
         {
