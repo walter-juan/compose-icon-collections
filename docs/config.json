@@ -67,13 +67,6 @@
             ]
         },
         {
-            "name": "Octicons",
-            "value": "octicons",
-            "categories": [
-                ""
-            ]
-        },
-        {
             "name": "FontAwesome",
             "value": "fontawesome",
             "categories": [
@@ -93,6 +86,13 @@
         {
             "name": "Simpleicons",
             "value": "simpleicons",
+            "categories": [
+                ""
+            ]
+        },
+        {
+            "name": "Octicons",
+            "value": "octicons",
             "categories": [
                 ""
             ]

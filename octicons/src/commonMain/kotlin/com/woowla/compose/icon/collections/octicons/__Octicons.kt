@@ -545,6 +545,8 @@ import com.woowla.compose.icon.collections.octicons.octicons.SponsorTiers16
 import com.woowla.compose.icon.collections.octicons.octicons.SponsorTiers24
 import com.woowla.compose.icon.collections.octicons.octicons.Square16
 import com.woowla.compose.icon.collections.octicons.octicons.Square24
+import com.woowla.compose.icon.collections.octicons.octicons.SquareCircle16
+import com.woowla.compose.icon.collections.octicons.octicons.SquareCircle24
 import com.woowla.compose.icon.collections.octicons.octicons.SquareFill16
 import com.woowla.compose.icon.collections.octicons.octicons.SquareFill24
 import com.woowla.compose.icon.collections.octicons.octicons.Squirrel16
@@ -739,20 +741,20 @@ public val Octicons.AllIcons: ____KtList<ImageVector>
         SignOut24, SingleSelect16, SingleSelect24, Skip16, Skip24, SkipFill16, SkipFill24,
         Sliders16, Sliders24, Smiley16, Smiley24, SortAsc16, SortAsc24, SortDesc16, SortDesc24,
         SparkleFill16, SparkleFill24, SparklesFill16, SparklesFill24, SponsorTiers16,
-        SponsorTiers24, Square16, Square24, SquareFill16, SquareFill24, Squirrel16, Squirrel24,
-        Stack16, Stack24, Star16, Star24, StarFill16, StarFill24, Stop16, Stop24, Stopwatch16,
-        Stopwatch24, Strikethrough16, Strikethrough24, Sun16, Sun24, Sync16, Sync24, Tab16, Tab24,
-        TabExternal16, TabExternal24, Table16, Table24, Tag16, Tag24, Tasklist16, Tasklist24,
-        Telescope16, Telescope24, TelescopeFill16, TelescopeFill24, Terminal16, Terminal24,
-        ThreeBars16, ThreeBars24, Thumbsdown16, Thumbsdown24, Thumbsup16, Thumbsup24, Tools16,
-        Tools24, TrackedByClosedCompleted16, TrackedByClosedCompleted24,
-        TrackedByClosedNotPlanned16, TrackedByClosedNotPlanned24, Trash16, Trash24, TriangleDown16,
-        TriangleDown24, TriangleLeft16, TriangleLeft24, TriangleRight16, TriangleRight24,
-        TriangleUp16, TriangleUp24, Trophy16, Trophy24, Typography16, Typography24, Undo16, Undo24,
-        Unfold16, Unfold24, Unlink16, Unlink24, Unlock16, Unlock24, Unmute16, Unmute24, Unread16,
-        Unread24, Unverified16, Unverified24, Upload16, Upload24, Verified16, Verified24,
-        Versions16, Versions24, Video16, Video24, Webhook16, Workflow16, Workflow24, X12, X16, X24,
-        XCircle16, XCircle24, XCircleFill12, XCircleFill16, XCircleFill24, Zap16, Zap24, ZoomIn16,
-        ZoomIn24, ZoomOut16, ZoomOut24)
+        SponsorTiers24, Square16, Square24, SquareCircle16, SquareCircle24, SquareFill16,
+        SquareFill24, Squirrel16, Squirrel24, Stack16, Stack24, Star16, Star24, StarFill16,
+        StarFill24, Stop16, Stop24, Stopwatch16, Stopwatch24, Strikethrough16, Strikethrough24,
+        Sun16, Sun24, Sync16, Sync24, Tab16, Tab24, TabExternal16, TabExternal24, Table16, Table24,
+        Tag16, Tag24, Tasklist16, Tasklist24, Telescope16, Telescope24, TelescopeFill16,
+        TelescopeFill24, Terminal16, Terminal24, ThreeBars16, ThreeBars24, Thumbsdown16,
+        Thumbsdown24, Thumbsup16, Thumbsup24, Tools16, Tools24, TrackedByClosedCompleted16,
+        TrackedByClosedCompleted24, TrackedByClosedNotPlanned16, TrackedByClosedNotPlanned24,
+        Trash16, Trash24, TriangleDown16, TriangleDown24, TriangleLeft16, TriangleLeft24,
+        TriangleRight16, TriangleRight24, TriangleUp16, TriangleUp24, Trophy16, Trophy24,
+        Typography16, Typography24, Undo16, Undo24, Unfold16, Unfold24, Unlink16, Unlink24,
+        Unlock16, Unlock24, Unmute16, Unmute24, Unread16, Unread24, Unverified16, Unverified24,
+        Upload16, Upload24, Verified16, Verified24, Versions16, Versions24, Video16, Video24,
+        Webhook16, Workflow16, Workflow24, X12, X16, X24, XCircle16, XCircle24, XCircleFill12,
+        XCircleFill16, XCircleFill24, Zap16, Zap24, ZoomIn16, ZoomIn24, ZoomOut16, ZoomOut24)
     return __AllIcons!!
   }
