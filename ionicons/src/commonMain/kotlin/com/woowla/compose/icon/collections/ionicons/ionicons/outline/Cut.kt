@@ -40,7 +40,7 @@ public val OutlineGroup.Cut: ImageVector
                 arcToRelative(56.0f, 56.0f, 0.0f, true, true, -112.0f, 0.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 32.0f, strokeLineCap = StrokeCap.Square, strokeLineJoin = Miter,
+                    strokeLineWidth = 32.0f, strokeLineCap = Square, strokeLineJoin = Miter,
                     strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(157.0f, 175.0f)
                 lineTo(146.0f, 190.0f)
