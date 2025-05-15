@@ -76,13 +76,6 @@
             ]
         },
         {
-            "name": "Octicons",
-            "value": "octicons",
-            "categories": [
-                ""
-            ]
-        },
-        {
             "name": "Tabler",
             "value": "tabler",
             "categories": [
@@ -93,6 +86,13 @@
         {
             "name": "Simpleicons",
             "value": "simpleicons",
+            "categories": [
+                ""
+            ]
+        },
+        {
+            "name": "Octicons",
+            "value": "octicons",
             "categories": [
                 ""
             ]
