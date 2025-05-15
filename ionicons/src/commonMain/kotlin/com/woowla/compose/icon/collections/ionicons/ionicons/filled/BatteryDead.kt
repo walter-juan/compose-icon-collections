@@ -22,7 +22,7 @@ public val FilledGroup.BatteryDead: ImageVector
         _batteryDead = Builder(name = "BatteryDead", defaultWidth = 512.0.dp, defaultHeight =
                 512.0.dp, viewportWidth = 512.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 32.0f, strokeLineCap = Square, strokeLineJoin = Miter,
+                    strokeLineWidth = 32.0f, strokeLineCap = StrokeCap.Square, strokeLineJoin = Miter,
                     strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(76.7f, 144.0f)
                 lineTo(385.3f, 144.0f)

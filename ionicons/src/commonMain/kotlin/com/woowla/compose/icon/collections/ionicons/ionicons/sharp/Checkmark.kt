@@ -19,7 +19,7 @@ public val SharpGroup.Checkmark: ImageVector
         _checkmark = Builder(name = "Checkmark", defaultWidth = 512.0.dp, defaultHeight = 512.0.dp,
                 viewportWidth = 512.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 44.0f, strokeLineCap = Square, strokeLineJoin = Miter,
+                    strokeLineWidth = 44.0f, strokeLineCap = StrokeCap.Square, strokeLineJoin = Miter,
                     strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(416.0f, 128.0f)
                 lineToRelative(-224.0f, 256.0f)
