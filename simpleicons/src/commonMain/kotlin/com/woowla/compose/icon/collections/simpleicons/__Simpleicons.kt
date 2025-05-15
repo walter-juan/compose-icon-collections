@@ -1766,6 +1766,7 @@ import com.woowla.compose.icon.collections.simpleicons.simpleicons.Microstation
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Microstrategy
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Midi
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Migadu
+import com.woowla.compose.icon.collections.simpleicons.simpleicons.Mihon
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Mihoyo
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Mikrotik
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Milanote
@@ -2335,6 +2336,7 @@ import com.woowla.compose.icon.collections.simpleicons.simpleicons.Radstudio
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Railway
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Rainmeter
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Rakuten
+import com.woowla.compose.icon.collections.simpleicons.simpleicons.Rakutenkobo
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Ram
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Rancher
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Rapid
@@ -3500,7 +3502,7 @@ public val Simpleicons.AllIcons: ____KtList<ImageVector>
         Meizu, Mendeley, Mentorcruise, Mercadopago, Mercedes, Merck, Mercurial, Mermaid, Messenger,
         Meta, Metabase, Metacritic, Metafilter, Metasploit, Meteor, Metro, Metrodelaciudaddemexico,
         Metrodemadrid, Metrodeparis, Mewe, Mg, Microbit, Microdotblog, Microeditor, Micropython,
-        Microstation, Microstrategy, Midi, Migadu, Mihoyo, Mikrotik, Milanote, Milvus, Minds,
+        Microstation, Microstrategy, Midi, Migadu, Mihon, Mihoyo, Mikrotik, Milanote, Milvus, Minds,
         Minetest, Mingww64, Mini, Minio, Mintlify, Minutemailer, Miraheze, Miro, Misskey,
         Mitsubishi, Mix, Mixcloud, Mixpanel, Mlb, Mlflow, Mobx, Mobxstatetree, Mocha,
         Mockserviceworker, Modal, Modin, Modrinth, Modx, Mojeek, Moleculer, Momenteo, Monero,
@@ -3564,11 +3566,11 @@ public val Simpleicons.AllIcons: ____KtList<ImageVector>
         Qualcomm, Qualtrics, Qualys, Quantcast, Quantconnect, Quarkus, Quarto, Quasar, Qubesos,
         Quest, Quickbooks, Quicklook, Quicktime, Quicktype, Quip, Quizlet, Quora, Qwant, Qwik,
         Qwiklabs, Qzone, R, R3, Rabbitmq, Racket, Radar, Radarr, Radixui, Radstudio, Railway,
-        Rainmeter, Rakuten, Ram, Rancher, Rapid, Rarible, Rasa, Raspberrypi, Ravelry, Ray, Raycast,
-        Raylib, Razer, Razorpay, Rclone, React, Reactbootstrap, Reacthookform, Reactiveresume,
-        Reactivex, Reactos, Reactquery, Reactrouter, Reacttable, Readdotcv, Readme, Readthedocs,
-        Reason, Reasonstudios, Recoil, Red, Redash, Redbubble, Redbull, Redcandlegames, Reddit,
-        Redhat, Redhatopenshift, Redis, Redmine, Redox, Redragon, Redsys, Redux, Reduxsaga,
+        Rainmeter, Rakuten, Rakutenkobo, Ram, Rancher, Rapid, Rarible, Rasa, Raspberrypi, Ravelry,
+        Ray, Raycast, Raylib, Razer, Razorpay, Rclone, React, Reactbootstrap, Reacthookform,
+        Reactiveresume, Reactivex, Reactos, Reactquery, Reactrouter, Reacttable, Readdotcv, Readme,
+        Readthedocs, Reason, Reasonstudios, Recoil, Red, Redash, Redbubble, Redbull, Redcandlegames,
+        Reddit, Redhat, Redhatopenshift, Redis, Redmine, Redox, Redragon, Redsys, Redux, Reduxsaga,
         Redwoodjs, Reebok, Refine, Refinedgithub, Relay, Relianceindustrieslimited, Remark,
         Remedyentertainment, Remix, Removedotbg, Renault, Render, Renovate, Renpy, Renren,
         Replicate, Replit, Republicofgamers, Rescript, Rescuetime, Researchgate, Resend, Resharper,

@@ -75,13 +75,6 @@
             ]
         },
         {
-            "name": "Simpleicons",
-            "value": "simpleicons",
-            "categories": [
-                ""
-            ]
-        },
-        {
             "name": "Octicons",
             "value": "octicons",
             "categories": [
@@ -95,6 +88,13 @@
                 "outline",
                 "sharp",
                 "filled"
+            ]
+        },
+        {
+            "name": "Simpleicons",
+            "value": "simpleicons",
+            "categories": [
+                ""
             ]
         }
     ]
