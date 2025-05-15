@@ -11,47 +11,48 @@ import androidx.compose.ui.graphics.vector.path
 import androidx.compose.ui.unit.dp
 import com.woowla.compose.icon.collections.twbs.Twbs
 
-public val Twbs.Unlock: ImageVector
+public val Twbs.Unlock2: ImageVector
     get() {
-        if (_unlock != null) {
-            return _unlock!!
+        if (_unlock2 != null) {
+            return _unlock2!!
         }
-        _unlock = Builder(name = "Unlock", defaultWidth = 16.0.dp, defaultHeight = 16.0.dp,
+        _unlock2 = Builder(name = "Unlock2", defaultWidth = 16.0.dp, defaultHeight = 16.0.dp,
                 viewportWidth = 16.0f, viewportHeight = 16.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = EvenOdd) {
-                moveTo(12.0f, 0.0f)
-                arcToRelative(4.0f, 4.0f, 0.0f, false, true, 4.0f, 4.0f)
-                verticalLineToRelative(2.5f)
-                horizontalLineToRelative(-1.0f)
-                verticalLineTo(4.0f)
-                arcToRelative(3.0f, 3.0f, 0.0f, true, false, -6.0f, 0.0f)
+                moveTo(8.0f, 0.0f)
+                curveToRelative(1.07f, 0.0f, 2.041f, 0.42f, 2.759f, 1.104f)
+                lineToRelative(0.14f, 0.14f)
+                lineToRelative(0.062f, 0.08f)
+                arcToRelative(0.5f, 0.5f, 0.0f, false, true, -0.71f, 0.675f)
+                lineToRelative(-0.076f, -0.066f)
+                lineToRelative(-0.216f, -0.205f)
+                arcTo(3.0f, 3.0f, 0.0f, false, false, 5.0f, 4.0f)
                 verticalLineToRelative(2.0f)
-                horizontalLineToRelative(0.5f)
-                arcTo(2.5f, 2.5f, 0.0f, false, true, 12.0f, 8.5f)
+                horizontalLineToRelative(6.5f)
+                arcTo(2.5f, 2.5f, 0.0f, false, true, 14.0f, 8.5f)
                 verticalLineToRelative(5.0f)
-                arcTo(2.5f, 2.5f, 0.0f, false, true, 9.5f, 16.0f)
+                arcToRelative(2.5f, 2.5f, 0.0f, false, true, -2.5f, 2.5f)
                 horizontalLineToRelative(-7.0f)
-                arcTo(2.5f, 2.5f, 0.0f, false, true, 0.0f, 13.5f)
+                arcTo(2.5f, 2.5f, 0.0f, false, true, 2.0f, 13.5f)
                 verticalLineToRelative(-5.0f)
-                arcTo(2.5f, 2.5f, 0.0f, false, true, 2.5f, 6.0f)
-                horizontalLineTo(8.0f)
+                arcToRelative(2.5f, 2.5f, 0.0f, false, true, 2.0f, -2.45f)
                 verticalLineTo(4.0f)
                 arcToRelative(4.0f, 4.0f, 0.0f, false, true, 4.0f, -4.0f)
-                moveTo(2.5f, 7.0f)
-                arcTo(1.5f, 1.5f, 0.0f, false, false, 1.0f, 8.5f)
+                moveTo(4.5f, 7.0f)
+                arcTo(1.5f, 1.5f, 0.0f, false, false, 3.0f, 8.5f)
                 verticalLineToRelative(5.0f)
-                arcTo(1.5f, 1.5f, 0.0f, false, false, 2.5f, 15.0f)
+                arcTo(1.5f, 1.5f, 0.0f, false, false, 4.5f, 15.0f)
                 horizontalLineToRelative(7.0f)
                 arcToRelative(1.5f, 1.5f, 0.0f, false, false, 1.5f, -1.5f)
                 verticalLineToRelative(-5.0f)
-                arcTo(1.5f, 1.5f, 0.0f, false, false, 9.5f, 7.0f)
+                arcTo(1.5f, 1.5f, 0.0f, false, false, 11.5f, 7.0f)
                 close()
             }
         }
         .build()
-        return _unlock!!
+        return _unlock2!!
     }
 
-private var _unlock: ImageVector? = null
+private var _unlock2: ImageVector? = null

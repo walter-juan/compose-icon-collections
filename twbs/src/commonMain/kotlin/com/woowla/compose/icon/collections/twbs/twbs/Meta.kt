@@ -37,7 +37,7 @@ public val Twbs.Meta: ImageVector
                 curveToRelative(0.31f, 0.086f, 0.611f, 0.22f, 0.913f, 0.407f)
                 curveToRelative(0.577f, 0.359f, 1.154f, 0.915f, 1.782f, 1.714f)
                 moveToRelative(1.516f, 2.224f)
-                quadToRelative(-0.378f, -0.614f, -0.727f, -1.133f)
+                quadToRelative(-0.378f, -0.615f, -0.727f, -1.133f)
                 lineTo(9.0f, 6.326f)
                 curveToRelative(0.845f, -1.305f, 1.543f, -1.954f, 2.372f, -1.954f)
                 curveToRelative(1.723f, 0.0f, 3.102f, 2.537f, 3.102f, 5.653f)
@@ -50,8 +50,7 @@ public val Twbs.Meta: ImageVector
                 curveToRelative(-1.357f, 2.126f, -1.826f, 2.603f, -2.581f, 2.603f)
                 curveToRelative(-0.777f, 0.0f, -1.24f, -0.682f, -1.24f, -1.9f)
                 curveToRelative(0.0f, -2.602f, 1.298f, -5.264f, 2.846f, -5.264f)
-                quadToRelative(0.136f, 0.0f, 0.27f, 0.018f)
-                close()
+                quadToRelative(0.137f, 0.0f, 0.27f, 0.018f)
             }
         }
         .build()
