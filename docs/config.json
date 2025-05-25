@@ -51,14 +51,6 @@
             ]
         },
         {
-            "name": "Tabler",
-            "value": "tabler",
-            "categories": [
-                "outline",
-                "filled"
-            ]
-        },
-        {
             "name": "Octicons",
             "value": "octicons",
             "categories": [
@@ -95,6 +87,14 @@
             "value": "simpleicons",
             "categories": [
                 ""
+            ]
+        },
+        {
+            "name": "Tabler",
+            "value": "tabler",
+            "categories": [
+                "outline",
+                "filled"
             ]
         }
     ]
