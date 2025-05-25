@@ -1,6 +1,6 @@
 # Compose icon collections
 
-Compose Multiplatform open source icon collections. Available platforms: Android, iOS, Desktop (JVM), Web (Wasm)
+Open source icons sets for Compose Multiplatform — supporting Android, iOS, Desktop (JVM), and Web (Wasm).
 
 [![Platform](https://img.shields.io/badge/Platform-ComposeMultiplatform-brightgreen.svg)]()
 [![MIT License](https://img.shields.io/github/license/walter-juan/compose-icon-collections)](LICENSE)
@@ -83,7 +83,7 @@ The [Update icons workflow](.github/workflows/update-icons.yml) will update the 
 Typically, all icon download tasks retrieve icons from GitHub releases. However, there are a few exceptions:
 
 - **boxicons**: Downloads icons directly from the main branch for this reason this is not updated automatically, a manual update required.
-- **ionicons**: Uses a custom `afterDownload` and `gitHubUrlProvider` function to categorize icons. Additionally, there is an issue with the `Square` value from `StrokeCap` in the generated image vectors. This must be manually replaced with `StrokeCap.Square` to avoid conflicts with an icon named `Square`.
+- **ionicons**: Uses a custom `afterDownload` and `gitHubUrlProvider` function to categorize icons. Additionally, there is an issue with the `Square` value from `StrokeCap` in the generated image vectors. This must be manually replaced with `StrokeCap.Square` to avoid conflicts with an icon named `Square` (see [#35](https://github.com/walter-juan/compose-icon-collections/pull/35)).
 - **fontawesome**: Implements a custom `iconNameTransformer` to handle conflicts between the `FontAwesome` icon and its accessor name.
 - **simpleicons**: Uses a custom `afterDownload` function to remove the `lerna.svg` icon because it throws `MethodTooLargeException` when compiling the project.
 
