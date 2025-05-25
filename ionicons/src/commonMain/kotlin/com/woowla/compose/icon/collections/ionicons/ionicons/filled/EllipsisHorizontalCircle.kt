@@ -1,12 +1,9 @@
 package com.woowla.compose.icon.collections.ionicons.ionicons.filled
 
 import androidx.compose.ui.graphics.Color
-import androidx.compose.ui.graphics.PathFillType
 import androidx.compose.ui.graphics.PathFillType.Companion.NonZero
 import androidx.compose.ui.graphics.SolidColor
-import androidx.compose.ui.graphics.StrokeCap
 import androidx.compose.ui.graphics.StrokeCap.Companion.Butt
-import androidx.compose.ui.graphics.StrokeJoin
 import androidx.compose.ui.graphics.StrokeJoin.Companion.Miter
 import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.graphics.vector.ImageVector.Builder
@@ -25,35 +22,23 @@ public val FilledGroup.EllipsisHorizontalCircle: ImageVector
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(256.0f, 256.0f)
-                moveToRelative(-26.0f, 0.0f)
-                arcToRelative(26.0f, 26.0f, 0.0f, true, true, 52.0f, 0.0f)
-                arcToRelative(26.0f, 26.0f, 0.0f, true, true, -52.0f, 0.0f)
-            }
-            path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
-                    strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
-                    pathFillType = NonZero) {
-                moveTo(346.0f, 256.0f)
-                moveToRelative(-26.0f, 0.0f)
-                arcToRelative(26.0f, 26.0f, 0.0f, true, true, 52.0f, 0.0f)
-                arcToRelative(26.0f, 26.0f, 0.0f, true, true, -52.0f, 0.0f)
-            }
-            path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
-                    strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
-                    pathFillType = NonZero) {
-                moveTo(166.0f, 256.0f)
-                moveToRelative(-26.0f, 0.0f)
-                arcToRelative(26.0f, 26.0f, 0.0f, true, true, 52.0f, 0.0f)
-                arcToRelative(26.0f, 26.0f, 0.0f, true, true, -52.0f, 0.0f)
-            }
-            path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 32.0f, strokeLineCap = Butt, strokeLineJoin = Miter,
-                    strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(448.0f, 256.0f)
-                curveToRelative(0.0f, -106.0f, -86.0f, -192.0f, -192.0f, -192.0f)
-                reflectiveCurveTo(64.0f, 150.0f, 64.0f, 256.0f)
-                reflectiveCurveToRelative(86.0f, 192.0f, 192.0f, 192.0f)
-                reflectiveCurveTo(448.0f, 362.0f, 448.0f, 256.0f)
+                moveTo(256.0f, 48.0f)
+                curveTo(141.13f, 48.0f, 48.0f, 141.13f, 48.0f, 256.0f)
+                reflectiveCurveToRelative(93.13f, 208.0f, 208.0f, 208.0f)
+                reflectiveCurveToRelative(208.0f, -93.13f, 208.0f, -208.0f)
+                reflectiveCurveTo(370.87f, 48.0f, 256.0f, 48.0f)
+                close()
+                moveTo(166.0f, 282.0f)
+                arcToRelative(26.0f, 26.0f, 0.0f, true, true, 26.0f, -26.0f)
+                arcTo(26.0f, 26.0f, 0.0f, false, true, 166.0f, 282.0f)
+                close()
+                moveTo(256.0f, 282.0f)
+                arcToRelative(26.0f, 26.0f, 0.0f, true, true, 26.0f, -26.0f)
+                arcTo(26.0f, 26.0f, 0.0f, false, true, 256.0f, 282.0f)
+                close()
+                moveTo(346.0f, 282.0f)
+                arcToRelative(26.0f, 26.0f, 0.0f, true, true, 26.0f, -26.0f)
+                arcTo(26.0f, 26.0f, 0.0f, false, true, 346.0f, 282.0f)
                 close()
             }
         }

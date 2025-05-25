@@ -421,6 +421,8 @@ import com.woowla.compose.icon.collections.octicons.octicons.PasskeyFill16
 import com.woowla.compose.icon.collections.octicons.octicons.PasskeyFill24
 import com.woowla.compose.icon.collections.octicons.octicons.Paste16
 import com.woowla.compose.icon.collections.octicons.octicons.Paste24
+import com.woowla.compose.icon.collections.octicons.octicons.Pause16
+import com.woowla.compose.icon.collections.octicons.octicons.Pause24
 import com.woowla.compose.icon.collections.octicons.octicons.Pencil16
 import com.woowla.compose.icon.collections.octicons.octicons.Pencil24
 import com.woowla.compose.icon.collections.octicons.octicons.People16
@@ -724,23 +726,23 @@ public val Octicons.AllIcons: ____KtList<ImageVector>
         Organization16, Organization24, Package16, Package24, PackageDependencies16,
         PackageDependencies24, PackageDependents16, PackageDependents24, Paintbrush16, Paintbrush24,
         PaperAirplane16, PaperAirplane24, Paperclip16, Paperclip24, PasskeyFill16, PasskeyFill24,
-        Paste16, Paste24, Pencil16, Pencil24, People16, People24, Person16, Person24, PersonAdd16,
-        PersonAdd24, PersonFill16, PersonFill24, Pin16, Pin24, PinSlash16, PinSlash24,
-        PivotColumn16, PivotColumn24, Play16, Play24, Plug16, Plug24, Plus16, Plus24, PlusCircle16,
-        PlusCircle24, Project16, Project24, ProjectRoadmap16, ProjectRoadmap24, ProjectSymlink16,
-        ProjectSymlink24, ProjectTemplate16, ProjectTemplate24, Pulse16, Pulse24, Question16,
-        Question24, Quote16, Quote24, Read16, Read24, Redo16, Redo24, RelFilePath16, RelFilePath24,
-        Reply16, Reply24, Repo16, Repo24, RepoClone16, RepoClone24, RepoDelete24, RepoDeleted16,
-        RepoForked16, RepoForked24, RepoLocked16, RepoLocked24, RepoPull16, RepoPull24, RepoPush16,
-        RepoPush24, RepoTemplate16, RepoTemplate24, Report16, Report24, Rocket16, Rocket24, Rows16,
-        Rows24, Rss16, Rss24, Ruby16, Ruby24, ScreenFull16, ScreenFull24, ScreenNormal16,
-        ScreenNormal24, Search16, Search24, Server16, Server24, Share16, Share24, ShareAndroid16,
-        ShareAndroid24, Shield16, Shield24, ShieldCheck16, ShieldCheck24, ShieldLock16,
-        ShieldLock24, ShieldSlash16, ShieldSlash24, ShieldX16, ShieldX24, SidebarCollapse16,
-        SidebarCollapse24, SidebarExpand16, SidebarExpand24, SignIn16, SignIn24, SignOut16,
-        SignOut24, SingleSelect16, SingleSelect24, Skip16, Skip24, SkipFill16, SkipFill24,
-        Sliders16, Sliders24, Smiley16, Smiley24, SortAsc16, SortAsc24, SortDesc16, SortDesc24,
-        SparkleFill16, SparkleFill24, SparklesFill16, SparklesFill24, SponsorTiers16,
+        Paste16, Paste24, Pause16, Pause24, Pencil16, Pencil24, People16, People24, Person16,
+        Person24, PersonAdd16, PersonAdd24, PersonFill16, PersonFill24, Pin16, Pin24, PinSlash16,
+        PinSlash24, PivotColumn16, PivotColumn24, Play16, Play24, Plug16, Plug24, Plus16, Plus24,
+        PlusCircle16, PlusCircle24, Project16, Project24, ProjectRoadmap16, ProjectRoadmap24,
+        ProjectSymlink16, ProjectSymlink24, ProjectTemplate16, ProjectTemplate24, Pulse16, Pulse24,
+        Question16, Question24, Quote16, Quote24, Read16, Read24, Redo16, Redo24, RelFilePath16,
+        RelFilePath24, Reply16, Reply24, Repo16, Repo24, RepoClone16, RepoClone24, RepoDelete24,
+        RepoDeleted16, RepoForked16, RepoForked24, RepoLocked16, RepoLocked24, RepoPull16,
+        RepoPull24, RepoPush16, RepoPush24, RepoTemplate16, RepoTemplate24, Report16, Report24,
+        Rocket16, Rocket24, Rows16, Rows24, Rss16, Rss24, Ruby16, Ruby24, ScreenFull16,
+        ScreenFull24, ScreenNormal16, ScreenNormal24, Search16, Search24, Server16, Server24,
+        Share16, Share24, ShareAndroid16, ShareAndroid24, Shield16, Shield24, ShieldCheck16,
+        ShieldCheck24, ShieldLock16, ShieldLock24, ShieldSlash16, ShieldSlash24, ShieldX16,
+        ShieldX24, SidebarCollapse16, SidebarCollapse24, SidebarExpand16, SidebarExpand24, SignIn16,
+        SignIn24, SignOut16, SignOut24, SingleSelect16, SingleSelect24, Skip16, Skip24, SkipFill16,
+        SkipFill24, Sliders16, Sliders24, Smiley16, Smiley24, SortAsc16, SortAsc24, SortDesc16,
+        SortDesc24, SparkleFill16, SparkleFill24, SparklesFill16, SparklesFill24, SponsorTiers16,
         SponsorTiers24, Square16, Square24, SquareCircle16, SquareCircle24, SquareFill16,
         SquareFill24, Squirrel16, Squirrel24, Stack16, Stack24, Star16, Star24, StarFill16,
         StarFill24, Stop16, Stop24, Stopwatch16, Stopwatch24, Strikethrough16, Strikethrough24,

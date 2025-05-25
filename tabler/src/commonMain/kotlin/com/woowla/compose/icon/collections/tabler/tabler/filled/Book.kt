@@ -21,15 +21,17 @@ public val FilledGroup.Book: ImageVector
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(12.088f, 4.82f)
-                arcToRelative(10.0f, 10.0f, 0.0f, false, true, 9.412f, 0.314f)
+                moveTo(21.5f, 5.134f)
                 arcToRelative(1.0f, 1.0f, 0.0f, false, true, 0.493f, 0.748f)
                 lineToRelative(0.007f, 0.118f)
                 verticalLineToRelative(13.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, false, true, -1.5f, 0.866f)
-                arcToRelative(8.0f, 8.0f, 0.0f, false, false, -8.0f, 0.0f)
-                arcToRelative(1.0f, 1.0f, 0.0f, false, true, -1.0f, 0.0f)
-                arcToRelative(8.0f, 8.0f, 0.0f, false, false, -7.733f, -0.148f)
+                arcToRelative(8.0f, 8.0f, 0.0f, false, false, -7.5f, -0.266f)
+                verticalLineToRelative(-15.174f)
+                arcToRelative(10.0f, 10.0f, 0.0f, false, true, 8.5f, 0.708f)
+                moveToRelative(-10.5f, -0.707f)
+                lineToRelative(0.001f, 15.174f)
+                arcToRelative(8.0f, 8.0f, 0.0f, false, false, -7.234f, 0.117f)
                 lineToRelative(-0.327f, 0.18f)
                 lineToRelative(-0.103f, 0.044f)
                 lineToRelative(-0.049f, 0.016f)
@@ -53,13 +55,9 @@ public val FilledGroup.Book: ImageVector
                 lineToRelative(-0.026f, -0.11f)
                 lineToRelative(-0.01f, -0.061f)
                 lineToRelative(-0.004f, -0.049f)
-                lineToRelative(-0.002f, -0.068f)
-                verticalLineToRelative(-13.0f)
+                lineToRelative(-0.002f, -13.068f)
                 arcToRelative(1.0f, 1.0f, 0.0f, false, true, 0.5f, -0.866f)
-                arcToRelative(10.0f, 10.0f, 0.0f, false, true, 9.412f, -0.314f)
-                lineToRelative(0.088f, 0.044f)
-                lineToRelative(0.088f, -0.044f)
-                close()
+                arcToRelative(10.0f, 10.0f, 0.0f, false, true, 8.5f, -0.707f)
             }
         }
         .build()

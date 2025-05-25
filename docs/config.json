@@ -2,33 +2,8 @@
     "defaultPack": "tabler",
     "iconPacks": [
         {
-            "name": "Boxicons",
-            "value": "boxicons",
-            "categories": [
-                "solid",
-                "logos",
-                "regular"
-            ]
-        },
-        {
             "name": "Feather",
             "value": "feather",
-            "categories": [
-                ""
-            ]
-        },
-        {
-            "name": "Ionicons",
-            "value": "ionicons",
-            "categories": [
-                "outline",
-                "sharp",
-                "filled"
-            ]
-        },
-        {
-            "name": "Twbs",
-            "value": "twbs",
             "categories": [
                 ""
             ]
@@ -83,11 +58,28 @@
             ]
         },
         {
-            "name": "Tabler",
-            "value": "tabler",
+            "name": "Ionicons",
+            "value": "ionicons",
             "categories": [
                 "outline",
+                "sharp",
                 "filled"
+            ]
+        },
+        {
+            "name": "Twbs",
+            "value": "twbs",
+            "categories": [
+                ""
+            ]
+        },
+        {
+            "name": "Boxicons",
+            "value": "boxicons",
+            "categories": [
+                "solid",
+                "logos",
+                "regular"
             ]
         },
         {
@@ -95,6 +87,14 @@
             "value": "simpleicons",
             "categories": [
                 ""
+            ]
+        },
+        {
+            "name": "Tabler",
+            "value": "tabler",
+            "categories": [
+                "outline",
+                "filled"
             ]
         }
     ]

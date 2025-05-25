@@ -23,9 +23,11 @@ import com.woowla.compose.icon.collections.twbs.twbs.Amazon
 import com.woowla.compose.icon.collections.twbs.twbs.Amd
 import com.woowla.compose.icon.collections.twbs.twbs.Android
 import com.woowla.compose.icon.collections.twbs.twbs.Android2
+import com.woowla.compose.icon.collections.twbs.twbs.Anthropic
 import com.woowla.compose.icon.collections.twbs.twbs.App
 import com.woowla.compose.icon.collections.twbs.twbs.AppIndicator
 import com.woowla.compose.icon.collections.twbs.twbs.Apple
+import com.woowla.compose.icon.collections.twbs.twbs.AppleMusic
 import com.woowla.compose.icon.collections.twbs.twbs.Archive
 import com.woowla.compose.icon.collections.twbs.twbs.ArchiveFill
 import com.woowla.compose.icon.collections.twbs.twbs.Arrow90degDown
@@ -179,6 +181,9 @@ import com.woowla.compose.icon.collections.twbs.twbs.Battery
 import com.woowla.compose.icon.collections.twbs.twbs.BatteryCharging
 import com.woowla.compose.icon.collections.twbs.twbs.BatteryFull
 import com.woowla.compose.icon.collections.twbs.twbs.BatteryHalf
+import com.woowla.compose.icon.collections.twbs.twbs.BatteryLow
+import com.woowla.compose.icon.collections.twbs.twbs.Beaker
+import com.woowla.compose.icon.collections.twbs.twbs.BeakerFill
 import com.woowla.compose.icon.collections.twbs.twbs.Behance
 import com.woowla.compose.icon.collections.twbs.twbs.Bell
 import com.woowla.compose.icon.collections.twbs.twbs.BellFill
@@ -192,6 +197,7 @@ import com.woowla.compose.icon.collections.twbs.twbs.Binoculars
 import com.woowla.compose.icon.collections.twbs.twbs.BinocularsFill
 import com.woowla.compose.icon.collections.twbs.twbs.BlockquoteLeft
 import com.woowla.compose.icon.collections.twbs.twbs.BlockquoteRight
+import com.woowla.compose.icon.collections.twbs.twbs.Bluesky
 import com.woowla.compose.icon.collections.twbs.twbs.Bluetooth
 import com.woowla.compose.icon.collections.twbs.twbs.BodyText
 import com.woowla.compose.icon.collections.twbs.twbs.Book
@@ -515,6 +521,7 @@ import com.woowla.compose.icon.collections.twbs.twbs.Circle
 import com.woowla.compose.icon.collections.twbs.twbs.CircleFill
 import com.woowla.compose.icon.collections.twbs.twbs.CircleHalf
 import com.woowla.compose.icon.collections.twbs.twbs.CircleSquare
+import com.woowla.compose.icon.collections.twbs.twbs.Claude
 import com.woowla.compose.icon.collections.twbs.twbs.Clipboard
 import com.woowla.compose.icon.collections.twbs.twbs.Clipboard2
 import com.woowla.compose.icon.collections.twbs.twbs.Clipboard2Check
@@ -628,6 +635,7 @@ import com.woowla.compose.icon.collections.twbs.twbs.CreditCardFill
 import com.woowla.compose.icon.collections.twbs.twbs.Crop
 import com.woowla.compose.icon.collections.twbs.twbs.Crosshair
 import com.woowla.compose.icon.collections.twbs.twbs.Crosshair2
+import com.woowla.compose.icon.collections.twbs.twbs.Css
 import com.woowla.compose.icon.collections.twbs.twbs.Cup
 import com.woowla.compose.icon.collections.twbs.twbs.CupFill
 import com.woowla.compose.icon.collections.twbs.twbs.CupHot
@@ -1029,6 +1037,10 @@ import com.woowla.compose.icon.collections.twbs.twbs.Fingerprint
 import com.woowla.compose.icon.collections.twbs.twbs.Fire
 import com.woowla.compose.icon.collections.twbs.twbs.Flag
 import com.woowla.compose.icon.collections.twbs.twbs.FlagFill
+import com.woowla.compose.icon.collections.twbs.twbs.Flask
+import com.woowla.compose.icon.collections.twbs.twbs.FlaskFill
+import com.woowla.compose.icon.collections.twbs.twbs.FlaskFlorence
+import com.woowla.compose.icon.collections.twbs.twbs.FlaskFlorenceFill
 import com.woowla.compose.icon.collections.twbs.twbs.Floppy
 import com.woowla.compose.icon.collections.twbs.twbs.Floppy2
 import com.woowla.compose.icon.collections.twbs.twbs.Floppy2Fill
@@ -1047,6 +1059,7 @@ import com.woowla.compose.icon.collections.twbs.twbs.FolderSymlink
 import com.woowla.compose.icon.collections.twbs.twbs.FolderSymlinkFill
 import com.woowla.compose.icon.collections.twbs.twbs.FolderX
 import com.woowla.compose.icon.collections.twbs.twbs.Fonts
+import com.woowla.compose.icon.collections.twbs.twbs.ForkKnife
 import com.woowla.compose.icon.collections.twbs.twbs.Forward
 import com.woowla.compose.icon.collections.twbs.twbs.ForwardFill
 import com.woowla.compose.icon.collections.twbs.twbs.Front
@@ -1080,9 +1093,13 @@ import com.woowla.compose.icon.collections.twbs.twbs.Gitlab
 import com.woowla.compose.icon.collections.twbs.twbs.Globe
 import com.woowla.compose.icon.collections.twbs.twbs.Globe2
 import com.woowla.compose.icon.collections.twbs.twbs.GlobeAmericas
+import com.woowla.compose.icon.collections.twbs.twbs.GlobeAmericasFill
 import com.woowla.compose.icon.collections.twbs.twbs.GlobeAsiaAustralia
+import com.woowla.compose.icon.collections.twbs.twbs.GlobeAsiaAustraliaFill
 import com.woowla.compose.icon.collections.twbs.twbs.GlobeCentralSouthAsia
+import com.woowla.compose.icon.collections.twbs.twbs.GlobeCentralSouthAsiaFill
 import com.woowla.compose.icon.collections.twbs.twbs.GlobeEuropeAfrica
+import com.woowla.compose.icon.collections.twbs.twbs.GlobeEuropeAfricaFill
 import com.woowla.compose.icon.collections.twbs.twbs.Google
 import com.woowla.compose.icon.collections.twbs.twbs.GooglePlay
 import com.woowla.compose.icon.collections.twbs.twbs.GpuCard
@@ -1206,6 +1223,7 @@ import com.woowla.compose.icon.collections.twbs.twbs.InputCursor
 import com.woowla.compose.icon.collections.twbs.twbs.InputCursorText
 import com.woowla.compose.icon.collections.twbs.twbs.Instagram
 import com.woowla.compose.icon.collections.twbs.twbs.Intersect
+import com.woowla.compose.icon.collections.twbs.twbs.Javascript
 import com.woowla.compose.icon.collections.twbs.twbs.Journal
 import com.woowla.compose.icon.collections.twbs.twbs.JournalAlbum
 import com.woowla.compose.icon.collections.twbs.twbs.JournalArrowDown
@@ -1252,6 +1270,8 @@ import com.woowla.compose.icon.collections.twbs.twbs.LayoutTextWindow
 import com.woowla.compose.icon.collections.twbs.twbs.LayoutTextWindowReverse
 import com.woowla.compose.icon.collections.twbs.twbs.LayoutThreeColumns
 import com.woowla.compose.icon.collections.twbs.twbs.LayoutWtf
+import com.woowla.compose.icon.collections.twbs.twbs.Leaf
+import com.woowla.compose.icon.collections.twbs.twbs.LeafFill
 import com.woowla.compose.icon.collections.twbs.twbs.LifePreserver
 import com.woowla.compose.icon.collections.twbs.twbs.Lightbulb
 import com.woowla.compose.icon.collections.twbs.twbs.LightbulbFill
@@ -1294,6 +1314,8 @@ import com.woowla.compose.icon.collections.twbs.twbs.MarkdownFill
 import com.woowla.compose.icon.collections.twbs.twbs.MarkerTip
 import com.woowla.compose.icon.collections.twbs.twbs.Mask
 import com.woowla.compose.icon.collections.twbs.twbs.Mastodon
+import com.woowla.compose.icon.collections.twbs.twbs.MeasuringCup
+import com.woowla.compose.icon.collections.twbs.twbs.MeasuringCupFill
 import com.woowla.compose.icon.collections.twbs.twbs.Medium
 import com.woowla.compose.icon.collections.twbs.twbs.Megaphone
 import com.woowla.compose.icon.collections.twbs.twbs.MegaphoneFill
@@ -1394,6 +1416,7 @@ import com.woowla.compose.icon.collections.twbs.twbs.NvmeFill
 import com.woowla.compose.icon.collections.twbs.twbs.Octagon
 import com.woowla.compose.icon.collections.twbs.twbs.OctagonFill
 import com.woowla.compose.icon.collections.twbs.twbs.OctagonHalf
+import com.woowla.compose.icon.collections.twbs.twbs.Openai
 import com.woowla.compose.icon.collections.twbs.twbs.Opencollective
 import com.woowla.compose.icon.collections.twbs.twbs.OpticalAudio
 import com.woowla.compose.icon.collections.twbs.twbs.OpticalAudioFill
@@ -1450,6 +1473,7 @@ import com.woowla.compose.icon.collections.twbs.twbs.PentagonHalf
 import com.woowla.compose.icon.collections.twbs.twbs.People
 import com.woowla.compose.icon.collections.twbs.twbs.PeopleFill
 import com.woowla.compose.icon.collections.twbs.twbs.Percent
+import com.woowla.compose.icon.collections.twbs.twbs.Perplexity
 import com.woowla.compose.icon.collections.twbs.twbs.Person
 import com.woowla.compose.icon.collections.twbs.twbs.PersonAdd
 import com.woowla.compose.icon.collections.twbs.twbs.PersonArmsUp
@@ -1937,6 +1961,7 @@ import com.woowla.compose.icon.collections.twbs.twbs.TruckFlatbed
 import com.woowla.compose.icon.collections.twbs.twbs.TruckFront
 import com.woowla.compose.icon.collections.twbs.twbs.TruckFrontFill
 import com.woowla.compose.icon.collections.twbs.twbs.Tsunami
+import com.woowla.compose.icon.collections.twbs.twbs.Tux
 import com.woowla.compose.icon.collections.twbs.twbs.Tv
 import com.woowla.compose.icon.collections.twbs.twbs.TvFill
 import com.woowla.compose.icon.collections.twbs.twbs.Twitch
@@ -1953,6 +1978,7 @@ import com.woowla.compose.icon.collections.twbs.twbs.TypeH6
 import com.woowla.compose.icon.collections.twbs.twbs.TypeItalic
 import com.woowla.compose.icon.collections.twbs.twbs.TypeStrikethrough
 import com.woowla.compose.icon.collections.twbs.twbs.TypeUnderline
+import com.woowla.compose.icon.collections.twbs.twbs.Typescript
 import com.woowla.compose.icon.collections.twbs.twbs.Ubuntu
 import com.woowla.compose.icon.collections.twbs.twbs.UiChecks
 import com.woowla.compose.icon.collections.twbs.twbs.UiChecksGrid
@@ -1966,6 +1992,8 @@ import com.woowla.compose.icon.collections.twbs.twbs.Unity
 import com.woowla.compose.icon.collections.twbs.twbs.UniversalAccess
 import com.woowla.compose.icon.collections.twbs.twbs.UniversalAccessCircle
 import com.woowla.compose.icon.collections.twbs.twbs.Unlock
+import com.woowla.compose.icon.collections.twbs.twbs.Unlock2
+import com.woowla.compose.icon.collections.twbs.twbs.Unlock2Fill
 import com.woowla.compose.icon.collections.twbs.twbs.UnlockFill
 import com.woowla.compose.icon.collections.twbs.twbs.Upc
 import com.woowla.compose.icon.collections.twbs.twbs.UpcScan
@@ -2064,18 +2092,19 @@ public val Twbs.AllIcons: ____KtList<ImageVector>
     }
     __AllIcons= listOf(Activity, Airplane, AirplaneEngines, AirplaneEnginesFill, AirplaneFill,
         Alarm, AlarmFill, Alexa, AlignBottom, AlignCenter, AlignEnd, AlignMiddle, AlignStart,
-        AlignTop, Alipay, Alphabet, AlphabetUppercase, Alt, Amazon, Amd, Android, Android2, App,
-        AppIndicator, Apple, Archive, ArchiveFill, Arrow90degDown, Arrow90degLeft, Arrow90degRight,
-        Arrow90degUp, ArrowBarDown, ArrowBarLeft, ArrowBarRight, ArrowBarUp, ArrowClockwise,
-        ArrowCounterclockwise, ArrowDown, ArrowDownCircle, ArrowDownCircleFill, ArrowDownLeft,
-        ArrowDownLeftCircle, ArrowDownLeftCircleFill, ArrowDownLeftSquare, ArrowDownLeftSquareFill,
-        ArrowDownRight, ArrowDownRightCircle, ArrowDownRightCircleFill, ArrowDownRightSquare,
-        ArrowDownRightSquareFill, ArrowDownShort, ArrowDownSquare, ArrowDownSquareFill, ArrowDownUp,
-        ArrowLeft, ArrowLeftCircle, ArrowLeftCircleFill, ArrowLeftRight, ArrowLeftShort,
-        ArrowLeftSquare, ArrowLeftSquareFill, ArrowRepeat, ArrowReturnLeft, ArrowReturnRight,
-        ArrowRight, ArrowRightCircle, ArrowRightCircleFill, ArrowRightShort, ArrowRightSquare,
-        ArrowRightSquareFill, ArrowThroughHeart, ArrowThroughHeartFill, ArrowUp, ArrowUpCircle,
-        ArrowUpCircleFill, ArrowUpLeft, ArrowUpLeftCircle, ArrowUpLeftCircleFill, ArrowUpLeftSquare,
+        AlignTop, Alipay, Alphabet, AlphabetUppercase, Alt, Amazon, Amd, Android, Android2,
+        Anthropic, App, AppIndicator, Apple, AppleMusic, Archive, ArchiveFill, Arrow90degDown,
+        Arrow90degLeft, Arrow90degRight, Arrow90degUp, ArrowBarDown, ArrowBarLeft, ArrowBarRight,
+        ArrowBarUp, ArrowClockwise, ArrowCounterclockwise, ArrowDown, ArrowDownCircle,
+        ArrowDownCircleFill, ArrowDownLeft, ArrowDownLeftCircle, ArrowDownLeftCircleFill,
+        ArrowDownLeftSquare, ArrowDownLeftSquareFill, ArrowDownRight, ArrowDownRightCircle,
+        ArrowDownRightCircleFill, ArrowDownRightSquare, ArrowDownRightSquareFill, ArrowDownShort,
+        ArrowDownSquare, ArrowDownSquareFill, ArrowDownUp, ArrowLeft, ArrowLeftCircle,
+        ArrowLeftCircleFill, ArrowLeftRight, ArrowLeftShort, ArrowLeftSquare, ArrowLeftSquareFill,
+        ArrowRepeat, ArrowReturnLeft, ArrowReturnRight, ArrowRight, ArrowRightCircle,
+        ArrowRightCircleFill, ArrowRightShort, ArrowRightSquare, ArrowRightSquareFill,
+        ArrowThroughHeart, ArrowThroughHeartFill, ArrowUp, ArrowUpCircle, ArrowUpCircleFill,
+        ArrowUpLeft, ArrowUpLeftCircle, ArrowUpLeftCircleFill, ArrowUpLeftSquare,
         ArrowUpLeftSquareFill, ArrowUpRight, ArrowUpRightCircle, ArrowUpRightCircleFill,
         ArrowUpRightSquare, ArrowUpRightSquareFill, ArrowUpShort, ArrowUpSquare, ArrowUpSquareFill,
         Arrows, ArrowsAngleContract, ArrowsAngleExpand, ArrowsCollapse, ArrowsCollapseVertical,
@@ -2090,24 +2119,24 @@ public val Twbs.AllIcons: ____KtList<ImageVector>
         Balloon, BalloonFill, BalloonHeart, BalloonHeartFill, Ban, BanFill, Bandaid, BandaidFill,
         Bank, Bank2, BarChart, BarChartFill, BarChartLine, BarChartLineFill, BarChartSteps, Basket,
         Basket2, Basket2Fill, Basket3, Basket3Fill, BasketFill, Battery, BatteryCharging,
-        BatteryFull, BatteryHalf, Behance, Bell, BellFill, BellSlash, BellSlashFill, Bezier,
-        Bezier2, Bicycle, Bing, Binoculars, BinocularsFill, BlockquoteLeft, BlockquoteRight,
-        Bluetooth, BodyText, Book, BookFill, BookHalf, Bookmark, BookmarkCheck, BookmarkCheckFill,
-        BookmarkDash, BookmarkDashFill, BookmarkFill, BookmarkHeart, BookmarkHeartFill,
-        BookmarkPlus, BookmarkPlusFill, BookmarkStar, BookmarkStarFill, BookmarkX, BookmarkXFill,
-        Bookmarks, BookmarksFill, Bookshelf, Boombox, BoomboxFill, Bootstrap, BootstrapFill,
-        BootstrapReboot, Border, BorderAll, BorderBottom, BorderCenter, BorderInner, BorderLeft,
-        BorderMiddle, BorderOuter, BorderRight, BorderStyle, BorderTop, BorderWidth, BoundingBox,
-        BoundingBoxCircles, Box, Box2, Box2Fill, Box2Heart, Box2HeartFill, BoxArrowDown,
-        BoxArrowDownLeft, BoxArrowDownRight, BoxArrowInDown, BoxArrowInDownLeft,
-        BoxArrowInDownRight, BoxArrowInLeft, BoxArrowInRight, BoxArrowInUp, BoxArrowInUpLeft,
-        BoxArrowInUpRight, BoxArrowLeft, BoxArrowRight, BoxArrowUp, BoxArrowUpLeft, BoxArrowUpRight,
-        BoxFill, BoxSeam, BoxSeamFill, Boxes, Braces, BracesAsterisk, Bricks, Briefcase,
-        BriefcaseFill, BrightnessAltHigh, BrightnessAltHighFill, BrightnessAltLow,
-        BrightnessAltLowFill, BrightnessHigh, BrightnessHighFill, BrightnessLow, BrightnessLowFill,
-        Brilliance, Broadcast, BroadcastPin, BrowserChrome, BrowserEdge, BrowserFirefox,
-        BrowserSafari, Brush, BrushFill, Bucket, BucketFill, Bug, BugFill, Building, BuildingAdd,
-        BuildingCheck, BuildingDash, BuildingDown, BuildingExclamation, BuildingFill,
+        BatteryFull, BatteryHalf, BatteryLow, Beaker, BeakerFill, Behance, Bell, BellFill,
+        BellSlash, BellSlashFill, Bezier, Bezier2, Bicycle, Bing, Binoculars, BinocularsFill,
+        BlockquoteLeft, BlockquoteRight, Bluesky, Bluetooth, BodyText, Book, BookFill, BookHalf,
+        Bookmark, BookmarkCheck, BookmarkCheckFill, BookmarkDash, BookmarkDashFill, BookmarkFill,
+        BookmarkHeart, BookmarkHeartFill, BookmarkPlus, BookmarkPlusFill, BookmarkStar,
+        BookmarkStarFill, BookmarkX, BookmarkXFill, Bookmarks, BookmarksFill, Bookshelf, Boombox,
+        BoomboxFill, Bootstrap, BootstrapFill, BootstrapReboot, Border, BorderAll, BorderBottom,
+        BorderCenter, BorderInner, BorderLeft, BorderMiddle, BorderOuter, BorderRight, BorderStyle,
+        BorderTop, BorderWidth, BoundingBox, BoundingBoxCircles, Box, Box2, Box2Fill, Box2Heart,
+        Box2HeartFill, BoxArrowDown, BoxArrowDownLeft, BoxArrowDownRight, BoxArrowInDown,
+        BoxArrowInDownLeft, BoxArrowInDownRight, BoxArrowInLeft, BoxArrowInRight, BoxArrowInUp,
+        BoxArrowInUpLeft, BoxArrowInUpRight, BoxArrowLeft, BoxArrowRight, BoxArrowUp,
+        BoxArrowUpLeft, BoxArrowUpRight, BoxFill, BoxSeam, BoxSeamFill, Boxes, Braces,
+        BracesAsterisk, Bricks, Briefcase, BriefcaseFill, BrightnessAltHigh, BrightnessAltHighFill,
+        BrightnessAltLow, BrightnessAltLowFill, BrightnessHigh, BrightnessHighFill, BrightnessLow,
+        BrightnessLowFill, Brilliance, Broadcast, BroadcastPin, BrowserChrome, BrowserEdge,
+        BrowserFirefox, BrowserSafari, Brush, BrushFill, Bucket, BucketFill, Bug, BugFill, Building,
+        BuildingAdd, BuildingCheck, BuildingDash, BuildingDown, BuildingExclamation, BuildingFill,
         BuildingFillAdd, BuildingFillCheck, BuildingFillDash, BuildingFillDown,
         BuildingFillExclamation, BuildingFillGear, BuildingFillLock, BuildingFillSlash,
         BuildingFillUp, BuildingFillX, BuildingGear, BuildingLock, BuildingSlash, BuildingUp,
@@ -2146,9 +2175,9 @@ public val Twbs.AllIcons: ____KtList<ImageVector>
         ChevronCompactLeft, ChevronCompactRight, ChevronCompactUp, ChevronContract,
         ChevronDoubleDown, ChevronDoubleLeft, ChevronDoubleRight, ChevronDoubleUp, ChevronDown,
         ChevronExpand, ChevronLeft, ChevronRight, ChevronUp, Circle, CircleFill, CircleHalf,
-        CircleSquare, Clipboard, Clipboard2, Clipboard2Check, Clipboard2CheckFill, Clipboard2Data,
-        Clipboard2DataFill, Clipboard2Fill, Clipboard2Heart, Clipboard2HeartFill, Clipboard2Minus,
-        Clipboard2MinusFill, Clipboard2Plus, Clipboard2PlusFill, Clipboard2Pulse,
+        CircleSquare, Claude, Clipboard, Clipboard2, Clipboard2Check, Clipboard2CheckFill,
+        Clipboard2Data, Clipboard2DataFill, Clipboard2Fill, Clipboard2Heart, Clipboard2HeartFill,
+        Clipboard2Minus, Clipboard2MinusFill, Clipboard2Plus, Clipboard2PlusFill, Clipboard2Pulse,
         Clipboard2PulseFill, Clipboard2X, Clipboard2XFill, ClipboardCheck, ClipboardCheckFill,
         ClipboardData, ClipboardDataFill, ClipboardFill, ClipboardHeart, ClipboardHeartFill,
         ClipboardMinus, ClipboardMinusFill, ClipboardPlus, ClipboardPlusFill, ClipboardPulse,
@@ -2164,23 +2193,23 @@ public val Twbs.AllIcons: ____KtList<ImageVector>
         CodeSlash, CodeSquare, Coin, Collection, CollectionFill, CollectionPlay, CollectionPlayFill,
         Columns, ColumnsGap, Command, Compass, CompassFill, Cone, ConeStriped, Controller, Cookie,
         Copy, Cpu, CpuFill, CreditCard, CreditCard2Back, CreditCard2BackFill, CreditCard2Front,
-        CreditCard2FrontFill, CreditCardFill, Crop, Crosshair, Crosshair2, Cup, CupFill, CupHot,
-        CupHotFill, CupStraw, CurrencyBitcoin, CurrencyDollar, CurrencyEuro, CurrencyExchange,
-        CurrencyPound, CurrencyRupee, CurrencyYen, Cursor, CursorFill, CursorText, Dash, DashCircle,
-        DashCircleDotted, DashCircleFill, DashLg, DashSquare, DashSquareDotted, DashSquareFill,
-        Database, DatabaseAdd, DatabaseCheck, DatabaseDash, DatabaseDown, DatabaseExclamation,
-        DatabaseFill, DatabaseFillAdd, DatabaseFillCheck, DatabaseFillDash, DatabaseFillDown,
-        DatabaseFillExclamation, DatabaseFillGear, DatabaseFillLock, DatabaseFillSlash,
-        DatabaseFillUp, DatabaseFillX, DatabaseGear, DatabaseLock, DatabaseSlash, DatabaseUp,
-        DatabaseX, DeviceHdd, DeviceHddFill, DeviceSsd, DeviceSsdFill, Diagram2, Diagram2Fill,
-        Diagram3, Diagram3Fill, Diamond, DiamondFill, DiamondHalf, Dice1, Dice1Fill, Dice2,
-        Dice2Fill, Dice3, Dice3Fill, Dice4, Dice4Fill, Dice5, Dice5Fill, Dice6, Dice6Fill, Disc,
-        DiscFill, Discord, Display, DisplayFill, Displayport, DisplayportFill, DistributeHorizontal,
-        DistributeVertical, DoorClosed, DoorClosedFill, DoorOpen, DoorOpenFill, Dot, Download, Dpad,
-        DpadFill, Dribbble, Dropbox, Droplet, DropletFill, DropletHalf, Duffle, DuffleFill, Ear,
-        EarFill, Earbuds, Easel, Easel2, Easel2Fill, Easel3, Easel3Fill, EaselFill, Egg, EggFill,
-        EggFried, Eject, EjectFill, EmojiAngry, EmojiAngryFill, EmojiAstonished,
-        EmojiAstonishedFill, EmojiDizzy, EmojiDizzyFill, EmojiExpressionless,
+        CreditCard2FrontFill, CreditCardFill, Crop, Crosshair, Crosshair2, Css, Cup, CupFill,
+        CupHot, CupHotFill, CupStraw, CurrencyBitcoin, CurrencyDollar, CurrencyEuro,
+        CurrencyExchange, CurrencyPound, CurrencyRupee, CurrencyYen, Cursor, CursorFill, CursorText,
+        Dash, DashCircle, DashCircleDotted, DashCircleFill, DashLg, DashSquare, DashSquareDotted,
+        DashSquareFill, Database, DatabaseAdd, DatabaseCheck, DatabaseDash, DatabaseDown,
+        DatabaseExclamation, DatabaseFill, DatabaseFillAdd, DatabaseFillCheck, DatabaseFillDash,
+        DatabaseFillDown, DatabaseFillExclamation, DatabaseFillGear, DatabaseFillLock,
+        DatabaseFillSlash, DatabaseFillUp, DatabaseFillX, DatabaseGear, DatabaseLock, DatabaseSlash,
+        DatabaseUp, DatabaseX, DeviceHdd, DeviceHddFill, DeviceSsd, DeviceSsdFill, Diagram2,
+        Diagram2Fill, Diagram3, Diagram3Fill, Diamond, DiamondFill, DiamondHalf, Dice1, Dice1Fill,
+        Dice2, Dice2Fill, Dice3, Dice3Fill, Dice4, Dice4Fill, Dice5, Dice5Fill, Dice6, Dice6Fill,
+        Disc, DiscFill, Discord, Display, DisplayFill, Displayport, DisplayportFill,
+        DistributeHorizontal, DistributeVertical, DoorClosed, DoorClosedFill, DoorOpen,
+        DoorOpenFill, Dot, Download, Dpad, DpadFill, Dribbble, Dropbox, Droplet, DropletFill,
+        DropletHalf, Duffle, DuffleFill, Ear, EarFill, Earbuds, Easel, Easel2, Easel2Fill, Easel3,
+        Easel3Fill, EaselFill, Egg, EggFill, EggFried, Eject, EjectFill, EmojiAngry, EmojiAngryFill,
+        EmojiAstonished, EmojiAstonishedFill, EmojiDizzy, EmojiDizzyFill, EmojiExpressionless,
         EmojiExpressionlessFill, EmojiFrown, EmojiFrownFill, EmojiGrimace, EmojiGrimaceFill,
         EmojiGrin, EmojiGrinFill, EmojiHeartEyes, EmojiHeartEyesFill, EmojiKiss, EmojiKissFill,
         EmojiLaughing, EmojiLaughingFill, EmojiNeutral, EmojiNeutralFill, EmojiSmile,
@@ -2233,44 +2262,46 @@ public val Twbs.AllIcons: ____KtList<ImageVector>
         FiletypeSql, FiletypeSvg, FiletypeTiff, FiletypeTsx, FiletypeTtf, FiletypeTxt, FiletypeWav,
         FiletypeWoff, FiletypeXls, FiletypeXlsx, FiletypeXml, FiletypeYml, Film, Filter,
         FilterCircle, FilterCircleFill, FilterLeft, FilterRight, FilterSquare, FilterSquareFill,
-        Fingerprint, Fire, Flag, FlagFill, Floppy, Floppy2, Floppy2Fill, FloppyFill, Flower1,
-        Flower2, Flower3, Folder, Folder2, Folder2Open, FolderCheck, FolderFill, FolderMinus,
-        FolderPlus, FolderSymlink, FolderSymlinkFill, FolderX, Fonts, Forward, ForwardFill, Front,
-        FuelPump, FuelPumpDiesel, FuelPumpDieselFill, FuelPumpFill, Fullscreen, FullscreenExit,
-        Funnel, FunnelFill, Gear, GearFill, GearWide, GearWideConnected, Gem, GenderAmbiguous,
-        GenderFemale, GenderMale, GenderNeuter, GenderTrans, Geo, GeoAlt, GeoAltFill, GeoFill, Gift,
-        GiftFill, Git, Github, Gitlab, Globe, Globe2, GlobeAmericas, GlobeAsiaAustralia,
-        GlobeCentralSouthAsia, GlobeEuropeAfrica, Google, GooglePlay, GpuCard, GraphDown,
-        GraphDownArrow, GraphUp, GraphUpArrow, Grid, Grid1x2, Grid1x2Fill, Grid3x2, Grid3x2Gap,
-        Grid3x2GapFill, Grid3x3, Grid3x3Gap, Grid3x3GapFill, GridFill, GripHorizontal, GripVertical,
-        HCircle, HCircleFill, HSquare, HSquareFill, Hammer, HandIndex, HandIndexFill,
-        HandIndexThumb, HandIndexThumbFill, HandThumbsDown, HandThumbsDownFill, HandThumbsUp,
-        HandThumbsUpFill, Handbag, HandbagFill, Hash, Hdd, HddFill, HddNetwork, HddNetworkFill,
-        HddRack, HddRackFill, HddStack, HddStackFill, Hdmi, HdmiFill, Headphones, Headset,
-        HeadsetVr, Heart, HeartArrow, HeartFill, HeartHalf, HeartPulse, HeartPulseFill, Heartbreak,
-        HeartbreakFill, Hearts, Heptagon, HeptagonFill, HeptagonHalf, Hexagon, HexagonFill,
-        HexagonHalf, Highlighter, Highlights, Hospital, HospitalFill, Hourglass, HourglassBottom,
-        HourglassSplit, HourglassTop, House, HouseAdd, HouseAddFill, HouseCheck, HouseCheckFill,
-        HouseDash, HouseDashFill, HouseDoor, HouseDoorFill, HouseDown, HouseDownFill,
-        HouseExclamation, HouseExclamationFill, HouseFill, HouseGear, HouseGearFill, HouseHeart,
-        HouseHeartFill, HouseLock, HouseLockFill, HouseSlash, HouseSlashFill, HouseUp, HouseUpFill,
-        HouseX, HouseXFill, Houses, HousesFill, Hr, Hurricane, Hypnotize, Image, ImageAlt,
-        ImageFill, Images, Inbox, InboxFill, Inboxes, InboxesFill, Incognito, Indent, Infinity,
-        Info, InfoCircle, InfoCircleFill, InfoLg, InfoSquare, InfoSquareFill, InputCursor,
-        InputCursorText, Instagram, Intersect, Journal, JournalAlbum, JournalArrowDown,
-        JournalArrowUp, JournalBookmark, JournalBookmarkFill, JournalCheck, JournalCode,
-        JournalMedical, JournalMinus, JournalPlus, JournalRichtext, JournalText, JournalX, Journals,
-        Joystick, Justify, JustifyLeft, JustifyRight, Kanban, KanbanFill, Key, KeyFill, Keyboard,
-        KeyboardFill, Ladder, Lamp, LampFill, Laptop, LaptopFill, LayerBackward, LayerForward,
-        Layers, LayersFill, LayersHalf, LayoutSidebar, LayoutSidebarInset,
-        LayoutSidebarInsetReverse, LayoutSidebarReverse, LayoutSplit, LayoutTextSidebar,
-        LayoutTextSidebarReverse, LayoutTextWindow, LayoutTextWindowReverse, LayoutThreeColumns,
-        LayoutWtf, LifePreserver, Lightbulb, LightbulbFill, LightbulbOff, LightbulbOffFill,
-        Lightning, LightningCharge, LightningChargeFill, LightningFill, Line, Link, Link45deg,
-        Linkedin, List, ListCheck, ListColumns, ListColumnsReverse, ListNested, ListOl, ListStars,
-        ListTask, ListUl, Lock, LockFill, Luggage, LuggageFill, Lungs, LungsFill, Magic, Magnet,
-        MagnetFill, Mailbox, Mailbox2, Mailbox2Flag, MailboxFlag, Map, MapFill, Markdown,
-        MarkdownFill, MarkerTip, Mask, Mastodon, Medium, Megaphone, MegaphoneFill, Memory, MenuApp,
+        Fingerprint, Fire, Flag, FlagFill, Flask, FlaskFill, FlaskFlorence, FlaskFlorenceFill,
+        Floppy, Floppy2, Floppy2Fill, FloppyFill, Flower1, Flower2, Flower3, Folder, Folder2,
+        Folder2Open, FolderCheck, FolderFill, FolderMinus, FolderPlus, FolderSymlink,
+        FolderSymlinkFill, FolderX, Fonts, ForkKnife, Forward, ForwardFill, Front, FuelPump,
+        FuelPumpDiesel, FuelPumpDieselFill, FuelPumpFill, Fullscreen, FullscreenExit, Funnel,
+        FunnelFill, Gear, GearFill, GearWide, GearWideConnected, Gem, GenderAmbiguous, GenderFemale,
+        GenderMale, GenderNeuter, GenderTrans, Geo, GeoAlt, GeoAltFill, GeoFill, Gift, GiftFill,
+        Git, Github, Gitlab, Globe, Globe2, GlobeAmericas, GlobeAmericasFill, GlobeAsiaAustralia,
+        GlobeAsiaAustraliaFill, GlobeCentralSouthAsia, GlobeCentralSouthAsiaFill, GlobeEuropeAfrica,
+        GlobeEuropeAfricaFill, Google, GooglePlay, GpuCard, GraphDown, GraphDownArrow, GraphUp,
+        GraphUpArrow, Grid, Grid1x2, Grid1x2Fill, Grid3x2, Grid3x2Gap, Grid3x2GapFill, Grid3x3,
+        Grid3x3Gap, Grid3x3GapFill, GridFill, GripHorizontal, GripVertical, HCircle, HCircleFill,
+        HSquare, HSquareFill, Hammer, HandIndex, HandIndexFill, HandIndexThumb, HandIndexThumbFill,
+        HandThumbsDown, HandThumbsDownFill, HandThumbsUp, HandThumbsUpFill, Handbag, HandbagFill,
+        Hash, Hdd, HddFill, HddNetwork, HddNetworkFill, HddRack, HddRackFill, HddStack,
+        HddStackFill, Hdmi, HdmiFill, Headphones, Headset, HeadsetVr, Heart, HeartArrow, HeartFill,
+        HeartHalf, HeartPulse, HeartPulseFill, Heartbreak, HeartbreakFill, Hearts, Heptagon,
+        HeptagonFill, HeptagonHalf, Hexagon, HexagonFill, HexagonHalf, Highlighter, Highlights,
+        Hospital, HospitalFill, Hourglass, HourglassBottom, HourglassSplit, HourglassTop, House,
+        HouseAdd, HouseAddFill, HouseCheck, HouseCheckFill, HouseDash, HouseDashFill, HouseDoor,
+        HouseDoorFill, HouseDown, HouseDownFill, HouseExclamation, HouseExclamationFill, HouseFill,
+        HouseGear, HouseGearFill, HouseHeart, HouseHeartFill, HouseLock, HouseLockFill, HouseSlash,
+        HouseSlashFill, HouseUp, HouseUpFill, HouseX, HouseXFill, Houses, HousesFill, Hr, Hurricane,
+        Hypnotize, Image, ImageAlt, ImageFill, Images, Inbox, InboxFill, Inboxes, InboxesFill,
+        Incognito, Indent, Infinity, Info, InfoCircle, InfoCircleFill, InfoLg, InfoSquare,
+        InfoSquareFill, InputCursor, InputCursorText, Instagram, Intersect, Javascript, Journal,
+        JournalAlbum, JournalArrowDown, JournalArrowUp, JournalBookmark, JournalBookmarkFill,
+        JournalCheck, JournalCode, JournalMedical, JournalMinus, JournalPlus, JournalRichtext,
+        JournalText, JournalX, Journals, Joystick, Justify, JustifyLeft, JustifyRight, Kanban,
+        KanbanFill, Key, KeyFill, Keyboard, KeyboardFill, Ladder, Lamp, LampFill, Laptop,
+        LaptopFill, LayerBackward, LayerForward, Layers, LayersFill, LayersHalf, LayoutSidebar,
+        LayoutSidebarInset, LayoutSidebarInsetReverse, LayoutSidebarReverse, LayoutSplit,
+        LayoutTextSidebar, LayoutTextSidebarReverse, LayoutTextWindow, LayoutTextWindowReverse,
+        LayoutThreeColumns, LayoutWtf, Leaf, LeafFill, LifePreserver, Lightbulb, LightbulbFill,
+        LightbulbOff, LightbulbOffFill, Lightning, LightningCharge, LightningChargeFill,
+        LightningFill, Line, Link, Link45deg, Linkedin, List, ListCheck, ListColumns,
+        ListColumnsReverse, ListNested, ListOl, ListStars, ListTask, ListUl, Lock, LockFill,
+        Luggage, LuggageFill, Lungs, LungsFill, Magic, Magnet, MagnetFill, Mailbox, Mailbox2,
+        Mailbox2Flag, MailboxFlag, Map, MapFill, Markdown, MarkdownFill, MarkerTip, Mask, Mastodon,
+        MeasuringCup, MeasuringCupFill, Medium, Megaphone, MegaphoneFill, Memory, MenuApp,
         MenuAppFill, MenuButton, MenuButtonFill, MenuButtonWide, MenuButtonWideFill, MenuDown,
         MenuUp, Messenger, Meta, Mic, MicFill, MicMute, MicMuteFill, Microsoft, MicrosoftTeams,
         Minecart, MinecartLoaded, Modem, ModemFill, Moisture, Moon, MoonFill, MoonStars,
@@ -2286,17 +2317,17 @@ public val Twbs.AllIcons: ____KtList<ImageVector>
         Number6SquareFill, Number7Circle, Number7CircleFill, Number7Square, Number7SquareFill,
         Number8Circle, Number8CircleFill, Number8Square, Number8SquareFill, Number9Circle,
         Number9CircleFill, Number9Square, Number9SquareFill, Nut, NutFill, Nvidia, Nvme, NvmeFill,
-        Octagon, OctagonFill, OctagonHalf, Opencollective, OpticalAudio, OpticalAudioFill, Option,
-        Outlet, PCircle, PCircleFill, PSquare, PSquareFill, PaintBucket, Palette, Palette2,
+        Octagon, OctagonFill, OctagonHalf, Openai, Opencollective, OpticalAudio, OpticalAudioFill,
+        Option, Outlet, PCircle, PCircleFill, PSquare, PSquareFill, PaintBucket, Palette, Palette2,
         PaletteFill, Paperclip, Paragraph, Pass, PassFill, Passport, PassportFill, PatchCheck,
         PatchCheckFill, PatchExclamation, PatchExclamationFill, PatchMinus, PatchMinusFill,
         PatchPlus, PatchPlusFill, PatchQuestion, PatchQuestionFill, Pause, PauseBtn, PauseBtnFill,
         PauseCircle, PauseCircleFill, PauseFill, Paypal, Pc, PcDisplay, PcDisplayHorizontal,
         PcHorizontal, PciCard, PciCardNetwork, PciCardSound, Peace, PeaceFill, Pen, PenFill, Pencil,
         PencilFill, PencilSquare, Pentagon, PentagonFill, PentagonHalf, People, PeopleFill, Percent,
-        Person, PersonAdd, PersonArmsUp, PersonBadge, PersonBadgeFill, PersonBoundingBox,
-        PersonCheck, PersonCheckFill, PersonCircle, PersonDash, PersonDashFill, PersonDown,
-        PersonExclamation, PersonFill, PersonFillAdd, PersonFillCheck, PersonFillDash,
+        Perplexity, Person, PersonAdd, PersonArmsUp, PersonBadge, PersonBadgeFill,
+        PersonBoundingBox, PersonCheck, PersonCheckFill, PersonCircle, PersonDash, PersonDashFill,
+        PersonDown, PersonExclamation, PersonFill, PersonFillAdd, PersonFillCheck, PersonFillDash,
         PersonFillDown, PersonFillExclamation, PersonFillGear, PersonFillLock, PersonFillSlash,
         PersonFillUp, PersonFillX, PersonGear, PersonHeart, PersonHearts, PersonLinesFill,
         PersonLock, PersonPlus, PersonPlusFill, PersonRaisedHand, PersonRolodex, PersonSlash,
@@ -2368,20 +2399,20 @@ public val Twbs.AllIcons: ____KtList<ImageVector>
         TrainFreightFrontFill, TrainFront, TrainFrontFill, TrainLightrailFront,
         TrainLightrailFrontFill, Translate, Transparency, Trash, Trash2, Trash2Fill, Trash3,
         Trash3Fill, TrashFill, Tree, TreeFill, Trello, Triangle, TriangleFill, TriangleHalf, Trophy,
-        TrophyFill, TropicalStorm, Truck, TruckFlatbed, TruckFront, TruckFrontFill, Tsunami, Tv,
-        TvFill, Twitch, Twitter, TwitterX, Type, TypeBold, TypeH1, TypeH2, TypeH3, TypeH4, TypeH5,
-        TypeH6, TypeItalic, TypeStrikethrough, TypeUnderline, Ubuntu, UiChecks, UiChecksGrid,
-        UiRadios, UiRadiosGrid, Umbrella, UmbrellaFill, Unindent, Union, Unity, UniversalAccess,
-        UniversalAccessCircle, Unlock, UnlockFill, Upc, UpcScan, Upload, Usb, UsbC, UsbCFill,
-        UsbDrive, UsbDriveFill, UsbFill, UsbMicro, UsbMicroFill, UsbMini, UsbMiniFill, UsbPlug,
-        UsbPlugFill, UsbSymbol, Valentine, Valentine2, VectorPen, ViewList, ViewStacked, Vignette,
-        Vimeo, Vinyl, VinylFill, Virus, Virus2, Voicemail, VolumeDown, VolumeDownFill, VolumeMute,
-        VolumeMuteFill, VolumeOff, VolumeOffFill, VolumeUp, VolumeUpFill, Vr, Wallet, Wallet2,
-        WalletFill, Watch, Water, Webcam, WebcamFill, Wechat, Whatsapp, Wifi, Wifi1, Wifi2, WifiOff,
-        Wikipedia, Wind, Window, WindowDash, WindowDesktop, WindowDock, WindowFullscreen,
-        WindowPlus, WindowSidebar, WindowSplit, WindowStack, WindowX, Windows, Wordpress, Wrench,
-        WrenchAdjustable, WrenchAdjustableCircle, WrenchAdjustableCircleFill, X, XCircle,
-        XCircleFill, XDiamond, XDiamondFill, XLg, XOctagon, XOctagonFill, XSquare, XSquareFill,
-        Xbox, Yelp, YinYang, Youtube, ZoomIn, ZoomOut)
+        TrophyFill, TropicalStorm, Truck, TruckFlatbed, TruckFront, TruckFrontFill, Tsunami, Tux,
+        Tv, TvFill, Twitch, Twitter, TwitterX, Type, TypeBold, TypeH1, TypeH2, TypeH3, TypeH4,
+        TypeH5, TypeH6, TypeItalic, TypeStrikethrough, TypeUnderline, Typescript, Ubuntu, UiChecks,
+        UiChecksGrid, UiRadios, UiRadiosGrid, Umbrella, UmbrellaFill, Unindent, Union, Unity,
+        UniversalAccess, UniversalAccessCircle, Unlock, Unlock2, Unlock2Fill, UnlockFill, Upc,
+        UpcScan, Upload, Usb, UsbC, UsbCFill, UsbDrive, UsbDriveFill, UsbFill, UsbMicro,
+        UsbMicroFill, UsbMini, UsbMiniFill, UsbPlug, UsbPlugFill, UsbSymbol, Valentine, Valentine2,
+        VectorPen, ViewList, ViewStacked, Vignette, Vimeo, Vinyl, VinylFill, Virus, Virus2,
+        Voicemail, VolumeDown, VolumeDownFill, VolumeMute, VolumeMuteFill, VolumeOff, VolumeOffFill,
+        VolumeUp, VolumeUpFill, Vr, Wallet, Wallet2, WalletFill, Watch, Water, Webcam, WebcamFill,
+        Wechat, Whatsapp, Wifi, Wifi1, Wifi2, WifiOff, Wikipedia, Wind, Window, WindowDash,
+        WindowDesktop, WindowDock, WindowFullscreen, WindowPlus, WindowSidebar, WindowSplit,
+        WindowStack, WindowX, Windows, Wordpress, Wrench, WrenchAdjustable, WrenchAdjustableCircle,
+        WrenchAdjustableCircleFill, X, XCircle, XCircleFill, XDiamond, XDiamondFill, XLg, XOctagon,
+        XOctagonFill, XSquare, XSquareFill, Xbox, Yelp, YinYang, Youtube, ZoomIn, ZoomOut)
     return __AllIcons!!
   }

@@ -12,7 +12,7 @@ plugins {
     alias(libs.plugins.vanniktech.maven.publish)
 }
 
-version = "3.31.0"
+version = "3.33.0"
 group = "com.woowla.compose.icon.collections"
 
 kotlin {
