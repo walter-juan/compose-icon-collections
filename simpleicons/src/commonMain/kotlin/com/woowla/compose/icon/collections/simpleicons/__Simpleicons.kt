@@ -151,6 +151,7 @@ import com.woowla.compose.icon.collections.simpleicons.simpleicons.Ansys
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Anta
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Antdesign
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Antena3
+import com.woowla.compose.icon.collections.simpleicons.simpleicons.Antennapod
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Anthropic
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Antv
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Anycubic
@@ -294,6 +295,7 @@ import com.woowla.compose.icon.collections.simpleicons.simpleicons.Backbone
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Backbonedotjs
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Backendless
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Backstage
+import com.woowla.compose.icon.collections.simpleicons.simpleicons.BackstageCasting
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Badoo
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Baidu
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Bakalari
@@ -394,6 +396,7 @@ import com.woowla.compose.icon.collections.simpleicons.simpleicons.Bower
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Box
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Boxysvg
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Braintree
+import com.woowla.compose.icon.collections.simpleicons.simpleicons.Brandfetch
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Brandfolder
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Brave
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Breaker
@@ -763,6 +766,7 @@ import com.woowla.compose.icon.collections.simpleicons.simpleicons.Dji
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Dlib
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Dlna
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Dm
+import com.woowla.compose.icon.collections.simpleicons.simpleicons.Dmm
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Docker
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Docsdotrs
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Docsify
@@ -891,6 +895,7 @@ import com.woowla.compose.icon.collections.simpleicons.simpleicons.Europeanunion
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Eventbrite
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Eventstore
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Evernote
+import com.woowla.compose.icon.collections.simpleicons.simpleicons.Everydotorg
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Excalidraw
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Exercism
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Exordo
@@ -994,6 +999,7 @@ import com.woowla.compose.icon.collections.simpleicons.simpleicons.Foobar2000
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Foodpanda
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Ford
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Forgejo
+import com.woowla.compose.icon.collections.simpleicons.simpleicons.Formbricks
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Formik
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Formspree
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Formstack
@@ -1022,7 +1028,9 @@ import com.woowla.compose.icon.collections.simpleicons.simpleicons.Freelancermap
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Freenas
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Freenet
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Freepik
+import com.woowla.compose.icon.collections.simpleicons.simpleicons.Freetube
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Fresh
+import com.woowla.compose.icon.collections.simpleicons.simpleicons.Frigate
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Frontendmentor
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Frontify
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Fsecure
@@ -1171,6 +1179,7 @@ import com.woowla.compose.icon.collections.simpleicons.simpleicons.Googlestreetv
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Googletagmanager
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Googletasks
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Googletranslate
+import com.woowla.compose.icon.collections.simpleicons.simpleicons.Googletv
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Gotomeeting
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Grab
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Gradio
@@ -1197,6 +1206,7 @@ import com.woowla.compose.icon.collections.simpleicons.simpleicons.Groupon
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Grubhub
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Grunt
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Gsk
+import com.woowla.compose.icon.collections.simpleicons.simpleicons.Gsma
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Gsmarenadotcom
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Gstreamer
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Gtk
@@ -1237,6 +1247,7 @@ import com.woowla.compose.icon.collections.simpleicons.simpleicons.Hatenabookmar
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Haveibeenpwned
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Haxe
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Hbo
+import com.woowla.compose.icon.collections.simpleicons.simpleicons.Hbomax
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Hcl
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Hdfcbank
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Headlessui
@@ -1415,6 +1426,7 @@ import com.woowla.compose.icon.collections.simpleicons.simpleicons.Jasmine
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Javascript
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Jbl
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Jcb
+import com.woowla.compose.icon.collections.simpleicons.simpleicons.Jdoodle
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Jeep
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Jekyll
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Jellyfin
@@ -1475,6 +1487,7 @@ import com.woowla.compose.icon.collections.simpleicons.simpleicons.Kaspersky
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Katana
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Kaufland
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Kde
+import com.woowla.compose.icon.collections.simpleicons.simpleicons.Kdeneon
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Kdenlive
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Kdeplasma
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Kedro
@@ -1877,6 +1890,7 @@ import com.woowla.compose.icon.collections.simpleicons.simpleicons.Netdata
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Neteasecloudmusic
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Netflix
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Netgear
+import com.woowla.compose.icon.collections.simpleicons.simpleicons.Netim
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Netlify
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Nette
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Netto
@@ -1884,6 +1898,7 @@ import com.woowla.compose.icon.collections.simpleicons.simpleicons.Neutralinojs
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Newbalance
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Newegg
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Newjapanprowrestling
+import com.woowla.compose.icon.collections.simpleicons.simpleicons.Newpipe
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Newrelic
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Newyorktimes
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Nexon
@@ -1903,6 +1918,7 @@ import com.woowla.compose.icon.collections.simpleicons.simpleicons.Nginxproxyman
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Ngrok
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Ngrx
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Nhl
+import com.woowla.compose.icon.collections.simpleicons.simpleicons.Nhost
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Nicehash
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Niconico
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Nike
@@ -1921,6 +1937,7 @@ import com.woowla.compose.icon.collections.simpleicons.simpleicons.Nordvpn
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Normalizedotcss
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Norton
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Norwegian
+import com.woowla.compose.icon.collections.simpleicons.simpleicons.Notebooklm
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Notepadplusplus
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Notion
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Notist
@@ -2004,6 +2021,7 @@ import com.woowla.compose.icon.collections.simpleicons.simpleicons.Openbsd
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Openbugbounty
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Opencollective
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Opencontainersinitiative
+import com.woowla.compose.icon.collections.simpleicons.simpleicons.Opencritic
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Opencv
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Openfaas
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Opengl
@@ -2221,6 +2239,7 @@ import com.woowla.compose.icon.collections.simpleicons.simpleicons.Prdotco
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Preact
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Precommit
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Prefect
+import com.woowla.compose.icon.collections.simpleicons.simpleicons.Premid
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Premierleague
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Prepbytes
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Prestashop
@@ -2331,6 +2350,7 @@ import com.woowla.compose.icon.collections.simpleicons.simpleicons.Rabbitmq
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Racket
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Radar
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Radarr
+import com.woowla.compose.icon.collections.simpleicons.simpleicons.Radiofrance
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Radixui
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Radstudio
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Railway
@@ -2584,6 +2604,7 @@ import com.woowla.compose.icon.collections.simpleicons.simpleicons.Silverairways
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Similarweb
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Simkl
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Simpleanalytics
+import com.woowla.compose.icon.collections.simpleicons.simpleicons.Simplelocalize
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Simplelogin
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Simplenote
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Simplex
@@ -2776,6 +2797,7 @@ import com.woowla.compose.icon.collections.simpleicons.simpleicons.Swc
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Swift
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Swiggy
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Swiper
+import com.woowla.compose.icon.collections.simpleicons.simpleicons.Swisscows
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Swr
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Symantec
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Symbolab
@@ -3168,6 +3190,7 @@ import com.woowla.compose.icon.collections.simpleicons.simpleicons.Wikiquote
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Wikiversity
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Wikivoyage
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Winamp
+import com.woowla.compose.icon.collections.simpleicons.simpleicons.Windsurf
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Wine
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Wipro
 import com.woowla.compose.icon.collections.simpleicons.simpleicons.Wire
@@ -3313,12 +3336,12 @@ public val Simpleicons.AllIcons: ____KtList<ImageVector>
         Amazonredshift, Amazonroute53, Amazons3, Amazonsimpleemailservice, Amazonsqs,
         Amazonwebservices, Amd, Ameba, Americanairlines, Americanexpress, Amg, Amp, Amul, Ana,
         Anaconda, Analogue, Andela, Android, Androidauto, Androidstudio, Angular, Anilist,
-        Animalplanet, Ankermake, Anki, Ansible, Answer, Ansys, Anta, Antdesign, Antena3, Anthropic,
-        Antv, Anycubic, Anydesk, Anytype, Aol, Apache, Apacheairflow, Apacheant, Apachecassandra,
-        Apachecloudstack, Apachecordova, Apachecouchdb, Apachedolphinscheduler, Apachedruid,
-        Apacheecharts, Apacheflink, Apachefreemarker, Apachegroovy, Apacheguacamole, Apachehadoop,
-        Apachehbase, Apachehive, Apachejmeter, Apachekafka, Apachekylin, Apachelucene, Apachemaven,
-        Apachenetbeanside, Apachenifi, Apacheopenoffice, Apacheparquet, Apachepulsar,
+        Animalplanet, Ankermake, Anki, Ansible, Answer, Ansys, Anta, Antdesign, Antena3, Antennapod,
+        Anthropic, Antv, Anycubic, Anydesk, Anytype, Aol, Apache, Apacheairflow, Apacheant,
+        Apachecassandra, Apachecloudstack, Apachecordova, Apachecouchdb, Apachedolphinscheduler,
+        Apachedruid, Apacheecharts, Apacheflink, Apachefreemarker, Apachegroovy, Apacheguacamole,
+        Apachehadoop, Apachehbase, Apachehive, Apachejmeter, Apachekafka, Apachekylin, Apachelucene,
+        Apachemaven, Apachenetbeanside, Apachenifi, Apacheopenoffice, Apacheparquet, Apachepulsar,
         Apacherocketmq, Apachesolr, Apachespark, Apachestorm, Apachesuperset, Apachetomcat, Aparat,
         Apifox, Apmterminals, Apollographql, Apostrophe, Appgallery, Appian, Appium, Apple,
         Applearcade, Applemusic, Applenews, Applepay, Applepodcasts, Appletv, Appsignal, Appsmith,
@@ -3332,64 +3355,65 @@ public val Simpleicons.AllIcons: ____KtList<ImageVector>
         Autoprefixer, Autozone, Avajs, Avast, Avianca, Avira, Awesomelists, Awesomewm, Awsamplify,
         Awselasticloadbalancing, Awsfargate, Awslambda, Awsorganizations, Awssecretsmanager,
         Awwwards, Axios, Babel, Babelio, Babylondotjs, Backblaze, Backbone, Backbonedotjs,
-        Backendless, Backstage, Badoo, Baidu, Bakalari, Bamboo, Bambulab, Bandcamp, Bandlab,
-        Bandrautomation, Bandsintown, Bankofamerica, Barclays, Baremetrics, Barmenia, Basecamp,
-        Baserow, Basicattentiontoken, Bastyon, Bat, Bata, Battledotnet, Bazel, Beatport, Beats,
-        Beatsbydre, Beatstars, Beekeeperstudio, Behance, Beijingsubway, Bem, Bentley, Bento,
-        Bentobox, Bentoml, Bereal, Betfair, Betterdiscord, Betterstack, Bevy, Bigbasket,
-        Bigbluebutton, Bigcartel, Bigcommerce, Bilibili, Billboard, Bim, Binance, Biolink, Biome,
-        Bisecthosting, Bit, Bitbucket, Bitcoin, Bitcoincash, Bitcoinsv, Bitcomet, Bitdefender,
-        Bitly, Bitrise, Bittorrent, Bitwarden, Bitwig, Blackberry, Blackmagicdesign, Blazemeter,
-        Blazor, Blender, Blockbench, Blockchaindotcom, Blogger, Bloglovin, Blueprint, Bluesky,
-        Bluesound, Bluetooth, Bmcsoftware, Bmw, Bnbchain, Boardgamegeek, Boat, Boehringeringelheim,
-        Boeing, Bombardier, Bookalope, Bookbub, Bookmeter, Bookmyshow, Bookstack, Boost, Boosty,
-        Boots, Bootstrap, Borgbackup, Bosch, Bose, Botblecms, Boulanger, Bower, Box, Boxysvg,
-        Braintree, Brandfolder, Brave, Breaker, Brenntag, Brevo, Brex, Bricks, Britishairways,
-        Broadcom, Bruno, Bsd, Bspwm, Bt, Buddy, Budibase, Buefy, Buffer, Bugatti, Bugcrowd, Bugsnag,
-        Buhl, Buildkite, Builtbybit, Bukalapak, Bulma, Bun, Bungie, Bunq, Burgerking, Burpsuite,
-        Burton, Buymeacoffee, Buysellads, Buzzfeed, Bvg, Byjus, Bytedance, C, Cachet, Caddy,
-        Cadillac, Cafepress, Cairographics, Cairometro, Caixabank, Cakephp, Caldotcom, Calendly,
-        Calibreweb, Campaignmonitor, Camunda, Canonical, Canva, Canvas, Capacitor, Caprover,
-        Cardano, Carlsberggroup, Carrd, Carrefour, Carthrottle, Carto, Cashapp, Castbox, Castorama,
-        Castro, Caterpillar, Cbc, Cbs, Ccc, Ccleaner, Cdprojekt, Ce, Celery, Celestron, Centos,
-        Ceph, Cesium, Chai, Chainguard, Chainlink, Chakraui, Channel4, Charles, Chartdotjs,
-        Chartmogul, Chase, Chatbot, Chatwoot, Checkio, Checkmarx, Checkmk, Chedraui, Cheerio, Chef,
-        Chemex, Chessdotcom, Chevrolet, Chianetwork, Chinaeasternairlines, Chinasouthernairlines,
-        Chocolatey, Chromatic, Chromecast, Chromewebstore, Chrysler, Chupachups, Cilium, Cinema4d,
-        Cinnamon, Circle, Circleci, Circuitverse, Cirrusci, Cisco, Citrix, Citroen, Civicrm, Civo,
-        Clarifai, Claris, Clarivate, Claude, Clerk, Clevercloud, Clickhouse, Clickup, Clion,
-        Clockify, Clojure, Cloud66, Cloudbees, Cloudcannon, Cloudera, Cloudflare, Cloudflarepages,
-        Cloudflareworkers, Cloudfoundry, Cloudinary, Cloudron, Cloudsmith, Cloudways, Clubforce,
-        Clubhouse, Clyp, Cmake, Cncf, Cnes, Cnet, Cnn, Cocacola, Cockpit, Cockroachlabs, Cocoapods,
-        Cocos, Coda, Codacy, Codeberg, Codeblocks, Codecademy, Codeceptjs, Codechef, Codeclimate,
-        Codecov, Codecrafters, Codefactor, Codeforces, Codefresh, Codeigniter, Codeium, Codemagic,
-        Codementor, Codemirror, Codenewbie, Codepen, Codeproject, Coder, Codersrank, Coderwall,
-        Codesandbox, Codeship, Codesignal, Codestream, Codewars, Codingame, Codingninjas, Codio,
-        Coffeescript, Coggle, Cognizant, Cohost, Coinbase, Coinmarketcap, Collaboraonline,
-        Comicfury, Comma, Commerzbank, Commitlint, Commodore, Commonlisp, Commonworkflowlanguage,
-        Compilerexplorer, Composer, Comptia, Comsol, Conan, Concourse, Condaforge, Conekta,
-        Confluence, Construct3, Consul, Contabo, Contactlesspayment, Containerd, Contao, Contentful,
-        Contentstack, Continente, Contributorcovenant, Conventionalcommits, Convertio, Cookiecutter,
-        Coolermaster, Coop, Copaairlines, Coppel, Cora, Coreldraw, Coronaengine, Coronarenderer,
-        Corsair, Couchbase, Counterstrike, Countingworkspro, Coursera, Coveralls, Coze, Cpanel,
-        Cplusplus, Cplusplusbuilder, Craftcms, Craftsman, Cratedb, Crayon, Creality, Createreactapp,
-        Creativecommons, Creativetechnology, Credly, Crehana, Crewai, Crewunited, Criticalrole,
-        Crowdin, Crowdsource, Crunchbase, Crunchyroll, Cryengine, Cryptomator, Cryptpad, Crystal,
-        Csdn, Css, Css3, Cssdesignawards, Cssmodules, Csswizardry, Cts, Cucumber, Cultura, Curl,
-        Curseforge, Customink, Cyberdefenders, Cycling74, Cypress, Cytoscapedotjs, D, D3, Dacia,
-        Daf, Dailydotdev, Dailymotion, Daisyui, Dapr, Darkreader, Dart, Darty, Daserste, Dash,
-        Dashlane, Dask, Dassaultsystemes, Databricks, Datacamp, Datadog, Datadotai, Datagrip,
-        Dataiku, Datastax, Datefns, Datev, Datocms, Datto, Davinciresolve, Dazhongdianping, Dazn,
-        Dbeaver, Dblp, Dbt, Dcentertainment, Debian, Debridlink, Decapcms, Decentraland, Dedge,
-        Deepcool, Deepgram, Deepin, Deepl, Deepnote, Deliveroo, Dell, Delonghi, Delphi, Delta,
-        Deluge, Deno, Denon, Dependabot, Dependencycheck, Depositphotos, Derspiegel, Deutschebahn,
-        Deutschebank, Deutschepost, Deutschetelekom, Deutschewelle, Devbox, Devdotto, Devexpress,
-        Deviantart, Devpost, Devrant, Dgraph, Dhl, Diagramsdotnet, Dialogflow, Diaspora,
-        Dictionarydotcom, Digg, Digikeyelectronics, Digitalocean, Dinersclub, Dior, Directus,
-        Discogs, Discord, Discourse, Discover, Disqus, Disroot, Distrokid, Django, Dji, Dlib, Dlna,
-        Dm, Docker, Docsdotrs, Docsify, Doctrine, Docusaurus, Dogecoin, Doi, Dolby, Doordash, Dota2,
-        Dotenv, Dotnet, Douban, Doubanread, Dovecot, Dovetail, Downdetector, Doxygen, Dpd,
-        Dragonframe, Draugiemdotlv, Dreamstime, Dribbble, Drizzle, Drone, Drooble, Dropbox, Drupal,
+        Backendless, Backstage, BackstageCasting, Badoo, Baidu, Bakalari, Bamboo, Bambulab,
+        Bandcamp, Bandlab, Bandrautomation, Bandsintown, Bankofamerica, Barclays, Baremetrics,
+        Barmenia, Basecamp, Baserow, Basicattentiontoken, Bastyon, Bat, Bata, Battledotnet, Bazel,
+        Beatport, Beats, Beatsbydre, Beatstars, Beekeeperstudio, Behance, Beijingsubway, Bem,
+        Bentley, Bento, Bentobox, Bentoml, Bereal, Betfair, Betterdiscord, Betterstack, Bevy,
+        Bigbasket, Bigbluebutton, Bigcartel, Bigcommerce, Bilibili, Billboard, Bim, Binance,
+        Biolink, Biome, Bisecthosting, Bit, Bitbucket, Bitcoin, Bitcoincash, Bitcoinsv, Bitcomet,
+        Bitdefender, Bitly, Bitrise, Bittorrent, Bitwarden, Bitwig, Blackberry, Blackmagicdesign,
+        Blazemeter, Blazor, Blender, Blockbench, Blockchaindotcom, Blogger, Bloglovin, Blueprint,
+        Bluesky, Bluesound, Bluetooth, Bmcsoftware, Bmw, Bnbchain, Boardgamegeek, Boat,
+        Boehringeringelheim, Boeing, Bombardier, Bookalope, Bookbub, Bookmeter, Bookmyshow,
+        Bookstack, Boost, Boosty, Boots, Bootstrap, Borgbackup, Bosch, Bose, Botblecms, Boulanger,
+        Bower, Box, Boxysvg, Braintree, Brandfetch, Brandfolder, Brave, Breaker, Brenntag, Brevo,
+        Brex, Bricks, Britishairways, Broadcom, Bruno, Bsd, Bspwm, Bt, Buddy, Budibase, Buefy,
+        Buffer, Bugatti, Bugcrowd, Bugsnag, Buhl, Buildkite, Builtbybit, Bukalapak, Bulma, Bun,
+        Bungie, Bunq, Burgerking, Burpsuite, Burton, Buymeacoffee, Buysellads, Buzzfeed, Bvg, Byjus,
+        Bytedance, C, Cachet, Caddy, Cadillac, Cafepress, Cairographics, Cairometro, Caixabank,
+        Cakephp, Caldotcom, Calendly, Calibreweb, Campaignmonitor, Camunda, Canonical, Canva,
+        Canvas, Capacitor, Caprover, Cardano, Carlsberggroup, Carrd, Carrefour, Carthrottle, Carto,
+        Cashapp, Castbox, Castorama, Castro, Caterpillar, Cbc, Cbs, Ccc, Ccleaner, Cdprojekt, Ce,
+        Celery, Celestron, Centos, Ceph, Cesium, Chai, Chainguard, Chainlink, Chakraui, Channel4,
+        Charles, Chartdotjs, Chartmogul, Chase, Chatbot, Chatwoot, Checkio, Checkmarx, Checkmk,
+        Chedraui, Cheerio, Chef, Chemex, Chessdotcom, Chevrolet, Chianetwork, Chinaeasternairlines,
+        Chinasouthernairlines, Chocolatey, Chromatic, Chromecast, Chromewebstore, Chrysler,
+        Chupachups, Cilium, Cinema4d, Cinnamon, Circle, Circleci, Circuitverse, Cirrusci, Cisco,
+        Citrix, Citroen, Civicrm, Civo, Clarifai, Claris, Clarivate, Claude, Clerk, Clevercloud,
+        Clickhouse, Clickup, Clion, Clockify, Clojure, Cloud66, Cloudbees, Cloudcannon, Cloudera,
+        Cloudflare, Cloudflarepages, Cloudflareworkers, Cloudfoundry, Cloudinary, Cloudron,
+        Cloudsmith, Cloudways, Clubforce, Clubhouse, Clyp, Cmake, Cncf, Cnes, Cnet, Cnn, Cocacola,
+        Cockpit, Cockroachlabs, Cocoapods, Cocos, Coda, Codacy, Codeberg, Codeblocks, Codecademy,
+        Codeceptjs, Codechef, Codeclimate, Codecov, Codecrafters, Codefactor, Codeforces, Codefresh,
+        Codeigniter, Codeium, Codemagic, Codementor, Codemirror, Codenewbie, Codepen, Codeproject,
+        Coder, Codersrank, Coderwall, Codesandbox, Codeship, Codesignal, Codestream, Codewars,
+        Codingame, Codingninjas, Codio, Coffeescript, Coggle, Cognizant, Cohost, Coinbase,
+        Coinmarketcap, Collaboraonline, Comicfury, Comma, Commerzbank, Commitlint, Commodore,
+        Commonlisp, Commonworkflowlanguage, Compilerexplorer, Composer, Comptia, Comsol, Conan,
+        Concourse, Condaforge, Conekta, Confluence, Construct3, Consul, Contabo, Contactlesspayment,
+        Containerd, Contao, Contentful, Contentstack, Continente, Contributorcovenant,
+        Conventionalcommits, Convertio, Cookiecutter, Coolermaster, Coop, Copaairlines, Coppel,
+        Cora, Coreldraw, Coronaengine, Coronarenderer, Corsair, Couchbase, Counterstrike,
+        Countingworkspro, Coursera, Coveralls, Coze, Cpanel, Cplusplus, Cplusplusbuilder, Craftcms,
+        Craftsman, Cratedb, Crayon, Creality, Createreactapp, Creativecommons, Creativetechnology,
+        Credly, Crehana, Crewai, Crewunited, Criticalrole, Crowdin, Crowdsource, Crunchbase,
+        Crunchyroll, Cryengine, Cryptomator, Cryptpad, Crystal, Csdn, Css, Css3, Cssdesignawards,
+        Cssmodules, Csswizardry, Cts, Cucumber, Cultura, Curl, Curseforge, Customink,
+        Cyberdefenders, Cycling74, Cypress, Cytoscapedotjs, D, D3, Dacia, Daf, Dailydotdev,
+        Dailymotion, Daisyui, Dapr, Darkreader, Dart, Darty, Daserste, Dash, Dashlane, Dask,
+        Dassaultsystemes, Databricks, Datacamp, Datadog, Datadotai, Datagrip, Dataiku, Datastax,
+        Datefns, Datev, Datocms, Datto, Davinciresolve, Dazhongdianping, Dazn, Dbeaver, Dblp, Dbt,
+        Dcentertainment, Debian, Debridlink, Decapcms, Decentraland, Dedge, Deepcool, Deepgram,
+        Deepin, Deepl, Deepnote, Deliveroo, Dell, Delonghi, Delphi, Delta, Deluge, Deno, Denon,
+        Dependabot, Dependencycheck, Depositphotos, Derspiegel, Deutschebahn, Deutschebank,
+        Deutschepost, Deutschetelekom, Deutschewelle, Devbox, Devdotto, Devexpress, Deviantart,
+        Devpost, Devrant, Dgraph, Dhl, Diagramsdotnet, Dialogflow, Diaspora, Dictionarydotcom, Digg,
+        Digikeyelectronics, Digitalocean, Dinersclub, Dior, Directus, Discogs, Discord, Discourse,
+        Discover, Disqus, Disroot, Distrokid, Django, Dji, Dlib, Dlna, Dm, Dmm, Docker, Docsdotrs,
+        Docsify, Doctrine, Docusaurus, Dogecoin, Doi, Dolby, Doordash, Dota2, Dotenv, Dotnet,
+        Douban, Doubanread, Dovecot, Dovetail, Downdetector, Doxygen, Dpd, Dragonframe,
+        Draugiemdotlv, Dreamstime, Dribbble, Drizzle, Drone, Drooble, Dropbox, Drupal,
         Dsautomobiles, Dts, Dtube, Ducati, Duckdb, Duckduckgo, Dungeonsanddragons, Dunked, Dunzo,
         Duolingo, Duplicati, Dvc, Dwavesystems, Dwm, Dynatrace, E, E3, Ea, Eac, Eagle, Easyeda,
         Easyjet, Ebay, Ebox, Eclipseadoptium, Eclipseche, Eclipseide, Eclipsejetty,
@@ -3401,33 +3425,33 @@ public val Simpleicons.AllIcons: ____KtList<ImageVector>
         Engadget, Enpass, Enterprisedb, Envato, Envoyproxy, Epel, Epicgames, Epson, Equinixmetal,
         Eraser, Ericsson, Erlang, Erpnext, Esbuild, Esea, Eslgaming, Eslint, Esotericsoftware,
         Esphome, Espressif, Esri, Etcd, Ethereum, Ethers, Ethiopianairlines, Etihadairways, Etsy,
-        Europeanunion, Eventbrite, Eventstore, Evernote, Excalidraw, Exercism, Exordo, Exoscale,
-        Expedia, Expensify, Expertsexchange, Expo, Express, Expressdotcom, Expressvpn, Eyeem, F1,
-        F5, Facebook, Facebookgaming, Facebooklive, Faceit, Facepunch, Fairphone, Falco, Falcon,
-        Fampay, Fandango, Fandom, Fanfou, Fantom, Farcaster, Fareharbor, Farfetch, Fastapi, Fastify,
-        Fastlane, Fastly, Fathom, Fauna, Favro, Fcc, Fdroid, Fedex, Fedora, Feedly, Ferrari,
-        Ferrarinv, Ferretdb, Ffmpeg, Fi, Fiat, Fidoalliance, Fifa, Fig, Figma, Figshare, Fila,
-        Filament, Filedotio, Filen, Files, Filezilla, Fineco, Fing, Firebase, Firefish, Fireflyiii,
-        Firefox, Firefoxbrowser, Fireship, Firewalla, First, Fishshell, Fitbit, Fivem, Fiverr, Fizz,
-        Flashforge, Flask, Flat, Flathub, Flatpak, Flickr, Flightaware, Flipboard, Flipkart,
-        Floatplane, Flood, Fluentbit, Fluentd, Fluke, Flutter, Flux, Flydotio, Flyway, Fmod, Fnac,
-        Folium, Fonoma, Fontawesome, Fontbase, Fontforge, Foobar2000, Foodpanda, Ford, Forgejo,
-        Formik, Formspree, Formstack, Fortinet, Fortnite, Fortran, Fossa, Fossilscm,
-        Foundryvirtualtabletop, Foursquare, Fox, Foxtel, Fozzy, Framer, Framework, Framework7,
-        Franprix, Frappe, Fraunhofergesellschaft, Freebsd, Freecad, Freecodecamp, Freedesktopdotorg,
-        Freelancer, Freelancermap, Freenas, Freenet, Freepik, Fresh, Frontendmentor, Frontify,
-        Fsecure, Fsharp, Fubo, Fueler, Fugacloud, Fujifilm, Fujitsu, Furaffinity, Furrynetwork,
-        Fusionauth, Futurelearn, Fyle, G2, G2a, G2g, Galaxus, Gamebanana, Gamedeveloper, Gamejolt,
-        Gameloft, Gamemaker, Gamescience, Gandi, Garmin, Gatling, Gatsby, Gcore, Gdal,
-        Geeksforgeeks, Generalelectric, Generalmotors, Genius, Gentoo, Geocaching, Geode, Geopandas,
-        Gerrit, Getx, Ghost, Ghostery, Gimp, Gin, Giphy, Git, Gitbook, Gitconnected, Gitea, Gitee,
-        Gitextensions, Gitforwindows, Github, Githubactions, Githubcopilot, Githubpages,
-        Githubsponsors, Gitignoredotio, Gitkraken, Gitlab, Gitlfs, Gitpod, Gitter, Glassdoor,
-        Gldotinet, Gleam, Glide, Glitch, Globus, Glovo, Gltf, Gmail, Gmx, Gnome, Gnometerminal, Gnu,
-        Gnubash, Gnuemacs, Gnuicecat, Gnuprivacyguard, Gnusocial, Go, Gocd, Godaddy, Godotengine,
-        Gofundme, Gogdotcom, Gojek, Goland, Goldenline, Goldmansachs, Goodreads, Google,
-        Googleadmob, Googleads, Googleadsense, Googleanalytics, Googleappsscript, Googleassistant,
-        Googleauthenticator, Googlebigquery, Googlebigtable, Googlecalendar,
+        Europeanunion, Eventbrite, Eventstore, Evernote, Everydotorg, Excalidraw, Exercism, Exordo,
+        Exoscale, Expedia, Expensify, Expertsexchange, Expo, Express, Expressdotcom, Expressvpn,
+        Eyeem, F1, F5, Facebook, Facebookgaming, Facebooklive, Faceit, Facepunch, Fairphone, Falco,
+        Falcon, Fampay, Fandango, Fandom, Fanfou, Fantom, Farcaster, Fareharbor, Farfetch, Fastapi,
+        Fastify, Fastlane, Fastly, Fathom, Fauna, Favro, Fcc, Fdroid, Fedex, Fedora, Feedly,
+        Ferrari, Ferrarinv, Ferretdb, Ffmpeg, Fi, Fiat, Fidoalliance, Fifa, Fig, Figma, Figshare,
+        Fila, Filament, Filedotio, Filen, Files, Filezilla, Fineco, Fing, Firebase, Firefish,
+        Fireflyiii, Firefox, Firefoxbrowser, Fireship, Firewalla, First, Fishshell, Fitbit, Fivem,
+        Fiverr, Fizz, Flashforge, Flask, Flat, Flathub, Flatpak, Flickr, Flightaware, Flipboard,
+        Flipkart, Floatplane, Flood, Fluentbit, Fluentd, Fluke, Flutter, Flux, Flydotio, Flyway,
+        Fmod, Fnac, Folium, Fonoma, Fontawesome, Fontbase, Fontforge, Foobar2000, Foodpanda, Ford,
+        Forgejo, Formbricks, Formik, Formspree, Formstack, Fortinet, Fortnite, Fortran, Fossa,
+        Fossilscm, Foundryvirtualtabletop, Foursquare, Fox, Foxtel, Fozzy, Framer, Framework,
+        Framework7, Franprix, Frappe, Fraunhofergesellschaft, Freebsd, Freecad, Freecodecamp,
+        Freedesktopdotorg, Freelancer, Freelancermap, Freenas, Freenet, Freepik, Freetube, Fresh,
+        Frigate, Frontendmentor, Frontify, Fsecure, Fsharp, Fubo, Fueler, Fugacloud, Fujifilm,
+        Fujitsu, Furaffinity, Furrynetwork, Fusionauth, Futurelearn, Fyle, G2, G2a, G2g, Galaxus,
+        Gamebanana, Gamedeveloper, Gamejolt, Gameloft, Gamemaker, Gamescience, Gandi, Garmin,
+        Gatling, Gatsby, Gcore, Gdal, Geeksforgeeks, Generalelectric, Generalmotors, Genius, Gentoo,
+        Geocaching, Geode, Geopandas, Gerrit, Getx, Ghost, Ghostery, Gimp, Gin, Giphy, Git, Gitbook,
+        Gitconnected, Gitea, Gitee, Gitextensions, Gitforwindows, Github, Githubactions,
+        Githubcopilot, Githubpages, Githubsponsors, Gitignoredotio, Gitkraken, Gitlab, Gitlfs,
+        Gitpod, Gitter, Glassdoor, Gldotinet, Gleam, Glide, Glitch, Globus, Glovo, Gltf, Gmail, Gmx,
+        Gnome, Gnometerminal, Gnu, Gnubash, Gnuemacs, Gnuicecat, Gnuprivacyguard, Gnusocial, Go,
+        Gocd, Godaddy, Godotengine, Gofundme, Gogdotcom, Gojek, Goland, Goldenline, Goldmansachs,
+        Goodreads, Google, Googleadmob, Googleads, Googleadsense, Googleanalytics, Googleappsscript,
+        Googleassistant, Googleauthenticator, Googlebigquery, Googlebigtable, Googlecalendar,
         Googlecampaignmanager360, Googlecardboard, Googlechat, Googlechrome, Googlechronicle,
         Googleclassroom, Googlecloud, Googlecloudcomposer, Googlecloudspanner, Googlecloudstorage,
         Googlecolab, Googlecontaineroptimizedos, Googledataflow, Googledataproc, Googledatastudio,
@@ -3436,15 +3460,15 @@ public val Simpleicons.AllIcons: ____KtList<ImageVector>
         Googlemaps, Googlemarketingplatform, Googlemeet, Googlemessages, Googlenearby, Googlenews,
         Googlepay, Googlephotos, Googleplay, Googlepubsub, Googlescholar, Googlesearchconsole,
         Googlesheets, Googleslides, Googlestreetview, Googletagmanager, Googletasks,
-        Googletranslate, Gotomeeting, Grab, Gradio, Gradle, Gradleplaypublisher, Grafana, Grammarly,
-        Grandfrais, Grapheneos, Graphite, Graphql, Grav, Gravatar, Graylog, Greasyfork,
+        Googletranslate, Googletv, Gotomeeting, Grab, Gradio, Gradle, Gradleplaypublisher, Grafana,
+        Grammarly, Grandfrais, Grapheneos, Graphite, Graphql, Grav, Gravatar, Graylog, Greasyfork,
         Greatlearning, Greenhouse, Greensock, Griddotai, Gridsome, Grocy, Groupme, Groupon, Grubhub,
-        Grunt, Gsk, Gsmarenadotcom, Gstreamer, Gtk, Guangzhoumetro, Guilded, Guitarpro, Gulp,
+        Grunt, Gsk, Gsma, Gsmarenadotcom, Gstreamer, Gtk, Guangzhoumetro, Guilded, Guitarpro, Gulp,
         Gumroad, Gumtree, Gunicorn, Gurobi, Gusto, Gutenberg, H2database, H3, Habr, Hackaday,
         Hackclub, Hackerearth, Hackernoon, Hackerone, Hackerrank, Hackster, Hackthebox, Hal,
         Handlebarsdotjs, Handm, Handshake, HandshakeProtocol, Happycow, Harbor, Harmonyos,
-        Hashicorp, Hashnode, Haskell, Hasura, Hatenabookmark, Haveibeenpwned, Haxe, Hbo, Hcl,
-        Hdfcbank, Headlessui, Headphonezone, Headspace, Hearth, Hearthisdotat, Hedera, Helium,
+        Hashicorp, Hashnode, Haskell, Hasura, Hatenabookmark, Haveibeenpwned, Haxe, Hbo, Hbomax,
+        Hcl, Hdfcbank, Headlessui, Headphonezone, Headspace, Hearth, Hearthisdotat, Hedera, Helium,
         Helix, Hellofresh, Hellyhansen, Helm, Helpdesk, Helpscout, Hepsiemlak, Here, Hermes, Heroku,
         Hetzner, Hevy, Hexlet, Hexo, Hey, Hibernate, Hibob, Hilton, Hiltonhotelsandresorts, Hitachi,
         Hive, HiveBlockchain, Hivemq, Homarr, Homeadvisor, Homeassistant,
@@ -3463,13 +3487,13 @@ public val Simpleicons.AllIcons: ____KtList<ImageVector>
         Intercom, Intermarche, Internetarchive, Internetcomputer, Intigriti, Intuit, Invision,
         Invoiceninja, Iobroker, Ionic, Ionos, Ios, Iota, Ipfs, Iris, Irobot, Isc2, Issuu, Istio,
         Itchdotio, Iterm2, Itunes, Itvx, Iveco, Jabber, Jaeger, Jaguar, Jamboard, Jameson, Jamstack,
-        Japanairlines, Jasmine, Javascript, Jbl, Jcb, Jeep, Jekyll, Jellyfin, Jenkins, Jest, Jet,
-        Jetblue, Jetbrains, Jetpackcompose, Jfrog, Jfrogpipelines, Jhipster, Jinja, Jio, Jira,
-        Jirasoftware, Jitpack, Jitsi, Johndeere, Joomla, Joplin, Jordan, Jouav, Jovian, Jpeg,
+        Japanairlines, Jasmine, Javascript, Jbl, Jcb, Jdoodle, Jeep, Jekyll, Jellyfin, Jenkins,
+        Jest, Jet, Jetblue, Jetbrains, Jetpackcompose, Jfrog, Jfrogpipelines, Jhipster, Jinja, Jio,
+        Jira, Jirasoftware, Jitpack, Jitsi, Johndeere, Joomla, Joplin, Jordan, Jouav, Jovian, Jpeg,
         Jquery, Jrgroup, Jsdelivr, Jsfiddle, Json, Jsonwebtokens, Jsr, Jss, Juce, Juejin, Juke,
         Julia, Junipernetworks, Junit5, Jupyter, Justeat, Justgiving, K3s, K6, Kaggle, Kagi, Kahoot,
         Kaios, Kakao, Kakaotalk, Kalilinux, Kamailio, Kaniko, Karlsruherverkehrsverbund, Kasasmart,
-        Kashflow, Kaspersky, Katana, Kaufland, Kde, Kdenlive, Kdeplasma, Kedro, Keenetic,
+        Kashflow, Kaspersky, Katana, Kaufland, Kde, Kdeneon, Kdenlive, Kdeplasma, Kedro, Keenetic,
         Keepachangelog, Keepassxc, Keeper, Keeweb, Kentico, Keras, Keybase, Keycdn, Keycloak,
         Keystone, Kfc, Khanacademy, Khronosgroup, Kia, Kibana, Kicad, Kick, Kickstarter, Kik,
         Kingstontechnology, Kinopoisk, Kinsta, Kirby, Kit, Kitsu, Kiwix, Klarna, Kleinanzeigen, Klm,
@@ -3513,81 +3537,82 @@ public val Simpleicons.AllIcons: ____KtList<ImageVector>
         Myget, Myob, Myspace, Mysql, N26, N8n, Namebase, Namecheap, Namemc, Namesilo, Namuwiki,
         Nano, Nanostores, Napster, Nasa, Nationalgrid, Nationalrail, Nativescript, Natsdotio, Naver,
         Nba, Nbb, Nbc, Ndr, Near, Nebula, Nec, Neo4j, Neovim, Neptune, Nestjs, Netapp, Netbsd,
-        Netcup, Netdata, Neteasecloudmusic, Netflix, Netgear, Netlify, Nette, Netto, Neutralinojs,
-        Newbalance, Newegg, Newjapanprowrestling, Newrelic, Newyorktimes, Nexon, Nextbilliondotai,
-        Nextcloud, Nextdns, Nextdoor, Nextdotjs, Nextflow, Nextra, Nextui, Nexusmods, Nfc, Nfcore,
-        Nginx, Nginxproxymanager, Ngrok, Ngrx, Nhl, Nicehash, Niconico, Nike, Nikon, Nim, Nissan,
-        Nixos, Nodedotjs, Nodemon, Nodered, Nokia, Nomad, Norco, Nordicsemiconductor, Nordvpn,
-        Normalizedotcss, Norton, Norwegian, Notepadplusplus, Notion, Notist, Nounproject, Novu, Now,
-        Npm, Nrwl, Nsis, Ntfy, Nubank, Nucleo, Nuget, Nuke, Numba, Number1001Tracklists,
-        Number1And1, Number1Dot1dot1dot1, Number1Panel, Number1Password, Number2Fas, Number2K,
-        Number30Secondsofcode, Number365Datascience, Number3M, Number42, Number4Chan, Number4D,
-        Number500Px, Number7Zip, Number99Designs, Number9Gag, Numpy, Nunjucks, Nushell, Nutanix,
-        Nuxt, Nvidia, Nvm, Nx, Nxp, Nzxt, O2, Obb, Observable, Obsidian, Obsstudio, Obtainium,
-        Ocaml, Oclc, Oclif, Octanerender, Octave, Octobercms, Octoprint, Octopusdeploy, Oculus,
-        Odin, Odnoklassniki, Odoo, Odysee, Ohdear, Okcupid, Okta, Okx, Ollama, Omadacloud, Oneplus,
-        Onlyfans, Onlyoffice, Onnx, Onstar, Opel, Open3d, Openaccess, Openai, Openaigym,
-        Openapiinitiative, Openbadges, Openbsd, Openbugbounty, Opencollective,
-        Opencontainersinitiative, Opencv, Openfaas, Opengl, Openhab, Openid, Openjdk,
-        Openjsfoundation, Openlayers, Openmediavault, Openmined, Opennebula, Openproject, Openscad,
-        Opensea, Opensearch, Opensourcehardware, Opensourceinitiative, Openssl, Openstack,
-        Openstreetmap, Opensuse, Opentelemetry, Opentext, Opentofu, Openverse, Openvpn, Openwrt,
-        Openzeppelin, Openzfs, Opera, Operagx, Opnsense, Oppo, Opsgenie, Opslevel, Optimism, Orange,
-        Orcid, Oreilly, Org, Organicmaps, Origin, Osano, Osf, Osgeo, Oshkosh, Osmand, Osmc, Osu,
-        Otto, Outline, Overcast, Overleaf, Ovh, Owasp, Owncloud, Oxygen, Oyo, P5dotjs, Packagist,
-        Packer, Packt, Paddle, Paddlepaddle, Paddypower, Pagekit, Pagerduty, Pagespeedinsights,
-        Pagseguro, Palantir, Paloaltonetworks, Paloaltosoftware, Panasonic, Pandas, Pandora,
-        Pantheon, Paperlessngx, Paperspace, Paperswithcode, Paradoxinteractive, Paramountplus,
-        Paritysubstrate, Parrotsecurity, Parsedotly, Passport, Pastebin, Patreon, Paychex, Payhip,
-        Payloadcms, Payoneer, Paypal, Paytm, Pcgamingwiki, Pdm, Pdq, Peakdesign, Pearson, Peerlist,
-        Peertube, Pegasusairlines, Pelican, Peloton, Penny, Penpot, Percy, Perforce, Perl,
-        Perplexity, Persistent, Personio, Petsathome, Peugeot, Pexels, Pfsense, Phabricator,
-        Philipshue, Phoenixframework, Phonepe, Phosphoricons, Photobucket, Photocrowd, Photon,
-        Photopea, Php, Phpbb, Phpmyadmin, Phpstorm, Piaggiogroup, Piapro, Picardsurgeles,
-        Picartodottv, Picnic, Picpay, Picrew, Picsart, Picxy, Pihole, Pimcore, Pinboard, Pinescript,
-        Pinetwork, Pingdom, Pino, Pinterest, Pioneerdj, Piped, Pipx, Pivotaltracker, Piwigo, Pix,
-        Pixabay, Pixelfed, Pixiv, Pixlr, Pkgsrc, Planet, Planetscale, Plangrid, Platformdotsh,
-        Platformio, Platzi, Plausibleanalytics, Playcanvas, Playerdotme, Playerfm, Playstation,
-        Playstation2, Playstation3, Playstation4, Playstation5, Playstationportable,
-        Playstationvita, Pleroma, Plesk, Plex, Plotly, Plume, Pluralsight, Plurk, Pluscodes, Pm2,
-        Pnpm, Pocket, Pocketbase, Pocketcasts, Podcastaddict, Podcastindex, Podman, Poe, Poetry,
-        Pointy, Polars, Polestar, Polkadot, Poly, Polygon, Polymerproject, Polywork, Pond5, Popos,
-        Porkbun, Porsche, Portableappsdotcom, Portainer, Portswigger, Posit, Postcss, Postgresql,
-        Posthog, Postman, Postmates, Powers, Prdotco, Preact, Precommit, Prefect, Premierleague,
-        Prepbytes, Prestashop, Presto, Prettier, Pretzel, Prevention, Prezi, Prime, Primefaces,
-        Primeng, Primereact, Primevideo, Primevue, Printables, Prisma, Prismic, Privatedivision,
-        Privateinternetaccess, Probot, Processingfoundation, Processwire, Producthunt, Progate,
-        Progress, Prometheus, Pronounsdotpage, Prosieben, Proteus, Protocolsdotio, Protodotio,
-        Proton, Protoncalendar, Protondb, Protondrive, Protonmail, Protonvpn, Protools, Protractor,
-        Proxmox, Pterodactyl, Pubg, Publons, Pubmed, Pug, Pulumi, Puma, Puppet, Puppeteer,
-        Purescript, Purgecss, Purism, Pushbullet, Pusher, Pwa, Pycharm, Pycqa, Pydantic, Pyg, Pypi,
-        Pypy, Pyscaffold, Pysyft, Pytest, Python, Pythonanywhere, Pytorch, Pyup, Qantas, Qase,
-        Qatarairways, Qbittorrent, Qemu, Qgis, Qi, Qiita, Qiskit, Qiwi, Qlik, Qmk, Qnap, Qq, Qt,
-        Qualcomm, Qualtrics, Qualys, Quantcast, Quantconnect, Quarkus, Quarto, Quasar, Qubesos,
-        Quest, Quickbooks, Quicklook, Quicktime, Quicktype, Quip, Quizlet, Quora, Qwant, Qwik,
-        Qwiklabs, Qzone, R, R3, Rabbitmq, Racket, Radar, Radarr, Radixui, Radstudio, Railway,
-        Rainmeter, Rakuten, Rakutenkobo, Ram, Rancher, Rapid, Rarible, Rasa, Raspberrypi, Ravelry,
-        Ray, Raycast, Raylib, Razer, Razorpay, Rclone, React, Reactbootstrap, Reacthookform,
-        Reactiveresume, Reactivex, Reactos, Reactquery, Reactrouter, Reacttable, Readdotcv, Readme,
-        Readthedocs, Reason, Reasonstudios, Recoil, Red, Redash, Redbubble, Redbull, Redcandlegames,
-        Reddit, Redhat, Redhatopenshift, Redis, Redmine, Redox, Redragon, Redsys, Redux, Reduxsaga,
-        Redwoodjs, Reebok, Refine, Refinedgithub, Relay, Relianceindustrieslimited, Remark,
-        Remedyentertainment, Remix, Removedotbg, Renault, Render, Renovate, Renpy, Renren,
-        Replicate, Replit, Republicofgamers, Rescript, Rescuetime, Researchgate, Resend, Resharper,
-        Resurrectionremixos, Retool, Retroarch, Retropie, Revanced, Revealdotjs, Reverbnation,
-        Revoltdotchat, Revolut, Rewe, Rezgo, Rhinoceros, Rich, Rider, Rimacautomobili, Rime, Ring,
-        Riotgames, Ripple, Riscv, Riseup, Ritzcarlton, Rive, Roadmapdotsh, Roamresearch, Robinhood,
-        Roblox, Robloxstudio, Roboflow, Robotframework, Rocket, Rocketdotchat, Rocksdb,
-        Rockstargames, Rockwellautomation, Rockylinux, Roku, Roll20, Rollsroyce, Rollupdotjs, Rook,
-        Roon, Rootme, Roots, Rootsbedrock, Rootssage, Ros, Rossmann, Rotaryinternational,
-        Rottentomatoes, Roundcube, Rsocket, Rss, Rstudioide, Rte, Rtl, Rtlzwei, Rtm, Rubocop, Ruby,
-        Rubygems, Rubymine, Rubyonrails, Rubysinatra, Ruff, Rumahweb, Rumble, Rundeck, Runkeeper,
-        Runkit, Runrundotit, Rust, Rustdesk, Rxdb, Ryanair, Rye, S7airlines, Sabanci, Safari, Sage,
-        Sagemath, Sahibinden, Sailfishos, Sailsdotjs, Salesforce, Salla, Saltproject, Samsclub,
-        Samsung, Samsungpay, Sandisk, Sanfranciscomunicipalrailway, Sanic, Sanity, Saopaulometro,
-        Sap, Sartorius, Sass, Sat1, Satellite, Saturn, Saucelabs, Saudia, Scala, Scalar, Scaleway,
-        Scania, Schneiderelectric, Scikitlearn, Scilab, Scipy, Scopus, Scpfoundation, Scrapbox,
-        Scrapy, Scratch, Screencastify, Scribd, Scrimba, Scrollreveal, Scrumalliance, Scrutinizerci,
+        Netcup, Netdata, Neteasecloudmusic, Netflix, Netgear, Netim, Netlify, Nette, Netto,
+        Neutralinojs, Newbalance, Newegg, Newjapanprowrestling, Newpipe, Newrelic, Newyorktimes,
+        Nexon, Nextbilliondotai, Nextcloud, Nextdns, Nextdoor, Nextdotjs, Nextflow, Nextra, Nextui,
+        Nexusmods, Nfc, Nfcore, Nginx, Nginxproxymanager, Ngrok, Ngrx, Nhl, Nhost, Nicehash,
+        Niconico, Nike, Nikon, Nim, Nissan, Nixos, Nodedotjs, Nodemon, Nodered, Nokia, Nomad, Norco,
+        Nordicsemiconductor, Nordvpn, Normalizedotcss, Norton, Norwegian, Notebooklm,
+        Notepadplusplus, Notion, Notist, Nounproject, Novu, Now, Npm, Nrwl, Nsis, Ntfy, Nubank,
+        Nucleo, Nuget, Nuke, Numba, Number1001Tracklists, Number1And1, Number1Dot1dot1dot1,
+        Number1Panel, Number1Password, Number2Fas, Number2K, Number30Secondsofcode,
+        Number365Datascience, Number3M, Number42, Number4Chan, Number4D, Number500Px, Number7Zip,
+        Number99Designs, Number9Gag, Numpy, Nunjucks, Nushell, Nutanix, Nuxt, Nvidia, Nvm, Nx, Nxp,
+        Nzxt, O2, Obb, Observable, Obsidian, Obsstudio, Obtainium, Ocaml, Oclc, Oclif, Octanerender,
+        Octave, Octobercms, Octoprint, Octopusdeploy, Oculus, Odin, Odnoklassniki, Odoo, Odysee,
+        Ohdear, Okcupid, Okta, Okx, Ollama, Omadacloud, Oneplus, Onlyfans, Onlyoffice, Onnx, Onstar,
+        Opel, Open3d, Openaccess, Openai, Openaigym, Openapiinitiative, Openbadges, Openbsd,
+        Openbugbounty, Opencollective, Opencontainersinitiative, Opencritic, Opencv, Openfaas,
+        Opengl, Openhab, Openid, Openjdk, Openjsfoundation, Openlayers, Openmediavault, Openmined,
+        Opennebula, Openproject, Openscad, Opensea, Opensearch, Opensourcehardware,
+        Opensourceinitiative, Openssl, Openstack, Openstreetmap, Opensuse, Opentelemetry, Opentext,
+        Opentofu, Openverse, Openvpn, Openwrt, Openzeppelin, Openzfs, Opera, Operagx, Opnsense,
+        Oppo, Opsgenie, Opslevel, Optimism, Orange, Orcid, Oreilly, Org, Organicmaps, Origin, Osano,
+        Osf, Osgeo, Oshkosh, Osmand, Osmc, Osu, Otto, Outline, Overcast, Overleaf, Ovh, Owasp,
+        Owncloud, Oxygen, Oyo, P5dotjs, Packagist, Packer, Packt, Paddle, Paddlepaddle, Paddypower,
+        Pagekit, Pagerduty, Pagespeedinsights, Pagseguro, Palantir, Paloaltonetworks,
+        Paloaltosoftware, Panasonic, Pandas, Pandora, Pantheon, Paperlessngx, Paperspace,
+        Paperswithcode, Paradoxinteractive, Paramountplus, Paritysubstrate, Parrotsecurity,
+        Parsedotly, Passport, Pastebin, Patreon, Paychex, Payhip, Payloadcms, Payoneer, Paypal,
+        Paytm, Pcgamingwiki, Pdm, Pdq, Peakdesign, Pearson, Peerlist, Peertube, Pegasusairlines,
+        Pelican, Peloton, Penny, Penpot, Percy, Perforce, Perl, Perplexity, Persistent, Personio,
+        Petsathome, Peugeot, Pexels, Pfsense, Phabricator, Philipshue, Phoenixframework, Phonepe,
+        Phosphoricons, Photobucket, Photocrowd, Photon, Photopea, Php, Phpbb, Phpmyadmin, Phpstorm,
+        Piaggiogroup, Piapro, Picardsurgeles, Picartodottv, Picnic, Picpay, Picrew, Picsart, Picxy,
+        Pihole, Pimcore, Pinboard, Pinescript, Pinetwork, Pingdom, Pino, Pinterest, Pioneerdj,
+        Piped, Pipx, Pivotaltracker, Piwigo, Pix, Pixabay, Pixelfed, Pixiv, Pixlr, Pkgsrc, Planet,
+        Planetscale, Plangrid, Platformdotsh, Platformio, Platzi, Plausibleanalytics, Playcanvas,
+        Playerdotme, Playerfm, Playstation, Playstation2, Playstation3, Playstation4, Playstation5,
+        Playstationportable, Playstationvita, Pleroma, Plesk, Plex, Plotly, Plume, Pluralsight,
+        Plurk, Pluscodes, Pm2, Pnpm, Pocket, Pocketbase, Pocketcasts, Podcastaddict, Podcastindex,
+        Podman, Poe, Poetry, Pointy, Polars, Polestar, Polkadot, Poly, Polygon, Polymerproject,
+        Polywork, Pond5, Popos, Porkbun, Porsche, Portableappsdotcom, Portainer, Portswigger, Posit,
+        Postcss, Postgresql, Posthog, Postman, Postmates, Powers, Prdotco, Preact, Precommit,
+        Prefect, Premid, Premierleague, Prepbytes, Prestashop, Presto, Prettier, Pretzel,
+        Prevention, Prezi, Prime, Primefaces, Primeng, Primereact, Primevideo, Primevue, Printables,
+        Prisma, Prismic, Privatedivision, Privateinternetaccess, Probot, Processingfoundation,
+        Processwire, Producthunt, Progate, Progress, Prometheus, Pronounsdotpage, Prosieben,
+        Proteus, Protocolsdotio, Protodotio, Proton, Protoncalendar, Protondb, Protondrive,
+        Protonmail, Protonvpn, Protools, Protractor, Proxmox, Pterodactyl, Pubg, Publons, Pubmed,
+        Pug, Pulumi, Puma, Puppet, Puppeteer, Purescript, Purgecss, Purism, Pushbullet, Pusher, Pwa,
+        Pycharm, Pycqa, Pydantic, Pyg, Pypi, Pypy, Pyscaffold, Pysyft, Pytest, Python,
+        Pythonanywhere, Pytorch, Pyup, Qantas, Qase, Qatarairways, Qbittorrent, Qemu, Qgis, Qi,
+        Qiita, Qiskit, Qiwi, Qlik, Qmk, Qnap, Qq, Qt, Qualcomm, Qualtrics, Qualys, Quantcast,
+        Quantconnect, Quarkus, Quarto, Quasar, Qubesos, Quest, Quickbooks, Quicklook, Quicktime,
+        Quicktype, Quip, Quizlet, Quora, Qwant, Qwik, Qwiklabs, Qzone, R, R3, Rabbitmq, Racket,
+        Radar, Radarr, Radiofrance, Radixui, Radstudio, Railway, Rainmeter, Rakuten, Rakutenkobo,
+        Ram, Rancher, Rapid, Rarible, Rasa, Raspberrypi, Ravelry, Ray, Raycast, Raylib, Razer,
+        Razorpay, Rclone, React, Reactbootstrap, Reacthookform, Reactiveresume, Reactivex, Reactos,
+        Reactquery, Reactrouter, Reacttable, Readdotcv, Readme, Readthedocs, Reason, Reasonstudios,
+        Recoil, Red, Redash, Redbubble, Redbull, Redcandlegames, Reddit, Redhat, Redhatopenshift,
+        Redis, Redmine, Redox, Redragon, Redsys, Redux, Reduxsaga, Redwoodjs, Reebok, Refine,
+        Refinedgithub, Relay, Relianceindustrieslimited, Remark, Remedyentertainment, Remix,
+        Removedotbg, Renault, Render, Renovate, Renpy, Renren, Replicate, Replit, Republicofgamers,
+        Rescript, Rescuetime, Researchgate, Resend, Resharper, Resurrectionremixos, Retool,
+        Retroarch, Retropie, Revanced, Revealdotjs, Reverbnation, Revoltdotchat, Revolut, Rewe,
+        Rezgo, Rhinoceros, Rich, Rider, Rimacautomobili, Rime, Ring, Riotgames, Ripple, Riscv,
+        Riseup, Ritzcarlton, Rive, Roadmapdotsh, Roamresearch, Robinhood, Roblox, Robloxstudio,
+        Roboflow, Robotframework, Rocket, Rocketdotchat, Rocksdb, Rockstargames, Rockwellautomation,
+        Rockylinux, Roku, Roll20, Rollsroyce, Rollupdotjs, Rook, Roon, Rootme, Roots, Rootsbedrock,
+        Rootssage, Ros, Rossmann, Rotaryinternational, Rottentomatoes, Roundcube, Rsocket, Rss,
+        Rstudioide, Rte, Rtl, Rtlzwei, Rtm, Rubocop, Ruby, Rubygems, Rubymine, Rubyonrails,
+        Rubysinatra, Ruff, Rumahweb, Rumble, Rundeck, Runkeeper, Runkit, Runrundotit, Rust,
+        Rustdesk, Rxdb, Ryanair, Rye, S7airlines, Sabanci, Safari, Sage, Sagemath, Sahibinden,
+        Sailfishos, Sailsdotjs, Salesforce, Salla, Saltproject, Samsclub, Samsung, Samsungpay,
+        Sandisk, Sanfranciscomunicipalrailway, Sanic, Sanity, Saopaulometro, Sap, Sartorius, Sass,
+        Sat1, Satellite, Saturn, Saucelabs, Saudia, Scala, Scalar, Scaleway, Scania,
+        Schneiderelectric, Scikitlearn, Scilab, Scipy, Scopus, Scpfoundation, Scrapbox, Scrapy,
+        Scratch, Screencastify, Scribd, Scrimba, Scrollreveal, Scrumalliance, Scrutinizerci,
         Scylladb, Seagate, Searxng, Seat, Seatgeek, Securityscorecard, Sefaria, Sega, Selenium,
         Sellfy, Semanticrelease, Semanticscholar, Semanticui, Semanticuireact, Semanticweb,
         Semaphoreci, Semrush, Semver, Sencha, Sendgrid, Sennheiser, Sensu, Sentry, Sepa, Sequelize,
@@ -3595,29 +3620,30 @@ public val Simpleicons.AllIcons: ____KtList<ImageVector>
         Sharex, Sharp, Shazam, Shell, Shelly, Shenzhenmetro, Shieldsdotio, Shikimori, Shopee,
         Shopify, Shopware, Shortcut, Showpad, Showtime, Showwcase, Shutterstock, Sidekiq, Sidequest,
         Siemens, Sifive, Signal, Silverairways, Similarweb, Simkl, Simpleanalytics, ___Simpleicons,
-        Simplelogin, Simplenote, Simplex, Sinaweibo, Singaporeairlines, Singlestore, Sitecore,
-        Sitepoint, Siyuan, Skaffold, Sketch, Sketchfab, Sketchup, Skillshare, Skoda, Sky, Skypack,
-        Slack, Slackware, Slashdot, Slickpic, Slides, Slideshare, Slint, Smart, Smartthings,
-        Smashingmagazine, Smrt, Smugmug, Snapchat, Snapcraft, Snapdragon, Sncf, Snort, Snowflake,
-        Snowpack, Snyk, Socialblade, Society6, Socket, Socketdotio, Softcatala, Softpedia, Sogou,
-        Solana, Solid, Solidity, Sololearn, Solus, Sonar, Sonarcloud, Sonarlint, Sonarqube, Sonarr,
-        Sonatype, Songkick, Songoda, Sonicwall, Sonos, Sony, Soriana, Soundcharts, Soundcloud,
-        Sourceengine, Sourceforge, Sourcehut, Sourcetree, Southwestairlines, Spacemacs, Spaceship,
-        Spacex, Spacy, Sparkar, Sparkasse, Sparkfun, Sparkpost, Spdx, Speakerdeck, Spectrum,
-        Speedtest, Speedypage, Sphinx, Spigotmc, Spine, Spinnaker, Splunk, Spoj, Spond, Spotify,
-        Spotlight, Spreadshirt, Spreaker, Spring, SpringCreators, Springboot, Springsecurity,
-        Spyderide, Sqlalchemy, Sqlite, Square, Squareenix, Squarespace, Srgssr, Ssrn, Sst, Stackbit,
-        Stackblitz, Stackedit, Stackexchange, Stackhawk, Stackoverflow, Stackshare, Stadia,
-        Staffbase, Stagetimer, Standardjs, Standardresume, Starbucks, Stardock, Starlingbank,
-        Starship, Startdotgg, Startpage, Startrek, Starz, Statamic, Statista, Statuspage, Statuspal,
-        Steam, Steamdb, Steamdeck, Steamworks, Steelseries, Steem, Steemit, Steinberg, Stellar,
-        Stencil, Stencyl, Stimulus, Stmicroelectronics, Stockx, Stopstalk, Storyblok, Storybook,
-        Strapi, Strava, Streamlabs, Streamlit, Streamrunners, Stremio, Stripe, Strongswan, Stryker,
-        Stubhub, Studio3t, Styledcomponents, Stylelint, Styleshare, Stylus, Subaru, Sublimetext,
-        Substack, Subtitleedit, Subversion, Suckless, Sui, Sumologic, Suno, Sunrise, Supabase,
-        Supercrease, Supermicro, Superuser, Surfshark, Surrealdb, Surveymonkey, Suse, Suzuki,
-        Svelte, Svg, Svgdotjs, Svgo, Svgtrace, Swagger, Swarm, Sway, Swc, Swift, Swiggy, Swiper,
-        Swr, Symantec, Symbolab, Symfony, Symphony, Sympy, Syncthing, Synology, System76, Tabelog,
+        Simplelocalize, Simplelogin, Simplenote, Simplex, Sinaweibo, Singaporeairlines, Singlestore,
+        Sitecore, Sitepoint, Siyuan, Skaffold, Sketch, Sketchfab, Sketchup, Skillshare, Skoda, Sky,
+        Skypack, Slack, Slackware, Slashdot, Slickpic, Slides, Slideshare, Slint, Smart,
+        Smartthings, Smashingmagazine, Smrt, Smugmug, Snapchat, Snapcraft, Snapdragon, Sncf, Snort,
+        Snowflake, Snowpack, Snyk, Socialblade, Society6, Socket, Socketdotio, Softcatala,
+        Softpedia, Sogou, Solana, Solid, Solidity, Sololearn, Solus, Sonar, Sonarcloud, Sonarlint,
+        Sonarqube, Sonarr, Sonatype, Songkick, Songoda, Sonicwall, Sonos, Sony, Soriana,
+        Soundcharts, Soundcloud, Sourceengine, Sourceforge, Sourcehut, Sourcetree,
+        Southwestairlines, Spacemacs, Spaceship, Spacex, Spacy, Sparkar, Sparkasse, Sparkfun,
+        Sparkpost, Spdx, Speakerdeck, Spectrum, Speedtest, Speedypage, Sphinx, Spigotmc, Spine,
+        Spinnaker, Splunk, Spoj, Spond, Spotify, Spotlight, Spreadshirt, Spreaker, Spring,
+        SpringCreators, Springboot, Springsecurity, Spyderide, Sqlalchemy, Sqlite, Square,
+        Squareenix, Squarespace, Srgssr, Ssrn, Sst, Stackbit, Stackblitz, Stackedit, Stackexchange,
+        Stackhawk, Stackoverflow, Stackshare, Stadia, Staffbase, Stagetimer, Standardjs,
+        Standardresume, Starbucks, Stardock, Starlingbank, Starship, Startdotgg, Startpage,
+        Startrek, Starz, Statamic, Statista, Statuspage, Statuspal, Steam, Steamdb, Steamdeck,
+        Steamworks, Steelseries, Steem, Steemit, Steinberg, Stellar, Stencil, Stencyl, Stimulus,
+        Stmicroelectronics, Stockx, Stopstalk, Storyblok, Storybook, Strapi, Strava, Streamlabs,
+        Streamlit, Streamrunners, Stremio, Stripe, Strongswan, Stryker, Stubhub, Studio3t,
+        Styledcomponents, Stylelint, Styleshare, Stylus, Subaru, Sublimetext, Substack,
+        Subtitleedit, Subversion, Suckless, Sui, Sumologic, Suno, Sunrise, Supabase, Supercrease,
+        Supermicro, Superuser, Surfshark, Surrealdb, Surveymonkey, Suse, Suzuki, Svelte, Svg,
+        Svgdotjs, Svgo, Svgtrace, Swagger, Swarm, Sway, Swc, Swift, Swiggy, Swiper, Swisscows, Swr,
+        Symantec, Symbolab, Symfony, Symphony, Sympy, Syncthing, Synology, System76, Tabelog,
         Tablecheck, Tacobell, Tado, Taichigraphics, Taichilang, Tails, Tailscale, Tailwindcss,
         Taipy, Taketwointeractivesoftware, Talend, Talenthouse, Talos, Tamiya, Tampermonkey, Taobao,
         Tapas, Target, Tarom, Task, Tasmota, Tata, Tauri, Taxbuzz, Tcs, Teal, Teamcity, Teamspeak,
@@ -3660,18 +3686,18 @@ public val Simpleicons.AllIcons: ____KtList<ImageVector>
         Webstorm, Webtoon, Webtrees, Wechat, Wegame, Weightsandbiases, Welcometothejungle,
         Wellfound, Wellsfargo, Wemo, Westerndigital, Westernunion, Wetransfer, Wezterm, Wgpu,
         Whatsapp, Wheniwork, Wikibooks, Wikidata, Wikidotgg, Wikidotjs, Wikimediacommons,
-        Wikimediafoundation, Wikipedia, Wikiquote, Wikiversity, Wikivoyage, Winamp, Wine, Wipro,
-        Wire, Wireguard, Wireshark, Wise, Wish, Wistia, Wix, Wizzair, Wolfram, Wolframlanguage,
-        Wolframmathematica, Wondershare, Wondersharefilmora, Woo, Woocommerce, Wordpress, Workplace,
-        Worldhealthorganization, Wpengine, Wpexplorer, Wprocket, Writedotas, Wwe, Wwise, Wxt, Wykop,
-        Wyze, X, Xampp, Xcode, Xdadevelopers, Xdotorg, Xendit, Xero, Xfce, Xiaohongshu, Xiaomi,
-        Xing, Xml, Xmpp, Xo, Xrp, Xsplit, Xstate, Xubuntu, Xyflow, Yabai, Yale, Yamahacorporation,
-        Yamahamotorcorporation, Yaml, Yandexcloud, Yarn, Ycombinator, Yelp, Yeti, Yii, Yoast, Yolo,
-        Youhodler, Youtube, Youtubegaming, Youtubekids, Youtubemusic, Youtubeshorts, Youtubestudio,
-        Youtubetv, Yr, Yubico, Yunohost, Zabka, Zaim, Zalando, Zalo, Zap, Zapier, Zara, Zazzle,
-        Zcash, Zcool, Zdf, Zebpay, Zebratechnologies, Zedindustries, Zelle, Zenbrowser, Zend,
-        Zendesk, Zenn, Zenodo, Zensar, Zerodha, Zerotier, Zettlr, Zhihu, Zig, Zigbee, Zigbee2mqtt,
-        Ziggo, Zilch, Zillow, Zincsearch, Zingat, Zod, Zoho, Zoiper, Zomato, Zoom, Zorin, Zotero,
-        Zsh, Zulip, Zyte)
+        Wikimediafoundation, Wikipedia, Wikiquote, Wikiversity, Wikivoyage, Winamp, Windsurf, Wine,
+        Wipro, Wire, Wireguard, Wireshark, Wise, Wish, Wistia, Wix, Wizzair, Wolfram,
+        Wolframlanguage, Wolframmathematica, Wondershare, Wondersharefilmora, Woo, Woocommerce,
+        Wordpress, Workplace, Worldhealthorganization, Wpengine, Wpexplorer, Wprocket, Writedotas,
+        Wwe, Wwise, Wxt, Wykop, Wyze, X, Xampp, Xcode, Xdadevelopers, Xdotorg, Xendit, Xero, Xfce,
+        Xiaohongshu, Xiaomi, Xing, Xml, Xmpp, Xo, Xrp, Xsplit, Xstate, Xubuntu, Xyflow, Yabai, Yale,
+        Yamahacorporation, Yamahamotorcorporation, Yaml, Yandexcloud, Yarn, Ycombinator, Yelp, Yeti,
+        Yii, Yoast, Yolo, Youhodler, Youtube, Youtubegaming, Youtubekids, Youtubemusic,
+        Youtubeshorts, Youtubestudio, Youtubetv, Yr, Yubico, Yunohost, Zabka, Zaim, Zalando, Zalo,
+        Zap, Zapier, Zara, Zazzle, Zcash, Zcool, Zdf, Zebpay, Zebratechnologies, Zedindustries,
+        Zelle, Zenbrowser, Zend, Zendesk, Zenn, Zenodo, Zensar, Zerodha, Zerotier, Zettlr, Zhihu,
+        Zig, Zigbee, Zigbee2mqtt, Ziggo, Zilch, Zillow, Zincsearch, Zingat, Zod, Zoho, Zoiper,
+        Zomato, Zoom, Zorin, Zotero, Zsh, Zulip, Zyte)
     return __AllIcons!!
   }

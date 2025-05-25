@@ -2,15 +2,6 @@
     "defaultPack": "tabler",
     "iconPacks": [
         {
-            "name": "Boxicons",
-            "value": "boxicons",
-            "categories": [
-                "solid",
-                "logos",
-                "regular"
-            ]
-        },
-        {
             "name": "Feather",
             "value": "feather",
             "categories": [
@@ -84,15 +75,24 @@
             ]
         },
         {
-            "name": "Simpleicons",
-            "value": "simpleicons",
+            "name": "Twbs",
+            "value": "twbs",
             "categories": [
                 ""
             ]
         },
         {
-            "name": "Twbs",
-            "value": "twbs",
+            "name": "Boxicons",
+            "value": "boxicons",
+            "categories": [
+                "solid",
+                "logos",
+                "regular"
+            ]
+        },
+        {
+            "name": "Simpleicons",
+            "value": "simpleicons",
             "categories": [
                 ""
             ]
