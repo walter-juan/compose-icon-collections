@@ -22,14 +22,14 @@ public val SharpGroup.ArrowForward: ImageVector
         _arrowForward = Builder(name = "ArrowForward", defaultWidth = 512.0.dp, defaultHeight =
                 512.0.dp, viewportWidth = 512.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 48.0f, strokeLineCap = StrokeCap.Square, strokeLineJoin = Miter,
+                    strokeLineWidth = 48.0f, strokeLineCap = Square, strokeLineJoin = Miter,
                     strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(268.0f, 112.0f)
                 lineToRelative(144.0f, 144.0f)
                 lineToRelative(-144.0f, 144.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 48.0f, strokeLineCap = StrokeCap.Square, strokeLineJoin = Miter,
+                    strokeLineWidth = 48.0f, strokeLineCap = Square, strokeLineJoin = Miter,
                     strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(392.0f, 256.0f)
                 lineTo(100.0f, 256.0f)
