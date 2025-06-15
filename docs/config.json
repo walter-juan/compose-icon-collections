@@ -58,15 +58,6 @@
             ]
         },
         {
-            "name": "Ionicons",
-            "value": "ionicons",
-            "categories": [
-                "outline",
-                "sharp",
-                "filled"
-            ]
-        },
-        {
             "name": "Twbs",
             "value": "twbs",
             "categories": [
@@ -83,18 +74,27 @@
             ]
         },
         {
+            "name": "Tabler",
+            "value": "tabler",
+            "categories": [
+                "filled",
+                "outline"
+            ]
+        },
+        {
+            "name": "Ionicons",
+            "value": "ionicons",
+            "categories": [
+                "filled",
+                "sharp",
+                "outline"
+            ]
+        },
+        {
             "name": "Simpleicons",
             "value": "simpleicons",
             "categories": [
                 ""
-            ]
-        },
-        {
-            "name": "Tabler",
-            "value": "tabler",
-            "categories": [
-                "outline",
-                "filled"
             ]
         }
     ]

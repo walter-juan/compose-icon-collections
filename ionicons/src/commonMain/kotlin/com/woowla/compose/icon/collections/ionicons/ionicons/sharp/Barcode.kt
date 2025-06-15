@@ -22,7 +22,7 @@ public val SharpGroup.Barcode: ImageVector
         _barcode = Builder(name = "Barcode", defaultWidth = 512.0.dp, defaultHeight = 512.0.dp,
                 viewportWidth = 512.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 32.0f, strokeLineCap = StrokeCap.Square, strokeLineJoin = Round,
+                    strokeLineWidth = 32.0f, strokeLineCap = Square, strokeLineJoin = Round,
                     strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(400.0f, 400.33f)
                 lineToRelative(48.0f, -0.33f)
@@ -30,7 +30,7 @@ public val SharpGroup.Barcode: ImageVector
                 lineToRelative(-48.0f, 0.33f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 32.0f, strokeLineCap = StrokeCap.Square, strokeLineJoin = Round,
+                    strokeLineWidth = 32.0f, strokeLineCap = Square, strokeLineJoin = Round,
                     strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(112.0f, 112.0f)
                 lineToRelative(-48.0f, 0.33f)
@@ -38,31 +38,31 @@ public val SharpGroup.Barcode: ImageVector
                 lineToRelative(48.0f, -0.33f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 32.0f, strokeLineCap = StrokeCap.Square, strokeLineJoin = Round,
+                    strokeLineWidth = 32.0f, strokeLineCap = Square, strokeLineJoin = Round,
                     strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(384.0f, 192.0f)
                 lineTo(384.0f, 320.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 32.0f, strokeLineCap = StrokeCap.Square, strokeLineJoin = Round,
+                    strokeLineWidth = 32.0f, strokeLineCap = Square, strokeLineJoin = Round,
                     strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(320.0f, 160.0f)
                 lineTo(320.0f, 352.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 32.0f, strokeLineCap = StrokeCap.Square, strokeLineJoin = Round,
+                    strokeLineWidth = 32.0f, strokeLineCap = Square, strokeLineJoin = Round,
                     strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(256.0f, 176.0f)
                 lineTo(256.0f, 336.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 32.0f, strokeLineCap = StrokeCap.Square, strokeLineJoin = Round,
+                    strokeLineWidth = 32.0f, strokeLineCap = Square, strokeLineJoin = Round,
                     strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(192.0f, 160.0f)
                 lineTo(192.0f, 352.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 32.0f, strokeLineCap = StrokeCap.Square, strokeLineJoin = Round,
+                    strokeLineWidth = 32.0f, strokeLineCap = Square, strokeLineJoin = Round,
                     strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(128.0f, 192.0f)
                 lineTo(128.0f, 320.0f)

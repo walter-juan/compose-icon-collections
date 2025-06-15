@@ -22,19 +22,19 @@ public val SharpGroup.Locate: ImageVector
         _locate = Builder(name = "Locate", defaultWidth = 512.0.dp, defaultHeight = 512.0.dp,
                 viewportWidth = 512.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 48.0f, strokeLineCap = StrokeCap.Square, strokeLineJoin = Round,
+                    strokeLineWidth = 48.0f, strokeLineCap = Square, strokeLineJoin = Round,
                     strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(256.0f, 96.0f)
                 lineTo(256.0f, 56.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 48.0f, strokeLineCap = StrokeCap.Square, strokeLineJoin = Round,
+                    strokeLineWidth = 48.0f, strokeLineCap = Square, strokeLineJoin = Round,
                     strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(256.0f, 456.0f)
                 lineTo(256.0f, 416.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 48.0f, strokeLineCap = StrokeCap.Square, strokeLineJoin = Round,
+                    strokeLineWidth = 48.0f, strokeLineCap = Square, strokeLineJoin = Round,
                     strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(256.0f, 112.0f)
                 arcTo(144.0f, 144.0f, 0.0f, true, false, 400.0f, 256.0f)
@@ -42,13 +42,13 @@ public val SharpGroup.Locate: ImageVector
                 close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 48.0f, strokeLineCap = StrokeCap.Square, strokeLineJoin = Round,
+                    strokeLineWidth = 48.0f, strokeLineCap = Square, strokeLineJoin = Round,
                     strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(416.0f, 256.0f)
                 lineTo(456.0f, 256.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 48.0f, strokeLineCap = StrokeCap.Square, strokeLineJoin = Round,
+                    strokeLineWidth = 48.0f, strokeLineCap = Square, strokeLineJoin = Round,
                     strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(56.0f, 256.0f)
                 lineTo(96.0f, 256.0f)
