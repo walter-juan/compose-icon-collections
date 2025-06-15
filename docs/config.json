@@ -93,8 +93,8 @@
             "name": "Tabler",
             "value": "tabler",
             "categories": [
-                "outline",
-                "filled"
+                "filled",
+                "outline"
             ]
         }
     ]
