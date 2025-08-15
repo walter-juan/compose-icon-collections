@@ -28,7 +28,7 @@ public val SolidGroup.MagnifyingGlassLocation: ImageVector
                 curveToRelative(12.5f, 12.5f, 12.5f, 32.8f, 0.0f, 45.3f)
                 reflectiveCurveToRelative(-32.8f, 12.5f, -45.3f, 0.0f)
                 lineTo(330.7f, 376.0f)
-                curveToRelative(-34.4f, 25.2f, -76.8f, 40.0f, -122.7f, 40.0f)
+                curveTo(296.3f, 401.1f, 253.9f, 416.0f, 208.0f, 416.0f)
                 curveTo(93.1f, 416.0f, 0.0f, 322.9f, 0.0f, 208.0f)
                 reflectiveCurveTo(93.1f, 0.0f, 208.0f, 0.0f)
                 reflectiveCurveTo(416.0f, 93.1f, 416.0f, 208.0f)

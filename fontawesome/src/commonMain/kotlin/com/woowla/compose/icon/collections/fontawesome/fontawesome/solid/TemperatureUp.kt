@@ -1,0 +1,66 @@
+package com.woowla.compose.icon.collections.fontawesome.fontawesome.solid
+
+import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.graphics.PathFillType.Companion.NonZero
+import androidx.compose.ui.graphics.SolidColor
+import androidx.compose.ui.graphics.StrokeCap.Companion.Butt
+import androidx.compose.ui.graphics.StrokeJoin.Companion.Miter
+import androidx.compose.ui.graphics.vector.ImageVector
+import androidx.compose.ui.graphics.vector.ImageVector.Builder
+import androidx.compose.ui.graphics.vector.path
+import androidx.compose.ui.unit.dp
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.SolidGroup
+
+public val SolidGroup.TemperatureUp: ImageVector
+    get() {
+        if (_temperatureUp != null) {
+            return _temperatureUp!!
+        }
+        _temperatureUp = Builder(name = "TemperatureUp", defaultWidth = 512.0.dp, defaultHeight =
+                512.0.dp, viewportWidth = 512.0f, viewportHeight = 512.0f).apply {
+            path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
+                    strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
+                    pathFillType = NonZero) {
+                moveTo(64.5f, 96.0f)
+                curveToRelative(0.0f, -53.0f, 43.0f, -96.0f, 96.0f, -96.0f)
+                reflectiveCurveToRelative(96.0f, 43.0f, 96.0f, 96.0f)
+                lineToRelative(0.0f, 164.7f)
+                curveToRelative(29.5f, 26.4f, 48.0f, 64.7f, 48.0f, 107.3f)
+                curveToRelative(0.0f, 79.5f, -64.5f, 144.0f, -144.0f, 144.0f)
+                reflectiveCurveToRelative(-144.0f, -64.5f, -144.0f, -144.0f)
+                curveToRelative(0.0f, -42.6f, 18.5f, -81.0f, 48.0f, -107.3f)
+                lineTo(64.5f, 96.0f)
+                close()
+                moveTo(160.5f, 432.0f)
+                curveToRelative(35.3f, 0.0f, 64.0f, -28.7f, 64.0f, -64.0f)
+                curveToRelative(0.0f, -26.9f, -16.5f, -49.9f, -40.0f, -59.3f)
+                lineToRelative(0.0f, -212.7f)
+                curveToRelative(0.0f, -13.3f, -10.7f, -24.0f, -24.0f, -24.0f)
+                reflectiveCurveToRelative(-24.0f, 10.7f, -24.0f, 24.0f)
+                lineToRelative(0.0f, 212.7f)
+                curveToRelative(-23.5f, 9.5f, -40.0f, 32.5f, -40.0f, 59.3f)
+                curveToRelative(0.0f, 35.3f, 28.7f, 64.0f, 64.0f, 64.0f)
+                close()
+                moveTo(439.1f, 9.4f)
+                lineToRelative(64.0f, 64.0f)
+                curveToRelative(12.5f, 12.5f, 12.5f, 32.8f, 0.0f, 45.3f)
+                reflectiveCurveToRelative(-32.8f, 12.5f, -45.3f, 0.0f)
+                lineToRelative(-9.4f, -9.4f)
+                lineToRelative(0.0f, 178.7f)
+                curveToRelative(0.0f, 17.7f, -14.3f, 32.0f, -32.0f, 32.0f)
+                reflectiveCurveToRelative(-32.0f, -14.3f, -32.0f, -32.0f)
+                lineToRelative(0.0f, -178.7f)
+                lineToRelative(-9.4f, 9.4f)
+                curveToRelative(-12.5f, 12.5f, -32.8f, 12.5f, -45.3f, 0.0f)
+                reflectiveCurveToRelative(-12.5f, -32.8f, 0.0f, -45.3f)
+                lineToRelative(64.0f, -64.0f)
+                curveToRelative(6.0f, -6.0f, 14.1f, -9.4f, 22.6f, -9.4f)
+                reflectiveCurveToRelative(16.6f, 3.4f, 22.6f, 9.4f)
+                close()
+            }
+        }
+        .build()
+        return _temperatureUp!!
+    }
+
+private var _temperatureUp: ImageVector? = null

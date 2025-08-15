@@ -16,20 +16,20 @@ public val SolidGroup.Stop: ImageVector
         if (_stop != null) {
             return _stop!!
         }
-        _stop = Builder(name = "Stop", defaultWidth = 384.0.dp, defaultHeight = 512.0.dp,
-                viewportWidth = 384.0f, viewportHeight = 512.0f).apply {
+        _stop = Builder(name = "Stop", defaultWidth = 448.0.dp, defaultHeight = 512.0.dp,
+                viewportWidth = 448.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(0.0f, 128.0f)
-                curveTo(0.0f, 92.7f, 28.7f, 64.0f, 64.0f, 64.0f)
-                horizontalLineTo(320.0f)
+                moveTo(64.0f, 32.0f)
+                lineToRelative(320.0f, 0.0f)
                 curveToRelative(35.3f, 0.0f, 64.0f, 28.7f, 64.0f, 64.0f)
-                verticalLineTo(384.0f)
+                lineToRelative(0.0f, 320.0f)
                 curveToRelative(0.0f, 35.3f, -28.7f, 64.0f, -64.0f, 64.0f)
-                horizontalLineTo(64.0f)
+                lineTo(64.0f, 480.0f)
                 curveToRelative(-35.3f, 0.0f, -64.0f, -28.7f, -64.0f, -64.0f)
-                verticalLineTo(128.0f)
+                lineTo(0.0f, 96.0f)
+                curveTo(0.0f, 60.7f, 28.7f, 32.0f, 64.0f, 32.0f)
                 close()
             }
         }

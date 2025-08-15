@@ -23,7 +23,7 @@ public val SolidGroup.CircleChevronRight: ImageVector
                     pathFillType = NonZero) {
                 moveTo(0.0f, 256.0f)
                 arcToRelative(256.0f, 256.0f, 0.0f, true, false, 512.0f, 0.0f)
-                arcTo(256.0f, 256.0f, 0.0f, true, false, 0.0f, 256.0f)
+                arcToRelative(256.0f, 256.0f, 0.0f, true, false, -512.0f, 0.0f)
                 close()
                 moveTo(241.0f, 377.0f)
                 curveToRelative(-9.4f, 9.4f, -24.6f, 9.4f, -33.9f, 0.0f)

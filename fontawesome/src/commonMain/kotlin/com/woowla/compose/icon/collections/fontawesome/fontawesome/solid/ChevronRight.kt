@@ -21,13 +21,13 @@ public val SolidGroup.ChevronRight: ImageVector
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(310.6f, 233.4f)
+                moveTo(311.1f, 233.4f)
                 curveToRelative(12.5f, 12.5f, 12.5f, 32.8f, 0.0f, 45.3f)
                 lineToRelative(-192.0f, 192.0f)
                 curveToRelative(-12.5f, 12.5f, -32.8f, 12.5f, -45.3f, 0.0f)
                 reflectiveCurveToRelative(-12.5f, -32.8f, 0.0f, -45.3f)
-                lineTo(242.7f, 256.0f)
-                lineTo(73.4f, 86.6f)
+                lineTo(243.2f, 256.0f)
+                lineTo(73.9f, 86.6f)
                 curveToRelative(-12.5f, -12.5f, -12.5f, -32.8f, 0.0f, -45.3f)
                 reflectiveCurveToRelative(32.8f, -12.5f, 45.3f, 0.0f)
                 lineToRelative(192.0f, 192.0f)

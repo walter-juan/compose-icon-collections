@@ -22,9 +22,9 @@ public val SolidGroup.Seedling: ImageVector
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
                 moveTo(512.0f, 32.0f)
-                curveToRelative(0.0f, 113.6f, -84.6f, 207.5f, -194.2f, 222.0f)
-                curveToRelative(-7.1f, -53.4f, -30.6f, -101.6f, -65.3f, -139.3f)
-                curveTo(290.8f, 46.3f, 364.0f, 0.0f, 448.0f, 0.0f)
+                curveTo(512.0f, 140.1f, 435.4f, 230.3f, 333.6f, 251.4f)
+                curveTo(325.7f, 193.3f, 299.6f, 141.0f, 261.1f, 100.5f)
+                curveTo(301.2f, 40.0f, 369.9f, 0.0f, 448.0f, 0.0f)
                 lineToRelative(32.0f, 0.0f)
                 curveToRelative(17.7f, 0.0f, 32.0f, 14.3f, 32.0f, 32.0f)
                 close()
@@ -32,8 +32,7 @@ public val SolidGroup.Seedling: ImageVector
                 curveTo(0.0f, 78.3f, 14.3f, 64.0f, 32.0f, 64.0f)
                 lineToRelative(32.0f, 0.0f)
                 curveToRelative(123.7f, 0.0f, 224.0f, 100.3f, 224.0f, 224.0f)
-                lineToRelative(0.0f, 32.0f)
-                lineToRelative(0.0f, 160.0f)
+                lineToRelative(0.0f, 192.0f)
                 curveToRelative(0.0f, 17.7f, -14.3f, 32.0f, -32.0f, 32.0f)
                 reflectiveCurveToRelative(-32.0f, -14.3f, -32.0f, -32.0f)
                 lineToRelative(0.0f, -160.0f)

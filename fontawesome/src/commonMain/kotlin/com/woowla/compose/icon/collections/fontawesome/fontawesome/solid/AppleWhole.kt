@@ -41,7 +41,7 @@ public val SolidGroup.AppleWhole: ImageVector
                 curveToRelative(-16.5f, 0.0f, -38.1f, -6.6f, -51.5f, -11.3f)
                 curveToRelative(-8.1f, -2.8f, -16.9f, -2.8f, -25.0f, 0.0f)
                 curveToRelative(-13.4f, 4.7f, -35.0f, 11.3f, -51.5f, 11.3f)
-                curveTo(80.0f, 512.0f, 0.0f, 416.0f, 0.0f, 288.0f)
+                curveToRelative(-80.0f, 0.0f, -160.0f, -96.0f, -160.0f, -224.0f)
                 close()
             }
         }

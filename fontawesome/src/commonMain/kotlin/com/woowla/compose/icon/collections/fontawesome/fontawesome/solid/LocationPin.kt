@@ -21,12 +21,12 @@ public val SolidGroup.LocationPin: ImageVector
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(384.0f, 192.0f)
-                curveToRelative(0.0f, 87.4f, -117.0f, 243.0f, -168.3f, 307.2f)
-                curveToRelative(-12.3f, 15.3f, -35.1f, 15.3f, -47.4f, 0.0f)
-                curveTo(117.0f, 435.0f, 0.0f, 279.4f, 0.0f, 192.0f)
-                curveTo(0.0f, 86.0f, 86.0f, 0.0f, 192.0f, 0.0f)
-                reflectiveCurveTo(384.0f, 86.0f, 384.0f, 192.0f)
+                moveTo(192.0f, 0.0f)
+                curveTo(86.0f, 0.0f, 0.0f, 84.4f, 0.0f, 188.6f)
+                curveTo(0.0f, 307.9f, 120.2f, 450.9f, 170.4f, 505.4f)
+                curveTo(182.2f, 518.2f, 201.8f, 518.2f, 213.6f, 505.4f)
+                curveTo(263.8f, 450.9f, 384.0f, 307.9f, 384.0f, 188.6f)
+                curveTo(384.0f, 84.4f, 298.0f, 0.0f, 192.0f, 0.0f)
                 close()
             }
         }

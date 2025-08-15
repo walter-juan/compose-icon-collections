@@ -22,16 +22,20 @@ public val RegularGroup.CircleDot: ImageVector
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
                 moveTo(464.0f, 256.0f)
-                arcTo(208.0f, 208.0f, 0.0f, true, false, 48.0f, 256.0f)
+                arcToRelative(208.0f, 208.0f, 0.0f, true, false, -416.0f, 0.0f)
                 arcToRelative(208.0f, 208.0f, 0.0f, true, false, 416.0f, 0.0f)
                 close()
                 moveTo(0.0f, 256.0f)
                 arcToRelative(256.0f, 256.0f, 0.0f, true, true, 512.0f, 0.0f)
-                arcTo(256.0f, 256.0f, 0.0f, true, true, 0.0f, 256.0f)
+                arcToRelative(256.0f, 256.0f, 0.0f, true, true, -512.0f, 0.0f)
                 close()
-                moveTo(256.0f, 160.0f)
-                arcToRelative(96.0f, 96.0f, 0.0f, true, true, 0.0f, 192.0f)
-                arcToRelative(96.0f, 96.0f, 0.0f, true, true, 0.0f, -192.0f)
+                moveTo(307.2f, 256.0f)
+                arcToRelative(51.2f, 51.2f, 0.0f, true, false, -102.4f, 0.0f)
+                arcToRelative(51.2f, 51.2f, 0.0f, true, false, 102.4f, 0.0f)
+                close()
+                moveTo(160.0f, 256.0f)
+                arcToRelative(96.0f, 96.0f, 0.0f, true, true, 192.0f, 0.0f)
+                arcToRelative(96.0f, 96.0f, 0.0f, true, true, -192.0f, 0.0f)
                 close()
             }
         }

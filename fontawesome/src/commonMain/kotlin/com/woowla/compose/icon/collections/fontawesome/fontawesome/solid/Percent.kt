@@ -16,26 +16,26 @@ public val SolidGroup.Percent: ImageVector
         if (_percent != null) {
             return _percent!!
         }
-        _percent = Builder(name = "Percent", defaultWidth = 384.0.dp, defaultHeight = 512.0.dp,
-                viewportWidth = 384.0f, viewportHeight = 512.0f).apply {
+        _percent = Builder(name = "Percent", defaultWidth = 448.0.dp, defaultHeight = 512.0.dp,
+                viewportWidth = 448.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(374.6f, 118.6f)
+                moveTo(192.0f, 128.0f)
+                arcToRelative(96.0f, 96.0f, 0.0f, true, false, -192.0f, 0.0f)
+                arcToRelative(96.0f, 96.0f, 0.0f, true, false, 192.0f, 0.0f)
+                close()
+                moveTo(448.0f, 384.0f)
+                arcToRelative(96.0f, 96.0f, 0.0f, true, false, -192.0f, 0.0f)
+                arcToRelative(96.0f, 96.0f, 0.0f, true, false, 192.0f, 0.0f)
+                close()
+                moveTo(438.6f, 86.6f)
                 curveToRelative(12.5f, -12.5f, 12.5f, -32.8f, 0.0f, -45.3f)
                 reflectiveCurveToRelative(-32.8f, -12.5f, -45.3f, 0.0f)
-                lineToRelative(-320.0f, 320.0f)
+                lineToRelative(-384.0f, 384.0f)
                 curveToRelative(-12.5f, 12.5f, -12.5f, 32.8f, 0.0f, 45.3f)
                 reflectiveCurveToRelative(32.8f, 12.5f, 45.3f, 0.0f)
-                lineToRelative(320.0f, -320.0f)
-                close()
-                moveTo(128.0f, 128.0f)
-                arcTo(64.0f, 64.0f, 0.0f, true, false, 0.0f, 128.0f)
-                arcToRelative(64.0f, 64.0f, 0.0f, true, false, 128.0f, 0.0f)
-                close()
-                moveTo(384.0f, 384.0f)
-                arcToRelative(64.0f, 64.0f, 0.0f, true, false, -128.0f, 0.0f)
-                arcToRelative(64.0f, 64.0f, 0.0f, true, false, 128.0f, 0.0f)
+                lineToRelative(384.0f, -384.0f)
                 close()
             }
         }

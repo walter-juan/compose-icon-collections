@@ -16,40 +16,40 @@ public val SolidGroup.Radiation: ImageVector
         if (_radiation != null) {
             return _radiation!!
         }
-        _radiation = Builder(name = "Radiation", defaultWidth = 512.0.dp, defaultHeight = 512.0.dp,
-                viewportWidth = 512.0f, viewportHeight = 512.0f).apply {
+        _radiation = Builder(name = "Radiation", defaultWidth = 576.0.dp, defaultHeight = 512.0.dp,
+                viewportWidth = 576.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(216.0f, 186.7f)
-                curveToRelative(-23.9f, 13.8f, -40.0f, 39.7f, -40.0f, 69.3f)
-                lineTo(32.0f, 256.0f)
-                curveTo(14.3f, 256.0f, -0.2f, 241.6f, 2.0f, 224.1f)
-                curveTo(10.7f, 154.0f, 47.8f, 92.7f, 101.3f, 52.0f)
-                curveToRelative(14.1f, -10.7f, 33.8f, -5.3f, 42.7f, 10.0f)
-                lineToRelative(72.0f, 124.7f)
+                moveTo(446.2f, 34.5f)
+                curveToRelative(-14.2f, -10.1f, -33.5f, -4.6f, -42.2f, 10.5f)
+                lineTo(331.6f, 170.3f)
+                curveToRelative(31.3f, 15.8f, 52.8f, 48.3f, 52.8f, 85.7f)
+                lineToRelative(144.0f, 0.0f)
+                curveToRelative(17.7f, 0.0f, 32.2f, -14.4f, 30.1f, -31.9f)
+                curveToRelative(-9.1f, -78.1f, -51.4f, -146.1f, -112.3f, -189.6f)
                 close()
-                moveTo(256.0f, 336.0f)
-                curveToRelative(14.6f, 0.0f, 28.2f, -3.9f, 40.0f, -10.7f)
-                lineToRelative(72.0f, 124.8f)
-                curveToRelative(8.8f, 15.3f, 3.7f, 35.1f, -12.6f, 41.9f)
-                curveToRelative(-30.6f, 12.9f, -64.2f, 20.0f, -99.4f, 20.0f)
-                reflectiveCurveToRelative(-68.9f, -7.1f, -99.4f, -20.0f)
-                curveToRelative(-16.3f, -6.9f, -21.4f, -26.6f, -12.6f, -41.9f)
-                lineToRelative(72.0f, -124.8f)
-                curveToRelative(11.8f, 6.8f, 25.4f, 10.7f, 40.0f, 10.7f)
+                moveTo(172.7f, 44.9f)
+                curveTo(164.0f, 29.8f, 144.7f, 24.3f, 130.5f, 34.5f)
+                curveTo(69.6f, 77.9f, 27.3f, 145.9f, 18.2f, 224.1f)
+                curveTo(16.1f, 241.6f, 30.7f, 256.0f, 48.3f, 256.0f)
+                lineToRelative(144.0f, 0.0f)
+                curveToRelative(0.0f, -37.5f, 21.5f, -69.9f, 52.8f, -85.7f)
+                lineTo(172.7f, 44.9f)
                 close()
-                moveTo(480.0f, 256.0f)
-                lineToRelative(-144.0f, 0.0f)
-                curveToRelative(0.0f, -29.6f, -16.1f, -55.5f, -40.0f, -69.3f)
-                lineTo(368.0f, 62.0f)
-                curveToRelative(8.8f, -15.3f, 28.6f, -20.7f, 42.7f, -10.0f)
-                curveToRelative(53.6f, 40.7f, 90.6f, 102.0f, 99.4f, 172.1f)
-                curveToRelative(2.2f, 17.5f, -12.4f, 31.9f, -30.0f, 31.9f)
+                moveTo(163.3f, 461.7f)
+                curveToRelative(-8.7f, 15.1f, -3.8f, 34.5f, 12.0f, 41.8f)
+                curveToRelative(34.4f, 15.7f, 72.7f, 24.5f, 113.0f, 24.5f)
+                reflectiveCurveToRelative(78.6f, -8.8f, 113.0f, -24.5f)
+                curveToRelative(15.8f, -7.2f, 20.7f, -26.7f, 12.0f, -41.8f)
+                lineTo(341.0f, 336.3f)
+                curveToRelative(-15.1f, 9.9f, -33.2f, 15.7f, -52.6f, 15.7f)
+                reflectiveCurveToRelative(-37.5f, -5.8f, -52.6f, -15.7f)
+                lineTo(163.3f, 461.7f)
                 close()
-                moveTo(256.0f, 208.0f)
-                arcToRelative(48.0f, 48.0f, 0.0f, true, true, 0.0f, 96.0f)
-                arcToRelative(48.0f, 48.0f, 0.0f, true, true, 0.0f, -96.0f)
+                moveTo(288.3f, 304.0f)
+                arcToRelative(48.0f, 48.0f, 0.0f, true, false, -0.7f, -96.0f)
+                arcToRelative(48.0f, 48.0f, 0.0f, true, false, 0.7f, 96.0f)
                 close()
             }
         }

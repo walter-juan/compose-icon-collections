@@ -23,10 +23,10 @@ public val BrandsGroup.Envira: ImageVector
                     pathFillType = NonZero) {
                 moveTo(0.0f, 32.0f)
                 curveToRelative(477.6f, 0.0f, 366.6f, 317.3f, 367.1f, 366.3f)
-                lineTo(448.0f, 480.0f)
-                horizontalLineToRelative(-26.0f)
+                lineToRelative(80.9f, 81.7f)
+                lineToRelative(-26.0f, 0.0f)
                 lineToRelative(-70.4f, -71.2f)
-                curveToRelative(-39.0f, 4.2f, -124.4f, 34.5f, -214.4f, -37.0f)
+                curveTo(312.6f, 413.0f, 227.2f, 443.3f, 137.2f, 371.8f)
                 curveTo(47.0f, 300.3f, 52.0f, 214.7f, 0.0f, 32.0f)
                 close()
                 moveTo(79.7f, 78.0f)

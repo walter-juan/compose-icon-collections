@@ -28,7 +28,7 @@ public val SolidGroup.CircleHalfStroke: ImageVector
                 close()
                 moveTo(0.0f, 256.0f)
                 arcToRelative(256.0f, 256.0f, 0.0f, true, true, 512.0f, 0.0f)
-                arcTo(256.0f, 256.0f, 0.0f, true, true, 0.0f, 256.0f)
+                arcToRelative(256.0f, 256.0f, 0.0f, true, true, -512.0f, 0.0f)
                 close()
             }
         }

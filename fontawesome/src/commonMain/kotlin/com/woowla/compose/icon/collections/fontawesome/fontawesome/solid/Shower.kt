@@ -22,7 +22,7 @@ public val SolidGroup.Shower: ImageVector
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
                 moveTo(64.0f, 131.9f)
-                curveTo(64.0f, 112.1f, 80.1f, 96.0f, 99.9f, 96.0f)
+                curveToRelative(0.0f, -19.8f, 16.1f, -35.9f, 35.9f, -35.9f)
                 curveToRelative(9.5f, 0.0f, 18.6f, 3.8f, 25.4f, 10.5f)
                 lineToRelative(16.2f, 16.2f)
                 curveToRelative(-21.0f, 38.9f, -17.4f, 87.5f, 10.9f, 123.0f)
@@ -33,7 +33,7 @@ public val SolidGroup.Shower: ImageVector
                 curveToRelative(9.4f, -9.4f, 9.4f, -24.6f, 0.0f, -33.9f)
                 reflectiveCurveToRelative(-24.6f, -9.4f, -33.9f, 0.0f)
                 lineToRelative(-1.3f, 1.3f)
-                curveToRelative(-35.5f, -28.3f, -84.2f, -31.9f, -123.0f, -10.9f)
+                curveToRelative(-35.5f, -28.3f, -84.1f, -31.9f, -123.0f, -10.9f)
                 lineTo(170.5f, 61.3f)
                 curveTo(151.8f, 42.5f, 126.4f, 32.0f, 99.9f, 32.0f)
                 curveTo(44.7f, 32.0f, 0.0f, 76.7f, 0.0f, 131.9f)

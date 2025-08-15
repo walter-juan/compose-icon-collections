@@ -21,7 +21,9 @@ public val RegularGroup.IdCard: ImageVector
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(528.0f, 160.0f)
+                moveTo(48.0f, 416.0f)
+                lineToRelative(0.0f, -256.0f)
+                lineToRelative(480.0f, 0.0f)
                 lineToRelative(0.0f, 256.0f)
                 curveToRelative(0.0f, 8.8f, -7.2f, 16.0f, -16.0f, 16.0f)
                 lineToRelative(-192.0f, 0.0f)
@@ -30,8 +32,6 @@ public val RegularGroup.IdCard: ImageVector
                 curveToRelative(-44.2f, 0.0f, -80.0f, 35.8f, -80.0f, 80.0f)
                 lineToRelative(-32.0f, 0.0f)
                 curveToRelative(-8.8f, 0.0f, -16.0f, -7.2f, -16.0f, -16.0f)
-                lineToRelative(0.0f, -256.0f)
-                lineToRelative(480.0f, 0.0f)
                 close()
                 moveTo(64.0f, 32.0f)
                 curveTo(28.7f, 32.0f, 0.0f, 60.7f, 0.0f, 96.0f)
@@ -43,9 +43,9 @@ public val RegularGroup.IdCard: ImageVector
                 curveToRelative(0.0f, -35.3f, -28.7f, -64.0f, -64.0f, -64.0f)
                 lineTo(64.0f, 32.0f)
                 close()
-                moveTo(272.0f, 256.0f)
-                arcToRelative(64.0f, 64.0f, 0.0f, true, false, -128.0f, 0.0f)
-                arcToRelative(64.0f, 64.0f, 0.0f, true, false, 128.0f, 0.0f)
+                moveTo(208.0f, 312.0f)
+                arcToRelative(56.0f, 56.0f, 0.0f, true, false, 0.0f, -112.0f)
+                arcToRelative(56.0f, 56.0f, 0.0f, true, false, 0.0f, 112.0f)
                 close()
                 moveTo(376.0f, 208.0f)
                 curveToRelative(-13.3f, 0.0f, -24.0f, 10.7f, -24.0f, 24.0f)

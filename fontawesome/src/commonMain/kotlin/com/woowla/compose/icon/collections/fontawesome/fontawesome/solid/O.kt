@@ -26,7 +26,7 @@ public val SolidGroup.O: ImageVector
                 arcToRelative(160.0f, 160.0f, 0.0f, true, false, 0.0f, -320.0f)
                 close()
                 moveTo(448.0f, 256.0f)
-                arcTo(224.0f, 224.0f, 0.0f, true, true, 0.0f, 256.0f)
+                arcToRelative(224.0f, 224.0f, 0.0f, true, true, -448.0f, 0.0f)
                 arcToRelative(224.0f, 224.0f, 0.0f, true, true, 448.0f, 0.0f)
                 close()
             }

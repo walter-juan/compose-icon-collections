@@ -16,8 +16,8 @@ public val SolidGroup.Server: ImageVector
         if (_server != null) {
             return _server!!
         }
-        _server = Builder(name = "Server", defaultWidth = 512.0.dp, defaultHeight = 512.0.dp,
-                viewportWidth = 512.0f, viewportHeight = 512.0f).apply {
+        _server = Builder(name = "Server", defaultWidth = 448.0.dp, defaultHeight = 512.0.dp,
+                viewportWidth = 448.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
@@ -25,17 +25,17 @@ public val SolidGroup.Server: ImageVector
                 curveTo(28.7f, 32.0f, 0.0f, 60.7f, 0.0f, 96.0f)
                 lineToRelative(0.0f, 64.0f)
                 curveToRelative(0.0f, 35.3f, 28.7f, 64.0f, 64.0f, 64.0f)
-                lineToRelative(384.0f, 0.0f)
+                lineToRelative(320.0f, 0.0f)
                 curveToRelative(35.3f, 0.0f, 64.0f, -28.7f, 64.0f, -64.0f)
                 lineToRelative(0.0f, -64.0f)
                 curveToRelative(0.0f, -35.3f, -28.7f, -64.0f, -64.0f, -64.0f)
                 lineTo(64.0f, 32.0f)
                 close()
-                moveTo(344.0f, 104.0f)
+                moveTo(280.0f, 104.0f)
                 arcToRelative(24.0f, 24.0f, 0.0f, true, true, 0.0f, 48.0f)
                 arcToRelative(24.0f, 24.0f, 0.0f, true, true, 0.0f, -48.0f)
                 close()
-                moveTo(392.0f, 128.0f)
+                moveTo(336.0f, 128.0f)
                 arcToRelative(24.0f, 24.0f, 0.0f, true, true, 48.0f, 0.0f)
                 arcToRelative(24.0f, 24.0f, 0.0f, true, true, -48.0f, 0.0f)
                 close()
@@ -43,17 +43,17 @@ public val SolidGroup.Server: ImageVector
                 curveToRelative(-35.3f, 0.0f, -64.0f, 28.7f, -64.0f, 64.0f)
                 lineToRelative(0.0f, 64.0f)
                 curveToRelative(0.0f, 35.3f, 28.7f, 64.0f, 64.0f, 64.0f)
-                lineToRelative(384.0f, 0.0f)
+                lineToRelative(320.0f, 0.0f)
                 curveToRelative(35.3f, 0.0f, 64.0f, -28.7f, 64.0f, -64.0f)
                 lineToRelative(0.0f, -64.0f)
                 curveToRelative(0.0f, -35.3f, -28.7f, -64.0f, -64.0f, -64.0f)
                 lineTo(64.0f, 288.0f)
                 close()
-                moveTo(344.0f, 360.0f)
+                moveTo(280.0f, 360.0f)
                 arcToRelative(24.0f, 24.0f, 0.0f, true, true, 0.0f, 48.0f)
                 arcToRelative(24.0f, 24.0f, 0.0f, true, true, 0.0f, -48.0f)
                 close()
-                moveTo(400.0f, 384.0f)
+                moveTo(336.0f, 384.0f)
                 arcToRelative(24.0f, 24.0f, 0.0f, true, true, 48.0f, 0.0f)
                 arcToRelative(24.0f, 24.0f, 0.0f, true, true, -48.0f, 0.0f)
                 close()

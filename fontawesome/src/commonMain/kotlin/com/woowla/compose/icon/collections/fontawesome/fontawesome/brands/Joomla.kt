@@ -22,7 +22,7 @@ public val BrandsGroup.Joomla: ImageVector
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
                 moveTo(0.6f, 92.1f)
-                curveTo(0.6f, 58.8f, 27.4f, 32.0f, 60.4f, 32.0f)
+                curveToRelative(0.0f, -33.3f, 26.8f, -60.1f, 59.8f, -60.1f)
                 curveToRelative(30.0f, 0.0f, 54.5f, 21.9f, 59.2f, 50.2f)
                 curveToRelative(32.6f, -7.6f, 67.1f, 0.6f, 96.5f, 30.0f)
                 lineToRelative(-44.3f, 44.3f)
@@ -32,7 +32,7 @@ public val BrandsGroup.Joomla: ImageVector
                 lineToRelative(-44.0f, 44.3f)
                 curveToRelative(-87.7f, -87.2f, -49.7f, -49.7f, -99.8f, -99.7f)
                 curveToRelative(-26.8f, -26.5f, -35.0f, -64.8f, -24.8f, -98.9f)
-                curveTo(20.4f, 144.6f, 0.6f, 120.7f, 0.6f, 92.1f)
+                curveToRelative(-26.9f, -5.8f, -46.7f, -29.7f, -46.7f, -58.3f)
                 close()
                 moveTo(130.1f, 208.5f)
                 lineToRelative(44.3f, 44.3f)
@@ -68,7 +68,7 @@ public val BrandsGroup.Joomla: ImageVector
                 lineToRelative(-44.0f, -44.3f)
                 curveToRelative(-30.2f, 30.2f, -38.0f, 65.2f, -29.5f, 98.3f)
                 curveToRelative(-26.7f, 6.0f, -46.2f, 29.9f, -46.2f, 58.2f)
-                curveTo(0.0f, 453.2f, 26.8f, 480.0f, 59.8f, 480.0f)
+                curveToRelative(0.0f, 33.3f, 26.8f, 60.1f, 59.8f, 60.1f)
                 curveToRelative(28.6f, 0.0f, 52.5f, -19.8f, 58.6f, -46.7f)
                 curveToRelative(32.7f, 8.2f, 68.5f, -0.6f, 94.2f, -26.0f)
                 curveToRelative(32.1f, -32.0f, 12.2f, -12.4f, 99.5f, -99.7f)

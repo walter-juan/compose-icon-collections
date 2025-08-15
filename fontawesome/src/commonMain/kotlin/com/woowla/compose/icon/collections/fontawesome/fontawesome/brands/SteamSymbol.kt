@@ -21,11 +21,9 @@ public val BrandsGroup.SteamSymbol: ImageVector
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(395.5f, 177.5f)
-                curveToRelative(0.0f, 33.8f, -27.5f, 61.0f, -61.0f, 61.0f)
-                curveToRelative(-33.8f, 0.0f, -61.0f, -27.3f, -61.0f, -61.0f)
-                reflectiveCurveToRelative(27.3f, -61.0f, 61.0f, -61.0f)
-                curveToRelative(33.5f, 0.0f, 61.0f, 27.2f, 61.0f, 61.0f)
+                moveTo(273.5f, 177.5f)
+                arcToRelative(61.0f, 61.0f, 0.0f, true, true, 122.0f, 0.0f)
+                arcToRelative(61.0f, 61.0f, 0.0f, true, true, -122.0f, 0.0f)
                 close()
                 moveTo(448.0f, 177.7f)
                 curveToRelative(0.0f, 63.0f, -51.0f, 113.8f, -113.7f, 113.8f)
@@ -37,7 +35,7 @@ public val BrandsGroup.SteamSymbol: ImageVector
                 lineTo(97.2f, 290.0f)
                 curveToRelative(15.1f, -9.2f, 32.2f, -13.3f, 52.0f, -11.5f)
                 lineToRelative(71.0f, -101.7f)
-                curveToRelative(0.5f, -62.3f, 51.5f, -112.8f, 114.0f, -112.8f)
+                curveTo(220.7f, 114.5f, 271.7f, 64.0f, 334.2f, 64.0f)
                 curveTo(397.0f, 64.0f, 448.0f, 115.0f, 448.0f, 177.7f)
                 close()
                 moveTo(203.0f, 363.0f)
@@ -51,10 +49,8 @@ public val BrandsGroup.SteamSymbol: ImageVector
                 curveToRelative(34.7f, 0.0f, 62.5f, -27.8f, 62.5f, -62.5f)
                 close()
                 moveTo(410.5f, 177.7f)
-                curveToRelative(0.0f, -42.0f, -34.3f, -76.2f, -76.2f, -76.2f)
-                curveToRelative(-42.3f, 0.0f, -76.5f, 34.2f, -76.5f, 76.2f)
-                curveToRelative(0.0f, 42.2f, 34.3f, 76.2f, 76.5f, 76.2f)
-                curveToRelative(41.9f, 0.1f, 76.2f, -33.9f, 76.2f, -76.2f)
+                arcToRelative(76.4f, 76.4f, 0.0f, true, false, -152.8f, 0.0f)
+                arcToRelative(76.4f, 76.4f, 0.0f, true, false, 152.8f, 0.0f)
                 close()
             }
         }

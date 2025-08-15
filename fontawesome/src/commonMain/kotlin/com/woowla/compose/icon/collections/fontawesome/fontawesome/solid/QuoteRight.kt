@@ -35,9 +35,7 @@ public val SolidGroup.QuoteRight: ImageVector
                 curveToRelative(0.0f, -35.3f, 28.7f, -64.0f, 64.0f, -64.0f)
                 lineToRelative(64.0f, 0.0f)
                 curveToRelative(35.3f, 0.0f, 64.0f, 28.7f, 64.0f, 64.0f)
-                lineToRelative(0.0f, 32.0f)
-                lineToRelative(0.0f, 32.0f)
-                lineToRelative(0.0f, 72.0f)
+                lineToRelative(0.0f, 136.0f)
                 close()
                 moveTo(192.0f, 296.0f)
                 curveToRelative(0.0f, 66.3f, -53.7f, 120.0f, -120.0f, 120.0f)
@@ -53,9 +51,7 @@ public val SolidGroup.QuoteRight: ImageVector
                 curveToRelative(0.0f, -35.3f, 28.7f, -64.0f, 64.0f, -64.0f)
                 lineToRelative(64.0f, 0.0f)
                 curveToRelative(35.3f, 0.0f, 64.0f, 28.7f, 64.0f, 64.0f)
-                lineToRelative(0.0f, 32.0f)
-                lineToRelative(0.0f, 32.0f)
-                lineToRelative(0.0f, 72.0f)
+                lineToRelative(0.0f, 136.0f)
                 close()
             }
         }

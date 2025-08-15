@@ -22,15 +22,15 @@ public val BrandsGroup.YandexInternational: ImageVector
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
                 moveTo(129.5f, 512.0f)
-                verticalLineTo(345.9f)
-                lineTo(18.5f, 48.0f)
-                horizontalLineToRelative(55.8f)
+                lineToRelative(0.0f, -166.1f)
+                lineToRelative(-111.0f, -297.9f)
+                lineToRelative(55.8f, 0.0f)
                 lineToRelative(81.8f, 229.7f)
-                lineTo(250.2f, 0.0f)
-                horizontalLineToRelative(51.3f)
-                lineTo(180.8f, 347.8f)
-                verticalLineTo(512.0f)
-                horizontalLineToRelative(-51.3f)
+                lineToRelative(94.1f, -277.7f)
+                lineToRelative(51.3f, 0.0f)
+                lineToRelative(-120.7f, 347.8f)
+                lineToRelative(0.0f, 164.2f)
+                lineToRelative(-51.3f, 0.0f)
                 close()
             }
         }

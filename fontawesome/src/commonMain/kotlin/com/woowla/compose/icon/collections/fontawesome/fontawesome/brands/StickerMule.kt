@@ -22,7 +22,7 @@ public val BrandsGroup.StickerMule: ImageVector
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
                 moveTo(561.7f, 199.6f)
-                curveToRelative(-1.3f, 0.3f, 0.3f, 0.0f, 0.0f, 0.0f)
+                lineToRelative(0.0f, 0.0f)
                 close()
                 moveTo(555.5f, 122.2f)
                 curveToRelative(-7.7f, -22.3f, -5.1f, -7.2f, -13.4f, -36.9f)

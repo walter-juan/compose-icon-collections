@@ -16,38 +16,38 @@ public val BrandsGroup.Korvue: ImageVector
         if (_korvue != null) {
             return _korvue!!
         }
-        _korvue = Builder(name = "Korvue", defaultWidth = 446.0.dp, defaultHeight = 512.0.dp,
-                viewportWidth = 446.0f, viewportHeight = 512.0f).apply {
+        _korvue = Builder(name = "Korvue", defaultWidth = 448.0.dp, defaultHeight = 512.0.dp,
+                viewportWidth = 448.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(386.5f, 34.0f)
-                horizontalLineToRelative(-327.0f)
-                curveTo(26.8f, 34.0f, 0.0f, 60.8f, 0.0f, 93.5f)
-                verticalLineToRelative(327.1f)
-                curveTo(0.0f, 453.2f, 26.8f, 480.0f, 59.5f, 480.0f)
-                horizontalLineToRelative(327.1f)
+                moveTo(387.6f, 34.0f)
+                lineToRelative(-327.0f, 0.0f)
+                curveTo(27.9f, 34.0f, 1.1f, 60.8f, 1.1f, 93.5f)
+                lineToRelative(0.0f, 327.1f)
+                curveToRelative(0.0f, 32.6f, 26.8f, 59.4f, 59.5f, 59.4f)
+                lineToRelative(327.1f, 0.0f)
                 curveToRelative(33.0f, 0.0f, 59.5f, -26.8f, 59.5f, -59.5f)
-                verticalLineToRelative(-327.0f)
-                curveTo(446.0f, 60.8f, 419.2f, 34.0f, 386.5f, 34.0f)
+                lineToRelative(0.0f, -327.0f)
+                curveTo(447.1f, 60.8f, 420.3f, 34.0f, 387.6f, 34.0f)
                 close()
-                moveTo(87.1f, 120.8f)
-                horizontalLineToRelative(96.0f)
-                verticalLineToRelative(116.0f)
+                moveTo(88.2f, 120.8f)
+                lineToRelative(96.0f, 0.0f)
+                lineToRelative(0.0f, 116.0f)
                 lineToRelative(61.8f, -116.0f)
-                horizontalLineToRelative(110.9f)
+                lineToRelative(110.9f, 0.0f)
                 lineToRelative(-81.2f, 132.0f)
-                lineTo(87.1f, 252.8f)
-                verticalLineToRelative(-132.0f)
+                lineToRelative(-187.5f, 0.0f)
+                lineToRelative(0.0f, -132.0f)
                 close()
-                moveTo(248.9f, 392.9f)
+                moveTo(250.0f, 392.9f)
                 lineToRelative(-65.7f, -113.6f)
-                verticalLineToRelative(113.6f)
-                horizontalLineToRelative(-96.0f)
-                lineTo(87.2f, 262.1f)
-                horizontalLineToRelative(191.5f)
+                lineToRelative(0.0f, 113.6f)
+                lineToRelative(-96.0f, 0.0f)
+                lineToRelative(0.0f, -130.8f)
+                lineToRelative(191.5f, 0.0f)
                 lineToRelative(88.6f, 130.8f)
-                lineTo(248.9f, 392.9f)
+                lineToRelative(-118.4f, 0.0f)
                 close()
             }
         }

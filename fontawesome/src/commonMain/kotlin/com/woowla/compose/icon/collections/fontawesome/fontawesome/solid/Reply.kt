@@ -21,9 +21,9 @@ public val SolidGroup.Reply: ImageVector
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(205.0f, 34.8f)
-                curveToRelative(11.5f, 5.1f, 19.0f, 16.6f, 19.0f, 29.2f)
-                lineToRelative(0.0f, 64.0f)
+                moveTo(204.2f, 18.4f)
+                curveToRelative(12.0f, 5.0f, 19.8f, 16.6f, 19.8f, 29.6f)
+                lineToRelative(0.0f, 80.0f)
                 lineToRelative(112.0f, 0.0f)
                 curveToRelative(97.2f, 0.0f, 176.0f, 78.8f, 176.0f, 176.0f)
                 curveToRelative(0.0f, 113.3f, -81.5f, 163.9f, -100.2f, 174.1f)
@@ -33,14 +33,13 @@ public val SolidGroup.Reply: ImageVector
                 curveToRelative(9.4f, -8.8f, 22.2f, -26.4f, 22.2f, -56.7f)
                 curveToRelative(0.0f, -53.0f, -43.0f, -96.0f, -96.0f, -96.0f)
                 lineToRelative(-96.0f, 0.0f)
-                lineToRelative(0.0f, 64.0f)
-                curveToRelative(0.0f, 12.6f, -7.4f, 24.1f, -19.0f, 29.2f)
-                reflectiveCurveToRelative(-25.0f, 3.0f, -34.4f, -5.4f)
-                lineToRelative(-160.0f, -144.0f)
-                curveTo(3.9f, 225.7f, 0.0f, 217.1f, 0.0f, 208.0f)
-                reflectiveCurveToRelative(3.9f, -17.7f, 10.6f, -23.8f)
-                lineToRelative(160.0f, -144.0f)
-                curveToRelative(9.4f, -8.5f, 22.9f, -10.6f, 34.4f, -5.4f)
+                lineToRelative(0.0f, 80.0f)
+                curveToRelative(0.0f, 12.9f, -7.8f, 24.6f, -19.8f, 29.6f)
+                reflectiveCurveToRelative(-25.7f, 2.2f, -34.9f, -6.9f)
+                lineToRelative(-160.0f, -160.0f)
+                curveToRelative(-12.5f, -12.5f, -12.5f, -32.8f, 0.0f, -45.3f)
+                lineToRelative(160.0f, -160.0f)
+                curveToRelative(9.2f, -9.2f, 22.9f, -11.9f, 34.9f, -6.9f)
                 close()
             }
         }

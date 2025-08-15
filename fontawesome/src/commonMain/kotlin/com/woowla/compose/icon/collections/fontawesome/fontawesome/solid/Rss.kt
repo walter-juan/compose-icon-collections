@@ -22,7 +22,7 @@ public val SolidGroup.Rss: ImageVector
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
                 moveTo(0.0f, 64.0f)
-                curveTo(0.0f, 46.3f, 14.3f, 32.0f, 32.0f, 32.0f)
+                curveToRelative(0.0f, -17.7f, 14.3f, -32.0f, 32.0f, -32.0f)
                 curveToRelative(229.8f, 0.0f, 416.0f, 186.2f, 416.0f, 416.0f)
                 curveToRelative(0.0f, 17.7f, -14.3f, 32.0f, -32.0f, 32.0f)
                 reflectiveCurveToRelative(-32.0f, -14.3f, -32.0f, -32.0f)
@@ -31,7 +31,7 @@ public val SolidGroup.Rss: ImageVector
                 close()
                 moveTo(0.0f, 416.0f)
                 arcToRelative(64.0f, 64.0f, 0.0f, true, true, 128.0f, 0.0f)
-                arcTo(64.0f, 64.0f, 0.0f, true, true, 0.0f, 416.0f)
+                arcToRelative(64.0f, 64.0f, 0.0f, true, true, -128.0f, 0.0f)
                 close()
                 moveTo(32.0f, 160.0f)
                 curveToRelative(159.1f, 0.0f, 288.0f, 128.9f, 288.0f, 288.0f)

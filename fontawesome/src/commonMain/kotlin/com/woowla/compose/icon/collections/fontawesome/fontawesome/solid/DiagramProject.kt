@@ -16,8 +16,8 @@ public val SolidGroup.DiagramProject: ImageVector
         if (_diagramProject != null) {
             return _diagramProject!!
         }
-        _diagramProject = Builder(name = "DiagramProject", defaultWidth = 576.0.dp, defaultHeight =
-                512.0.dp, viewportWidth = 576.0f, viewportHeight = 512.0f).apply {
+        _diagramProject = Builder(name = "DiagramProject", defaultWidth = 512.0.dp, defaultHeight =
+                512.0.dp, viewportWidth = 512.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
@@ -26,7 +26,7 @@ public val SolidGroup.DiagramProject: ImageVector
                 lineToRelative(96.0f, 0.0f)
                 curveToRelative(26.5f, 0.0f, 48.0f, 21.5f, 48.0f, 48.0f)
                 lineToRelative(0.0f, 16.0f)
-                lineToRelative(192.0f, 0.0f)
+                lineToRelative(128.0f, 0.0f)
                 lineToRelative(0.0f, -16.0f)
                 curveToRelative(0.0f, -26.5f, 21.5f, -48.0f, 48.0f, -48.0f)
                 lineToRelative(96.0f, 0.0f)
@@ -36,20 +36,20 @@ public val SolidGroup.DiagramProject: ImageVector
                 lineToRelative(-96.0f, 0.0f)
                 curveToRelative(-26.5f, 0.0f, -48.0f, -21.5f, -48.0f, -48.0f)
                 lineToRelative(0.0f, -16.0f)
-                lineToRelative(-192.0f, 0.0f)
+                lineToRelative(-128.0f, 0.0f)
                 lineToRelative(0.0f, 16.0f)
-                curveToRelative(0.0f, 1.7f, -0.1f, 3.4f, -0.3f, 5.0f)
-                lineTo(272.0f, 288.0f)
-                lineToRelative(96.0f, 0.0f)
+                curveToRelative(0.0f, 7.3f, -1.7f, 14.3f, -4.6f, 20.5f)
+                lineToRelative(68.6f, 91.5f)
+                lineToRelative(80.0f, 0.0f)
                 curveToRelative(26.5f, 0.0f, 48.0f, 21.5f, 48.0f, 48.0f)
                 lineToRelative(0.0f, 96.0f)
                 curveToRelative(0.0f, 26.5f, -21.5f, 48.0f, -48.0f, 48.0f)
                 lineToRelative(-96.0f, 0.0f)
                 curveToRelative(-26.5f, 0.0f, -48.0f, -21.5f, -48.0f, -48.0f)
                 lineToRelative(0.0f, -96.0f)
-                curveToRelative(0.0f, -1.7f, 0.1f, -3.4f, 0.3f, -5.0f)
-                lineTo(144.0f, 224.0f)
-                lineToRelative(-96.0f, 0.0f)
+                curveToRelative(0.0f, -7.3f, 1.7f, -14.3f, 4.6f, -20.5f)
+                lineTo(128.0f, 224.0f)
+                lineTo(48.0f, 224.0f)
                 curveToRelative(-26.5f, 0.0f, -48.0f, -21.5f, -48.0f, -48.0f)
                 lineTo(0.0f, 80.0f)
                 close()

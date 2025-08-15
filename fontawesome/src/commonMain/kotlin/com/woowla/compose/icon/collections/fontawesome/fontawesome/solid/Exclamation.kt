@@ -21,17 +21,19 @@ public val SolidGroup.Exclamation: ImageVector
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(96.0f, 64.0f)
-                curveToRelative(0.0f, -17.7f, -14.3f, -32.0f, -32.0f, -32.0f)
-                reflectiveCurveTo(32.0f, 46.3f, 32.0f, 64.0f)
-                lineToRelative(0.0f, 256.0f)
+                moveTo(96.0f, 32.0f)
+                curveTo(96.0f, 14.3f, 81.7f, 0.0f, 64.0f, 0.0f)
+                reflectiveCurveTo(32.0f, 14.3f, 32.0f, 32.0f)
+                lineToRelative(0.0f, 320.0f)
                 curveToRelative(0.0f, 17.7f, 14.3f, 32.0f, 32.0f, 32.0f)
                 reflectiveCurveToRelative(32.0f, -14.3f, 32.0f, -32.0f)
-                lineTo(96.0f, 64.0f)
+                lineTo(96.0f, 32.0f)
                 close()
-                moveTo(64.0f, 480.0f)
-                arcToRelative(40.0f, 40.0f, 0.0f, true, false, 0.0f, -80.0f)
-                arcToRelative(40.0f, 40.0f, 0.0f, true, false, 0.0f, 80.0f)
+                moveTo(64.0f, 512.0f)
+                curveToRelative(22.1f, 0.0f, 40.0f, -17.9f, 40.0f, -40.0f)
+                reflectiveCurveToRelative(-17.9f, -40.0f, -40.0f, -40.0f)
+                reflectiveCurveToRelative(-40.0f, 17.9f, -40.0f, 40.0f)
+                reflectiveCurveToRelative(17.9f, 40.0f, 40.0f, 40.0f)
                 close()
             }
         }

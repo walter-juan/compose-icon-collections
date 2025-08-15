@@ -28,7 +28,7 @@ public val SolidGroup.ShieldCat: ImageVector
                 curveToRelative(-22.0f, 9.3f, -38.4f, 31.0f, -38.3f, 57.2f)
                 curveToRelative(0.5f, 99.2f, 41.3f, 280.7f, 213.6f, 363.2f)
                 curveToRelative(16.7f, 8.0f, 36.1f, 8.0f, 52.8f, 0.0f)
-                curveTo(454.7f, 420.7f, 495.5f, 239.2f, 496.0f, 140.0f)
+                curveToRelative(172.4f, -82.5f, 213.2f, -264.0f, 213.6f, -363.2f)
                 curveToRelative(0.1f, -26.2f, -16.3f, -47.9f, -38.3f, -57.2f)
                 lineTo(269.4f, 2.9f)
                 close()

@@ -22,18 +22,18 @@ public val BrandsGroup.Mix: ImageVector
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
                 moveTo(0.0f, 64.0f)
-                verticalLineToRelative(348.9f)
+                lineTo(0.0f, 412.9f)
                 curveToRelative(0.0f, 56.2f, 88.0f, 58.1f, 88.0f, 0.0f)
-                verticalLineTo(174.3f)
+                lineToRelative(0.0f, -238.6f)
                 curveToRelative(7.9f, -52.9f, 88.0f, -50.4f, 88.0f, 6.5f)
-                verticalLineToRelative(175.3f)
+                lineToRelative(0.0f, 175.3f)
                 curveToRelative(0.0f, 57.9f, 96.0f, 58.0f, 96.0f, 0.0f)
-                verticalLineTo(240.0f)
+                lineTo(272.0f, 240.0f)
                 curveToRelative(5.3f, -54.7f, 88.0f, -52.5f, 88.0f, 4.3f)
-                verticalLineToRelative(23.8f)
+                lineToRelative(0.0f, 23.8f)
                 curveToRelative(0.0f, 59.9f, 88.0f, 56.6f, 88.0f, 0.0f)
-                verticalLineTo(64.0f)
-                horizontalLineTo(0.0f)
+                lineTo(448.0f, 64.0f)
+                lineTo(0.0f, 64.0f)
                 close()
             }
         }

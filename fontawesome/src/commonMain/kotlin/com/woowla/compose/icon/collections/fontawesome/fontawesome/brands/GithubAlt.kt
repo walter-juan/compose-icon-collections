@@ -16,18 +16,18 @@ public val BrandsGroup.GithubAlt: ImageVector
         if (_githubAlt != null) {
             return _githubAlt!!
         }
-        _githubAlt = Builder(name = "GithubAlt", defaultWidth = 480.0.dp, defaultHeight = 512.0.dp,
-                viewportWidth = 480.0f, viewportHeight = 512.0f).apply {
+        _githubAlt = Builder(name = "GithubAlt", defaultWidth = 512.0.dp, defaultHeight = 512.0.dp,
+                viewportWidth = 512.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(186.1f, 328.7f)
+                moveTo(202.1f, 328.7f)
                 curveToRelative(0.0f, 20.9f, -10.9f, 55.1f, -36.7f, 55.1f)
                 reflectiveCurveToRelative(-36.7f, -34.2f, -36.7f, -55.1f)
                 reflectiveCurveToRelative(10.9f, -55.1f, 36.7f, -55.1f)
                 reflectiveCurveToRelative(36.7f, 34.2f, 36.7f, 55.1f)
                 close()
-                moveTo(480.0f, 278.2f)
+                moveTo(496.0f, 278.2f)
                 curveToRelative(0.0f, 31.9f, -3.2f, 65.7f, -17.5f, 95.0f)
                 curveToRelative(-37.9f, 76.6f, -142.1f, 74.8f, -216.7f, 74.8f)
                 curveToRelative(-75.8f, 0.0f, -186.2f, 2.7f, -225.6f, -74.8f)
@@ -43,7 +43,7 @@ public val BrandsGroup.GithubAlt: ImageVector
                 curveToRelative(0.0f, 16.4f, -2.6f, 32.7f, -7.7f, 48.2f)
                 curveToRelative(27.5f, 32.4f, 39.0f, 72.3f, 39.0f, 114.2f)
                 close()
-                moveTo(415.7f, 328.7f)
+                moveTo(431.7f, 328.7f)
                 curveToRelative(0.0f, -43.9f, -26.7f, -82.6f, -73.5f, -82.6f)
                 curveToRelative(-18.9f, 0.0f, -37.0f, 3.4f, -56.0f, 6.0f)
                 curveToRelative(-14.9f, 2.3f, -29.8f, 3.2f, -45.1f, 3.2f)
@@ -51,10 +51,10 @@ public val BrandsGroup.GithubAlt: ImageVector
                 curveToRelative(-18.7f, -2.6f, -37.0f, -6.0f, -56.0f, -6.0f)
                 curveToRelative(-46.8f, 0.0f, -73.5f, 38.7f, -73.5f, 82.6f)
                 curveToRelative(0.0f, 87.8f, 80.4f, 101.3f, 150.4f, 101.3f)
-                horizontalLineToRelative(48.2f)
+                lineToRelative(48.2f, 0.0f)
                 curveToRelative(70.3f, 0.0f, 150.6f, -13.4f, 150.6f, -101.3f)
                 close()
-                moveTo(333.1f, 273.6f)
+                moveTo(349.1f, 273.6f)
                 curveToRelative(-25.8f, 0.0f, -36.7f, 34.2f, -36.7f, 55.1f)
                 reflectiveCurveToRelative(10.9f, 55.1f, 36.7f, 55.1f)
                 reflectiveCurveToRelative(36.7f, -34.2f, 36.7f, -55.1f)

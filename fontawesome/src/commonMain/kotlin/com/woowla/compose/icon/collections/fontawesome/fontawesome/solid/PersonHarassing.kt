@@ -59,7 +59,7 @@ public val SolidGroup.PersonHarassing: ImageVector
                 lineToRelative(-48.0f, 96.0f)
                 curveToRelative(-7.9f, 15.8f, -1.5f, 35.0f, 14.3f, 42.9f)
                 reflectiveCurveToRelative(35.0f, 1.5f, 42.9f, -14.3f)
-                lineTo(408.8f, 438.0f)
+                lineToRelative(28.1f, -56.3f)
                 lineToRelative(54.7f, 54.7f)
                 curveToRelative(12.4f, 12.4f, 29.1f, 19.3f, 46.6f, 19.3f)
                 curveToRelative(36.4f, 0.0f, 65.9f, -29.5f, 65.9f, -65.9f)

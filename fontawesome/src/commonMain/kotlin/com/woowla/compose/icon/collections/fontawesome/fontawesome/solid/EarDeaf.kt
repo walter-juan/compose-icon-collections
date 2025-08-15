@@ -41,7 +41,7 @@ public val SolidGroup.EarDeaf: ImageVector
                 curveToRelative(-57.6f, 0.0f, -105.1f, 43.6f, -111.3f, 99.5f)
                 curveToRelative(-1.9f, 17.6f, -17.8f, 30.2f, -35.3f, 28.3f)
                 reflectiveCurveToRelative(-30.2f, -17.8f, -28.3f, -35.3f)
-                curveTo(74.8f, 132.5f, 149.4f, 64.0f, 240.0f, 64.0f)
+                curveToRelative(9.7f, -88.0f, 84.3f, -156.5f, 174.9f, -156.5f)
                 curveToRelative(97.2f, 0.0f, 176.0f, 78.8f, 176.0f, 176.0f)
                 curveToRelative(0.0f, 46.0f, -17.7f, 87.9f, -46.6f, 119.3f)
                 curveToRelative(-12.0f, 13.0f, -17.4f, 24.8f, -17.4f, 34.7f)

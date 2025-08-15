@@ -16,30 +16,30 @@ public val SolidGroup.Pause: ImageVector
         if (_pause != null) {
             return _pause!!
         }
-        _pause = Builder(name = "Pause", defaultWidth = 320.0.dp, defaultHeight = 512.0.dp,
-                viewportWidth = 320.0f, viewportHeight = 512.0f).apply {
+        _pause = Builder(name = "Pause", defaultWidth = 384.0.dp, defaultHeight = 512.0.dp,
+                viewportWidth = 384.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(48.0f, 64.0f)
-                curveTo(21.5f, 64.0f, 0.0f, 85.5f, 0.0f, 112.0f)
-                lineTo(0.0f, 400.0f)
+                moveTo(48.0f, 32.0f)
+                curveTo(21.5f, 32.0f, 0.0f, 53.5f, 0.0f, 80.0f)
+                lineTo(0.0f, 432.0f)
                 curveToRelative(0.0f, 26.5f, 21.5f, 48.0f, 48.0f, 48.0f)
-                lineToRelative(32.0f, 0.0f)
+                lineToRelative(64.0f, 0.0f)
                 curveToRelative(26.5f, 0.0f, 48.0f, -21.5f, 48.0f, -48.0f)
-                lineToRelative(0.0f, -288.0f)
+                lineToRelative(0.0f, -352.0f)
                 curveToRelative(0.0f, -26.5f, -21.5f, -48.0f, -48.0f, -48.0f)
-                lineTo(48.0f, 64.0f)
+                lineTo(48.0f, 32.0f)
                 close()
-                moveTo(240.0f, 64.0f)
+                moveTo(272.0f, 32.0f)
                 curveToRelative(-26.5f, 0.0f, -48.0f, 21.5f, -48.0f, 48.0f)
-                lineToRelative(0.0f, 288.0f)
+                lineToRelative(0.0f, 352.0f)
                 curveToRelative(0.0f, 26.5f, 21.5f, 48.0f, 48.0f, 48.0f)
-                lineToRelative(32.0f, 0.0f)
+                lineToRelative(64.0f, 0.0f)
                 curveToRelative(26.5f, 0.0f, 48.0f, -21.5f, 48.0f, -48.0f)
-                lineToRelative(0.0f, -288.0f)
+                lineToRelative(0.0f, -352.0f)
                 curveToRelative(0.0f, -26.5f, -21.5f, -48.0f, -48.0f, -48.0f)
-                lineToRelative(-32.0f, 0.0f)
+                lineToRelative(-64.0f, 0.0f)
                 close()
             }
         }

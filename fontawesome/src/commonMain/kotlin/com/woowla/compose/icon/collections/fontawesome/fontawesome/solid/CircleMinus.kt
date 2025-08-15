@@ -22,14 +22,14 @@ public val SolidGroup.CircleMinus: ImageVector
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
                 moveTo(256.0f, 512.0f)
-                arcTo(256.0f, 256.0f, 0.0f, true, false, 256.0f, 0.0f)
+                arcToRelative(256.0f, 256.0f, 0.0f, true, false, 0.0f, -512.0f)
                 arcToRelative(256.0f, 256.0f, 0.0f, true, false, 0.0f, 512.0f)
                 close()
-                moveTo(184.0f, 232.0f)
-                lineToRelative(144.0f, 0.0f)
+                moveTo(168.0f, 232.0f)
+                lineToRelative(176.0f, 0.0f)
                 curveToRelative(13.3f, 0.0f, 24.0f, 10.7f, 24.0f, 24.0f)
                 reflectiveCurveToRelative(-10.7f, 24.0f, -24.0f, 24.0f)
-                lineToRelative(-144.0f, 0.0f)
+                lineToRelative(-176.0f, 0.0f)
                 curveToRelative(-13.3f, 0.0f, -24.0f, -10.7f, -24.0f, -24.0f)
                 reflectiveCurveToRelative(10.7f, -24.0f, 24.0f, -24.0f)
                 close()

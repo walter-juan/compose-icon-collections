@@ -23,7 +23,7 @@ public val SolidGroup.UniversalAccess: ImageVector
                     pathFillType = NonZero) {
                 moveTo(0.0f, 256.0f)
                 arcToRelative(256.0f, 256.0f, 0.0f, true, true, 512.0f, 0.0f)
-                arcTo(256.0f, 256.0f, 0.0f, true, true, 0.0f, 256.0f)
+                arcToRelative(256.0f, 256.0f, 0.0f, true, true, -512.0f, 0.0f)
                 close()
                 moveTo(161.5f, 169.9f)
                 curveToRelative(-12.2f, -5.2f, -26.3f, 0.4f, -31.5f, 12.6f)
@@ -40,7 +40,7 @@ public val SolidGroup.UniversalAccess: ImageVector
                 reflectiveCurveToRelative(7.6f, 2.6f, 8.8f, 6.4f)
                 lineToRelative(24.4f, 73.2f)
                 curveToRelative(4.2f, 12.6f, 17.8f, 19.4f, 30.4f, 15.2f)
-                reflectiveCurveToRelative(19.4f, -17.8f, 15.2f, -30.4f)
+                reflectiveCurveTo(339.0f, 397.0f, 334.8f, 384.4f)
                 lineToRelative(-28.7f, -86.1f)
                 curveToRelative(-1.4f, -4.1f, -2.1f, -8.3f, -2.1f, -12.6f)
                 lineToRelative(0.0f, -50.1f)

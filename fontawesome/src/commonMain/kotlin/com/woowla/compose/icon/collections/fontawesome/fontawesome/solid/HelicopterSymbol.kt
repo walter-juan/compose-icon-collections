@@ -21,11 +21,11 @@ public val SolidGroup.HelicopterSymbol: ImageVector
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(445.3f, 224.0f)
+                moveTo(445.4f, 224.0f)
                 lineToRelative(64.7f, 0.0f)
                 curveTo(495.6f, 108.2f, 403.8f, 16.4f, 288.0f, 2.0f)
                 lineToRelative(0.0f, 64.7f)
-                curveTo(368.4f, 80.1f, 431.9f, 143.6f, 445.3f, 224.0f)
+                curveTo(368.4f, 80.1f, 431.9f, 143.6f, 445.4f, 224.0f)
                 close()
                 moveTo(510.0f, 288.0f)
                 lineToRelative(-64.7f, 0.0f)
@@ -36,12 +36,12 @@ public val SolidGroup.HelicopterSymbol: ImageVector
                 moveTo(2.0f, 288.0f)
                 curveTo(16.4f, 403.8f, 108.2f, 495.6f, 224.0f, 510.0f)
                 lineToRelative(0.0f, -64.7f)
-                curveTo(143.6f, 431.9f, 80.1f, 368.4f, 66.7f, 288.0f)
+                curveTo(143.6f, 431.9f, 80.2f, 368.4f, 66.7f, 288.0f)
                 lineTo(2.0f, 288.0f)
                 close()
                 moveTo(2.0f, 224.0f)
                 lineToRelative(64.7f, 0.0f)
-                curveTo(80.1f, 143.6f, 143.6f, 80.1f, 224.0f, 66.7f)
+                curveTo(80.2f, 143.6f, 143.6f, 80.1f, 224.0f, 66.7f)
                 lineTo(224.0f, 2.0f)
                 curveTo(108.2f, 16.4f, 16.4f, 108.2f, 2.0f, 224.0f)
                 close()

@@ -21,17 +21,17 @@ public val BrandsGroup.StripeS: ImageVector
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(155.3f, 154.6f)
+                moveTo(155.6f, 154.6f)
                 curveToRelative(0.0f, -22.3f, 18.6f, -30.9f, 48.4f, -30.9f)
                 curveToRelative(43.4f, 0.0f, 98.5f, 13.3f, 141.9f, 36.7f)
-                verticalLineTo(26.1f)
-                curveTo(298.3f, 7.2f, 251.1f, 0.0f, 203.8f, 0.0f)
-                curveTo(88.1f, 0.0f, 11.0f, 60.4f, 11.0f, 161.4f)
+                lineToRelative(0.0f, -134.3f)
+                curveToRelative(-47.3f, -18.9f, -94.5f, -26.1f, -141.8f, -26.1f)
+                curveToRelative(-115.7f, 0.0f, -192.8f, 60.4f, -192.8f, 161.4f)
                 curveToRelative(0.0f, 157.9f, 216.8f, 132.3f, 216.8f, 200.4f)
                 curveToRelative(0.0f, 26.4f, -22.9f, 34.9f, -54.7f, 34.9f)
                 curveToRelative(-47.2f, 0.0f, -108.2f, -19.5f, -156.1f, -45.5f)
-                verticalLineToRelative(128.5f)
-                arcToRelative(396.09f, 396.09f, 0.0f, false, false, 156.0f, 32.4f)
+                lineToRelative(0.0f, 128.5f)
+                curveToRelative(49.3f, 21.3f, 102.3f, 32.3f, 156.0f, 32.4f)
                 curveToRelative(118.6f, 0.0f, 200.3f, -51.0f, 200.3f, -153.6f)
                 curveToRelative(0.0f, -170.2f, -218.0f, -139.7f, -218.0f, -203.9f)
                 close()

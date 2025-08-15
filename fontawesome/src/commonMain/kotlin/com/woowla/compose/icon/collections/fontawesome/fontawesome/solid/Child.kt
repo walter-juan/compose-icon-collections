@@ -22,14 +22,14 @@ public val SolidGroup.Child: ImageVector
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
                 moveTo(96.0f, 64.0f)
-                arcToRelative(64.0f, 64.0f, 0.0f, true, true, 128.0f, 0.0f)
+                arcTo(64.0f, 64.0f, 0.0f, true, true, 224.0f, 64.0f)
                 arcTo(64.0f, 64.0f, 0.0f, true, true, 96.0f, 64.0f)
                 close()
                 moveTo(144.0f, 384.0f)
                 lineToRelative(0.0f, 96.0f)
                 curveToRelative(0.0f, 17.7f, -14.3f, 32.0f, -32.0f, 32.0f)
                 reflectiveCurveToRelative(-32.0f, -14.3f, -32.0f, -32.0f)
-                lineToRelative(0.0f, -192.2f)
+                lineTo(80.0f, 287.8f)
                 lineTo(59.1f, 321.0f)
                 curveToRelative(-9.4f, 15.0f, -29.2f, 19.4f, -44.1f, 10.0f)
                 reflectiveCurveTo(-4.5f, 301.9f, 4.9f, 287.0f)

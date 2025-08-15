@@ -21,21 +21,21 @@ public val SolidGroup.D: ImageVector
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(0.0f, 96.0f)
-                curveTo(0.0f, 60.7f, 28.7f, 32.0f, 64.0f, 32.0f)
-                lineToRelative(96.0f, 0.0f)
+                moveTo(0.0f, 64.0f)
+                curveTo(0.0f, 46.3f, 14.3f, 32.0f, 32.0f, 32.0f)
+                lineToRelative(128.0f, 0.0f)
                 curveToRelative(123.7f, 0.0f, 224.0f, 100.3f, 224.0f, 224.0f)
-                reflectiveCurveToRelative(-100.3f, 224.0f, -224.0f, 224.0f)
-                lineToRelative(-96.0f, 0.0f)
-                curveToRelative(-35.3f, 0.0f, -64.0f, -28.7f, -64.0f, -64.0f)
-                lineTo(0.0f, 96.0f)
+                reflectiveCurveTo(283.7f, 480.0f, 160.0f, 480.0f)
+                lineTo(32.0f, 480.0f)
+                curveToRelative(-17.7f, 0.0f, -32.0f, -14.3f, -32.0f, -32.0f)
+                lineTo(0.0f, 64.0f)
                 close()
-                moveTo(160.0f, 96.0f)
-                lineTo(64.0f, 96.0f)
+                moveTo(64.0f, 96.0f)
                 lineToRelative(0.0f, 320.0f)
                 lineToRelative(96.0f, 0.0f)
                 curveToRelative(88.4f, 0.0f, 160.0f, -71.6f, 160.0f, -160.0f)
-                reflectiveCurveToRelative(-71.6f, -160.0f, -160.0f, -160.0f)
+                reflectiveCurveTo(248.4f, 96.0f, 160.0f, 96.0f)
+                lineTo(64.0f, 96.0f)
                 close()
             }
         }

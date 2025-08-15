@@ -16,14 +16,14 @@ public val SolidGroup.TableList: ImageVector
         if (_tableList != null) {
             return _tableList!!
         }
-        _tableList = Builder(name = "TableList", defaultWidth = 512.0.dp, defaultHeight = 512.0.dp,
-                viewportWidth = 512.0f, viewportHeight = 512.0f).apply {
+        _tableList = Builder(name = "TableList", defaultWidth = 448.0.dp, defaultHeight = 512.0.dp,
+                viewportWidth = 448.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
                 moveTo(0.0f, 96.0f)
                 curveTo(0.0f, 60.7f, 28.7f, 32.0f, 64.0f, 32.0f)
-                lineToRelative(384.0f, 0.0f)
+                lineToRelative(320.0f, 0.0f)
                 curveToRelative(35.3f, 0.0f, 64.0f, 28.7f, 64.0f, 64.0f)
                 lineToRelative(0.0f, 320.0f)
                 curveToRelative(0.0f, 35.3f, -28.7f, 64.0f, -64.0f, 64.0f)
@@ -35,12 +35,12 @@ public val SolidGroup.TableList: ImageVector
                 lineToRelative(0.0f, 64.0f)
                 lineToRelative(64.0f, 0.0f)
                 lineToRelative(0.0f, -64.0f)
-                lineTo(64.0f, 96.0f)
+                lineToRelative(-64.0f, 0.0f)
                 close()
-                moveTo(448.0f, 96.0f)
-                lineTo(192.0f, 96.0f)
+                moveTo(384.0f, 96.0f)
+                lineToRelative(-192.0f, 0.0f)
                 lineToRelative(0.0f, 64.0f)
-                lineToRelative(256.0f, 0.0f)
+                lineToRelative(192.0f, 0.0f)
                 lineToRelative(0.0f, -64.0f)
                 close()
                 moveTo(64.0f, 224.0f)
@@ -49,10 +49,10 @@ public val SolidGroup.TableList: ImageVector
                 lineToRelative(0.0f, -64.0f)
                 lineToRelative(-64.0f, 0.0f)
                 close()
-                moveTo(448.0f, 224.0f)
-                lineToRelative(-256.0f, 0.0f)
+                moveTo(384.0f, 224.0f)
+                lineToRelative(-192.0f, 0.0f)
                 lineToRelative(0.0f, 64.0f)
-                lineToRelative(256.0f, 0.0f)
+                lineToRelative(192.0f, 0.0f)
                 lineToRelative(0.0f, -64.0f)
                 close()
                 moveTo(64.0f, 352.0f)
@@ -61,10 +61,10 @@ public val SolidGroup.TableList: ImageVector
                 lineToRelative(0.0f, -64.0f)
                 lineToRelative(-64.0f, 0.0f)
                 close()
-                moveTo(448.0f, 352.0f)
-                lineToRelative(-256.0f, 0.0f)
+                moveTo(384.0f, 352.0f)
+                lineToRelative(-192.0f, 0.0f)
                 lineToRelative(0.0f, 64.0f)
-                lineToRelative(256.0f, 0.0f)
+                lineToRelative(192.0f, 0.0f)
                 lineToRelative(0.0f, -64.0f)
                 close()
             }

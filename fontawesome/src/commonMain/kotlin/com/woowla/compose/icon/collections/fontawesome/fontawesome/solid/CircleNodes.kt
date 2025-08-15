@@ -27,7 +27,7 @@ public val SolidGroup.CircleNodes: ImageVector
                 curveToRelative(-43.4f, 0.0f, -78.7f, 34.5f, -80.0f, 77.5f)
                 lineTo(136.2f, 151.1f)
                 curveTo(121.7f, 136.8f, 101.9f, 128.0f, 80.0f, 128.0f)
-                curveToRelative(-44.2f, 0.0f, -80.0f, 35.8f, -80.0f, 80.0f)
+                curveTo(35.8f, 128.0f, 0.0f, 163.8f, 0.0f, 208.0f)
                 reflectiveCurveToRelative(35.8f, 80.0f, 80.0f, 80.0f)
                 curveToRelative(12.2f, 0.0f, 23.8f, -2.7f, 34.1f, -7.6f)
                 lineTo(259.7f, 407.8f)

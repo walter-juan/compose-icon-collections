@@ -38,7 +38,7 @@ public val SolidGroup.ArrowUpFromBracket: ImageVector
                 close()
                 moveTo(64.0f, 352.0f)
                 curveToRelative(0.0f, -17.7f, -14.3f, -32.0f, -32.0f, -32.0f)
-                reflectiveCurveToRelative(-32.0f, 14.3f, -32.0f, 32.0f)
+                reflectiveCurveTo(0.0f, 334.3f, 0.0f, 352.0f)
                 lineToRelative(0.0f, 64.0f)
                 curveToRelative(0.0f, 53.0f, 43.0f, 96.0f, 96.0f, 96.0f)
                 lineToRelative(256.0f, 0.0f)

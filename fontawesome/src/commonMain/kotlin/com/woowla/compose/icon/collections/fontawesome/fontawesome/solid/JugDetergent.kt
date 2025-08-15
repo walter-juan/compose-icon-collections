@@ -31,7 +31,7 @@ public val SolidGroup.JugDetergent: ImageVector
                 reflectiveCurveToRelative(-10.7f, 24.0f, -24.0f, 24.0f)
                 lineTo(88.0f, 96.0f)
                 curveTo(74.7f, 96.0f, 64.0f, 85.3f, 64.0f, 72.0f)
-                reflectiveCurveToRelative(10.7f, -24.0f, 24.0f, -24.0f)
+                reflectiveCurveTo(74.7f, 48.0f, 88.0f, 48.0f)
                 lineToRelative(8.0f, 0.0f)
                 lineToRelative(0.0f, -24.0f)
                 close()

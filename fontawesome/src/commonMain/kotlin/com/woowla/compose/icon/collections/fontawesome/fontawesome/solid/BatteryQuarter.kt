@@ -16,40 +16,44 @@ public val SolidGroup.BatteryQuarter: ImageVector
         if (_batteryQuarter != null) {
             return _batteryQuarter!!
         }
-        _batteryQuarter = Builder(name = "BatteryQuarter", defaultWidth = 576.0.dp, defaultHeight =
-                512.0.dp, viewportWidth = 576.0f, viewportHeight = 512.0f).apply {
+        _batteryQuarter = Builder(name = "BatteryQuarter", defaultWidth = 640.0.dp, defaultHeight =
+                512.0.dp, viewportWidth = 640.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(464.0f, 160.0f)
+                moveTo(528.0f, 128.0f)
                 curveToRelative(8.8f, 0.0f, 16.0f, 7.2f, 16.0f, 16.0f)
-                lineToRelative(0.0f, 160.0f)
+                lineToRelative(0.0f, 224.0f)
                 curveToRelative(0.0f, 8.8f, -7.2f, 16.0f, -16.0f, 16.0f)
-                lineTo(80.0f, 352.0f)
+                lineToRelative(-416.0f, 0.0f)
                 curveToRelative(-8.8f, 0.0f, -16.0f, -7.2f, -16.0f, -16.0f)
-                lineToRelative(0.0f, -160.0f)
+                lineToRelative(0.0f, -224.0f)
                 curveToRelative(0.0f, -8.8f, 7.2f, -16.0f, 16.0f, -16.0f)
-                lineToRelative(384.0f, 0.0f)
+                lineToRelative(416.0f, 0.0f)
                 close()
-                moveTo(80.0f, 96.0f)
-                curveTo(35.8f, 96.0f, 0.0f, 131.8f, 0.0f, 176.0f)
-                lineTo(0.0f, 336.0f)
+                moveTo(112.0f, 64.0f)
+                curveToRelative(-44.2f, 0.0f, -80.0f, 35.8f, -80.0f, 80.0f)
+                lineToRelative(0.0f, 224.0f)
                 curveToRelative(0.0f, 44.2f, 35.8f, 80.0f, 80.0f, 80.0f)
-                lineToRelative(384.0f, 0.0f)
+                lineToRelative(416.0f, 0.0f)
                 curveToRelative(44.2f, 0.0f, 80.0f, -35.8f, 80.0f, -80.0f)
-                lineToRelative(0.0f, -16.0f)
+                lineToRelative(0.0f, -48.0f)
                 curveToRelative(17.7f, 0.0f, 32.0f, -14.3f, 32.0f, -32.0f)
                 lineToRelative(0.0f, -64.0f)
                 curveToRelative(0.0f, -17.7f, -14.3f, -32.0f, -32.0f, -32.0f)
-                lineToRelative(0.0f, -16.0f)
+                lineToRelative(0.0f, -48.0f)
                 curveToRelative(0.0f, -44.2f, -35.8f, -80.0f, -80.0f, -80.0f)
-                lineTo(80.0f, 96.0f)
+                lineTo(112.0f, 64.0f)
                 close()
-                moveTo(192.0f, 192.0f)
-                lineToRelative(-96.0f, 0.0f)
-                lineToRelative(0.0f, 128.0f)
-                lineToRelative(96.0f, 0.0f)
-                lineToRelative(0.0f, -128.0f)
+                moveTo(168.0f, 176.0f)
+                curveToRelative(-13.3f, 0.0f, -24.0f, 10.7f, -24.0f, 24.0f)
+                lineToRelative(0.0f, 112.0f)
+                curveToRelative(0.0f, 13.3f, 10.7f, 24.0f, 24.0f, 24.0f)
+                lineToRelative(64.0f, 0.0f)
+                curveToRelative(13.3f, 0.0f, 24.0f, -10.7f, 24.0f, -24.0f)
+                lineToRelative(0.0f, -112.0f)
+                curveToRelative(0.0f, -13.3f, -10.7f, -24.0f, -24.0f, -24.0f)
+                lineToRelative(-64.0f, 0.0f)
                 close()
             }
         }

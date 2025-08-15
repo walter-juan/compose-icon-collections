@@ -21,15 +21,19 @@ public val SolidGroup.Diamond: ImageVector
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(284.3f, 11.7f)
-                curveToRelative(-15.6f, -15.6f, -40.9f, -15.6f, -56.6f, 0.0f)
-                lineToRelative(-216.0f, 216.0f)
-                curveToRelative(-15.6f, 15.6f, -15.6f, 40.9f, 0.0f, 56.6f)
-                lineToRelative(216.0f, 216.0f)
-                curveToRelative(15.6f, 15.6f, 40.9f, 15.6f, 56.6f, 0.0f)
-                lineToRelative(216.0f, -216.0f)
-                curveToRelative(15.6f, -15.6f, 15.6f, -40.9f, 0.0f, -56.6f)
-                lineToRelative(-216.0f, -216.0f)
+                moveTo(17.0f, 215.0f)
+                lineTo(215.0f, 17.0f)
+                curveTo(225.9f, 6.1f, 240.6f, 0.0f, 256.0f, 0.0f)
+                reflectiveCurveToRelative(30.1f, 6.1f, 41.0f, 17.0f)
+                lineTo(495.0f, 215.0f)
+                curveToRelative(10.9f, 10.9f, 17.0f, 25.6f, 17.0f, 41.0f)
+                reflectiveCurveToRelative(-6.1f, 30.1f, -17.0f, 41.0f)
+                lineTo(297.0f, 495.0f)
+                curveToRelative(-10.9f, 10.9f, -25.6f, 17.0f, -41.0f, 17.0f)
+                reflectiveCurveToRelative(-30.1f, -6.1f, -41.0f, -17.0f)
+                lineTo(17.0f, 297.0f)
+                curveTo(6.1f, 286.1f, 0.0f, 271.4f, 0.0f, 256.0f)
+                reflectiveCurveToRelative(6.1f, -30.1f, 17.0f, -41.0f)
                 close()
             }
         }

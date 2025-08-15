@@ -23,7 +23,7 @@ public val SolidGroup.Ghost: ImageVector
                     pathFillType = NonZero) {
                 moveTo(40.1f, 467.1f)
                 lineToRelative(-11.2f, 9.0f)
-                curveToRelative(-3.2f, 2.5f, -7.1f, 3.9f, -11.1f, 3.9f)
+                curveTo(25.7f, 478.6f, 21.8f, 480.0f, 17.8f, 480.0f)
                 curveTo(8.0f, 480.0f, 0.0f, 472.0f, 0.0f, 462.2f)
                 lineTo(0.0f, 192.0f)
                 curveTo(0.0f, 86.0f, 86.0f, 0.0f, 192.0f, 0.0f)

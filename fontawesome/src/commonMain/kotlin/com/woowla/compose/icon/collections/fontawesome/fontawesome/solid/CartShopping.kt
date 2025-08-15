@@ -16,39 +16,40 @@ public val SolidGroup.CartShopping: ImageVector
         if (_cartShopping != null) {
             return _cartShopping!!
         }
-        _cartShopping = Builder(name = "CartShopping", defaultWidth = 576.0.dp, defaultHeight =
-                512.0.dp, viewportWidth = 576.0f, viewportHeight = 512.0f).apply {
+        _cartShopping = Builder(name = "CartShopping", defaultWidth = 640.0.dp, defaultHeight =
+                512.0.dp, viewportWidth = 640.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(0.0f, 24.0f)
-                curveTo(0.0f, 10.7f, 10.7f, 0.0f, 24.0f, 0.0f)
-                lineTo(69.5f, 0.0f)
-                curveToRelative(22.0f, 0.0f, 41.5f, 12.8f, 50.6f, 32.0f)
-                lineToRelative(411.0f, 0.0f)
-                curveToRelative(26.3f, 0.0f, 45.5f, 25.0f, 38.6f, 50.4f)
-                lineToRelative(-41.0f, 152.3f)
-                curveToRelative(-8.5f, 31.4f, -37.0f, 53.3f, -69.5f, 53.3f)
-                lineToRelative(-288.5f, 0.0f)
-                lineToRelative(5.4f, 28.5f)
-                curveToRelative(2.2f, 11.3f, 12.1f, 19.5f, 23.6f, 19.5f)
-                lineTo(488.0f, 336.0f)
-                curveToRelative(13.3f, 0.0f, 24.0f, 10.7f, 24.0f, 24.0f)
-                reflectiveCurveToRelative(-10.7f, 24.0f, -24.0f, 24.0f)
-                lineToRelative(-288.3f, 0.0f)
-                curveToRelative(-34.6f, 0.0f, -64.3f, -24.6f, -70.7f, -58.5f)
-                lineTo(77.4f, 54.5f)
-                curveToRelative(-0.7f, -3.8f, -4.0f, -6.5f, -7.9f, -6.5f)
-                lineTo(24.0f, 48.0f)
-                curveTo(10.7f, 48.0f, 0.0f, 37.3f, 0.0f, 24.0f)
+                moveTo(24.0f, -16.0f)
+                curveTo(10.7f, -16.0f, 0.0f, -5.3f, 0.0f, 8.0f)
+                reflectiveCurveTo(10.7f, 32.0f, 24.0f, 32.0f)
+                lineToRelative(45.3f, 0.0f)
+                curveToRelative(3.9f, 0.0f, 7.2f, 2.8f, 7.9f, 6.6f)
+                lineToRelative(52.1f, 286.3f)
+                curveToRelative(6.2f, 34.2f, 36.0f, 59.1f, 70.8f, 59.1f)
+                lineTo(456.0f, 384.0f)
+                curveToRelative(13.3f, 0.0f, 24.0f, -10.7f, 24.0f, -24.0f)
+                reflectiveCurveToRelative(-10.7f, -24.0f, -24.0f, -24.0f)
+                lineToRelative(-255.9f, 0.0f)
+                curveToRelative(-11.6f, 0.0f, -21.5f, -8.3f, -23.6f, -19.7f)
+                lineToRelative(-5.1f, -28.3f)
+                lineToRelative(303.6f, 0.0f)
+                curveToRelative(30.8f, 0.0f, 57.2f, -21.9f, 62.9f, -52.2f)
+                lineTo(568.9f, 69.9f)
+                curveTo(572.6f, 50.2f, 557.5f, 32.0f, 537.4f, 32.0f)
+                lineToRelative(-412.7f, 0.0f)
+                lineToRelative(-0.4f, -2.0f)
+                curveToRelative(-4.8f, -26.6f, -28.0f, -46.0f, -55.1f, -46.0f)
+                lineTo(24.0f, -16.0f)
                 close()
-                moveTo(128.0f, 464.0f)
-                arcToRelative(48.0f, 48.0f, 0.0f, true, true, 96.0f, 0.0f)
-                arcToRelative(48.0f, 48.0f, 0.0f, true, true, -96.0f, 0.0f)
+                moveTo(208.0f, 512.0f)
+                arcToRelative(48.0f, 48.0f, 0.0f, true, false, 0.0f, -96.0f)
+                arcToRelative(48.0f, 48.0f, 0.0f, true, false, 0.0f, 96.0f)
                 close()
-                moveTo(464.0f, 416.0f)
-                arcToRelative(48.0f, 48.0f, 0.0f, true, true, 0.0f, 96.0f)
-                arcToRelative(48.0f, 48.0f, 0.0f, true, true, 0.0f, -96.0f)
+                moveTo(432.0f, 512.0f)
+                arcToRelative(48.0f, 48.0f, 0.0f, true, false, 0.0f, -96.0f)
+                arcToRelative(48.0f, 48.0f, 0.0f, true, false, 0.0f, 96.0f)
                 close()
             }
         }

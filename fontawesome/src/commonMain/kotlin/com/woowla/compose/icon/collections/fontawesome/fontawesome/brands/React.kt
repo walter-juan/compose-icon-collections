@@ -32,7 +32,7 @@ public val BrandsGroup.React: ImageVector
                 curveToRelative(-26.2f, 15.2f, -34.0f, 60.3f, -23.0f, 116.7f)
                 curveToRelative(1.1f, 5.6f, 2.3f, 11.1f, 3.7f, 16.7f)
                 curveToRelative(-6.4f, 1.8f, -12.7f, 3.8f, -18.6f, 5.9f)
-                curveTo(38.3f, 196.2f, 0.0f, 225.4f, 0.0f, 255.6f)
+                curveToRelative(-53.4f, 18.5f, -91.7f, 47.7f, -91.7f, 77.9f)
                 curveToRelative(0.0f, 31.2f, 40.8f, 62.5f, 96.3f, 81.5f)
                 curveToRelative(4.5f, 1.5f, 9.0f, 3.0f, 13.6f, 4.3f)
                 curveToRelative(-1.5f, 6.0f, -2.8f, 11.9f, -4.0f, 18.0f)
@@ -148,10 +148,8 @@ public val BrandsGroup.React: ImageVector
                 curveToRelative(0.0f, 19.6f, -34.9f, 44.9f, -84.8f, 61.4f)
                 close()
                 moveTo(256.0f, 301.8f)
-                curveToRelative(25.3f, 0.0f, 45.8f, -20.5f, 45.8f, -45.8f)
-                reflectiveCurveToRelative(-20.5f, -45.8f, -45.8f, -45.8f)
-                curveToRelative(-25.3f, 0.0f, -45.8f, 20.5f, -45.8f, 45.8f)
-                reflectiveCurveToRelative(20.5f, 45.8f, 45.8f, 45.8f)
+                arcToRelative(45.8f, 45.8f, 0.0f, true, false, 0.0f, -91.6f)
+                arcToRelative(45.8f, 45.8f, 0.0f, true, false, 0.0f, 91.6f)
                 close()
             }
         }

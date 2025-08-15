@@ -22,10 +22,10 @@ public val SolidGroup.CircleExclamation: ImageVector
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
                 moveTo(256.0f, 512.0f)
-                arcTo(256.0f, 256.0f, 0.0f, true, false, 256.0f, 0.0f)
+                arcToRelative(256.0f, 256.0f, 0.0f, true, false, 0.0f, -512.0f)
                 arcToRelative(256.0f, 256.0f, 0.0f, true, false, 0.0f, 512.0f)
                 close()
-                moveTo(256.0f, 128.0f)
+                moveTo(256.0f, 136.0f)
                 curveToRelative(13.3f, 0.0f, 24.0f, 10.7f, 24.0f, 24.0f)
                 lineToRelative(0.0f, 112.0f)
                 curveToRelative(0.0f, 13.3f, -10.7f, 24.0f, -24.0f, 24.0f)
@@ -33,9 +33,9 @@ public val SolidGroup.CircleExclamation: ImageVector
                 lineToRelative(0.0f, -112.0f)
                 curveToRelative(0.0f, -13.3f, 10.7f, -24.0f, 24.0f, -24.0f)
                 close()
-                moveTo(224.0f, 352.0f)
-                arcToRelative(32.0f, 32.0f, 0.0f, true, true, 64.0f, 0.0f)
-                arcToRelative(32.0f, 32.0f, 0.0f, true, true, -64.0f, 0.0f)
+                moveTo(229.3f, 352.0f)
+                arcToRelative(26.7f, 26.7f, 0.0f, true, true, 53.3f, 0.0f)
+                arcToRelative(26.7f, 26.7f, 0.0f, true, true, -53.3f, 0.0f)
                 close()
             }
         }

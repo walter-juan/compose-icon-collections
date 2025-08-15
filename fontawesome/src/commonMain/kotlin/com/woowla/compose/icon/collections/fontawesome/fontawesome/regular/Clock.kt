@@ -22,12 +22,12 @@ public val RegularGroup.Clock: ImageVector
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
                 moveTo(464.0f, 256.0f)
-                arcTo(208.0f, 208.0f, 0.0f, true, true, 48.0f, 256.0f)
+                arcToRelative(208.0f, 208.0f, 0.0f, true, true, -416.0f, 0.0f)
                 arcToRelative(208.0f, 208.0f, 0.0f, true, true, 416.0f, 0.0f)
                 close()
                 moveTo(0.0f, 256.0f)
                 arcToRelative(256.0f, 256.0f, 0.0f, true, false, 512.0f, 0.0f)
-                arcTo(256.0f, 256.0f, 0.0f, true, false, 0.0f, 256.0f)
+                arcToRelative(256.0f, 256.0f, 0.0f, true, false, -512.0f, 0.0f)
                 close()
                 moveTo(232.0f, 120.0f)
                 lineToRelative(0.0f, 136.0f)

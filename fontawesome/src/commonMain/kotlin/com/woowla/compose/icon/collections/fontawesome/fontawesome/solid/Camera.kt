@@ -32,7 +32,7 @@ public val SolidGroup.Camera: ImageVector
                 lineToRelative(0.0f, -256.0f)
                 curveToRelative(0.0f, -35.3f, -28.7f, -64.0f, -64.0f, -64.0f)
                 lineToRelative(-74.7f, 0.0f)
-                lineTo(362.9f, 64.8f)
+                lineToRelative(-10.4f, -31.2f)
                 curveTo(356.4f, 45.2f, 338.1f, 32.0f, 317.4f, 32.0f)
                 lineTo(194.6f, 32.0f)
                 curveToRelative(-20.7f, 0.0f, -39.0f, 13.2f, -45.5f, 32.8f)

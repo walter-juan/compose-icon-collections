@@ -31,7 +31,7 @@ public val BrandsGroup.Skyatlas: ImageVector
                 curveToRelative(0.0f, 7.8f, -13.1f, 19.1f, -18.7f, 24.1f)
                 curveToRelative(-40.9f, 35.6f, -100.3f, 61.2f, -154.7f, 61.2f)
                 curveToRelative(-83.4f, 0.1f, -154.0f, -59.0f, -154.0f, -144.9f)
-                reflectiveCurveToRelative(67.5f, -149.1f, 152.8f, -149.1f)
+                reflectiveCurveTo(67.5f, 149.6f, 152.8f, 149.6f)
                 curveToRelative(185.3f, 0.0f, 222.5f, 245.9f, 361.9f, 245.9f)
                 curveToRelative(99.9f, 0.0f, 94.8f, -139.7f, 3.4f, -139.7f)
                 curveToRelative(-17.5f, 0.0f, -35.0f, 11.6f, -46.9f, 11.6f)

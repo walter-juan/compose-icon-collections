@@ -16,8 +16,8 @@ public val SolidGroup.Pallet: ImageVector
         if (_pallet != null) {
             return _pallet!!
         }
-        _pallet = Builder(name = "Pallet", defaultWidth = 640.0.dp, defaultHeight = 512.0.dp,
-                viewportWidth = 640.0f, viewportHeight = 512.0f).apply {
+        _pallet = Builder(name = "Pallet", defaultWidth = 576.0.dp, defaultHeight = 512.0.dp,
+                viewportWidth = 576.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
@@ -29,10 +29,7 @@ public val SolidGroup.Pallet: ImageVector
                 lineToRelative(-32.0f, 0.0f)
                 curveToRelative(-17.7f, 0.0f, -32.0f, 14.3f, -32.0f, 32.0f)
                 reflectiveCurveToRelative(14.3f, 32.0f, 32.0f, 32.0f)
-                lineToRelative(64.0f, 0.0f)
-                lineToRelative(224.0f, 0.0f)
-                lineToRelative(224.0f, 0.0f)
-                lineToRelative(64.0f, 0.0f)
+                lineToRelative(512.0f, 0.0f)
                 curveToRelative(17.7f, 0.0f, 32.0f, -14.3f, 32.0f, -32.0f)
                 reflectiveCurveToRelative(-14.3f, -32.0f, -32.0f, -32.0f)
                 lineToRelative(-32.0f, 0.0f)
@@ -40,21 +37,18 @@ public val SolidGroup.Pallet: ImageVector
                 lineToRelative(32.0f, 0.0f)
                 curveToRelative(17.7f, 0.0f, 32.0f, -14.3f, 32.0f, -32.0f)
                 reflectiveCurveToRelative(-14.3f, -32.0f, -32.0f, -32.0f)
-                lineToRelative(-64.0f, 0.0f)
-                lineToRelative(-224.0f, 0.0f)
-                lineTo(96.0f, 320.0f)
-                lineToRelative(-64.0f, 0.0f)
+                lineTo(32.0f, 320.0f)
                 close()
                 moveTo(128.0f, 384.0f)
-                lineToRelative(160.0f, 0.0f)
+                lineToRelative(128.0f, 0.0f)
                 lineToRelative(0.0f, 64.0f)
-                lineToRelative(-160.0f, 0.0f)
+                lineToRelative(-128.0f, 0.0f)
                 lineToRelative(0.0f, -64.0f)
                 close()
-                moveTo(352.0f, 384.0f)
-                lineToRelative(160.0f, 0.0f)
+                moveTo(320.0f, 384.0f)
+                lineToRelative(128.0f, 0.0f)
                 lineToRelative(0.0f, 64.0f)
-                lineToRelative(-160.0f, 0.0f)
+                lineToRelative(-128.0f, 0.0f)
                 lineToRelative(0.0f, -64.0f)
                 close()
             }

@@ -34,7 +34,7 @@ public val SolidGroup.UpRightAndDownLeftFromCenter: ImageVector
                 lineToRelative(-32.0f, -32.0f)
                 curveToRelative(-9.4f, -9.4f, -9.4f, -24.6f, 0.0f, -33.9f)
                 lineToRelative(87.0f, -87.0f)
-                lineTo(327.0f, 41.0f)
+                lineToRelative(-39.0f, -39.0f)
                 curveToRelative(-6.9f, -6.9f, -8.9f, -17.2f, -5.2f, -26.2f)
                 reflectiveCurveTo(334.3f, 0.0f, 344.0f, 0.0f)
                 close()
@@ -43,7 +43,7 @@ public val SolidGroup.UpRightAndDownLeftFromCenter: ImageVector
                 curveToRelative(-13.3f, 0.0f, -24.0f, -10.7f, -24.0f, -24.0f)
                 lineTo(0.0f, 344.0f)
                 curveToRelative(0.0f, -9.7f, 5.8f, -18.5f, 14.8f, -22.2f)
-                reflectiveCurveToRelative(19.3f, -1.7f, 26.2f, 5.2f)
+                reflectiveCurveTo(34.1f, 320.2f, 41.0f, 327.0f)
                 lineToRelative(39.0f, 39.0f)
                 lineToRelative(87.0f, -87.0f)
                 curveToRelative(9.4f, -9.4f, 24.6f, -9.4f, 33.9f, 0.0f)
@@ -52,7 +52,7 @@ public val SolidGroup.UpRightAndDownLeftFromCenter: ImageVector
                 lineToRelative(-87.0f, 87.0f)
                 lineToRelative(39.0f, 39.0f)
                 curveToRelative(6.9f, 6.9f, 8.9f, 17.2f, 5.2f, 26.2f)
-                reflectiveCurveToRelative(-12.5f, 14.8f, -22.2f, 14.8f)
+                reflectiveCurveTo(177.7f, 512.0f, 168.0f, 512.0f)
                 close()
             }
         }

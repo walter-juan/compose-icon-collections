@@ -16,38 +16,42 @@ public val BrandsGroup.Fulcrum: ImageVector
         if (_fulcrum != null) {
             return _fulcrum!!
         }
-        _fulcrum = Builder(name = "Fulcrum", defaultWidth = 320.0.dp, defaultHeight = 512.0.dp,
-                viewportWidth = 320.0f, viewportHeight = 512.0f).apply {
+        _fulcrum = Builder(name = "Fulcrum", defaultWidth = 256.0.dp, defaultHeight = 512.0.dp,
+                viewportWidth = 256.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(95.75f, 164.14f)
-                lineToRelative(-35.38f, 43.55f)
-                lineTo(25.0f, 164.14f)
-                lineToRelative(35.38f, -43.55f)
+                moveTo(63.8f, 164.1f)
+                lineTo(28.4f, 207.7f)
+                lineTo(-7.0f, 164.1f)
+                lineTo(28.4f, 120.6f)
+                lineTo(63.8f, 164.1f)
                 close()
-                moveTo(144.23f, 0.0f)
-                lineToRelative(-20.54f, 198.18f)
-                lineTo(72.72f, 256.0f)
-                lineToRelative(51.0f, 57.82f)
-                lineTo(144.23f, 512.0f)
-                lineTo(144.23f, 300.89f)
-                lineTo(103.15f, 256.0f)
-                lineToRelative(41.08f, -44.89f)
+                moveTo(112.2f, 0.0f)
+                lineToRelative(-20.5f, 198.2f)
+                lineToRelative(-51.0f, 57.8f)
+                lineToRelative(51.0f, 57.8f)
+                lineToRelative(20.5f, 198.2f)
+                lineToRelative(0.0f, -211.1f)
+                lineToRelative(-41.1f, -44.9f)
+                lineToRelative(41.1f, -44.9f)
+                lineToRelative(0.0f, -211.1f)
                 close()
-                moveTo(223.9f, 164.14f)
-                lineToRelative(35.38f, 43.55f)
-                lineToRelative(35.38f, -43.55f)
-                lineToRelative(-35.38f, -43.55f)
+                moveTo(191.9f, 164.1f)
+                lineToRelative(35.4f, 43.6f)
+                lineToRelative(35.4f, -43.6f)
+                lineToRelative(-35.4f, -43.5f)
+                lineToRelative(-35.4f, 43.5f)
                 close()
-                moveTo(175.42f, 211.14f)
-                lineTo(216.5f, 256.0f)
-                lineToRelative(-41.08f, 44.89f)
-                lineTo(175.42f, 512.0f)
-                lineTo(196.0f, 313.82f)
-                lineTo(247.0f, 256.0f)
-                lineToRelative(-51.0f, -57.82f)
-                lineTo(175.42f, 0.0f)
+                moveTo(143.4f, 211.1f)
+                lineToRelative(41.1f, 44.9f)
+                lineToRelative(-41.1f, 44.9f)
+                lineToRelative(0.0f, 211.1f)
+                lineToRelative(20.6f, -198.2f)
+                lineToRelative(51.0f, -57.8f)
+                lineToRelative(-51.0f, -57.8f)
+                lineToRelative(-20.6f, -198.2f)
+                lineToRelative(0.0f, 211.1f)
                 close()
             }
         }
