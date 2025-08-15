@@ -36,14 +36,14 @@ public val SharpGroup.VolumeMedium: ImageVector
                 close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 32.0f, strokeLineCap = StrokeCap.Square, strokeLineJoin = Round,
+                    strokeLineWidth = 32.0f, strokeLineCap = Square, strokeLineJoin = Round,
                     strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(352.0f, 320.0f)
                 curveToRelative(9.74f, -19.41f, 16.0f, -40.81f, 16.0f, -64.0f)
                 curveToRelative(0.0f, -23.51f, -6.0f, -44.4f, -16.0f, -64.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 32.0f, strokeLineCap = StrokeCap.Square, strokeLineJoin = Round,
+                    strokeLineWidth = 32.0f, strokeLineCap = Square, strokeLineJoin = Round,
                     strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(400.0f, 368.0f)
                 curveToRelative(19.48f, -34.0f, 32.0f, -64.0f, 32.0f, -112.0f)

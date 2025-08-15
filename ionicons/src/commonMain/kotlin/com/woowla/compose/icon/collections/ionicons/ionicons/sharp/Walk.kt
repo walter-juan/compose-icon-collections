@@ -24,7 +24,7 @@ public val SharpGroup.Walk: ImageVector
         _walk = Builder(name = "Walk", defaultWidth = 512.0.dp, defaultHeight = 512.0.dp,
                 viewportWidth = 512.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 32.0f, strokeLineCap = StrokeCap.Square, strokeLineJoin = Round,
+                    strokeLineWidth = 32.0f, strokeLineCap = Square, strokeLineJoin = Round,
                     strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(315.09f, 481.38f)
                 lineTo(258.14f, 366.26f)
@@ -36,7 +36,7 @@ public val SharpGroup.Walk: ImageVector
                 verticalLineTo(344.84f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 32.0f, strokeLineCap = StrokeCap.Square, strokeLineJoin = Round,
+                    strokeLineWidth = 32.0f, strokeLineCap = Square, strokeLineJoin = Round,
                     strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(128.18f, 291.5f)
                 lineToRelative(0.0f, -74.77f)
@@ -63,7 +63,7 @@ public val SharpGroup.Walk: ImageVector
                 close()
             }
             path(fill = SolidColor(Color(0xFF000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 16.0f, strokeLineCap = StrokeCap.Square, strokeLineJoin = Round,
+                    strokeLineWidth = 16.0f, strokeLineCap = Square, strokeLineJoin = Round,
                     strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(259.02f, 67.21f)
                 moveToRelative(-37.38f, 0.0f)

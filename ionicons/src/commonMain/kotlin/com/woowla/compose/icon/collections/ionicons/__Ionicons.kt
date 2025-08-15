@@ -16,6 +16,6 @@ public val Ionicons.AllIcons: ____KtList<ImageVector>
     if (__AllIcons != null) {
       return __AllIcons!!
     }
-    __AllIcons= Outline.AllIcons + Sharp.AllIcons + Filled.AllIcons + listOf()
+    __AllIcons= Filled.AllIcons + Sharp.AllIcons + Outline.AllIcons + listOf()
     return __AllIcons!!
   }

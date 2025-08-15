@@ -4,7 +4,6 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.PathFillType
 import androidx.compose.ui.graphics.PathFillType.Companion.NonZero
 import androidx.compose.ui.graphics.SolidColor
-import androidx.compose.ui.graphics.StrokeCap
 import androidx.compose.ui.graphics.StrokeCap.Companion.Butt
 import androidx.compose.ui.graphics.StrokeCap.Companion.Square
 import androidx.compose.ui.graphics.StrokeJoin
@@ -23,7 +22,7 @@ public val SharpGroup.Help: ImageVector
         _help = Builder(name = "Help", defaultWidth = 512.0.dp, defaultHeight = 512.0.dp,
                 viewportWidth = 512.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 40.0f, strokeLineCap = StrokeCap.Square, strokeLineJoin = Miter,
+                    strokeLineWidth = 40.0f, strokeLineCap = Square, strokeLineJoin = Miter,
                     strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(160.0f, 164.0f)
                 curveToRelative(0.0f, -10.0f, 1.44f, -33.0f, 33.54f, -59.46f)

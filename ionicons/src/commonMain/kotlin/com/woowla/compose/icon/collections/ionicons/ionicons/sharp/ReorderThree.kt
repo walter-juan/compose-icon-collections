@@ -22,19 +22,19 @@ public val SharpGroup.ReorderThree: ImageVector
         _reorderThree = Builder(name = "ReorderThree", defaultWidth = 512.0.dp, defaultHeight =
                 512.0.dp, viewportWidth = 512.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 44.0f, strokeLineCap = StrokeCap.Square, strokeLineJoin = Round,
+                    strokeLineWidth = 44.0f, strokeLineCap = Square, strokeLineJoin = Round,
                     strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(102.0f, 256.0f)
                 lineTo(410.0f, 256.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 44.0f, strokeLineCap = StrokeCap.Square, strokeLineJoin = Round,
+                    strokeLineWidth = 44.0f, strokeLineCap = Square, strokeLineJoin = Round,
                     strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(102.0f, 176.0f)
                 lineTo(410.0f, 176.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 44.0f, strokeLineCap = StrokeCap.Square, strokeLineJoin = Round,
+                    strokeLineWidth = 44.0f, strokeLineCap = Square, strokeLineJoin = Round,
                     strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(102.0f, 336.0f)
                 lineTo(410.0f, 336.0f)
