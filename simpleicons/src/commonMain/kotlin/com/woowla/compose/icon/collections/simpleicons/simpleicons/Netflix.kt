@@ -21,21 +21,23 @@ public val Simpleicons.Netflix: ImageVector
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(5.398f, 0.0f)
-                verticalLineToRelative(0.006f)
-                curveToRelative(3.028f, 8.556f, 5.37f, 15.175f, 8.348f, 23.596f)
-                curveToRelative(2.344f, 0.058f, 4.85f, 0.398f, 4.854f, 0.398f)
-                curveToRelative(-2.8f, -7.924f, -5.923f, -16.747f, -8.487f, -24.0f)
+                moveToRelative(5.398f, 0.0f)
+                lineToRelative(8.348f, 23.602f)
+                curveToRelative(2.346f, 0.059f, 4.856f, 0.398f, 4.856f, 0.398f)
+                lineTo(10.113f, 0.0f)
+                lineTo(5.398f, 0.0f)
                 close()
                 moveTo(13.887f, 0.0f)
-                verticalLineToRelative(9.63f)
-                lineTo(18.6f, 22.951f)
-                curveToRelative(-0.043f, -7.86f, -0.004f, -15.913f, 0.002f, -22.95f)
+                verticalLineToRelative(9.172f)
+                lineToRelative(4.715f, 13.33f)
+                lineTo(18.602f, 0.0f)
+                horizontalLineToRelative(-4.715f)
                 close()
-                moveTo(5.398f, 1.05f)
+                moveTo(5.398f, 1.5f)
                 lineTo(5.398f, 24.0f)
                 curveToRelative(1.873f, -0.225f, 2.81f, -0.312f, 4.715f, -0.398f)
-                verticalLineToRelative(-9.22f)
+                lineTo(10.113f, 14.83f)
+                lineTo(5.398f, 1.5f)
                 close()
             }
         }
