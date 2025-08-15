@@ -721,6 +721,7 @@ import com.woowla.compose.icon.collections.tabler.tabler.outline.BrandDoctrine
 import com.woowla.compose.icon.collections.tabler.tabler.outline.BrandDolbyDigital
 import com.woowla.compose.icon.collections.tabler.tabler.outline.BrandDouban
 import com.woowla.compose.icon.collections.tabler.tabler.outline.BrandDribbble
+import com.woowla.compose.icon.collections.tabler.tabler.outline.BrandDropbox
 import com.woowla.compose.icon.collections.tabler.tabler.outline.BrandDrops
 import com.woowla.compose.icon.collections.tabler.tabler.outline.BrandDrupal
 import com.woowla.compose.icon.collections.tabler.tabler.outline.BrandEdge
@@ -5096,8 +5097,8 @@ public val OutlineGroup.AllIcons: ____KtList<ImageVector>
         BrandDcos, BrandDebian, BrandDeezer, BrandDeliveroo, BrandDeno, BrandDenodo,
         BrandDeviantart, BrandDigg, BrandDingtalk, BrandDiscord, BrandDisney, BrandDisqus,
         BrandDjango, BrandDocker, BrandDoctrine, BrandDolbyDigital, BrandDouban, BrandDribbble,
-        BrandDrops, BrandDrupal, BrandEdge, BrandElastic, BrandElectronicArts, BrandEmber,
-        BrandEnvato, BrandEtsy, BrandEvernote, BrandFacebook, BrandFeedly, BrandFigma,
+        BrandDropbox, BrandDrops, BrandDrupal, BrandEdge, BrandElastic, BrandElectronicArts,
+        BrandEmber, BrandEnvato, BrandEtsy, BrandEvernote, BrandFacebook, BrandFeedly, BrandFigma,
         BrandFilezilla, BrandFinder, BrandFirebase, BrandFirefox, BrandFiverr, BrandFlickr,
         BrandFlightradar24, BrandFlipboard, BrandFlutter, BrandFortnite, BrandFoursquare,
         BrandFramer, BrandFramerMotion, BrandFunimation, BrandGatsby, BrandGit, BrandGithub,

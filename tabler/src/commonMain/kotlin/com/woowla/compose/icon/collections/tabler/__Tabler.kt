@@ -15,6 +15,6 @@ public val Tabler.AllIcons: ____KtList<ImageVector>
     if (__AllIcons != null) {
       return __AllIcons!!
     }
-    __AllIcons= Outline.AllIcons + Filled.AllIcons + listOf()
+    __AllIcons= Filled.AllIcons + Outline.AllIcons + listOf()
     return __AllIcons!!
   }
