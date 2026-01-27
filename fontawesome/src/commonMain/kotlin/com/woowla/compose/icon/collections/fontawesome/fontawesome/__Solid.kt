@@ -603,7 +603,6 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Externa
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.ExternalLinkSquare
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.ExternalLinkSquareAlt
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Eye
-import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.EyeDropper
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.EyeDropperEmpty
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.EyeLowVision
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.EyeSlash
@@ -1221,7 +1220,6 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Otter
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Outdent
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.P
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Pager
-import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.PaintBrush
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.PaintRoller
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Paintbrush
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Palette
@@ -1672,7 +1670,6 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Sync
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.SyncAlt
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Syringe
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.T
-import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.TShirt
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Table
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.TableCells
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.TableCellsColumnLock
@@ -1752,8 +1749,6 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Thermom
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.ThermometerHalf
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.ThermometerQuarter
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.ThermometerThreeQuarters
-import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.ThumbTack
-import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.ThumbTackSlash
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.ThumbsDown
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.ThumbsUp
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Thumbtack
@@ -1827,7 +1822,6 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.TruckPi
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.TruckPlane
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.TruckRampBox
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Try
-import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Tshirt
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Tty
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.TurkishLira
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.TurkishLiraSign
@@ -2085,7 +2079,7 @@ public val SolidGroup.AllIcons: ____KtList<ImageVector>
         EnvelopeOpen, EnvelopeOpenText, EnvelopeSquare, EnvelopesBulk, Equals, Eraser, Ethernet,
         Eur, Euro, EuroSign, Exchange, ExchangeAlt, Exclamation, ExclamationCircle,
         ExclamationTriangle, Expand, ExpandAlt, ExpandArrowsAlt, Explosion, ExternalLink,
-        ExternalLinkAlt, ExternalLinkSquare, ExternalLinkSquareAlt, Eye, EyeDropper,
+        ExternalLinkAlt, ExternalLinkSquare, ExternalLinkSquareAlt, Eye,
         EyeDropperEmpty, EyeLowVision, EyeSlash, Eyedropper, F, FaceAngry, FaceDizzy, FaceFlushed,
         FaceFrown, FaceFrownOpen, FaceGrimace, FaceGrin, FaceGrinBeam, FaceGrinBeamSweat,
         FaceGrinHearts, FaceGrinSquint, FaceGrinSquintTears, FaceGrinStars, FaceGrinTears,
@@ -2173,7 +2167,7 @@ public val SolidGroup.AllIcons: ____KtList<ImageVector>
         MugSaucer, Multiply, Museum, Music, N, NairaSign, Navicon, NetworkWired, Neuter, Newspaper,
         NonBinary, NotEqual, Notdef, NoteSticky, NotesMedical, Number0, Number1, Number2, Number3,
         Number4, Number5, Number6, Number7, Number8, Number9, O, ObjectGroup, ObjectUngroup,
-        Octagon, OilCan, OilWell, Om, Otter, Outdent, P, Pager, PaintBrush, PaintRoller, Paintbrush,
+        Octagon, OilCan, OilWell, Om, Otter, Outdent, P, Pager, PaintRoller, Paintbrush,
         Palette, Pallet, Panorama, PaperPlane, Paperclip, ParachuteBox, Paragraph, Parking,
         Passport, Pastafarianism, Paste, Pause, PauseCircle, Paw, Peace, Pen, PenAlt, PenClip,
         PenFancy, PenNib, PenRuler, PenSquare, PenToSquare, Pencil, PencilAlt, PencilRuler,
@@ -2238,7 +2232,7 @@ public val SolidGroup.AllIcons: ____KtList<ImageVector>
         StoreAlt, StoreAltSlash, StoreSlash, Stream, StreetView, Strikethrough, Stroopwafel,
         Subscript, Subtract, Subway, Suitcase, SuitcaseMedical, SuitcaseRolling, Sun, SunPlantWilt,
         Superscript, Surprise, Swatchbook, Swimmer, SwimmingPool, Synagogue, Sync, SyncAlt, Syringe,
-        T, TShirt, Table, TableCells, TableCellsColumnLock, TableCellsLarge, TableCellsRowLock,
+        T, Table, TableCells, TableCellsColumnLock, TableCellsLarge, TableCellsRowLock,
         TableCellsRowUnlock, TableColumns, TableList, TableTennis, TableTennisPaddleBall, Tablet,
         TabletAlt, TabletAndroid, TabletButton, TabletScreenButton, Tablets, TachographDigital,
         Tachometer, TachometerAlt, TachometerAltAverage, TachometerAltFast, TachometerAverage,
@@ -2250,7 +2244,7 @@ public val SolidGroup.AllIcons: ____KtList<ImageVector>
         TentArrowLeftRight, TentArrowTurnLeft, TentArrowsDown, Tents, Terminal, TextHeight,
         TextSlash, TextWidth, Th, ThLarge, ThList, TheaterMasks, Thermometer, Thermometer0,
         Thermometer1, Thermometer2, Thermometer3, Thermometer4, ThermometerEmpty, ThermometerFull,
-        ThermometerHalf, ThermometerQuarter, ThermometerThreeQuarters, ThumbTack, ThumbTackSlash,
+        ThermometerHalf, ThermometerQuarter, ThermometerThreeQuarters,
         ThumbsDown, ThumbsUp, Thumbtack, ThumbtackSlash, Thunderstorm, Ticket, TicketAlt,
         TicketSimple, Timeline, Times, TimesCircle, TimesRectangle, TimesSquare, Tint, TintSlash,
         Tired, ToggleOff, ToggleOn, Toilet, ToiletPaper, ToiletPaperAlt, ToiletPaperBlank,
@@ -2261,7 +2255,7 @@ public val SolidGroup.AllIcons: ____KtList<ImageVector>
         TriangleCircleSquare, TriangleExclamation, Trophy, Trowel, TrowelBricks, Truck,
         TruckArrowRight, TruckDroplet, TruckFast, TruckField, TruckFieldUn, TruckFront,
         TruckLoading, TruckMedical, TruckMonster, TruckMoving, TruckPickup, TruckPlane,
-        TruckRampBox, Try, Tshirt, Tty, TurkishLira, TurkishLiraSign, TurnDown, TurnUp, Tv, TvAlt,
+        TruckRampBox, Try, Tty, TurkishLira, TurkishLiraSign, TurnDown, TurnUp, Tv, TvAlt,
         U, Umbrella, UmbrellaBeach, Underline, Undo, UndoAlt, UniversalAccess, University, Unlink,
         Unlock, UnlockAlt, UnlockKeyhole, Unsorted, UpDown, UpDownLeftRight, UpLong,
         UpRightAndDownLeftFromCenter, UpRightFromSquare, Upload, Usd, User, UserAlt, UserAltSlash,
