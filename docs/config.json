@@ -51,13 +51,6 @@
             ]
         },
         {
-            "name": "Octicons",
-            "value": "octicons",
-            "categories": [
-                ""
-            ]
-        },
-        {
             "name": "Ionicons",
             "value": "ionicons",
             "categories": [
@@ -95,6 +88,13 @@
             "categories": [
                 "outline",
                 "filled"
+            ]
+        },
+        {
+            "name": "Octicons",
+            "value": "octicons",
+            "categories": [
+                ""
             ]
         }
     ]

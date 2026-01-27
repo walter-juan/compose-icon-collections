@@ -5,6 +5,8 @@ import com.woowla.compose.icon.collections.octicons.octicons.Accessibility16
 import com.woowla.compose.icon.collections.octicons.octicons.Accessibility24
 import com.woowla.compose.icon.collections.octicons.octicons.AccessibilityInset16
 import com.woowla.compose.icon.collections.octicons.octicons.AccessibilityInset24
+import com.woowla.compose.icon.collections.octicons.octicons.Agent16
+import com.woowla.compose.icon.collections.octicons.octicons.Agent24
 import com.woowla.compose.icon.collections.octicons.octicons.AiModel16
 import com.woowla.compose.icon.collections.octicons.octicons.AiModel24
 import com.woowla.compose.icon.collections.octicons.octicons.Alert16
@@ -58,6 +60,10 @@ import com.woowla.compose.icon.collections.octicons.octicons.BookmarkSlash16
 import com.woowla.compose.icon.collections.octicons.octicons.BookmarkSlash24
 import com.woowla.compose.icon.collections.octicons.octicons.BookmarkSlashFill16
 import com.woowla.compose.icon.collections.octicons.octicons.BookmarkSlashFill24
+import com.woowla.compose.icon.collections.octicons.octicons.BooleanOff16
+import com.woowla.compose.icon.collections.octicons.octicons.BooleanOff24
+import com.woowla.compose.icon.collections.octicons.octicons.BooleanOn16
+import com.woowla.compose.icon.collections.octicons.octicons.BooleanOn24
 import com.woowla.compose.icon.collections.octicons.octicons.Briefcase16
 import com.woowla.compose.icon.collections.octicons.octicons.Briefcase24
 import com.woowla.compose.icon.collections.octicons.octicons.Broadcast16
@@ -79,6 +85,8 @@ import com.woowla.compose.icon.collections.octicons.octicons.CheckCircleFill16
 import com.woowla.compose.icon.collections.octicons.octicons.CheckCircleFill24
 import com.woowla.compose.icon.collections.octicons.octicons.Checkbox16
 import com.woowla.compose.icon.collections.octicons.octicons.Checkbox24
+import com.woowla.compose.icon.collections.octicons.octicons.CheckboxFill16
+import com.woowla.compose.icon.collections.octicons.octicons.CheckboxFill24
 import com.woowla.compose.icon.collections.octicons.octicons.Checklist16
 import com.woowla.compose.icon.collections.octicons.octicons.Checklist24
 import com.woowla.compose.icon.collections.octicons.octicons.ChevronDown12
@@ -125,8 +133,12 @@ import com.woowla.compose.icon.collections.octicons.octicons.CommandPalette16
 import com.woowla.compose.icon.collections.octicons.octicons.CommandPalette24
 import com.woowla.compose.icon.collections.octicons.octicons.Comment16
 import com.woowla.compose.icon.collections.octicons.octicons.Comment24
+import com.woowla.compose.icon.collections.octicons.octicons.CommentAi16
+import com.woowla.compose.icon.collections.octicons.octicons.CommentAi24
 import com.woowla.compose.icon.collections.octicons.octicons.CommentDiscussion16
 import com.woowla.compose.icon.collections.octicons.octicons.CommentDiscussion24
+import com.woowla.compose.icon.collections.octicons.octicons.Compose16
+import com.woowla.compose.icon.collections.octicons.octicons.Compose24
 import com.woowla.compose.icon.collections.octicons.octicons.Container16
 import com.woowla.compose.icon.collections.octicons.octicons.Container24
 import com.woowla.compose.icon.collections.octicons.octicons.Copilot16
@@ -143,6 +155,8 @@ import com.woowla.compose.icon.collections.octicons.octicons.CreditCard16
 import com.woowla.compose.icon.collections.octicons.octicons.CreditCard24
 import com.woowla.compose.icon.collections.octicons.octicons.CrossReference16
 import com.woowla.compose.icon.collections.octicons.octicons.CrossReference24
+import com.woowla.compose.icon.collections.octicons.octicons.Crosshairs16
+import com.woowla.compose.icon.collections.octicons.octicons.Crosshairs24
 import com.woowla.compose.icon.collections.octicons.octicons.Dash16
 import com.woowla.compose.icon.collections.octicons.octicons.Dash24
 import com.woowla.compose.icon.collections.octicons.octicons.Database16
@@ -163,6 +177,8 @@ import com.woowla.compose.icon.collections.octicons.octicons.Devices16
 import com.woowla.compose.icon.collections.octicons.octicons.Devices24
 import com.woowla.compose.icon.collections.octicons.octicons.Diamond16
 import com.woowla.compose.icon.collections.octicons.octicons.Diamond24
+import com.woowla.compose.icon.collections.octicons.octicons.Dice16
+import com.woowla.compose.icon.collections.octicons.octicons.Dice24
 import com.woowla.compose.icon.collections.octicons.octicons.Diff16
 import com.woowla.compose.icon.collections.octicons.octicons.Diff24
 import com.woowla.compose.icon.collections.octicons.octicons.DiffAdded16
@@ -191,6 +207,8 @@ import com.woowla.compose.icon.collections.octicons.octicons.Duplicate16
 import com.woowla.compose.icon.collections.octicons.octicons.Duplicate24
 import com.woowla.compose.icon.collections.octicons.octicons.Ellipsis16
 import com.woowla.compose.icon.collections.octicons.octicons.Ellipsis24
+import com.woowla.compose.icon.collections.octicons.octicons.Exclamation16
+import com.woowla.compose.icon.collections.octicons.octicons.Exclamation24
 import com.woowla.compose.icon.collections.octicons.octicons.Eye16
 import com.woowla.compose.icon.collections.octicons.octicons.Eye24
 import com.woowla.compose.icon.collections.octicons.octicons.EyeClosed16
@@ -222,6 +240,8 @@ import com.woowla.compose.icon.collections.octicons.octicons.FileBadge16
 import com.woowla.compose.icon.collections.octicons.octicons.FileBadge24
 import com.woowla.compose.icon.collections.octicons.octicons.FileBinary16
 import com.woowla.compose.icon.collections.octicons.octicons.FileBinary24
+import com.woowla.compose.icon.collections.octicons.octicons.FileCheck16
+import com.woowla.compose.icon.collections.octicons.octicons.FileCheck24
 import com.woowla.compose.icon.collections.octicons.octicons.FileCode16
 import com.woowla.compose.icon.collections.octicons.octicons.FileCode24
 import com.woowla.compose.icon.collections.octicons.octicons.FileDiff16
@@ -254,6 +274,10 @@ import com.woowla.compose.icon.collections.octicons.octicons.FiscalHost16
 import com.woowla.compose.icon.collections.octicons.octicons.FiscalHost24
 import com.woowla.compose.icon.collections.octicons.octicons.Flame16
 import com.woowla.compose.icon.collections.octicons.octicons.Flame24
+import com.woowla.compose.icon.collections.octicons.octicons.Flowchart16
+import com.woowla.compose.icon.collections.octicons.octicons.Flowchart24
+import com.woowla.compose.icon.collections.octicons.octicons.FocusCenter16
+import com.woowla.compose.icon.collections.octicons.octicons.FocusCenter24
 import com.woowla.compose.icon.collections.octicons.octicons.Fold16
 import com.woowla.compose.icon.collections.octicons.octicons.Fold24
 import com.woowla.compose.icon.collections.octicons.octicons.FoldDown16
@@ -266,6 +290,8 @@ import com.woowla.compose.icon.collections.octicons.octicons.Gift16
 import com.woowla.compose.icon.collections.octicons.octicons.Gift24
 import com.woowla.compose.icon.collections.octicons.octicons.GitBranch16
 import com.woowla.compose.icon.collections.octicons.octicons.GitBranch24
+import com.woowla.compose.icon.collections.octicons.octicons.GitBranchCheck16
+import com.woowla.compose.icon.collections.octicons.octicons.GitBranchCheck24
 import com.woowla.compose.icon.collections.octicons.octicons.GitCommit16
 import com.woowla.compose.icon.collections.octicons.octicons.GitCommit24
 import com.woowla.compose.icon.collections.octicons.octicons.GitCompare16
@@ -288,6 +314,10 @@ import com.woowla.compose.icon.collections.octicons.octicons.Grabber16
 import com.woowla.compose.icon.collections.octicons.octicons.Grabber24
 import com.woowla.compose.icon.collections.octicons.octicons.Graph16
 import com.woowla.compose.icon.collections.octicons.octicons.Graph24
+import com.woowla.compose.icon.collections.octicons.octicons.GraphBarHorizontal16
+import com.woowla.compose.icon.collections.octicons.octicons.GraphBarHorizontal24
+import com.woowla.compose.icon.collections.octicons.octicons.GraphBarVertical16
+import com.woowla.compose.icon.collections.octicons.octicons.GraphBarVertical24
 import com.woowla.compose.icon.collections.octicons.octicons.Hash16
 import com.woowla.compose.icon.collections.octicons.octicons.Hash24
 import com.woowla.compose.icon.collections.octicons.octicons.Heading16
@@ -314,6 +344,8 @@ import com.woowla.compose.icon.collections.octicons.octicons.Image16
 import com.woowla.compose.icon.collections.octicons.octicons.Image24
 import com.woowla.compose.icon.collections.octicons.octicons.Inbox16
 import com.woowla.compose.icon.collections.octicons.octicons.Inbox24
+import com.woowla.compose.icon.collections.octicons.octicons.InboxFill16
+import com.woowla.compose.icon.collections.octicons.octicons.InboxFill24
 import com.woowla.compose.icon.collections.octicons.octicons.Infinity16
 import com.woowla.compose.icon.collections.octicons.octicons.Infinity24
 import com.woowla.compose.icon.collections.octicons.octicons.Info16
@@ -362,12 +394,18 @@ import com.woowla.compose.icon.collections.octicons.octicons.LogoGist16
 import com.woowla.compose.icon.collections.octicons.octicons.LogoGist24
 import com.woowla.compose.icon.collections.octicons.octicons.LogoGithub16
 import com.woowla.compose.icon.collections.octicons.octicons.LogoGithub24
+import com.woowla.compose.icon.collections.octicons.octicons.Loop16
+import com.woowla.compose.icon.collections.octicons.octicons.Loop24
 import com.woowla.compose.icon.collections.octicons.octicons.Mail16
 import com.woowla.compose.icon.collections.octicons.octicons.Mail24
 import com.woowla.compose.icon.collections.octicons.octicons.MarkGithub16
 import com.woowla.compose.icon.collections.octicons.octicons.MarkGithub24
 import com.woowla.compose.icon.collections.octicons.octicons.Markdown16
 import com.woowla.compose.icon.collections.octicons.octicons.Markdown24
+import com.woowla.compose.icon.collections.octicons.octicons.Maximize16
+import com.woowla.compose.icon.collections.octicons.octicons.Maximize24
+import com.woowla.compose.icon.collections.octicons.octicons.Mcp16
+import com.woowla.compose.icon.collections.octicons.octicons.Mcp24
 import com.woowla.compose.icon.collections.octicons.octicons.Megaphone16
 import com.woowla.compose.icon.collections.octicons.octicons.Megaphone24
 import com.woowla.compose.icon.collections.octicons.octicons.Mention16
@@ -376,6 +414,8 @@ import com.woowla.compose.icon.collections.octicons.octicons.Meter16
 import com.woowla.compose.icon.collections.octicons.octicons.Meter24
 import com.woowla.compose.icon.collections.octicons.octicons.Milestone16
 import com.woowla.compose.icon.collections.octicons.octicons.Milestone24
+import com.woowla.compose.icon.collections.octicons.octicons.Minimize16
+import com.woowla.compose.icon.collections.octicons.octicons.Minimize24
 import com.woowla.compose.icon.collections.octicons.octicons.Mirror16
 import com.woowla.compose.icon.collections.octicons.octicons.Mirror24
 import com.woowla.compose.icon.collections.octicons.octicons.Moon16
@@ -397,6 +437,8 @@ import com.woowla.compose.icon.collections.octicons.octicons.Mute24
 import com.woowla.compose.icon.collections.octicons.octicons.NoEntry16
 import com.woowla.compose.icon.collections.octicons.octicons.NoEntry24
 import com.woowla.compose.icon.collections.octicons.octicons.NoEntryFill12
+import com.woowla.compose.icon.collections.octicons.octicons.Node16
+import com.woowla.compose.icon.collections.octicons.octicons.Node24
 import com.woowla.compose.icon.collections.octicons.octicons.NorthStar16
 import com.woowla.compose.icon.collections.octicons.octicons.NorthStar24
 import com.woowla.compose.icon.collections.octicons.octicons.Note16
@@ -425,6 +467,8 @@ import com.woowla.compose.icon.collections.octicons.octicons.Pause16
 import com.woowla.compose.icon.collections.octicons.octicons.Pause24
 import com.woowla.compose.icon.collections.octicons.octicons.Pencil16
 import com.woowla.compose.icon.collections.octicons.octicons.Pencil24
+import com.woowla.compose.icon.collections.octicons.octicons.PencilAi16
+import com.woowla.compose.icon.collections.octicons.octicons.PencilAi24
 import com.woowla.compose.icon.collections.octicons.octicons.People16
 import com.woowla.compose.icon.collections.octicons.octicons.People24
 import com.woowla.compose.icon.collections.octicons.octicons.Person16
@@ -535,14 +579,34 @@ import com.woowla.compose.icon.collections.octicons.octicons.Sliders16
 import com.woowla.compose.icon.collections.octicons.octicons.Sliders24
 import com.woowla.compose.icon.collections.octicons.octicons.Smiley16
 import com.woowla.compose.icon.collections.octicons.octicons.Smiley24
+import com.woowla.compose.icon.collections.octicons.octicons.SmileyFrown16
+import com.woowla.compose.icon.collections.octicons.octicons.SmileyFrown24
+import com.woowla.compose.icon.collections.octicons.octicons.SmileyFrustrated16
+import com.woowla.compose.icon.collections.octicons.octicons.SmileyFrustrated24
+import com.woowla.compose.icon.collections.octicons.octicons.SmileyGrin16
+import com.woowla.compose.icon.collections.octicons.octicons.SmileyGrin24
+import com.woowla.compose.icon.collections.octicons.octicons.SmileyNeutral16
+import com.woowla.compose.icon.collections.octicons.octicons.SmileyNeutral24
 import com.woowla.compose.icon.collections.octicons.octicons.SortAsc16
 import com.woowla.compose.icon.collections.octicons.octicons.SortAsc24
 import com.woowla.compose.icon.collections.octicons.octicons.SortDesc16
 import com.woowla.compose.icon.collections.octicons.octicons.SortDesc24
+import com.woowla.compose.icon.collections.octicons.octicons.Space16
+import com.woowla.compose.icon.collections.octicons.octicons.Space24
+import com.woowla.compose.icon.collections.octicons.octicons.SpacingLarge16
+import com.woowla.compose.icon.collections.octicons.octicons.SpacingLarge24
+import com.woowla.compose.icon.collections.octicons.octicons.SpacingMedium16
+import com.woowla.compose.icon.collections.octicons.octicons.SpacingMedium24
+import com.woowla.compose.icon.collections.octicons.octicons.SpacingSmall16
+import com.woowla.compose.icon.collections.octicons.octicons.SpacingSmall24
+import com.woowla.compose.icon.collections.octicons.octicons.Sparkle16
+import com.woowla.compose.icon.collections.octicons.octicons.Sparkle24
 import com.woowla.compose.icon.collections.octicons.octicons.SparkleFill16
 import com.woowla.compose.icon.collections.octicons.octicons.SparkleFill24
 import com.woowla.compose.icon.collections.octicons.octicons.SparklesFill16
 import com.woowla.compose.icon.collections.octicons.octicons.SparklesFill24
+import com.woowla.compose.icon.collections.octicons.octicons.SplitView16
+import com.woowla.compose.icon.collections.octicons.octicons.SplitView24
 import com.woowla.compose.icon.collections.octicons.octicons.SponsorTiers16
 import com.woowla.compose.icon.collections.octicons.octicons.SponsorTiers24
 import com.woowla.compose.icon.collections.octicons.octicons.Square16
@@ -625,6 +689,8 @@ import com.woowla.compose.icon.collections.octicons.octicons.Unread16
 import com.woowla.compose.icon.collections.octicons.octicons.Unread24
 import com.woowla.compose.icon.collections.octicons.octicons.Unverified16
 import com.woowla.compose.icon.collections.octicons.octicons.Unverified24
+import com.woowla.compose.icon.collections.octicons.octicons.Unwrap16
+import com.woowla.compose.icon.collections.octicons.octicons.Unwrap24
 import com.woowla.compose.icon.collections.octicons.octicons.Upload16
 import com.woowla.compose.icon.collections.octicons.octicons.Upload24
 import com.woowla.compose.icon.collections.octicons.octicons.Verified16
@@ -633,9 +699,14 @@ import com.woowla.compose.icon.collections.octicons.octicons.Versions16
 import com.woowla.compose.icon.collections.octicons.octicons.Versions24
 import com.woowla.compose.icon.collections.octicons.octicons.Video16
 import com.woowla.compose.icon.collections.octicons.octicons.Video24
+import com.woowla.compose.icon.collections.octicons.octicons.Vscode16
+import com.woowla.compose.icon.collections.octicons.octicons.Vscode32
+import com.woowla.compose.icon.collections.octicons.octicons.Vscode48
 import com.woowla.compose.icon.collections.octicons.octicons.Webhook16
 import com.woowla.compose.icon.collections.octicons.octicons.Workflow16
 import com.woowla.compose.icon.collections.octicons.octicons.Workflow24
+import com.woowla.compose.icon.collections.octicons.octicons.Wrap16
+import com.woowla.compose.icon.collections.octicons.octicons.Wrap24
 import com.woowla.compose.icon.collections.octicons.octicons.X12
 import com.woowla.compose.icon.collections.octicons.octicons.X16
 import com.woowla.compose.icon.collections.octicons.octicons.X24
@@ -662,101 +733,112 @@ public val Octicons.AllIcons: ____KtList<ImageVector>
       return __AllIcons!!
     }
     __AllIcons= listOf(Accessibility16, Accessibility24, AccessibilityInset16, AccessibilityInset24,
-        AiModel16, AiModel24, Alert16, Alert24, AlertFill12, AlertFill16, AlertFill24, Apps16,
-        Apps24, Archive16, Archive24, ArrowBoth16, ArrowBoth24, ArrowDown16, ArrowDown24,
-        ArrowDownLeft16, ArrowDownLeft24, ArrowDownRight16, ArrowDownRight24, ArrowLeft16,
-        ArrowLeft24, ArrowRight16, ArrowRight24, ArrowSwitch16, ArrowSwitch24, ArrowUp16, ArrowUp24,
-        ArrowUpLeft16, ArrowUpLeft24, ArrowUpRight16, ArrowUpRight24, Beaker16, Beaker24, Bell16,
-        Bell24, BellFill16, BellFill24, BellSlash16, BellSlash24, Blocked16, Blocked24, Bold16,
-        Bold24, Book16, Book24, Bookmark16, Bookmark24, BookmarkFill24, BookmarkFilled16,
-        BookmarkSlash16, BookmarkSlash24, BookmarkSlashFill16, BookmarkSlashFill24, Briefcase16,
+        Agent16, Agent24, AiModel16, AiModel24, Alert16, Alert24, AlertFill12, AlertFill16,
+        AlertFill24, Apps16, Apps24, Archive16, Archive24, ArrowBoth16, ArrowBoth24, ArrowDown16,
+        ArrowDown24, ArrowDownLeft16, ArrowDownLeft24, ArrowDownRight16, ArrowDownRight24,
+        ArrowLeft16, ArrowLeft24, ArrowRight16, ArrowRight24, ArrowSwitch16, ArrowSwitch24,
+        ArrowUp16, ArrowUp24, ArrowUpLeft16, ArrowUpLeft24, ArrowUpRight16, ArrowUpRight24,
+        Beaker16, Beaker24, Bell16, Bell24, BellFill16, BellFill24, BellSlash16, BellSlash24,
+        Blocked16, Blocked24, Bold16, Bold24, Book16, Book24, Bookmark16, Bookmark24,
+        BookmarkFill24, BookmarkFilled16, BookmarkSlash16, BookmarkSlash24, BookmarkSlashFill16,
+        BookmarkSlashFill24, BooleanOff16, BooleanOff24, BooleanOn16, BooleanOn24, Briefcase16,
         Briefcase24, Broadcast16, Broadcast24, Browser16, Browser24, Bug16, Bug24, Cache16, Cache24,
         Calendar16, Calendar24, Check16, Check24, CheckCircle16, CheckCircle24, CheckCircleFill12,
-        CheckCircleFill16, CheckCircleFill24, Checkbox16, Checkbox24, Checklist16, Checklist24,
-        ChevronDown12, ChevronDown16, ChevronDown24, ChevronLeft12, ChevronLeft16, ChevronLeft24,
-        ChevronRight12, ChevronRight16, ChevronRight24, ChevronUp12, ChevronUp16, ChevronUp24,
-        Circle16, Circle24, CircleSlash16, CircleSlash24, Clock16, Clock24, ClockFill16,
-        ClockFill24, Cloud16, Cloud24, CloudOffline16, CloudOffline24, Code16, Code24,
-        CodeOfConduct16, CodeOfConduct24, CodeReview16, CodeReview24, CodeSquare16, CodeSquare24,
-        Codescan16, Codescan24, CodescanCheckmark16, CodescanCheckmark24, Codespaces16,
-        Codespaces24, Columns16, Columns24, CommandPalette16, CommandPalette24, Comment16,
-        Comment24, CommentDiscussion16, CommentDiscussion24, Container16, Container24, Copilot16,
-        Copilot24, Copilot48, Copilot96, CopilotError16, CopilotWarning16, Copy16, Copy24, Cpu16,
-        Cpu24, CreditCard16, CreditCard24, CrossReference16, CrossReference24, Dash16, Dash24,
-        Database16, Database24, Dependabot16, Dependabot24, DesktopDownload16, DesktopDownload24,
-        DeviceCamera16, DeviceCamera24, DeviceCameraVideo16, DeviceCameraVideo24, DeviceDesktop16,
-        DeviceDesktop24, DeviceMobile16, DeviceMobile24, Devices16, Devices24, Diamond16, Diamond24,
-        Diff16, Diff24, DiffAdded16, DiffAdded24, DiffIgnored16, DiffIgnored24, DiffModified16,
-        DiffModified24, DiffRemoved16, DiffRemoved24, DiffRenamed16, DiffRenamed24,
-        DiscussionClosed16, DiscussionClosed24, DiscussionDuplicate16, DiscussionDuplicate24,
-        DiscussionOutdated16, DiscussionOutdated24, Dot16, Dot24, DotFill16, DotFill24, Download16,
-        Download24, Duplicate16, Duplicate24, Ellipsis16, Ellipsis24, Eye16, Eye24, EyeClosed16,
-        EyeClosed24, FeedDiscussion16, FeedForked16, FeedHeart16, FeedIssueClosed16,
-        FeedIssueDraft16, FeedIssueOpen16, FeedIssueReopen16, FeedMerged16, FeedPerson16,
-        FeedPlus16, FeedPublic16, FeedPullRequestClosed16, FeedPullRequestDraft16,
-        FeedPullRequestOpen16, FeedRepo16, FeedRocket16, FeedStar16, FeedTag16, FeedTrophy16,
-        File16, File24, FileAdded16, FileAdded24, FileBadge16, FileBadge24, FileBinary16,
-        FileBinary24, FileCode16, FileCode24, FileDiff16, FileDiff24, FileDirectory16,
-        FileDirectory24, FileDirectoryFill16, FileDirectoryFill24, FileDirectoryOpenFill16,
-        FileDirectoryOpenFill24, FileDirectorySymlink16, FileDirectorySymlink24, FileMedia16,
-        FileMedia24, FileMoved16, FileMoved24, FileRemoved16, FileRemoved24, FileSubmodule16,
-        FileSubmodule24, FileSymlinkFile16, FileSymlinkFile24, FileZip16, FileZip24, Filter16,
-        Filter24, FilterRemove16, FilterRemove24, FiscalHost16, FiscalHost24, Flame16, Flame24,
-        Fold16, Fold24, FoldDown16, FoldDown24, FoldUp16, FoldUp24, Gear16, Gear24, Gift16, Gift24,
-        GitBranch16, GitBranch24, GitCommit16, GitCommit24, GitCompare16, GitCompare24, GitMerge16,
+        CheckCircleFill16, CheckCircleFill24, Checkbox16, Checkbox24, CheckboxFill16,
+        CheckboxFill24, Checklist16, Checklist24, ChevronDown12, ChevronDown16, ChevronDown24,
+        ChevronLeft12, ChevronLeft16, ChevronLeft24, ChevronRight12, ChevronRight16, ChevronRight24,
+        ChevronUp12, ChevronUp16, ChevronUp24, Circle16, Circle24, CircleSlash16, CircleSlash24,
+        Clock16, Clock24, ClockFill16, ClockFill24, Cloud16, Cloud24, CloudOffline16,
+        CloudOffline24, Code16, Code24, CodeOfConduct16, CodeOfConduct24, CodeReview16,
+        CodeReview24, CodeSquare16, CodeSquare24, Codescan16, Codescan24, CodescanCheckmark16,
+        CodescanCheckmark24, Codespaces16, Codespaces24, Columns16, Columns24, CommandPalette16,
+        CommandPalette24, Comment16, Comment24, CommentAi16, CommentAi24, CommentDiscussion16,
+        CommentDiscussion24, Compose16, Compose24, Container16, Container24, Copilot16, Copilot24,
+        Copilot48, Copilot96, CopilotError16, CopilotWarning16, Copy16, Copy24, Cpu16, Cpu24,
+        CreditCard16, CreditCard24, CrossReference16, CrossReference24, Crosshairs16, Crosshairs24,
+        Dash16, Dash24, Database16, Database24, Dependabot16, Dependabot24, DesktopDownload16,
+        DesktopDownload24, DeviceCamera16, DeviceCamera24, DeviceCameraVideo16, DeviceCameraVideo24,
+        DeviceDesktop16, DeviceDesktop24, DeviceMobile16, DeviceMobile24, Devices16, Devices24,
+        Diamond16, Diamond24, Dice16, Dice24, Diff16, Diff24, DiffAdded16, DiffAdded24,
+        DiffIgnored16, DiffIgnored24, DiffModified16, DiffModified24, DiffRemoved16, DiffRemoved24,
+        DiffRenamed16, DiffRenamed24, DiscussionClosed16, DiscussionClosed24, DiscussionDuplicate16,
+        DiscussionDuplicate24, DiscussionOutdated16, DiscussionOutdated24, Dot16, Dot24, DotFill16,
+        DotFill24, Download16, Download24, Duplicate16, Duplicate24, Ellipsis16, Ellipsis24,
+        Exclamation16, Exclamation24, Eye16, Eye24, EyeClosed16, EyeClosed24, FeedDiscussion16,
+        FeedForked16, FeedHeart16, FeedIssueClosed16, FeedIssueDraft16, FeedIssueOpen16,
+        FeedIssueReopen16, FeedMerged16, FeedPerson16, FeedPlus16, FeedPublic16,
+        FeedPullRequestClosed16, FeedPullRequestDraft16, FeedPullRequestOpen16, FeedRepo16,
+        FeedRocket16, FeedStar16, FeedTag16, FeedTrophy16, File16, File24, FileAdded16, FileAdded24,
+        FileBadge16, FileBadge24, FileBinary16, FileBinary24, FileCheck16, FileCheck24, FileCode16,
+        FileCode24, FileDiff16, FileDiff24, FileDirectory16, FileDirectory24, FileDirectoryFill16,
+        FileDirectoryFill24, FileDirectoryOpenFill16, FileDirectoryOpenFill24,
+        FileDirectorySymlink16, FileDirectorySymlink24, FileMedia16, FileMedia24, FileMoved16,
+        FileMoved24, FileRemoved16, FileRemoved24, FileSubmodule16, FileSubmodule24,
+        FileSymlinkFile16, FileSymlinkFile24, FileZip16, FileZip24, Filter16, Filter24,
+        FilterRemove16, FilterRemove24, FiscalHost16, FiscalHost24, Flame16, Flame24, Flowchart16,
+        Flowchart24, FocusCenter16, FocusCenter24, Fold16, Fold24, FoldDown16, FoldDown24, FoldUp16,
+        FoldUp24, Gear16, Gear24, Gift16, Gift24, GitBranch16, GitBranch24, GitBranchCheck16,
+        GitBranchCheck24, GitCommit16, GitCommit24, GitCompare16, GitCompare24, GitMerge16,
         GitMerge24, GitMergeQueue16, GitMergeQueue24, GitPullRequest16, GitPullRequest24,
         GitPullRequestClosed16, GitPullRequestClosed24, GitPullRequestDraft16,
         GitPullRequestDraft24, Globe16, Globe24, Goal16, Goal24, Grabber16, Grabber24, Graph16,
-        Graph24, Hash16, Hash24, Heading16, Heading24, Heart16, Heart24, HeartFill16, HeartFill24,
-        History16, History24, Home16, Home24, HomeFill16, HomeFill24, HorizontalRule16,
-        HorizontalRule24, Hourglass16, Hourglass24, Hubot16, Hubot24, IdBadge16, IdBadge24, Image16,
-        Image24, Inbox16, Inbox24, Infinity16, Infinity24, Info16, Info24, IssueClosed16,
+        Graph24, GraphBarHorizontal16, GraphBarHorizontal24, GraphBarVertical16, GraphBarVertical24,
+        Hash16, Hash24, Heading16, Heading24, Heart16, Heart24, HeartFill16, HeartFill24, History16,
+        History24, Home16, Home24, HomeFill16, HomeFill24, HorizontalRule16, HorizontalRule24,
+        Hourglass16, Hourglass24, Hubot16, Hubot24, IdBadge16, IdBadge24, Image16, Image24, Inbox16,
+        Inbox24, InboxFill16, InboxFill24, Infinity16, Infinity24, Info16, Info24, IssueClosed16,
         IssueClosed24, IssueDraft16, IssueDraft24, IssueOpened16, IssueOpened24, IssueReopened16,
         IssueReopened24, IssueTrackedBy16, IssueTrackedBy24, IssueTracks16, IssueTracks24, Italic16,
         Italic24, Iterations16, Iterations24, KebabHorizontal16, KebabHorizontal24, Key16, Key24,
         KeyAsterisk16, KeyAsterisk24, Law16, Law24, LightBulb16, LightBulb24, Link16, Link24,
         LinkExternal16, LinkExternal24, ListOrdered16, ListOrdered24, ListUnordered16,
         ListUnordered24, Location16, Location24, Lock16, Lock24, Log16, Log24, LogoGist16,
-        LogoGist24, LogoGithub16, LogoGithub24, Mail16, Mail24, MarkGithub16, MarkGithub24,
-        Markdown16, Markdown24, Megaphone16, Megaphone24, Mention16, Mention24, Meter16, Meter24,
-        Milestone16, Milestone24, Mirror16, Mirror24, Moon16, Moon24, MortarBoard16, MortarBoard24,
+        LogoGist24, LogoGithub16, LogoGithub24, Loop16, Loop24, Mail16, Mail24, MarkGithub16,
+        MarkGithub24, Markdown16, Markdown24, Maximize16, Maximize24, Mcp16, Mcp24, Megaphone16,
+        Megaphone24, Mention16, Mention24, Meter16, Meter24, Milestone16, Milestone24, Minimize16,
+        Minimize24, Mirror16, Mirror24, Moon16, Moon24, MortarBoard16, MortarBoard24,
         MoveToBottom16, MoveToBottom24, MoveToEnd16, MoveToEnd24, MoveToStart16, MoveToStart24,
         MoveToTop16, MoveToTop24, MultiSelect16, MultiSelect24, Mute16, Mute24, NoEntry16,
-        NoEntry24, NoEntryFill12, NorthStar16, NorthStar24, Note16, Note24, Number16, Number24,
-        Organization16, Organization24, Package16, Package24, PackageDependencies16,
-        PackageDependencies24, PackageDependents16, PackageDependents24, Paintbrush16, Paintbrush24,
-        PaperAirplane16, PaperAirplane24, Paperclip16, Paperclip24, PasskeyFill16, PasskeyFill24,
-        Paste16, Paste24, Pause16, Pause24, Pencil16, Pencil24, People16, People24, Person16,
-        Person24, PersonAdd16, PersonAdd24, PersonFill16, PersonFill24, Pin16, Pin24, PinSlash16,
-        PinSlash24, PivotColumn16, PivotColumn24, Play16, Play24, Plug16, Plug24, Plus16, Plus24,
-        PlusCircle16, PlusCircle24, Project16, Project24, ProjectRoadmap16, ProjectRoadmap24,
-        ProjectSymlink16, ProjectSymlink24, ProjectTemplate16, ProjectTemplate24, Pulse16, Pulse24,
-        Question16, Question24, Quote16, Quote24, Read16, Read24, Redo16, Redo24, RelFilePath16,
-        RelFilePath24, Reply16, Reply24, Repo16, Repo24, RepoClone16, RepoClone24, RepoDelete24,
-        RepoDeleted16, RepoForked16, RepoForked24, RepoLocked16, RepoLocked24, RepoPull16,
-        RepoPull24, RepoPush16, RepoPush24, RepoTemplate16, RepoTemplate24, Report16, Report24,
-        Rocket16, Rocket24, Rows16, Rows24, Rss16, Rss24, Ruby16, Ruby24, ScreenFull16,
-        ScreenFull24, ScreenNormal16, ScreenNormal24, Search16, Search24, Server16, Server24,
-        Share16, Share24, ShareAndroid16, ShareAndroid24, Shield16, Shield24, ShieldCheck16,
-        ShieldCheck24, ShieldLock16, ShieldLock24, ShieldSlash16, ShieldSlash24, ShieldX16,
-        ShieldX24, SidebarCollapse16, SidebarCollapse24, SidebarExpand16, SidebarExpand24, SignIn16,
-        SignIn24, SignOut16, SignOut24, SingleSelect16, SingleSelect24, Skip16, Skip24, SkipFill16,
-        SkipFill24, Sliders16, Sliders24, Smiley16, Smiley24, SortAsc16, SortAsc24, SortDesc16,
-        SortDesc24, SparkleFill16, SparkleFill24, SparklesFill16, SparklesFill24, SponsorTiers16,
-        SponsorTiers24, Square16, Square24, SquareCircle16, SquareCircle24, SquareFill16,
-        SquareFill24, Squirrel16, Squirrel24, Stack16, Stack24, Star16, Star24, StarFill16,
-        StarFill24, Stop16, Stop24, Stopwatch16, Stopwatch24, Strikethrough16, Strikethrough24,
-        Sun16, Sun24, Sync16, Sync24, Tab16, Tab24, TabExternal16, TabExternal24, Table16, Table24,
-        Tag16, Tag24, Tasklist16, Tasklist24, Telescope16, Telescope24, TelescopeFill16,
-        TelescopeFill24, Terminal16, Terminal24, ThreeBars16, ThreeBars24, Thumbsdown16,
-        Thumbsdown24, Thumbsup16, Thumbsup24, Tools16, Tools24, TrackedByClosedCompleted16,
-        TrackedByClosedCompleted24, TrackedByClosedNotPlanned16, TrackedByClosedNotPlanned24,
-        Trash16, Trash24, TriangleDown16, TriangleDown24, TriangleLeft16, TriangleLeft24,
-        TriangleRight16, TriangleRight24, TriangleUp16, TriangleUp24, Trophy16, Trophy24,
-        Typography16, Typography24, Undo16, Undo24, Unfold16, Unfold24, Unlink16, Unlink24,
-        Unlock16, Unlock24, Unmute16, Unmute24, Unread16, Unread24, Unverified16, Unverified24,
-        Upload16, Upload24, Verified16, Verified24, Versions16, Versions24, Video16, Video24,
-        Webhook16, Workflow16, Workflow24, X12, X16, X24, XCircle16, XCircle24, XCircleFill12,
+        NoEntry24, NoEntryFill12, Node16, Node24, NorthStar16, NorthStar24, Note16, Note24,
+        Number16, Number24, Organization16, Organization24, Package16, Package24,
+        PackageDependencies16, PackageDependencies24, PackageDependents16, PackageDependents24,
+        Paintbrush16, Paintbrush24, PaperAirplane16, PaperAirplane24, Paperclip16, Paperclip24,
+        PasskeyFill16, PasskeyFill24, Paste16, Paste24, Pause16, Pause24, Pencil16, Pencil24,
+        PencilAi16, PencilAi24, People16, People24, Person16, Person24, PersonAdd16, PersonAdd24,
+        PersonFill16, PersonFill24, Pin16, Pin24, PinSlash16, PinSlash24, PivotColumn16,
+        PivotColumn24, Play16, Play24, Plug16, Plug24, Plus16, Plus24, PlusCircle16, PlusCircle24,
+        Project16, Project24, ProjectRoadmap16, ProjectRoadmap24, ProjectSymlink16,
+        ProjectSymlink24, ProjectTemplate16, ProjectTemplate24, Pulse16, Pulse24, Question16,
+        Question24, Quote16, Quote24, Read16, Read24, Redo16, Redo24, RelFilePath16, RelFilePath24,
+        Reply16, Reply24, Repo16, Repo24, RepoClone16, RepoClone24, RepoDelete24, RepoDeleted16,
+        RepoForked16, RepoForked24, RepoLocked16, RepoLocked24, RepoPull16, RepoPull24, RepoPush16,
+        RepoPush24, RepoTemplate16, RepoTemplate24, Report16, Report24, Rocket16, Rocket24, Rows16,
+        Rows24, Rss16, Rss24, Ruby16, Ruby24, ScreenFull16, ScreenFull24, ScreenNormal16,
+        ScreenNormal24, Search16, Search24, Server16, Server24, Share16, Share24, ShareAndroid16,
+        ShareAndroid24, Shield16, Shield24, ShieldCheck16, ShieldCheck24, ShieldLock16,
+        ShieldLock24, ShieldSlash16, ShieldSlash24, ShieldX16, ShieldX24, SidebarCollapse16,
+        SidebarCollapse24, SidebarExpand16, SidebarExpand24, SignIn16, SignIn24, SignOut16,
+        SignOut24, SingleSelect16, SingleSelect24, Skip16, Skip24, SkipFill16, SkipFill24,
+        Sliders16, Sliders24, Smiley16, Smiley24, SmileyFrown16, SmileyFrown24, SmileyFrustrated16,
+        SmileyFrustrated24, SmileyGrin16, SmileyGrin24, SmileyNeutral16, SmileyNeutral24, SortAsc16,
+        SortAsc24, SortDesc16, SortDesc24, Space16, Space24, SpacingLarge16, SpacingLarge24,
+        SpacingMedium16, SpacingMedium24, SpacingSmall16, SpacingSmall24, Sparkle16, Sparkle24,
+        SparkleFill16, SparkleFill24, SparklesFill16, SparklesFill24, SplitView16, SplitView24,
+        SponsorTiers16, SponsorTiers24, Square16, Square24, SquareCircle16, SquareCircle24,
+        SquareFill16, SquareFill24, Squirrel16, Squirrel24, Stack16, Stack24, Star16, Star24,
+        StarFill16, StarFill24, Stop16, Stop24, Stopwatch16, Stopwatch24, Strikethrough16,
+        Strikethrough24, Sun16, Sun24, Sync16, Sync24, Tab16, Tab24, TabExternal16, TabExternal24,
+        Table16, Table24, Tag16, Tag24, Tasklist16, Tasklist24, Telescope16, Telescope24,
+        TelescopeFill16, TelescopeFill24, Terminal16, Terminal24, ThreeBars16, ThreeBars24,
+        Thumbsdown16, Thumbsdown24, Thumbsup16, Thumbsup24, Tools16, Tools24,
+        TrackedByClosedCompleted16, TrackedByClosedCompleted24, TrackedByClosedNotPlanned16,
+        TrackedByClosedNotPlanned24, Trash16, Trash24, TriangleDown16, TriangleDown24,
+        TriangleLeft16, TriangleLeft24, TriangleRight16, TriangleRight24, TriangleUp16,
+        TriangleUp24, Trophy16, Trophy24, Typography16, Typography24, Undo16, Undo24, Unfold16,
+        Unfold24, Unlink16, Unlink24, Unlock16, Unlock24, Unmute16, Unmute24, Unread16, Unread24,
+        Unverified16, Unverified24, Unwrap16, Unwrap24, Upload16, Upload24, Verified16, Verified24,
+        Versions16, Versions24, Video16, Video24, Vscode16, Vscode32, Vscode48, Webhook16,
+        Workflow16, Workflow24, Wrap16, Wrap24, X12, X16, X24, XCircle16, XCircle24, XCircleFill12,
         XCircleFill16, XCircleFill24, Zap16, Zap24, ZoomIn16, ZoomIn24, ZoomOut16, ZoomOut24)
     return __AllIcons!!
   }
