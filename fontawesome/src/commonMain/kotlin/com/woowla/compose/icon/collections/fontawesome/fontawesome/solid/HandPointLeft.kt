@@ -26,7 +26,7 @@ public val SolidGroup.HandPointLeft: ImageVector
                 reflectiveCurveToRelative(14.3f, 32.0f, 32.0f, 32.0f)
                 lineToRelative(208.0f, 0.0f)
                 lineToRelative(0.0f, -64.0f)
-                lineTo(32.0f, 96.0f)
+                lineToRelative(-208.0f, 0.0f)
                 close()
                 moveTo(192.0f, 288.0f)
                 curveToRelative(-17.7f, 0.0f, -32.0f, 14.3f, -32.0f, 32.0f)

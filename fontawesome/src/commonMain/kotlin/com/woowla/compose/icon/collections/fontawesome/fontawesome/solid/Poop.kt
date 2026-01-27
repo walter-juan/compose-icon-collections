@@ -23,7 +23,7 @@ public val SolidGroup.Poop: ImageVector
                     pathFillType = NonZero) {
                 moveTo(254.4f, 6.6f)
                 curveToRelative(3.5f, -4.3f, 9.0f, -6.5f, 14.5f, -5.7f)
-                curveTo(315.8f, 7.2f, 352.0f, 47.4f, 352.0f, 96.0f)
+                curveToRelative(46.9f, 6.3f, 83.1f, 46.5f, 83.1f, 95.1f)
                 curveToRelative(0.0f, 11.2f, -1.9f, 22.0f, -5.5f, 32.0f)
                 lineToRelative(5.5f, 0.0f)
                 curveToRelative(35.3f, 0.0f, 64.0f, 28.7f, 64.0f, 64.0f)
@@ -39,7 +39,7 @@ public val SolidGroup.Poop: ImageVector
                 curveToRelative(-17.0f, -13.2f, -28.0f, -33.8f, -28.0f, -57.0f)
                 curveToRelative(0.0f, -39.8f, 32.2f, -72.0f, 72.0f, -72.0f)
                 lineToRelative(13.7f, 0.0f)
-                curveTo(104.4f, 228.3f, 96.0f, 211.1f, 96.0f, 192.0f)
+                curveToRelative(-13.3f, -11.7f, -21.7f, -28.9f, -21.7f, -48.0f)
                 curveToRelative(0.0f, -35.3f, 28.7f, -64.0f, 64.0f, -64.0f)
                 lineToRelative(16.2f, 0.0f)
                 curveToRelative(44.1f, -0.1f, 79.8f, -35.9f, 79.8f, -80.0f)

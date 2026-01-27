@@ -23,19 +23,19 @@ public val SolidGroup.Ban: ImageVector
                     pathFillType = NonZero) {
                 moveTo(367.2f, 412.5f)
                 lineTo(99.5f, 144.8f)
-                curveTo(77.1f, 176.1f, 64.0f, 214.5f, 64.0f, 256.0f)
+                curveToRelative(-22.4f, 31.4f, -35.5f, 69.8f, -35.5f, 111.2f)
                 curveToRelative(0.0f, 106.0f, 86.0f, 192.0f, 192.0f, 192.0f)
                 curveToRelative(41.5f, 0.0f, 79.9f, -13.1f, 111.2f, -35.5f)
                 close()
                 moveTo(412.5f, 367.2f)
-                curveTo(434.9f, 335.9f, 448.0f, 297.5f, 448.0f, 256.0f)
+                curveToRelative(22.4f, -31.4f, 35.5f, -69.8f, 35.5f, -111.2f)
                 curveToRelative(0.0f, -106.0f, -86.0f, -192.0f, -192.0f, -192.0f)
                 curveToRelative(-41.5f, 0.0f, -79.9f, 13.1f, -111.2f, 35.5f)
                 lineTo(412.5f, 367.2f)
                 close()
                 moveTo(0.0f, 256.0f)
                 arcToRelative(256.0f, 256.0f, 0.0f, true, true, 512.0f, 0.0f)
-                arcTo(256.0f, 256.0f, 0.0f, true, true, 0.0f, 256.0f)
+                arcToRelative(256.0f, 256.0f, 0.0f, true, true, -512.0f, 0.0f)
                 close()
             }
         }

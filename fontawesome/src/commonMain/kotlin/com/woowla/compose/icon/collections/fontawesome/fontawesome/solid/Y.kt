@@ -29,7 +29,7 @@ public val SolidGroup.Y: ImageVector
                 curveToRelative(0.0f, 17.7f, 14.3f, 32.0f, 32.0f, 32.0f)
                 reflectiveCurveToRelative(32.0f, -14.3f, 32.0f, -32.0f)
                 lineToRelative(0.0f, -149.7f)
-                lineTo(378.0f, 82.6f)
+                lineToRelative(154.0f, -215.7f)
                 curveToRelative(10.3f, -14.4f, 6.9f, -34.4f, -7.4f, -44.6f)
                 reflectiveCurveTo(336.2f, 31.0f, 326.0f, 45.4f)
                 lineTo(192.0f, 232.9f)

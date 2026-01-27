@@ -49,7 +49,7 @@ public val SolidGroup.Route: ImageVector
                 lineToRelative(-1.8f, 2.0f)
                 lineToRelative(-0.2f, -0.2f)
                 curveToRelative(-6.0f, 4.6f, -14.6f, 4.0f, -20.0f, -1.8f)
-                curveTo(59.8f, 473.0f, 0.0f, 402.5f, 0.0f, 352.0f)
+                curveToRelative(-25.2f, -27.4f, -85.0f, -97.9f, -85.0f, -148.4f)
                 curveToRelative(0.0f, -53.0f, 43.0f, -96.0f, 96.0f, -96.0f)
                 reflectiveCurveToRelative(96.0f, 43.0f, 96.0f, 96.0f)
                 curveToRelative(0.0f, 30.0f, -21.1f, 67.0f, -43.5f, 97.9f)

@@ -23,7 +23,7 @@ public val SolidGroup.Compress: ImageVector
                     pathFillType = NonZero) {
                 moveTo(160.0f, 64.0f)
                 curveToRelative(0.0f, -17.7f, -14.3f, -32.0f, -32.0f, -32.0f)
-                reflectiveCurveToRelative(-32.0f, 14.3f, -32.0f, 32.0f)
+                reflectiveCurveTo(96.0f, 46.3f, 96.0f, 64.0f)
                 lineToRelative(0.0f, 64.0f)
                 lineToRelative(-64.0f, 0.0f)
                 curveToRelative(-17.7f, 0.0f, -32.0f, 14.3f, -32.0f, 32.0f)

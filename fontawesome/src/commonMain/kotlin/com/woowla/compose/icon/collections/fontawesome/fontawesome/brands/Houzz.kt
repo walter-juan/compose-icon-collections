@@ -21,16 +21,17 @@ public val BrandsGroup.Houzz: ImageVector
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(275.9f, 330.7f)
-                horizontalLineTo(171.3f)
-                verticalLineTo(480.0f)
-                horizontalLineTo(17.0f)
-                verticalLineTo(32.0f)
-                horizontalLineToRelative(109.5f)
-                verticalLineToRelative(104.5f)
+                moveTo(276.0f, 330.7f)
+                lineToRelative(-104.6f, 0.0f)
+                lineToRelative(0.0f, 149.3f)
+                lineToRelative(-154.3f, 0.0f)
+                lineToRelative(0.0f, -448.0f)
+                lineToRelative(109.5f, 0.0f)
+                lineToRelative(0.0f, 104.5f)
                 lineToRelative(305.1f, 85.6f)
-                verticalLineTo(480.0f)
-                horizontalLineTo(275.9f)
+                lineToRelative(0.0f, 257.9f)
+                lineToRelative(-155.7f, 0.0f)
+                lineToRelative(0.0f, -149.3f)
                 close()
             }
         }

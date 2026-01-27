@@ -31,7 +31,7 @@ public val SolidGroup.Palette: ImageVector
                 curveToRelative(6.1f, 13.8f, 12.1f, 27.5f, 12.1f, 42.0f)
                 curveToRelative(0.0f, 31.8f, -21.6f, 60.7f, -53.4f, 62.0f)
                 curveToRelative(-3.5f, 0.1f, -7.0f, 0.2f, -10.6f, 0.2f)
-                curveTo(114.6f, 512.0f, 0.0f, 397.4f, 0.0f, 256.0f)
+                curveToRelative(-141.4f, 0.0f, -256.0f, -114.6f, -256.0f, -256.0f)
                 reflectiveCurveTo(114.6f, 0.0f, 256.0f, 0.0f)
                 reflectiveCurveTo(512.0f, 114.6f, 512.0f, 256.0f)
                 close()

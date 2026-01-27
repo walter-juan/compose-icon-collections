@@ -16,32 +16,37 @@ public val SolidGroup.ClockRotateLeft: ImageVector
         if (_clockRotateLeft != null) {
             return _clockRotateLeft!!
         }
-        _clockRotateLeft = Builder(name = "ClockRotateLeft", defaultWidth = 512.0.dp, defaultHeight
-                = 512.0.dp, viewportWidth = 512.0f, viewportHeight = 512.0f).apply {
+        _clockRotateLeft = Builder(name = "ClockRotateLeft", defaultWidth = 576.0.dp, defaultHeight
+                = 512.0.dp, viewportWidth = 576.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(75.0f, 75.0f)
-                lineTo(41.0f, 41.0f)
-                curveTo(25.9f, 25.9f, 0.0f, 36.6f, 0.0f, 57.9f)
-                lineTo(0.0f, 168.0f)
-                curveToRelative(0.0f, 13.3f, 10.7f, 24.0f, 24.0f, 24.0f)
-                lineToRelative(110.1f, 0.0f)
-                curveToRelative(21.4f, 0.0f, 32.1f, -25.9f, 17.0f, -41.0f)
-                lineToRelative(-30.8f, -30.8f)
-                curveTo(155.0f, 85.5f, 203.0f, 64.0f, 256.0f, 64.0f)
+                moveTo(288.0f, 64.0f)
                 curveToRelative(106.0f, 0.0f, 192.0f, 86.0f, 192.0f, 192.0f)
-                reflectiveCurveToRelative(-86.0f, 192.0f, -192.0f, 192.0f)
-                curveToRelative(-40.8f, 0.0f, -78.6f, -12.7f, -109.7f, -34.4f)
-                curveToRelative(-14.5f, -10.1f, -34.4f, -6.6f, -44.6f, 7.9f)
-                reflectiveCurveToRelative(-6.6f, 34.4f, 7.9f, 44.6f)
-                curveTo(151.2f, 495.0f, 201.7f, 512.0f, 256.0f, 512.0f)
-                curveToRelative(141.4f, 0.0f, 256.0f, -114.6f, 256.0f, -256.0f)
-                reflectiveCurveTo(397.4f, 0.0f, 256.0f, 0.0f)
-                curveTo(185.3f, 0.0f, 121.3f, 28.7f, 75.0f, 75.0f)
+                reflectiveCurveTo(394.0f, 448.0f, 288.0f, 448.0f)
+                curveToRelative(-65.2f, 0.0f, -122.9f, -32.5f, -157.6f, -82.3f)
+                curveToRelative(-10.1f, -14.5f, -30.1f, -18.0f, -44.6f, -7.9f)
+                reflectiveCurveToRelative(-18.0f, 30.1f, -7.9f, 44.6f)
+                curveTo(124.1f, 468.6f, 201.0f, 512.0f, 288.0f, 512.0f)
+                curveTo(429.4f, 512.0f, 544.0f, 397.4f, 544.0f, 256.0f)
+                reflectiveCurveTo(429.4f, 0.0f, 288.0f, 0.0f)
+                curveTo(202.3f, 0.0f, 126.5f, 42.1f, 80.0f, 106.7f)
+                lineTo(80.0f, 80.0f)
+                curveToRelative(0.0f, -17.7f, -14.3f, -32.0f, -32.0f, -32.0f)
+                reflectiveCurveTo(16.0f, 62.3f, 16.0f, 80.0f)
+                lineToRelative(0.0f, 112.0f)
+                curveToRelative(0.0f, 17.7f, 14.3f, 32.0f, 32.0f, 32.0f)
+                lineToRelative(24.6f, 0.0f)
+                curveToRelative(0.5f, 0.0f, 1.0f, 0.0f, 1.5f, 0.0f)
+                lineToRelative(86.0f, 0.0f)
+                curveToRelative(17.7f, 0.0f, 32.0f, -14.3f, 32.0f, -32.0f)
+                reflectiveCurveToRelative(-14.3f, -32.0f, -32.0f, -32.0f)
+                lineToRelative(-38.3f, 0.0f)
+                curveTo(154.9f, 102.6f, 217.0f, 64.0f, 288.0f, 64.0f)
                 close()
-                moveTo(256.0f, 128.0f)
-                curveToRelative(-13.3f, 0.0f, -24.0f, 10.7f, -24.0f, 24.0f)
+                moveTo(312.0f, 152.0f)
+                curveToRelative(0.0f, -13.3f, -10.7f, -24.0f, -24.0f, -24.0f)
+                reflectiveCurveToRelative(-24.0f, 10.7f, -24.0f, 24.0f)
                 lineToRelative(0.0f, 104.0f)
                 curveToRelative(0.0f, 6.4f, 2.5f, 12.5f, 7.0f, 17.0f)
                 lineToRelative(72.0f, 72.0f)
@@ -49,7 +54,6 @@ public val SolidGroup.ClockRotateLeft: ImageVector
                 reflectiveCurveToRelative(9.4f, -24.6f, 0.0f, -33.9f)
                 lineToRelative(-65.0f, -65.0f)
                 lineToRelative(0.0f, -94.1f)
-                curveToRelative(0.0f, -13.3f, -10.7f, -24.0f, -24.0f, -24.0f)
                 close()
             }
         }

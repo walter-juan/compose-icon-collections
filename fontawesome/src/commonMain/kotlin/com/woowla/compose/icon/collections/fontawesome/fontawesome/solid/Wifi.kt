@@ -16,34 +16,34 @@ public val SolidGroup.Wifi: ImageVector
         if (_wifi != null) {
             return _wifi!!
         }
-        _wifi = Builder(name = "Wifi", defaultWidth = 640.0.dp, defaultHeight = 512.0.dp,
-                viewportWidth = 640.0f, viewportHeight = 512.0f).apply {
+        _wifi = Builder(name = "Wifi", defaultWidth = 576.0.dp, defaultHeight = 512.0.dp,
+                viewportWidth = 576.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(54.2f, 202.9f)
-                curveTo(123.2f, 136.7f, 216.8f, 96.0f, 320.0f, 96.0f)
-                reflectiveCurveToRelative(196.8f, 40.7f, 265.8f, 106.9f)
-                curveToRelative(12.8f, 12.2f, 33.0f, 11.8f, 45.2f, -0.9f)
-                reflectiveCurveToRelative(11.8f, -33.0f, -0.9f, -45.2f)
-                curveTo(549.7f, 79.5f, 440.4f, 32.0f, 320.0f, 32.0f)
-                reflectiveCurveTo(90.3f, 79.5f, 9.8f, 156.7f)
-                curveTo(-2.9f, 169.0f, -3.3f, 189.2f, 8.9f, 202.0f)
-                reflectiveCurveToRelative(32.5f, 13.2f, 45.2f, 0.9f)
+                moveTo(288.0f, 96.0f)
+                curveToRelative(-90.9f, 0.0f, -173.2f, 36.0f, -233.7f, 94.6f)
+                curveToRelative(-12.7f, 12.3f, -33.0f, 12.0f, -45.2f, -0.7f)
+                reflectiveCurveToRelative(-12.0f, -33.0f, 0.7f, -45.2f)
+                curveTo(81.7f, 74.9f, 179.9f, 32.0f, 288.0f, 32.0f)
+                reflectiveCurveTo(494.3f, 74.9f, 566.3f, 144.7f)
+                curveToRelative(12.7f, 12.3f, 13.0f, 32.6f, 0.7f, 45.2f)
+                reflectiveCurveToRelative(-32.6f, 13.0f, -45.2f, 0.7f)
+                curveTo(461.2f, 132.0f, 378.9f, 96.0f, 288.0f, 96.0f)
                 close()
-                moveTo(320.0f, 256.0f)
-                curveToRelative(56.8f, 0.0f, 108.6f, 21.1f, 148.2f, 56.0f)
-                curveToRelative(13.3f, 11.7f, 33.5f, 10.4f, 45.2f, -2.8f)
-                reflectiveCurveToRelative(10.4f, -33.5f, -2.8f, -45.2f)
-                curveTo(459.8f, 219.2f, 393.0f, 192.0f, 320.0f, 192.0f)
-                reflectiveCurveToRelative(-139.8f, 27.2f, -190.5f, 72.0f)
-                curveToRelative(-13.3f, 11.7f, -14.5f, 31.9f, -2.8f, 45.2f)
-                reflectiveCurveToRelative(31.9f, 14.5f, 45.2f, 2.8f)
-                curveToRelative(39.5f, -34.9f, 91.3f, -56.0f, 148.2f, -56.0f)
+                moveTo(240.0f, 432.0f)
+                arcToRelative(48.0f, 48.0f, 0.0f, true, true, 96.0f, 0.0f)
+                arcToRelative(48.0f, 48.0f, 0.0f, true, true, -96.0f, 0.0f)
                 close()
-                moveTo(384.0f, 416.0f)
-                arcToRelative(64.0f, 64.0f, 0.0f, true, false, -128.0f, 0.0f)
-                arcToRelative(64.0f, 64.0f, 0.0f, true, false, 128.0f, 0.0f)
+                moveTo(168.0f, 326.2f)
+                curveToRelative(-11.7f, 13.3f, -31.9f, 14.5f, -45.2f, 2.8f)
+                reflectiveCurveToRelative(-14.5f, -31.9f, -2.8f, -45.2f)
+                curveTo(161.0f, 237.4f, 221.1f, 208.0f, 288.0f, 208.0f)
+                reflectiveCurveToRelative(127.0f, 29.4f, 168.0f, 75.8f)
+                curveToRelative(11.7f, 13.3f, 10.4f, 33.5f, -2.8f, 45.2f)
+                reflectiveCurveToRelative(-33.5f, 10.4f, -45.2f, -2.8f)
+                curveTo(378.6f, 292.9f, 335.8f, 272.0f, 288.0f, 272.0f)
+                reflectiveCurveToRelative(-90.6f, 20.9f, -120.0f, 54.2f)
                 close()
             }
         }

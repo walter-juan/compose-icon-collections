@@ -16,27 +16,27 @@ public val SolidGroup.Terminal: ImageVector
         if (_terminal != null) {
             return _terminal!!
         }
-        _terminal = Builder(name = "Terminal", defaultWidth = 576.0.dp, defaultHeight = 512.0.dp,
-                viewportWidth = 576.0f, viewportHeight = 512.0f).apply {
+        _terminal = Builder(name = "Terminal", defaultWidth = 512.0.dp, defaultHeight = 512.0.dp,
+                viewportWidth = 512.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(9.4f, 86.6f)
-                curveTo(-3.1f, 74.1f, -3.1f, 53.9f, 9.4f, 41.4f)
+                moveTo(9.4f, 118.6f)
+                curveToRelative(-12.5f, -12.5f, -12.5f, -32.8f, 0.0f, -45.3f)
                 reflectiveCurveToRelative(32.8f, -12.5f, 45.3f, 0.0f)
-                lineToRelative(192.0f, 192.0f)
+                lineToRelative(160.0f, 160.0f)
                 curveToRelative(12.5f, 12.5f, 12.5f, 32.8f, 0.0f, 45.3f)
-                lineToRelative(-192.0f, 192.0f)
+                lineToRelative(-160.0f, 160.0f)
                 curveToRelative(-12.5f, 12.5f, -32.8f, 12.5f, -45.3f, 0.0f)
                 reflectiveCurveToRelative(-12.5f, -32.8f, 0.0f, -45.3f)
-                lineTo(178.7f, 256.0f)
-                lineTo(9.4f, 86.6f)
+                lineTo(146.7f, 256.0f)
+                lineTo(9.4f, 118.6f)
                 close()
-                moveTo(256.0f, 416.0f)
-                lineToRelative(288.0f, 0.0f)
+                moveTo(224.0f, 384.0f)
+                lineToRelative(256.0f, 0.0f)
                 curveToRelative(17.7f, 0.0f, 32.0f, 14.3f, 32.0f, 32.0f)
                 reflectiveCurveToRelative(-14.3f, 32.0f, -32.0f, 32.0f)
-                lineToRelative(-288.0f, 0.0f)
+                lineToRelative(-256.0f, 0.0f)
                 curveToRelative(-17.7f, 0.0f, -32.0f, -14.3f, -32.0f, -32.0f)
                 reflectiveCurveToRelative(14.3f, -32.0f, 32.0f, -32.0f)
                 close()

@@ -16,12 +16,12 @@ public val SolidGroup.ChartSimple: ImageVector
         if (_chartSimple != null) {
             return _chartSimple!!
         }
-        _chartSimple = Builder(name = "ChartSimple", defaultWidth = 448.0.dp, defaultHeight =
-                512.0.dp, viewportWidth = 448.0f, viewportHeight = 512.0f).apply {
+        _chartSimple = Builder(name = "ChartSimple", defaultWidth = 512.0.dp, defaultHeight =
+                512.0.dp, viewportWidth = 512.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(160.0f, 80.0f)
+                moveTo(192.0f, 80.0f)
                 curveToRelative(0.0f, -26.5f, 21.5f, -48.0f, 48.0f, -48.0f)
                 lineToRelative(32.0f, 0.0f)
                 curveToRelative(26.5f, 0.0f, 48.0f, 21.5f, 48.0f, 48.0f)
@@ -41,7 +41,7 @@ public val SolidGroup.ChartSimple: ImageVector
                 curveToRelative(-26.5f, 0.0f, -48.0f, -21.5f, -48.0f, -48.0f)
                 lineTo(0.0f, 272.0f)
                 close()
-                moveTo(368.0f, 96.0f)
+                moveTo(432.0f, 96.0f)
                 lineToRelative(32.0f, 0.0f)
                 curveToRelative(26.5f, 0.0f, 48.0f, 21.5f, 48.0f, 48.0f)
                 lineToRelative(0.0f, 288.0f)

@@ -25,7 +25,7 @@ public val BrandsGroup.VimeoV: ImageVector
                 curveToRelative(-2.0f, 43.6f, -32.4f, 103.3f, -91.4f, 179.1f)
                 curveToRelative(-60.9f, 79.2f, -112.4f, 118.8f, -154.6f, 118.8f)
                 curveToRelative(-26.1f, 0.0f, -48.2f, -24.1f, -66.3f, -72.3f)
-                curveTo(100.3f, 250.0f, 85.3f, 174.3f, 56.2f, 174.3f)
+                curveToRelative(-35.2f, -129.2f, -50.2f, -204.9f, -79.3f, -204.9f)
                 curveToRelative(-3.4f, 0.0f, -15.1f, 7.1f, -35.2f, 21.1f)
                 lineTo(0.0f, 168.2f)
                 curveToRelative(51.6f, -45.3f, 100.9f, -95.7f, 131.8f, -98.5f)

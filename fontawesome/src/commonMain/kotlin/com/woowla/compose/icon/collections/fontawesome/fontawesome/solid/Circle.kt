@@ -21,9 +21,9 @@ public val SolidGroup.Circle: ImageVector
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(256.0f, 512.0f)
-                arcTo(256.0f, 256.0f, 0.0f, true, false, 256.0f, 0.0f)
-                arcToRelative(256.0f, 256.0f, 0.0f, true, false, 0.0f, 512.0f)
+                moveTo(0.0f, 256.0f)
+                arcToRelative(256.0f, 256.0f, 0.0f, true, true, 512.0f, 0.0f)
+                arcToRelative(256.0f, 256.0f, 0.0f, true, true, -512.0f, 0.0f)
                 close()
             }
         }

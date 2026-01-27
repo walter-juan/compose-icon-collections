@@ -21,21 +21,19 @@ public val BrandsGroup.Hashnode: ImageVector
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(35.19f, 171.1f)
-                curveTo(-11.72f, 217.1f, -11.72f, 294.0f, 35.19f, 340.9f)
-                lineTo(171.1f, 476.8f)
-                curveTo(217.1f, 523.7f, 294.0f, 523.7f, 340.9f, 476.8f)
-                lineTo(476.8f, 340.9f)
-                curveTo(523.7f, 294.0f, 523.7f, 217.1f, 476.8f, 171.1f)
-                lineTo(340.9f, 35.19f)
-                curveTo(294.0f, -11.72f, 217.1f, -11.72f, 171.1f, 35.19f)
-                lineTo(35.19f, 171.1f)
+                moveTo(35.7f, 171.1f)
+                curveToRelative(-46.9f, 46.0f, -46.9f, 122.9f, 0.0f, 169.8f)
+                lineTo(171.6f, 476.8f)
+                curveToRelative(46.0f, 46.9f, 122.9f, 46.9f, 169.8f, 0.0f)
+                lineTo(477.3f, 340.9f)
+                curveToRelative(46.9f, -46.9f, 46.9f, -123.8f, 0.0f, -169.8f)
+                lineTo(341.4f, 35.2f)
+                curveToRelative(-46.9f, -46.9f, -123.8f, -46.9f, -169.8f, 0.0f)
+                lineTo(35.7f, 171.1f)
                 close()
-                moveTo(315.5f, 315.5f)
-                curveTo(282.6f, 348.3f, 229.4f, 348.3f, 196.6f, 315.5f)
-                curveTo(163.7f, 282.6f, 163.7f, 229.4f, 196.6f, 196.6f)
-                curveTo(229.4f, 163.7f, 282.6f, 163.7f, 315.5f, 196.6f)
-                curveTo(348.3f, 229.4f, 348.3f, 282.6f, 315.5f, 315.5f)
+                moveTo(196.0f, 196.5f)
+                arcToRelative(84.5f, 84.5f, 0.0f, true, true, 120.0f, 119.0f)
+                arcToRelative(84.5f, 84.5f, 0.0f, true, true, -120.0f, -119.0f)
                 close()
             }
         }

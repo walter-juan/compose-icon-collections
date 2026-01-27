@@ -22,7 +22,7 @@ public val SolidGroup.KitchenSet: ImageVector
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
                 moveTo(240.0f, 144.0f)
-                arcTo(96.0f, 96.0f, 0.0f, true, false, 48.0f, 144.0f)
+                arcToRelative(96.0f, 96.0f, 0.0f, true, false, -192.0f, 0.0f)
                 arcToRelative(96.0f, 96.0f, 0.0f, true, false, 192.0f, 0.0f)
                 close()
                 moveTo(284.4f, 176.0f)
@@ -65,9 +65,7 @@ public val SolidGroup.KitchenSet: ImageVector
                 curveToRelative(-26.5f, 0.0f, -48.0f, -21.5f, -48.0f, -48.0f)
                 close()
                 moveTo(48.0f, 320.0f)
-                lineToRelative(80.0f, 0.0f)
-                lineToRelative(16.0f, 0.0f)
-                lineToRelative(32.0f, 0.0f)
+                lineToRelative(128.0f, 0.0f)
                 curveToRelative(26.5f, 0.0f, 48.0f, 21.5f, 48.0f, 48.0f)
                 reflectiveCurveToRelative(-21.5f, 48.0f, -48.0f, 48.0f)
                 lineToRelative(-16.0f, 0.0f)

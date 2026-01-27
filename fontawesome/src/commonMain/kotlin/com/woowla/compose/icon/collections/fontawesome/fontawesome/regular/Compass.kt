@@ -22,12 +22,12 @@ public val RegularGroup.Compass: ImageVector
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
                 moveTo(464.0f, 256.0f)
-                arcTo(208.0f, 208.0f, 0.0f, true, false, 48.0f, 256.0f)
+                arcToRelative(208.0f, 208.0f, 0.0f, true, false, -416.0f, 0.0f)
                 arcToRelative(208.0f, 208.0f, 0.0f, true, false, 416.0f, 0.0f)
                 close()
                 moveTo(0.0f, 256.0f)
                 arcToRelative(256.0f, 256.0f, 0.0f, true, true, 512.0f, 0.0f)
-                arcTo(256.0f, 256.0f, 0.0f, true, true, 0.0f, 256.0f)
+                arcToRelative(256.0f, 256.0f, 0.0f, true, true, -512.0f, 0.0f)
                 close()
                 moveTo(306.7f, 325.1f)
                 lineTo(162.4f, 380.6f)
@@ -37,7 +37,7 @@ public val RegularGroup.Compass: ImageVector
                 lineToRelative(144.3f, -55.5f)
                 curveToRelative(19.4f, -7.5f, 38.5f, 11.6f, 31.0f, 31.0f)
                 lineTo(325.1f, 306.7f)
-                curveToRelative(-3.2f, 8.5f, -9.9f, 15.1f, -18.4f, 18.4f)
+                curveToRelative(-3.3f, 8.5f, -9.9f, 15.1f, -18.4f, 18.4f)
                 close()
                 moveTo(288.0f, 256.0f)
                 arcToRelative(32.0f, 32.0f, 0.0f, true, false, -64.0f, 0.0f)

@@ -21,7 +21,7 @@ public val SolidGroup.Paw: ImageVector
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(226.5f, 92.9f)
+                moveTo(234.5f, 92.9f)
                 curveToRelative(14.3f, 42.9f, -0.3f, 86.2f, -32.6f, 96.8f)
                 reflectiveCurveToRelative(-70.1f, -15.6f, -84.4f, -58.5f)
                 reflectiveCurveToRelative(0.3f, -86.2f, 32.6f, -96.8f)
@@ -30,7 +30,7 @@ public val SolidGroup.Paw: ImageVector
                 moveTo(100.4f, 198.6f)
                 curveToRelative(18.9f, 32.4f, 14.3f, 70.1f, -10.2f, 84.1f)
                 reflectiveCurveToRelative(-59.7f, -0.9f, -78.5f, -33.3f)
-                reflectiveCurveTo(-2.7f, 179.3f, 21.8f, 165.3f)
+                reflectiveCurveToRelative(-14.3f, -70.1f, 10.2f, -84.1f)
                 reflectiveCurveToRelative(59.7f, 0.9f, 78.5f, 33.3f)
                 close()
                 moveTo(69.2f, 401.2f)
@@ -44,7 +44,7 @@ public val SolidGroup.Paw: ImageVector
                 curveToRelative(-15.3f, -3.8f, -31.3f, -3.8f, -46.6f, 0.0f)
                 lineToRelative(-88.0f, 22.0f)
                 curveToRelative(-11.1f, 2.8f, -22.5f, 4.2f, -34.0f, 4.2f)
-                curveTo(84.9f, 480.0f, 64.0f, 459.1f, 64.0f, 433.3f)
+                curveToRelative(-25.8f, 0.0f, -46.7f, -20.9f, -46.7f, -46.7f)
                 lineToRelative(0.0f, -1.6f)
                 curveToRelative(0.0f, -10.4f, 1.6f, -20.8f, 5.2f, -30.5f)
                 close()

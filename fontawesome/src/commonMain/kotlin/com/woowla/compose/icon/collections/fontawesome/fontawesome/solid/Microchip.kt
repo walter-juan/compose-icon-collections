@@ -93,11 +93,11 @@ public val SolidGroup.Microchip: ImageVector
                 lineToRelative(0.0f, -192.0f)
                 curveToRelative(0.0f, -17.7f, 14.3f, -32.0f, 32.0f, -32.0f)
                 close()
-                moveTo(352.0f, 160.0f)
-                lineToRelative(-192.0f, 0.0f)
-                lineToRelative(0.0f, 192.0f)
-                lineToRelative(192.0f, 0.0f)
-                lineToRelative(0.0f, -192.0f)
+                moveTo(176.0f, 176.0f)
+                lineToRelative(0.0f, 160.0f)
+                lineToRelative(160.0f, 0.0f)
+                lineToRelative(0.0f, -160.0f)
+                lineToRelative(-160.0f, 0.0f)
                 close()
             }
         }

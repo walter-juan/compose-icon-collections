@@ -27,7 +27,7 @@ public val RegularGroup.IdBadge: ImageVector
                 lineToRelative(-64.0f, 0.0f)
                 curveToRelative(-17.7f, 0.0f, -32.0f, -14.3f, -32.0f, -32.0f)
                 lineToRelative(0.0f, -16.0f)
-                lineTo(64.0f, 48.0f)
+                lineToRelative(-64.0f, 0.0f)
                 curveToRelative(-8.8f, 0.0f, -16.0f, 7.2f, -16.0f, 16.0f)
                 lineToRelative(0.0f, 384.0f)
                 curveToRelative(0.0f, 8.8f, 7.2f, 16.0f, 16.0f, 16.0f)
@@ -55,9 +55,9 @@ public val RegularGroup.IdBadge: ImageVector
                 curveToRelative(-8.8f, 0.0f, -16.0f, -7.2f, -16.0f, -16.0f)
                 curveToRelative(0.0f, -44.2f, 35.8f, -80.0f, 80.0f, -80.0f)
                 close()
-                moveTo(128.0f, 224.0f)
-                arcToRelative(64.0f, 64.0f, 0.0f, true, true, 128.0f, 0.0f)
-                arcToRelative(64.0f, 64.0f, 0.0f, true, true, -128.0f, 0.0f)
+                moveTo(136.0f, 224.0f)
+                arcToRelative(56.0f, 56.0f, 0.0f, true, true, 112.0f, 0.0f)
+                arcToRelative(56.0f, 56.0f, 0.0f, true, true, -112.0f, 0.0f)
                 close()
             }
         }

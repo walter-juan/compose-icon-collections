@@ -16,14 +16,14 @@ public val SolidGroup.TableColumns: ImageVector
         if (_tableColumns != null) {
             return _tableColumns!!
         }
-        _tableColumns = Builder(name = "TableColumns", defaultWidth = 512.0.dp, defaultHeight =
-                512.0.dp, viewportWidth = 512.0f, viewportHeight = 512.0f).apply {
+        _tableColumns = Builder(name = "TableColumns", defaultWidth = 448.0.dp, defaultHeight =
+                512.0.dp, viewportWidth = 448.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
                 moveTo(0.0f, 96.0f)
                 curveTo(0.0f, 60.7f, 28.7f, 32.0f, 64.0f, 32.0f)
-                lineToRelative(384.0f, 0.0f)
+                lineToRelative(320.0f, 0.0f)
                 curveToRelative(35.3f, 0.0f, 64.0f, 28.7f, 64.0f, 64.0f)
                 lineToRelative(0.0f, 320.0f)
                 curveToRelative(0.0f, 35.3f, -28.7f, 64.0f, -64.0f, 64.0f)
@@ -33,14 +33,14 @@ public val SolidGroup.TableColumns: ImageVector
                 close()
                 moveTo(64.0f, 160.0f)
                 lineToRelative(0.0f, 256.0f)
-                lineToRelative(160.0f, 0.0f)
+                lineToRelative(128.0f, 0.0f)
                 lineToRelative(0.0f, -256.0f)
-                lineTo(64.0f, 160.0f)
+                lineToRelative(-128.0f, 0.0f)
                 close()
-                moveTo(448.0f, 160.0f)
-                lineToRelative(-160.0f, 0.0f)
+                moveTo(384.0f, 160.0f)
+                lineToRelative(-128.0f, 0.0f)
                 lineToRelative(0.0f, 256.0f)
-                lineToRelative(160.0f, 0.0f)
+                lineToRelative(128.0f, 0.0f)
                 lineToRelative(0.0f, -256.0f)
                 close()
             }

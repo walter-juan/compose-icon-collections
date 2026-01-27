@@ -16,30 +16,30 @@ public val BrandsGroup.XTwitter: ImageVector
         if (_xTwitter != null) {
             return _xTwitter!!
         }
-        _xTwitter = Builder(name = "XTwitter", defaultWidth = 512.0.dp, defaultHeight = 512.0.dp,
-                viewportWidth = 512.0f, viewportHeight = 512.0f).apply {
+        _xTwitter = Builder(name = "XTwitter", defaultWidth = 448.0.dp, defaultHeight = 512.0.dp,
+                viewportWidth = 448.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(389.2f, 48.0f)
-                horizontalLineToRelative(70.6f)
-                lineTo(305.6f, 224.2f)
-                lineTo(487.0f, 464.0f)
-                horizontalLineTo(345.0f)
-                lineTo(233.7f, 318.6f)
-                lineTo(106.5f, 464.0f)
-                horizontalLineTo(35.8f)
-                lineTo(200.7f, 275.5f)
-                lineTo(26.8f, 48.0f)
-                horizontalLineTo(172.4f)
-                lineTo(272.9f, 180.9f)
-                lineTo(389.2f, 48.0f)
+                moveTo(357.2f, 48.0f)
+                lineTo(427.8f, 48.0f)
+                lineTo(273.6f, 224.2f)
+                lineTo(455.0f, 464.0f)
+                lineTo(313.0f, 464.0f)
+                lineTo(201.7f, 318.6f)
+                lineTo(74.5f, 464.0f)
+                lineTo(3.8f, 464.0f)
+                lineTo(168.7f, 275.5f)
+                lineTo(-5.2f, 48.0f)
+                lineTo(140.4f, 48.0f)
+                lineTo(240.9f, 180.9f)
+                lineTo(357.2f, 48.0f)
                 close()
-                moveTo(364.4f, 421.8f)
-                horizontalLineToRelative(39.1f)
-                lineTo(151.1f, 88.0f)
-                horizontalLineToRelative(-42.0f)
-                lineTo(364.4f, 421.8f)
+                moveTo(332.4f, 421.8f)
+                lineToRelative(39.1f, 0.0f)
+                lineToRelative(-252.4f, -333.8f)
+                lineToRelative(-42.0f, 0.0f)
+                lineToRelative(255.3f, 333.8f)
                 close()
             }
         }

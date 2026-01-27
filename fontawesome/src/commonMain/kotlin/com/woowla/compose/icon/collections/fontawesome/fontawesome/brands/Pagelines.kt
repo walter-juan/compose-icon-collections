@@ -21,7 +21,7 @@ public val BrandsGroup.Pagelines: ImageVector
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(384.0f, 312.7f)
+                moveTo(384.1f, 312.7f)
                 curveToRelative(-55.1f, 136.7f, -187.1f, 54.0f, -187.1f, 54.0f)
                 curveToRelative(-40.5f, 81.8f, -107.4f, 134.4f, -184.6f, 134.7f)
                 curveToRelative(-16.1f, 0.0f, -16.6f, -24.4f, 0.0f, -24.4f)

@@ -17,15 +17,6 @@
             ]
         },
         {
-            "name": "FontAwesome",
-            "value": "fontawesome",
-            "categories": [
-                "regular",
-                "solid",
-                "brands"
-            ]
-        },
-        {
             "name": "Twbs",
             "value": "twbs",
             "categories": [
@@ -96,6 +87,15 @@
                 "filled",
                 "sharp",
                 "outline"
+            ]
+        },
+        {
+            "name": "FontAwesome",
+            "value": "fontawesome",
+            "categories": [
+                "solid",
+                "regular",
+                "brands"
             ]
         }
     ]

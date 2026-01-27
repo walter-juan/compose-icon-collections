@@ -22,20 +22,20 @@ public val SolidGroup.Copyright: ImageVector
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
                 moveTo(256.0f, 512.0f)
-                arcTo(256.0f, 256.0f, 0.0f, true, false, 256.0f, 0.0f)
+                arcToRelative(256.0f, 256.0f, 0.0f, true, false, 0.0f, -512.0f)
                 arcToRelative(256.0f, 256.0f, 0.0f, true, false, 0.0f, 512.0f)
                 close()
-                moveTo(199.4f, 312.6f)
-                curveToRelative(31.2f, 31.2f, 81.9f, 31.2f, 113.1f, 0.0f)
+                moveTo(205.1f, 306.9f)
+                curveToRelative(28.1f, 28.1f, 73.7f, 28.1f, 101.8f, 0.0f)
                 curveToRelative(9.4f, -9.4f, 24.6f, -9.4f, 33.9f, 0.0f)
                 reflectiveCurveToRelative(9.4f, 24.6f, 0.0f, 33.9f)
-                curveToRelative(-50.0f, 50.0f, -131.0f, 50.0f, -181.0f, 0.0f)
-                reflectiveCurveToRelative(-50.0f, -131.0f, 0.0f, -181.0f)
-                reflectiveCurveToRelative(131.0f, -50.0f, 181.0f, 0.0f)
+                curveToRelative(-46.9f, 46.9f, -122.8f, 46.9f, -169.7f, 0.0f)
+                reflectiveCurveToRelative(-46.9f, -122.8f, 0.0f, -169.7f)
+                reflectiveCurveToRelative(122.8f, -46.9f, 169.7f, 0.0f)
                 curveToRelative(9.4f, 9.4f, 9.4f, 24.6f, 0.0f, 33.9f)
                 reflectiveCurveToRelative(-24.6f, 9.4f, -33.9f, 0.0f)
-                curveToRelative(-31.2f, -31.2f, -81.9f, -31.2f, -113.1f, 0.0f)
-                reflectiveCurveToRelative(-31.2f, 81.9f, 0.0f, 113.1f)
+                curveToRelative(-28.1f, -28.1f, -73.7f, -28.1f, -101.8f, 0.0f)
+                reflectiveCurveToRelative(-28.1f, 73.7f, 0.0f, 101.8f)
                 close()
             }
         }

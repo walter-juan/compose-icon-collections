@@ -30,7 +30,7 @@ public val SolidGroup.ArrowTrendDown: ImageVector
                 curveToRelative(0.0f, -17.7f, -14.3f, -32.0f, -32.0f, -32.0f)
                 reflectiveCurveToRelative(-32.0f, 14.3f, -32.0f, 32.0f)
                 lineToRelative(0.0f, 82.7f)
-                lineTo(342.6f, 137.4f)
+                lineToRelative(-169.4f, -169.4f)
                 curveToRelative(-12.5f, -12.5f, -32.8f, -12.5f, -45.3f, 0.0f)
                 lineTo(192.0f, 242.7f)
                 lineTo(54.6f, 105.4f)

@@ -21,17 +21,21 @@ public val SolidGroup.EllipsisVertical: ImageVector
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(64.0f, 360.0f)
-                arcToRelative(56.0f, 56.0f, 0.0f, true, false, 0.0f, 112.0f)
-                arcToRelative(56.0f, 56.0f, 0.0f, true, false, 0.0f, -112.0f)
+                moveTo(64.0f, 144.0f)
+                arcToRelative(56.0f, 56.0f, 0.0f, true, true, 0.0f, -112.0f)
+                arcToRelative(56.0f, 56.0f, 0.0f, true, true, 0.0f, 112.0f)
                 close()
-                moveTo(64.0f, 200.0f)
-                arcToRelative(56.0f, 56.0f, 0.0f, true, false, 0.0f, 112.0f)
-                arcToRelative(56.0f, 56.0f, 0.0f, true, false, 0.0f, -112.0f)
+                moveTo(64.0f, 368.0f)
+                curveToRelative(30.9f, 0.0f, 56.0f, 25.1f, 56.0f, 56.0f)
+                reflectiveCurveToRelative(-25.1f, 56.0f, -56.0f, 56.0f)
+                reflectiveCurveToRelative(-56.0f, -25.1f, -56.0f, -56.0f)
+                reflectiveCurveToRelative(25.1f, -56.0f, 56.0f, -56.0f)
                 close()
-                moveTo(120.0f, 96.0f)
-                arcTo(56.0f, 56.0f, 0.0f, true, false, 8.0f, 96.0f)
-                arcToRelative(56.0f, 56.0f, 0.0f, true, false, 112.0f, 0.0f)
+                moveTo(120.0f, 256.0f)
+                curveToRelative(0.0f, 30.9f, -25.1f, 56.0f, -56.0f, 56.0f)
+                reflectiveCurveToRelative(-56.0f, -25.1f, -56.0f, -56.0f)
+                reflectiveCurveToRelative(25.1f, -56.0f, 56.0f, -56.0f)
+                reflectiveCurveToRelative(56.0f, 25.1f, 56.0f, 56.0f)
                 close()
             }
         }

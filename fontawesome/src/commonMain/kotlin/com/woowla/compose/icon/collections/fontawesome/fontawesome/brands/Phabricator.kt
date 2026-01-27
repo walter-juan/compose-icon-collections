@@ -16,12 +16,12 @@ public val BrandsGroup.Phabricator: ImageVector
         if (_phabricator != null) {
             return _phabricator!!
         }
-        _phabricator = Builder(name = "Phabricator", defaultWidth = 496.0.dp, defaultHeight =
-                512.0.dp, viewportWidth = 496.0f, viewportHeight = 512.0f).apply {
+        _phabricator = Builder(name = "Phabricator", defaultWidth = 512.0.dp, defaultHeight =
+                512.0.dp, viewportWidth = 512.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(323.0f, 262.1f)
+                moveTo(331.1f, 262.1f)
                 lineToRelative(-0.1f, -13.0f)
                 reflectiveCurveToRelative(21.7f, -19.8f, 21.1f, -21.2f)
                 lineToRelative(-9.5f, -20.0f)
@@ -36,10 +36,10 @@ public val BrandsGroup.Phabricator: ImageVector
                 curveToRelative(-1.4f, 0.5f, 0.2f, 28.9f, 0.2f, 28.9f)
                 lineToRelative(-9.1f, 9.1f)
                 reflectiveCurveToRelative(-29.2f, -0.9f, -29.7f, 0.4f)
-                lineToRelative(-8.1f, 19.8f)
+                lineTo(160.0f, 226.3f)
                 curveToRelative(-0.6f, 1.4f, 21.0f, 21.0f, 21.0f, 21.0f)
                 lineToRelative(0.1f, 12.9f)
-                reflectiveCurveToRelative(-21.7f, 19.8f, -21.1f, 21.2f)
+                reflectiveCurveTo(159.4f, 280.0f, 160.0f, 281.4f)
                 lineToRelative(9.5f, 20.0f)
                 curveToRelative(0.6f, 1.4f, 29.5f, 0.5f, 29.5f, 0.5f)
                 lineToRelative(9.4f, 9.3f)
@@ -55,13 +55,13 @@ public val BrandsGroup.Phabricator: ImageVector
                 lineToRelative(8.1f, -19.8f)
                 curveToRelative(0.7f, -1.1f, -20.9f, -20.7f, -20.9f, -20.7f)
                 close()
-                moveTo(278.1f, 253.4f)
+                moveTo(286.2f, 253.4f)
                 curveToRelative(0.7f, 17.1f, -12.8f, 31.6f, -30.1f, 32.4f)
-                curveToRelative(-17.3f, 0.8f, -32.1f, -12.5f, -32.8f, -29.6f)
-                curveToRelative(-0.7f, -17.1f, 12.8f, -31.6f, 30.1f, -32.3f)
+                reflectiveCurveToRelative(-32.1f, -12.5f, -32.8f, -29.6f)
+                reflectiveCurveToRelative(12.8f, -31.6f, 30.1f, -32.3f)
                 curveToRelative(17.3f, -0.8f, 32.1f, 12.5f, 32.8f, 29.5f)
                 close()
-                moveTo(479.3f, 215.5f)
+                moveTo(487.4f, 215.5f)
                 lineToRelative(-97.0f, -97.0f)
                 lineToRelative(-0.1f, 0.1f)
                 curveToRelative(-75.1f, -73.3f, -195.4f, -72.8f, -269.8f, 1.6f)
@@ -73,11 +73,9 @@ public val BrandsGroup.Phabricator: ImageVector
                 curveToRelative(51.0f, -50.9f, 27.9f, -27.9f, 95.3f, -95.3f)
                 curveToRelative(22.3f, -22.3f, 22.3f, -58.7f, 0.0f, -81.0f)
                 close()
-                moveTo(140.4f, 363.8f)
-                curveToRelative(-59.6f, -59.5f, -59.6f, -156.0f, 0.0f, -215.5f)
-                curveToRelative(59.5f, -59.6f, 156.0f, -59.5f, 215.6f, 0.0f)
-                curveToRelative(59.5f, 59.5f, 59.6f, 156.0f, 0.0f, 215.6f)
-                curveToRelative(-59.6f, 59.5f, -156.0f, 59.4f, -215.6f, -0.1f)
+                moveTo(363.5f, 148.2f)
+                arcToRelative(152.3f, 152.3f, 0.0f, true, true, -215.0f, 215.6f)
+                arcToRelative(152.3f, 152.3f, 0.0f, true, true, 215.0f, -215.6f)
                 close()
             }
         }

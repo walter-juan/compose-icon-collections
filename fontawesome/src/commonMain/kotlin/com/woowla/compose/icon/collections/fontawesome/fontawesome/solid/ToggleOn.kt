@@ -26,7 +26,7 @@ public val SolidGroup.ToggleOn: ImageVector
                 reflectiveCurveTo(86.0f, 448.0f, 192.0f, 448.0f)
                 lineToRelative(192.0f, 0.0f)
                 curveToRelative(106.0f, 0.0f, 192.0f, -86.0f, 192.0f, -192.0f)
-                reflectiveCurveToRelative(-86.0f, -192.0f, -192.0f, -192.0f)
+                reflectiveCurveTo(490.0f, 64.0f, 384.0f, 64.0f)
                 lineTo(192.0f, 64.0f)
                 close()
                 moveTo(384.0f, 160.0f)

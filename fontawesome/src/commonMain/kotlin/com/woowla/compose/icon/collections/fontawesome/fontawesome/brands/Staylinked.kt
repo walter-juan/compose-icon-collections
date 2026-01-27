@@ -16,16 +16,16 @@ public val BrandsGroup.Staylinked: ImageVector
         if (_staylinked != null) {
             return _staylinked!!
         }
-        _staylinked = Builder(name = "Staylinked", defaultWidth = 440.0.dp, defaultHeight =
-                512.0.dp, viewportWidth = 440.0f, viewportHeight = 512.0f).apply {
+        _staylinked = Builder(name = "Staylinked", defaultWidth = 448.0.dp, defaultHeight =
+                512.0.dp, viewportWidth = 448.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(382.7f, 292.5f)
+                moveTo(386.7f, 292.5f)
                 lineToRelative(2.7f, 2.7f)
                 lineToRelative(-170.0f, -167.3f)
                 curveToRelative(-3.5f, -3.5f, -9.7f, -3.7f, -13.8f, -0.5f)
-                lineTo(144.3f, 171.0f)
+                lineTo(148.3f, 171.0f)
                 curveToRelative(-4.2f, 3.2f, -4.6f, 8.7f, -1.1f, 12.2f)
                 lineToRelative(68.1f, 64.3f)
                 curveToRelative(3.6f, 3.5f, 9.9f, 3.7f, 14.0f, 0.5f)
@@ -35,19 +35,20 @@ public val BrandsGroup.Staylinked: ImageVector
                 curveToRelative(3.6f, 3.5f, 3.2f, 9.0f, -0.9f, 12.2f)
                 lineToRelative(-93.2f, 74.0f)
                 curveToRelative(-4.2f, 3.3f, -10.5f, 3.1f, -14.2f, -0.4f)
-                lineTo(63.2f, 268.0f)
+                lineTo(67.2f, 268.0f)
                 curveToRelative(-3.5f, -3.5f, -9.7f, -3.7f, -13.9f, -0.5f)
-                lineTo(3.5f, 302.4f)
+                lineTo(7.5f, 302.4f)
                 curveToRelative(-4.2f, 3.2f, -4.7f, 8.7f, -1.2f, 12.2f)
-                lineTo(211.0f, 510.7f)
+                lineTo(215.0f, 510.7f)
                 reflectiveCurveToRelative(7.4f, 6.8f, 17.3f, -0.8f)
-                lineToRelative(198.0f, -163.9f)
+                lineTo(430.3f, 346.0f)
                 curveToRelative(4.0f, -3.2f, 4.4f, -8.7f, 0.7f, -12.2f)
+                lineToRelative(-44.3f, -41.3f)
                 close()
-                moveTo(437.2f, 209.1f)
-                lineTo(226.7f, 2.5f)
+                moveTo(441.2f, 209.1f)
+                lineTo(230.7f, 2.5f)
                 curveToRelative(-1.5f, -1.2f, -8.0f, -5.5f, -16.3f, 1.1f)
-                lineTo(3.6f, 165.7f)
+                lineTo(7.6f, 165.7f)
                 curveToRelative(-4.2f, 3.2f, -4.8f, 8.7f, -1.2f, 12.2f)
                 lineToRelative(42.3f, 41.7f)
                 lineToRelative(171.7f, 165.1f)
@@ -60,7 +61,7 @@ public val BrandsGroup.Staylinked: ImageVector
                 curveToRelative(-3.6f, -3.5f, -10.0f, -3.7f, -14.2f, -0.5f)
                 lineToRelative(-0.1f, 0.1f)
                 curveToRelative(-4.2f, 3.2f, -10.5f, 3.1f, -14.2f, -0.4f)
-                lineTo(109.0f, 180.8f)
+                lineTo(113.0f, 180.8f)
                 curveToRelative(-3.6f, -3.5f, -3.1f, -8.9f, 1.1f, -12.2f)
                 lineToRelative(92.2f, -71.5f)
                 curveToRelative(4.1f, -3.2f, 10.3f, -3.0f, 13.9f, 0.5f)

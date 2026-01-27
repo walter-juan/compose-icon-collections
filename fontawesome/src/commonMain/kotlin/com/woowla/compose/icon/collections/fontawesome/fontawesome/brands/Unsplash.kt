@@ -21,19 +21,21 @@ public val BrandsGroup.Unsplash: ImageVector
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(448.0f, 230.17f)
-                verticalLineTo(480.0f)
-                horizontalLineTo(0.0f)
-                verticalLineTo(230.17f)
-                horizontalLineTo(141.13f)
-                verticalLineTo(355.09f)
-                horizontalLineTo(306.87f)
-                verticalLineTo(230.17f)
+                moveTo(448.0f, 230.2f)
+                lineToRelative(0.0f, 249.8f)
+                lineToRelative(-448.0f, 0.0f)
+                lineToRelative(0.0f, -249.8f)
+                lineToRelative(141.1f, 0.0f)
+                lineToRelative(0.0f, 124.9f)
+                lineToRelative(165.7f, 0.0f)
+                lineToRelative(0.0f, -124.9f)
+                lineToRelative(141.1f, 0.0f)
                 close()
-                moveTo(306.87f, 32.0f)
-                horizontalLineTo(141.13f)
-                verticalLineTo(156.91f)
-                horizontalLineTo(306.87f)
+                moveTo(306.9f, 32.0f)
+                lineToRelative(-165.7f, 0.0f)
+                lineToRelative(0.0f, 124.9f)
+                lineToRelative(165.7f, 0.0f)
+                lineToRelative(0.0f, -124.9f)
                 close()
             }
         }

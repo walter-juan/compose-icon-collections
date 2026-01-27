@@ -16,30 +16,30 @@ public val SolidGroup.Sort: ImageVector
         if (_sort != null) {
             return _sort!!
         }
-        _sort = Builder(name = "Sort", defaultWidth = 320.0.dp, defaultHeight = 512.0.dp,
-                viewportWidth = 320.0f, viewportHeight = 512.0f).apply {
+        _sort = Builder(name = "Sort", defaultWidth = 384.0.dp, defaultHeight = 512.0.dp,
+                viewportWidth = 384.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(137.4f, 41.4f)
-                curveToRelative(12.5f, -12.5f, 32.8f, -12.5f, 45.3f, 0.0f)
-                lineToRelative(128.0f, 128.0f)
-                curveToRelative(9.2f, 9.2f, 11.9f, 22.9f, 6.9f, 34.9f)
-                reflectiveCurveToRelative(-16.6f, 19.8f, -29.6f, 19.8f)
-                lineTo(32.0f, 224.0f)
-                curveToRelative(-12.9f, 0.0f, -24.6f, -7.8f, -29.6f, -19.8f)
-                reflectiveCurveToRelative(-2.2f, -25.7f, 6.9f, -34.9f)
-                lineToRelative(128.0f, -128.0f)
+                moveTo(2.4f, 204.2f)
+                curveToRelative(5.0f, 12.0f, 16.6f, 19.8f, 29.6f, 19.8f)
+                lineToRelative(320.0f, 0.0f)
+                curveToRelative(12.9f, 0.0f, 24.6f, -7.8f, 29.6f, -19.8f)
+                reflectiveCurveToRelative(2.2f, -25.7f, -6.9f, -34.9f)
+                lineToRelative(-160.0f, -160.0f)
+                curveToRelative(-12.5f, -12.5f, -32.8f, -12.5f, -45.3f, 0.0f)
+                lineToRelative(-160.0f, 160.0f)
+                curveToRelative(-9.2f, 9.2f, -11.9f, 22.9f, -6.9f, 34.9f)
                 close()
-                moveTo(137.4f, 470.7f)
-                lineToRelative(-128.0f, -128.0f)
-                curveToRelative(-9.2f, -9.2f, -11.9f, -22.9f, -6.9f, -34.9f)
-                reflectiveCurveToRelative(16.6f, -19.8f, 29.6f, -19.8f)
-                lineToRelative(256.0f, 0.0f)
-                curveToRelative(12.9f, 0.0f, 24.6f, 7.8f, 29.6f, 19.8f)
-                reflectiveCurveToRelative(2.2f, 25.7f, -6.9f, 34.9f)
-                lineToRelative(-128.0f, 128.0f)
-                curveToRelative(-12.5f, 12.5f, -32.8f, 12.5f, -45.3f, 0.0f)
+                moveTo(2.4f, 307.7f)
+                curveToRelative(-5.0f, 12.0f, -2.2f, 25.7f, 6.9f, 34.9f)
+                lineToRelative(160.0f, 160.0f)
+                curveToRelative(12.5f, 12.5f, 32.8f, 12.5f, 45.3f, 0.0f)
+                lineToRelative(160.0f, -160.0f)
+                curveToRelative(9.2f, -9.2f, 11.9f, -22.9f, 6.9f, -34.9f)
+                reflectiveCurveTo(364.9f, 288.0f, 352.0f, 288.0f)
+                lineTo(32.0f, 288.0f)
+                curveToRelative(-12.9f, 0.0f, -24.6f, 7.8f, -29.6f, 19.8f)
                 close()
             }
         }

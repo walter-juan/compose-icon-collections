@@ -24,7 +24,7 @@ public val BrandsGroup.WebAwesome: ImageVector
                 moveTo(372.2f, 52.0f)
                 curveToRelative(0.0f, 20.9f, -12.4f, 39.0f, -30.2f, 47.2f)
                 lineTo(448.0f, 192.0f)
-                lineToRelative(104.4f, -20.9f)
+                lineTo(552.4f, 171.1f)
                 curveToRelative(-5.3f, -7.7f, -8.4f, -17.1f, -8.4f, -27.1f)
                 curveToRelative(0.0f, -26.5f, 21.5f, -48.0f, 48.0f, -48.0f)
                 reflectiveCurveToRelative(48.0f, 21.5f, 48.0f, 48.0f)
@@ -35,7 +35,7 @@ public val BrandsGroup.WebAwesome: ImageVector
                 curveToRelative(-25.2f, 0.0f, -48.0f, -14.8f, -58.4f, -37.7f)
                 lineTo(46.4f, 192.0f)
                 curveTo(20.6f, 191.1f, 0.0f, 170.0f, 0.0f, 144.0f)
-                curveToRelative(0.0f, -26.5f, 21.5f, -48.0f, 48.0f, -48.0f)
+                curveTo(0.0f, 117.5f, 21.5f, 96.0f, 48.0f, 96.0f)
                 reflectiveCurveToRelative(48.0f, 21.5f, 48.0f, 48.0f)
                 curveToRelative(0.0f, 10.1f, -3.1f, 19.4f, -8.4f, 27.1f)
                 lineTo(192.0f, 192.0f)
@@ -43,6 +43,7 @@ public val BrandsGroup.WebAwesome: ImageVector
                 curveToRelative(-17.7f, -8.3f, -30.0f, -26.3f, -30.0f, -47.1f)
                 curveToRelative(0.0f, -28.7f, 23.3f, -52.0f, 52.0f, -52.0f)
                 reflectiveCurveToRelative(52.0f, 23.3f, 52.0f, 52.0f)
+                lineToRelative(0.1f, 0.0f)
                 close()
             }
         }

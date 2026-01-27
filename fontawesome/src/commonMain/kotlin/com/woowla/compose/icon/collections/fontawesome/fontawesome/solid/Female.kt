@@ -1,0 +1,61 @@
+package com.woowla.compose.icon.collections.fontawesome.fontawesome.solid
+
+import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.graphics.PathFillType.Companion.NonZero
+import androidx.compose.ui.graphics.SolidColor
+import androidx.compose.ui.graphics.StrokeCap.Companion.Butt
+import androidx.compose.ui.graphics.StrokeJoin.Companion.Miter
+import androidx.compose.ui.graphics.vector.ImageVector
+import androidx.compose.ui.graphics.vector.ImageVector.Builder
+import androidx.compose.ui.graphics.vector.path
+import androidx.compose.ui.unit.dp
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.SolidGroup
+
+public val SolidGroup.Female: ImageVector
+    get() {
+        if (_female != null) {
+            return _female!!
+        }
+        _female = Builder(name = "Female", defaultWidth = 384.0.dp, defaultHeight = 512.0.dp,
+                viewportWidth = 384.0f, viewportHeight = 512.0f).apply {
+            path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
+                    strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
+                    pathFillType = NonZero) {
+                moveTo(136.0f, 24.0f)
+                arcToRelative(56.0f, 56.0f, 0.0f, true, true, 112.0f, 0.0f)
+                arcToRelative(56.0f, 56.0f, 0.0f, true, true, -112.0f, 0.0f)
+                close()
+                moveTo(112.0f, 384.0f)
+                lineToRelative(-25.8f, 0.0f)
+                curveToRelative(-10.9f, 0.0f, -18.6f, -10.7f, -15.2f, -21.1f)
+                lineToRelative(43.0f, -129.0f)
+                lineToRelative(-48.3f, 65.1f)
+                curveToRelative(-10.5f, 14.2f, -30.6f, 17.2f, -44.8f, 6.6f)
+                reflectiveCurveToRelative(-17.2f, -30.6f, -6.6f, -44.8f)
+                lineToRelative(70.5f, -95.0f)
+                curveTo(110.0f, 132.0f, 149.7f, 112.0f, 192.0f, 112.0f)
+                reflectiveCurveToRelative(82.0f, 20.0f, 107.2f, 53.9f)
+                lineToRelative(70.5f, 95.0f)
+                curveToRelative(10.5f, 14.2f, 7.6f, 34.2f, -6.6f, 44.8f)
+                reflectiveCurveToRelative(-34.2f, 7.6f, -44.8f, -6.6f)
+                lineTo(270.0f, 234.0f)
+                lineTo(313.0f, 362.9f)
+                curveToRelative(3.5f, 10.4f, -4.3f, 21.1f, -15.2f, 21.1f)
+                lineToRelative(-25.8f, 0.0f)
+                lineToRelative(0.0f, 128.0f)
+                curveToRelative(0.0f, 17.7f, -14.3f, 32.0f, -32.0f, 32.0f)
+                reflectiveCurveToRelative(-32.0f, -14.3f, -32.0f, -32.0f)
+                lineToRelative(0.0f, -128.0f)
+                lineToRelative(-32.0f, 0.0f)
+                lineToRelative(0.0f, 128.0f)
+                curveToRelative(0.0f, 17.7f, -14.3f, 32.0f, -32.0f, 32.0f)
+                reflectiveCurveToRelative(-32.0f, -14.3f, -32.0f, -32.0f)
+                lineToRelative(0.0f, -128.0f)
+                close()
+            }
+        }
+        .build()
+        return _female!!
+    }
+
+private var _female: ImageVector? = null

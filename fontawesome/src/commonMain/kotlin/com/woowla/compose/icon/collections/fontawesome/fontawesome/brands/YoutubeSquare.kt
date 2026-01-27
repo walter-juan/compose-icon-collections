@@ -1,0 +1,59 @@
+package com.woowla.compose.icon.collections.fontawesome.fontawesome.brands
+
+import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.graphics.PathFillType.Companion.NonZero
+import androidx.compose.ui.graphics.SolidColor
+import androidx.compose.ui.graphics.StrokeCap.Companion.Butt
+import androidx.compose.ui.graphics.StrokeJoin.Companion.Miter
+import androidx.compose.ui.graphics.vector.ImageVector
+import androidx.compose.ui.graphics.vector.ImageVector.Builder
+import androidx.compose.ui.graphics.vector.path
+import androidx.compose.ui.unit.dp
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.BrandsGroup
+
+public val BrandsGroup.YoutubeSquare: ImageVector
+    get() {
+        if (_youtubeSquare != null) {
+            return _youtubeSquare!!
+        }
+        _youtubeSquare = Builder(name = "YoutubeSquare", defaultWidth = 448.0.dp, defaultHeight =
+                512.0.dp, viewportWidth = 448.0f, viewportHeight = 512.0f).apply {
+            path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
+                    strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
+                    pathFillType = NonZero) {
+                moveTo(282.0f, 256.2f)
+                lineToRelative(-95.2f, -54.1f)
+                lineToRelative(0.0f, 108.2f)
+                lineToRelative(95.2f, -54.1f)
+                close()
+                moveTo(384.0f, 32.0f)
+                lineTo(64.0f, 32.0f)
+                curveTo(28.7f, 32.0f, 0.0f, 60.7f, 0.0f, 96.0f)
+                lineTo(0.0f, 416.0f)
+                curveToRelative(0.0f, 35.3f, 28.7f, 64.0f, 64.0f, 64.0f)
+                lineToRelative(320.0f, 0.0f)
+                curveToRelative(35.3f, 0.0f, 64.0f, -28.7f, 64.0f, -64.0f)
+                lineToRelative(0.0f, -320.0f)
+                curveToRelative(0.0f, -35.3f, -28.7f, -64.0f, -64.0f, -64.0f)
+                close()
+                moveTo(398.4f, 168.1f)
+                curveToRelative(7.6f, 28.6f, 7.6f, 88.2f, 7.6f, 88.2f)
+                reflectiveCurveToRelative(0.0f, 59.6f, -7.6f, 88.1f)
+                curveToRelative(-4.2f, 15.8f, -16.5f, 27.7f, -32.2f, 31.9f)
+                curveToRelative(-28.3f, 7.7f, -142.2f, 7.7f, -142.2f, 7.7f)
+                reflectiveCurveToRelative(-113.9f, 0.0f, -142.2f, -7.6f)
+                curveToRelative(-15.7f, -4.2f, -28.0f, -16.1f, -32.2f, -31.9f)
+                curveToRelative(-7.6f, -28.6f, -7.6f, -88.2f, -7.6f, -88.2f)
+                reflectiveCurveToRelative(0.0f, -59.7f, 7.6f, -88.2f)
+                curveToRelative(4.2f, -15.8f, 16.5f, -28.2f, 32.2f, -32.4f)
+                curveToRelative(28.3f, -7.7f, 142.2f, -7.7f, 142.2f, -7.7f)
+                reflectiveCurveToRelative(113.9f, 0.0f, 142.2f, 7.7f)
+                curveToRelative(15.7f, 4.2f, 28.0f, 16.6f, 32.2f, 32.4f)
+                close()
+            }
+        }
+        .build()
+        return _youtubeSquare!!
+    }
+
+private var _youtubeSquare: ImageVector? = null

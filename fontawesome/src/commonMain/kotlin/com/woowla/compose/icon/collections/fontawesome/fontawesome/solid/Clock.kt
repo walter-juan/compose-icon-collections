@@ -23,7 +23,7 @@ public val SolidGroup.Clock: ImageVector
                     pathFillType = NonZero) {
                 moveTo(256.0f, 0.0f)
                 arcToRelative(256.0f, 256.0f, 0.0f, true, true, 0.0f, 512.0f)
-                arcTo(256.0f, 256.0f, 0.0f, true, true, 256.0f, 0.0f)
+                arcToRelative(256.0f, 256.0f, 0.0f, true, true, 0.0f, -512.0f)
                 close()
                 moveTo(232.0f, 120.0f)
                 lineToRelative(0.0f, 136.0f)

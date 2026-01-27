@@ -22,12 +22,12 @@ public val SolidGroup.Bullseye: ImageVector
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
                 moveTo(448.0f, 256.0f)
-                arcTo(192.0f, 192.0f, 0.0f, true, false, 64.0f, 256.0f)
+                arcToRelative(192.0f, 192.0f, 0.0f, true, false, -384.0f, 0.0f)
                 arcToRelative(192.0f, 192.0f, 0.0f, true, false, 384.0f, 0.0f)
                 close()
                 moveTo(0.0f, 256.0f)
                 arcToRelative(256.0f, 256.0f, 0.0f, true, true, 512.0f, 0.0f)
-                arcTo(256.0f, 256.0f, 0.0f, true, true, 0.0f, 256.0f)
+                arcToRelative(256.0f, 256.0f, 0.0f, true, true, -512.0f, 0.0f)
                 close()
                 moveTo(256.0f, 336.0f)
                 arcToRelative(80.0f, 80.0f, 0.0f, true, false, 0.0f, -160.0f)

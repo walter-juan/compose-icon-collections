@@ -16,28 +16,24 @@ public val SolidGroup.DoorClosed: ImageVector
         if (_doorClosed != null) {
             return _doorClosed!!
         }
-        _doorClosed = Builder(name = "DoorClosed", defaultWidth = 576.0.dp, defaultHeight =
-                512.0.dp, viewportWidth = 576.0f, viewportHeight = 512.0f).apply {
+        _doorClosed = Builder(name = "DoorClosed", defaultWidth = 448.0.dp, defaultHeight =
+                512.0.dp, viewportWidth = 448.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(96.0f, 64.0f)
-                curveToRelative(0.0f, -35.3f, 28.7f, -64.0f, 64.0f, -64.0f)
-                lineTo(416.0f, 0.0f)
+                moveTo(32.0f, 64.0f)
+                curveTo(32.0f, 28.7f, 60.7f, 0.0f, 96.0f, 0.0f)
+                lineTo(352.0f, 0.0f)
                 curveToRelative(35.3f, 0.0f, 64.0f, 28.7f, 64.0f, 64.0f)
                 lineToRelative(0.0f, 384.0f)
-                lineToRelative(64.0f, 0.0f)
                 curveToRelative(17.7f, 0.0f, 32.0f, 14.3f, 32.0f, 32.0f)
                 reflectiveCurveToRelative(-14.3f, 32.0f, -32.0f, 32.0f)
-                lineToRelative(-112.0f, 0.0f)
-                lineToRelative(-288.0f, 0.0f)
                 lineTo(32.0f, 512.0f)
                 curveToRelative(-17.7f, 0.0f, -32.0f, -14.3f, -32.0f, -32.0f)
                 reflectiveCurveToRelative(14.3f, -32.0f, 32.0f, -32.0f)
-                lineToRelative(64.0f, 0.0f)
-                lineTo(96.0f, 64.0f)
+                lineTo(32.0f, 64.0f)
                 close()
-                moveTo(384.0f, 288.0f)
+                moveTo(320.0f, 288.0f)
                 arcToRelative(32.0f, 32.0f, 0.0f, true, false, 0.0f, -64.0f)
                 arcToRelative(32.0f, 32.0f, 0.0f, true, false, 0.0f, 64.0f)
                 close()

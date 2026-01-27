@@ -34,7 +34,7 @@ public val SolidGroup.Expand: ImageVector
                 close()
                 moveTo(64.0f, 352.0f)
                 curveToRelative(0.0f, -17.7f, -14.3f, -32.0f, -32.0f, -32.0f)
-                reflectiveCurveToRelative(-32.0f, 14.3f, -32.0f, 32.0f)
+                reflectiveCurveTo(0.0f, 334.3f, 0.0f, 352.0f)
                 lineToRelative(0.0f, 96.0f)
                 curveToRelative(0.0f, 17.7f, 14.3f, 32.0f, 32.0f, 32.0f)
                 lineToRelative(96.0f, 0.0f)

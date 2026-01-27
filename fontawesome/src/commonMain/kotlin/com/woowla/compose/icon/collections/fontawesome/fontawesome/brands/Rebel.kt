@@ -21,9 +21,9 @@ public val BrandsGroup.Rebel: ImageVector
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(256.5f, 504.0f)
-                curveTo(117.2f, 504.0f, 9.0f, 387.8f, 13.2f, 249.9f)
-                curveTo(16.0f, 170.7f, 56.4f, 97.7f, 129.7f, 49.5f)
+                moveTo(256.9f, 504.0f)
+                curveToRelative(-139.3f, 0.0f, -247.5f, -116.2f, -243.3f, -254.1f)
+                curveToRelative(2.8f, -79.2f, 43.2f, -152.2f, 116.5f, -200.4f)
                 curveToRelative(0.3f, 0.0f, 1.9f, -0.6f, 1.1f, 0.8f)
                 curveToRelative(-5.8f, 5.5f, -111.3f, 129.8f, -14.1f, 226.4f)
                 curveToRelative(49.8f, 49.5f, 90.0f, 2.5f, 90.0f, 2.5f)
@@ -32,8 +32,8 @@ public val BrandsGroup.Rebel: ImageVector
                 lineToRelative(28.8f, -31.8f)
                 curveToRelative(24.4f, 10.5f, 43.2f, 38.7f, 43.2f, 38.7f)
                 curveToRelative(0.8f, -29.6f, -21.9f, -61.4f, -21.9f, -61.4f)
-                lineTo(255.1f, 8.0f)
-                lineToRelative(44.3f, 50.1f)
+                lineTo(255.5f, 8.0f)
+                lineTo(299.8f, 58.1f)
                 curveToRelative(-20.5f, 28.8f, -21.9f, 62.6f, -21.9f, 62.6f)
                 curveToRelative(13.8f, -23.0f, 43.5f, -39.3f, 43.5f, -39.3f)
                 lineToRelative(28.5f, 31.8f)
@@ -43,7 +43,7 @@ public val BrandsGroup.Rebel: ImageVector
                 curveToRelative(102.7f, -91.9f, -10.5f, -225.0f, -10.5f, -225.0f)
                 curveToRelative(-6.1f, -5.5f, 0.8f, -2.8f, 0.8f, -2.8f)
                 curveToRelative(50.1f, 36.5f, 114.6f, 84.4f, 116.2f, 204.8f)
-                curveTo(500.9f, 400.2f, 399.0f, 504.0f, 256.5f, 504.0f)
+                curveToRelative(2.0f, 145.6f, -99.9f, 249.4f, -242.4f, 249.4f)
                 close()
             }
         }

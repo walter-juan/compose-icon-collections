@@ -16,29 +16,29 @@ public val SolidGroup.UserClock: ImageVector
         if (_userClock != null) {
             return _userClock!!
         }
-        _userClock = Builder(name = "UserClock", defaultWidth = 640.0.dp, defaultHeight = 512.0.dp,
-                viewportWidth = 640.0f, viewportHeight = 512.0f).apply {
+        _userClock = Builder(name = "UserClock", defaultWidth = 576.0.dp, defaultHeight = 512.0.dp,
+                viewportWidth = 576.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(224.0f, 0.0f)
-                arcToRelative(128.0f, 128.0f, 0.0f, true, true, 0.0f, 256.0f)
-                arcTo(128.0f, 128.0f, 0.0f, true, true, 224.0f, 0.0f)
+                moveTo(224.0f, 8.0f)
+                arcToRelative(120.0f, 120.0f, 0.0f, true, true, 0.0f, 240.0f)
+                arcToRelative(120.0f, 120.0f, 0.0f, true, true, 0.0f, -240.0f)
                 close()
-                moveTo(178.3f, 304.0f)
-                lineToRelative(91.4f, 0.0f)
-                curveToRelative(20.6f, 0.0f, 40.4f, 3.5f, 58.8f, 9.9f)
-                curveTo(323.0f, 331.0f, 320.0f, 349.1f, 320.0f, 368.0f)
-                curveToRelative(0.0f, 59.5f, 29.5f, 112.1f, 74.8f, 144.0f)
-                lineTo(29.7f, 512.0f)
-                curveTo(13.3f, 512.0f, 0.0f, 498.7f, 0.0f, 482.3f)
-                curveTo(0.0f, 383.8f, 79.8f, 304.0f, 178.3f, 304.0f)
+                moveTo(194.3f, 304.0f)
+                lineToRelative(59.4f, 0.0f)
+                curveToRelative(3.9f, 0.0f, 7.9f, 0.1f, 11.8f, 0.4f)
+                curveToRelative(-16.2f, 28.2f, -25.5f, 60.8f, -25.5f, 95.6f)
+                curveToRelative(0.0f, 41.8f, 13.4f, 80.5f, 36.0f, 112.0f)
+                lineTo(45.7f, 512.0f)
+                curveTo(29.3f, 512.0f, 16.0f, 498.7f, 16.0f, 482.3f)
+                curveTo(16.0f, 383.8f, 95.8f, 304.0f, 194.3f, 304.0f)
                 close()
-                moveTo(352.0f, 368.0f)
+                moveTo(288.0f, 400.0f)
                 arcToRelative(144.0f, 144.0f, 0.0f, true, true, 288.0f, 0.0f)
                 arcToRelative(144.0f, 144.0f, 0.0f, true, true, -288.0f, 0.0f)
                 close()
-                moveTo(496.0f, 288.0f)
+                moveTo(432.0f, 320.0f)
                 curveToRelative(-8.8f, 0.0f, -16.0f, 7.2f, -16.0f, 16.0f)
                 lineToRelative(0.0f, 64.0f)
                 curveToRelative(0.0f, 8.8f, 7.2f, 16.0f, 16.0f, 16.0f)

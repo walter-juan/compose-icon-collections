@@ -16,12 +16,12 @@ public val BrandsGroup.Pinterest: ImageVector
         if (_pinterest != null) {
             return _pinterest!!
         }
-        _pinterest = Builder(name = "Pinterest", defaultWidth = 496.0.dp, defaultHeight = 512.0.dp,
-                viewportWidth = 496.0f, viewportHeight = 512.0f).apply {
+        _pinterest = Builder(name = "Pinterest", defaultWidth = 512.0.dp, defaultHeight = 512.0.dp,
+                viewportWidth = 512.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(496.0f, 256.0f)
+                moveTo(504.0f, 256.0f)
                 curveToRelative(0.0f, 137.0f, -111.0f, 248.0f, -248.0f, 248.0f)
                 curveToRelative(-25.6f, 0.0f, -50.2f, -3.9f, -73.4f, -11.1f)
                 curveToRelative(10.1f, -16.5f, 25.2f, -43.5f, 30.8f, -65.0f)
@@ -44,10 +44,10 @@ public val BrandsGroup.Pinterest: ImageVector
                 curveToRelative(-24.9f, 0.0f, -44.9f, 25.7f, -44.9f, 60.2f)
                 curveToRelative(0.0f, 22.0f, 7.4f, 36.8f, 7.4f, 36.8f)
                 reflectiveCurveToRelative(-24.5f, 103.8f, -29.0f, 123.2f)
-                curveToRelative(-5.0f, 21.4f, -3.0f, 51.6f, -0.9f, 71.2f)
-                curveTo(65.4f, 450.9f, 0.0f, 361.1f, 0.0f, 256.0f)
-                curveTo(0.0f, 119.0f, 111.0f, 8.0f, 248.0f, 8.0f)
-                reflectiveCurveToRelative(248.0f, 111.0f, 248.0f, 248.0f)
+                curveTo(161.5f, 437.2f, 163.5f, 467.4f, 165.6f, 487.0f)
+                curveTo(73.4f, 450.9f, 8.0f, 361.1f, 8.0f, 256.0f)
+                curveTo(8.0f, 119.0f, 119.0f, 8.0f, 256.0f, 8.0f)
+                reflectiveCurveTo(504.0f, 119.0f, 504.0f, 256.0f)
                 close()
             }
         }

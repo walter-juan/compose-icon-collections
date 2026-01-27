@@ -23,7 +23,7 @@ public val SolidGroup.Spoon: ImageVector
                     pathFillType = NonZero) {
                 moveTo(245.8f, 220.9f)
                 curveToRelative(-14.5f, -17.6f, -21.8f, -39.2f, -21.8f, -60.8f)
-                curveTo(224.0f, 80.0f, 320.0f, 0.0f, 416.0f, 0.0f)
+                curveToRelative(0.0f, -80.2f, 96.0f, -160.2f, 192.0f, -160.2f)
                 curveToRelative(53.0f, 0.0f, 96.0f, 43.0f, 96.0f, 96.0f)
                 curveToRelative(0.0f, 96.0f, -80.0f, 192.0f, -160.2f, 192.0f)
                 curveToRelative(-21.6f, 0.0f, -43.2f, -7.3f, -60.8f, -21.8f)

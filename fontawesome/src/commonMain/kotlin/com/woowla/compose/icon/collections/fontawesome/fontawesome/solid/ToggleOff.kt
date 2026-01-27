@@ -23,7 +23,7 @@ public val SolidGroup.ToggleOff: ImageVector
                     pathFillType = NonZero) {
                 moveTo(384.0f, 128.0f)
                 curveToRelative(70.7f, 0.0f, 128.0f, 57.3f, 128.0f, 128.0f)
-                reflectiveCurveToRelative(-57.3f, 128.0f, -128.0f, 128.0f)
+                reflectiveCurveTo(454.7f, 384.0f, 384.0f, 384.0f)
                 lineToRelative(-192.0f, 0.0f)
                 curveToRelative(-70.7f, 0.0f, -128.0f, -57.3f, -128.0f, -128.0f)
                 reflectiveCurveToRelative(57.3f, -128.0f, 128.0f, -128.0f)
@@ -37,9 +37,9 @@ public val SolidGroup.ToggleOff: ImageVector
                 lineToRelative(192.0f, 0.0f)
                 curveToRelative(106.0f, 0.0f, 192.0f, -86.0f, 192.0f, -192.0f)
                 close()
-                moveTo(192.0f, 352.0f)
-                arcToRelative(96.0f, 96.0f, 0.0f, true, false, 0.0f, -192.0f)
-                arcToRelative(96.0f, 96.0f, 0.0f, true, false, 0.0f, 192.0f)
+                moveTo(192.0f, 336.0f)
+                arcToRelative(80.0f, 80.0f, 0.0f, true, false, 0.0f, -160.0f)
+                arcToRelative(80.0f, 80.0f, 0.0f, true, false, 0.0f, 160.0f)
                 close()
             }
         }

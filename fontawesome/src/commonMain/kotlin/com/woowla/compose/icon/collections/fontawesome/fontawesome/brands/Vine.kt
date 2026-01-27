@@ -22,13 +22,13 @@ public val BrandsGroup.Vine: ImageVector
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
                 moveTo(384.0f, 254.7f)
-                verticalLineToRelative(52.1f)
+                lineToRelative(0.0f, 52.1f)
                 curveToRelative(-18.4f, 4.2f, -36.9f, 6.1f, -52.1f, 6.1f)
                 curveToRelative(-36.9f, 77.4f, -103.0f, 143.8f, -125.1f, 156.2f)
                 curveToRelative(-14.0f, 7.9f, -27.1f, 8.4f, -42.7f, -0.8f)
-                curveTo(137.0f, 452.0f, 34.2f, 367.7f, 0.0f, 102.7f)
-                horizontalLineToRelative(74.5f)
-                curveTo(93.2f, 261.8f, 139.0f, 343.4f, 189.3f, 404.5f)
+                curveToRelative(-27.1f, -16.3f, -129.9f, -100.6f, -164.1f, -365.6f)
+                lineToRelative(74.5f, 0.0f)
+                curveToRelative(18.7f, 159.1f, 64.5f, 240.7f, 114.8f, 301.8f)
                 curveToRelative(27.9f, -27.9f, 54.8f, -65.1f, 75.6f, -106.9f)
                 curveToRelative(-49.8f, -25.3f, -80.1f, -80.9f, -80.1f, -145.6f)
                 curveToRelative(0.0f, -65.6f, 37.7f, -115.1f, 102.2f, -115.1f)

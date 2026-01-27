@@ -41,7 +41,7 @@ public val BrandsGroup.Lastfm: ImageVector
                 curveToRelative(0.0f, 21.7f, -21.1f, 30.5f, -61.0f, 30.5f)
                 curveToRelative(-59.2f, 0.0f, -83.9f, -31.1f, -97.9f, -73.9f)
                 curveToRelative(-32.0f, -96.8f, -43.6f, -163.0f, -161.3f, -163.0f)
-                curveTo(45.7f, 113.8f, 0.0f, 168.3f, 0.0f, 261.0f)
+                curveToRelative(-86.1f, 0.0f, -131.8f, 54.5f, -131.8f, 147.2f)
                 curveToRelative(0.0f, 89.1f, 45.7f, 137.2f, 127.9f, 137.2f)
                 curveToRelative(66.2f, 0.0f, 97.9f, -31.1f, 97.9f, -31.1f)
                 close()

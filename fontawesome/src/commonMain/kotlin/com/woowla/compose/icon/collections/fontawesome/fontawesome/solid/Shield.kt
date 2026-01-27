@@ -23,14 +23,14 @@ public val SolidGroup.Shield: ImageVector
                     pathFillType = NonZero) {
                 moveTo(256.0f, 0.0f)
                 curveToRelative(4.6f, 0.0f, 9.2f, 1.0f, 13.4f, 2.9f)
-                lineTo(457.7f, 82.8f)
+                lineTo(457.8f, 82.8f)
                 curveToRelative(22.0f, 9.3f, 38.4f, 31.0f, 38.3f, 57.2f)
                 curveToRelative(-0.5f, 99.2f, -41.3f, 280.7f, -213.6f, 363.2f)
                 curveToRelative(-16.7f, 8.0f, -36.1f, 8.0f, -52.8f, 0.0f)
-                curveTo(57.3f, 420.7f, 16.5f, 239.2f, 16.0f, 140.0f)
+                curveToRelative(-172.4f, -82.5f, -213.1f, -264.0f, -213.6f, -363.2f)
                 curveToRelative(-0.1f, -26.2f, 16.3f, -47.9f, 38.3f, -57.2f)
                 lineTo(242.7f, 2.9f)
-                curveTo(246.8f, 1.0f, 251.4f, 0.0f, 256.0f, 0.0f)
+                curveTo(246.9f, 1.0f, 251.4f, 0.0f, 256.0f, 0.0f)
                 close()
             }
         }

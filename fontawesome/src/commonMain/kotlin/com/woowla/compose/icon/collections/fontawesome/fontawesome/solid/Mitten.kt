@@ -36,15 +36,15 @@ public val SolidGroup.Mitten: ImageVector
                 curveToRelative(0.0f, 15.9f, -6.0f, 31.2f, -16.8f, 42.9f)
                 lineTo(352.0f, 384.0f)
                 close()
-                moveTo(32.0f, 448.0f)
+                moveTo(32.0f, 464.0f)
                 curveToRelative(0.0f, -17.7f, 14.3f, -32.0f, 32.0f, -32.0f)
                 lineToRelative(288.0f, 0.0f)
                 curveToRelative(17.7f, 0.0f, 32.0f, 14.3f, 32.0f, 32.0f)
-                lineToRelative(0.0f, 32.0f)
+                lineToRelative(0.0f, 16.0f)
                 curveToRelative(0.0f, 17.7f, -14.3f, 32.0f, -32.0f, 32.0f)
                 lineTo(64.0f, 512.0f)
                 curveToRelative(-17.7f, 0.0f, -32.0f, -14.3f, -32.0f, -32.0f)
-                lineToRelative(0.0f, -32.0f)
+                lineToRelative(0.0f, -16.0f)
                 close()
             }
         }

@@ -1,0 +1,50 @@
+package com.woowla.compose.icon.collections.fontawesome.fontawesome.solid
+
+import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.graphics.PathFillType.Companion.NonZero
+import androidx.compose.ui.graphics.SolidColor
+import androidx.compose.ui.graphics.StrokeCap.Companion.Butt
+import androidx.compose.ui.graphics.StrokeJoin.Companion.Miter
+import androidx.compose.ui.graphics.vector.ImageVector
+import androidx.compose.ui.graphics.vector.ImageVector.Builder
+import androidx.compose.ui.graphics.vector.path
+import androidx.compose.ui.unit.dp
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.SolidGroup
+
+public val SolidGroup.TicketAlt: ImageVector
+    get() {
+        if (_ticketAlt != null) {
+            return _ticketAlt!!
+        }
+        _ticketAlt = Builder(name = "TicketAlt", defaultWidth = 576.0.dp, defaultHeight = 512.0.dp,
+                viewportWidth = 576.0f, viewportHeight = 512.0f).apply {
+            path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
+                    strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
+                    pathFillType = NonZero) {
+                moveTo(0.0f, 128.0f)
+                curveTo(0.0f, 92.7f, 28.7f, 64.0f, 64.0f, 64.0f)
+                lineToRelative(448.0f, 0.0f)
+                curveToRelative(35.3f, 0.0f, 64.0f, 28.7f, 64.0f, 64.0f)
+                lineToRelative(0.0f, 64.0f)
+                curveToRelative(0.0f, 8.8f, -7.4f, 15.7f, -15.7f, 18.6f)
+                curveToRelative(-18.8f, 6.5f, -32.3f, 24.4f, -32.3f, 45.4f)
+                reflectiveCurveToRelative(13.5f, 38.9f, 32.3f, 45.4f)
+                curveToRelative(8.3f, 2.9f, 15.7f, 9.8f, 15.7f, 18.6f)
+                lineToRelative(0.0f, 64.0f)
+                curveToRelative(0.0f, 35.3f, -28.7f, 64.0f, -64.0f, 64.0f)
+                lineTo(64.0f, 448.0f)
+                curveToRelative(-35.3f, 0.0f, -64.0f, -28.7f, -64.0f, -64.0f)
+                lineToRelative(0.0f, -64.0f)
+                curveTo(0.0f, 311.2f, 7.4f, 304.3f, 15.7f, 301.4f)
+                curveTo(34.5f, 294.9f, 48.0f, 277.0f, 48.0f, 256.0f)
+                reflectiveCurveToRelative(-13.5f, -38.9f, -32.3f, -45.4f)
+                curveTo(7.4f, 207.7f, 0.0f, 200.8f, 0.0f, 192.0f)
+                lineToRelative(0.0f, -64.0f)
+                close()
+            }
+        }
+        .build()
+        return _ticketAlt!!
+    }
+
+private var _ticketAlt: ImageVector? = null

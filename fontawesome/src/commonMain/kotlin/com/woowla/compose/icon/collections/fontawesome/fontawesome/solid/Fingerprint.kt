@@ -22,7 +22,7 @@ public val SolidGroup.Fingerprint: ImageVector
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
                 moveTo(48.0f, 256.0f)
-                curveTo(48.0f, 141.1f, 141.1f, 48.0f, 256.0f, 48.0f)
+                curveToRelative(0.0f, -114.9f, 93.1f, -208.0f, 208.0f, -208.0f)
                 curveToRelative(63.1f, 0.0f, 119.6f, 28.1f, 157.8f, 72.5f)
                 curveToRelative(8.6f, 10.1f, 23.8f, 11.2f, 33.8f, 2.6f)
                 reflectiveCurveToRelative(11.2f, -23.8f, 2.6f, -33.8f)
@@ -59,10 +59,10 @@ public val SolidGroup.Fingerprint: ImageVector
                 close()
                 moveTo(150.7f, 148.7f)
                 curveToRelative(-9.1f, -10.6f, -25.3f, -11.4f, -33.9f, -0.4f)
-                curveTo(93.7f, 178.0f, 80.0f, 215.4f, 80.0f, 256.0f)
+                curveToRelative(-23.1f, 29.8f, -36.8f, 67.1f, -36.8f, 107.7f)
                 lineToRelative(0.0f, 24.9f)
                 curveToRelative(0.0f, 24.2f, -2.6f, 48.4f, -7.8f, 71.9f)
-                curveTo(68.8f, 368.4f, 80.1f, 384.0f, 96.1f, 384.0f)
+                curveToRelative(-3.4f, 15.6f, 7.9f, 31.1f, 23.9f, 31.1f)
                 curveToRelative(10.5f, 0.0f, 19.9f, -7.0f, 22.2f, -17.3f)
                 curveToRelative(6.4f, -28.1f, 9.7f, -56.8f, 9.7f, -85.8f)
                 lineToRelative(0.0f, -24.9f)

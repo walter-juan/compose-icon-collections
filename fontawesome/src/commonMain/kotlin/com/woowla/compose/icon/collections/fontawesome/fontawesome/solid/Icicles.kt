@@ -23,10 +23,10 @@ public val SolidGroup.Icicles: ImageVector
                     pathFillType = NonZero) {
                 moveTo(75.8f, 304.8f)
                 lineTo(1.0f, 35.7f)
-                curveToRelative(-0.7f, -2.5f, -1.0f, -5.0f, -1.0f, -7.5f)
+                curveTo(0.3f, 33.2f, 0.0f, 30.7f, 0.0f, 28.2f)
                 curveTo(0.0f, 12.6f, 12.6f, 0.0f, 28.2f, 0.0f)
-                horizontalLineTo(482.4f)
-                curveTo(498.8f, 0.0f, 512.0f, 13.2f, 512.0f, 29.6f)
+                lineTo(482.4f, 0.0f)
+                curveToRelative(16.3f, 0.0f, 29.6f, 13.2f, 29.6f, 29.6f)
                 curveToRelative(0.0f, 1.6f, -0.1f, 3.3f, -0.4f, 4.9f)
                 lineTo(434.6f, 496.1f)
                 curveToRelative(-1.5f, 9.2f, -9.5f, 15.9f, -18.8f, 15.9f)

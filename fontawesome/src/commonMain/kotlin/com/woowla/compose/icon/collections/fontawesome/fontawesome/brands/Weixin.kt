@@ -23,8 +23,8 @@ public val BrandsGroup.Weixin: ImageVector
                     pathFillType = NonZero) {
                 moveTo(385.2f, 167.6f)
                 curveToRelative(6.4f, 0.0f, 12.6f, 0.3f, 18.8f, 1.1f)
-                curveTo(387.4f, 90.3f, 303.3f, 32.0f, 207.7f, 32.0f)
-                curveTo(100.5f, 32.0f, 13.0f, 104.8f, 13.0f, 197.4f)
+                curveToRelative(-16.6f, -78.4f, -100.7f, -136.7f, -196.3f, -136.7f)
+                curveToRelative(-107.2f, 0.0f, -194.7f, 72.8f, -194.7f, 165.4f)
                 curveToRelative(0.0f, 53.4f, 29.3f, 97.5f, 77.9f, 131.6f)
                 lineToRelative(-19.3f, 58.6f)
                 lineToRelative(68.0f, -34.1f)

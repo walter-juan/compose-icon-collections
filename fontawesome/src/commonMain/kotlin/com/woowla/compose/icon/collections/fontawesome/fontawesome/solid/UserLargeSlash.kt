@@ -16,31 +16,28 @@ public val SolidGroup.UserLargeSlash: ImageVector
         if (_userLargeSlash != null) {
             return _userLargeSlash!!
         }
-        _userLargeSlash = Builder(name = "UserLargeSlash", defaultWidth = 640.0.dp, defaultHeight =
-                512.0.dp, viewportWidth = 640.0f, viewportHeight = 512.0f).apply {
+        _userLargeSlash = Builder(name = "UserLargeSlash", defaultWidth = 576.0.dp, defaultHeight =
+                512.0.dp, viewportWidth = 576.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(38.8f, 5.1f)
-                curveTo(28.4f, -3.1f, 13.3f, -1.2f, 5.1f, 9.2f)
-                reflectiveCurveTo(-1.2f, 34.7f, 9.2f, 42.9f)
-                lineToRelative(592.0f, 464.0f)
-                curveToRelative(10.4f, 8.2f, 25.5f, 6.3f, 33.7f, -4.1f)
-                reflectiveCurveToRelative(6.3f, -25.5f, -4.1f, -33.7f)
-                lineTo(381.9f, 274.0f)
-                curveToRelative(48.5f, -23.2f, 82.1f, -72.7f, 82.1f, -130.0f)
-                curveTo(464.0f, 64.5f, 399.5f, 0.0f, 320.0f, 0.0f)
-                curveTo(250.4f, 0.0f, 192.4f, 49.3f, 178.9f, 114.9f)
-                lineTo(38.8f, 5.1f)
+                moveTo(41.0f, -24.9f)
+                curveToRelative(-9.4f, -9.4f, -24.6f, -9.4f, -33.9f, 0.0f)
+                reflectiveCurveTo(-2.3f, -0.3f, 7.0f, 9.1f)
+                lineToRelative(528.0f, 528.0f)
+                curveToRelative(9.4f, 9.4f, 24.6f, 9.4f, 33.9f, 0.0f)
+                reflectiveCurveToRelative(9.4f, -24.6f, 0.0f, -33.9f)
+                lineTo(311.5f, 245.7f)
+                curveToRelative(55.0f, -10.9f, 96.5f, -59.5f, 96.5f, -117.7f)
+                curveToRelative(0.0f, -66.3f, -53.7f, -120.0f, -120.0f, -120.0f)
+                curveToRelative(-58.2f, 0.0f, -106.8f, 41.5f, -117.7f, 96.5f)
+                lineTo(41.0f, -24.9f)
                 close()
-                moveTo(545.5f, 512.0f)
-                lineTo(528.0f, 512.0f)
-                lineTo(284.3f, 320.0f)
-                lineToRelative(-59.0f, 0.0f)
-                curveTo(136.2f, 320.0f, 64.0f, 392.2f, 64.0f, 481.3f)
-                curveToRelative(0.0f, 17.0f, 13.8f, 30.7f, 30.7f, 30.7f)
-                lineToRelative(450.6f, 0.0f)
-                lineToRelative(0.3f, 0.0f)
+                moveTo(235.6f, 305.4f)
+                curveTo(147.9f, 316.6f, 80.0f, 391.5f, 80.0f, 482.3f)
+                curveTo(80.0f, 498.7f, 93.3f, 512.0f, 109.7f, 512.0f)
+                lineToRelative(332.5f, 0.0f)
+                lineToRelative(-206.6f, -206.6f)
                 close()
             }
         }

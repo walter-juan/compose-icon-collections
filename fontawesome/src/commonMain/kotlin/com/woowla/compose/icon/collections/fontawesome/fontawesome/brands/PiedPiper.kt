@@ -16,31 +16,32 @@ public val BrandsGroup.PiedPiper: ImageVector
         if (_piedPiper != null) {
             return _piedPiper!!
         }
-        _piedPiper = Builder(name = "PiedPiper", defaultWidth = 480.0.dp, defaultHeight = 512.0.dp,
-                viewportWidth = 480.0f, viewportHeight = 512.0f).apply {
+        _piedPiper = Builder(name = "PiedPiper", defaultWidth = 448.0.dp, defaultHeight = 512.0.dp,
+                viewportWidth = 448.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(455.93f, 23.2f)
-                curveTo(429.23f, 30.0f, 387.79f, 51.69f, 341.35f, 90.66f)
-                arcTo(206.0f, 206.0f, 0.0f, false, false, 240.0f, 64.0f)
-                curveTo(125.13f, 64.0f, 32.0f, 157.12f, 32.0f, 272.0f)
-                reflectiveCurveToRelative(93.13f, 208.0f, 208.0f, 208.0f)
-                reflectiveCurveToRelative(208.0f, -93.13f, 208.0f, -208.0f)
-                arcToRelative(207.25f, 207.25f, 0.0f, false, false, -58.75f, -144.81f)
-                arcToRelative(155.35f, 155.35f, 0.0f, false, false, -17.0f, 27.4f)
-                arcTo(176.16f, 176.16f, 0.0f, false, true, 417.1f, 272.0f)
-                curveToRelative(0.0f, 97.66f, -79.44f, 177.11f, -177.09f, 177.11f)
-                arcToRelative(175.81f, 175.81f, 0.0f, false, true, -87.63f, -23.4f)
-                curveToRelative(82.94f, -107.33f, 150.79f, -37.77f, 184.31f, -226.65f)
-                curveToRelative(5.79f, -32.62f, 28.0f, -94.26f, 126.23f, -160.18f)
-                curveTo(471.0f, 33.45f, 465.35f, 20.8f, 455.93f, 23.2f)
+                moveTo(440.2f, 23.2f)
+                curveToRelative(-26.7f, 6.8f, -68.1f, 28.5f, -114.6f, 67.5f)
+                curveToRelative(-30.9f, -17.5f, -65.8f, -26.7f, -101.4f, -26.7f)
+                curveToRelative(-114.9f, 0.0f, -208.0f, 93.1f, -208.0f, 208.0f)
+                reflectiveCurveToRelative(93.1f, 208.0f, 208.0f, 208.0f)
+                reflectiveCurveToRelative(208.0f, -93.1f, 208.0f, -208.0f)
+                curveToRelative(0.1f, -54.1f, -21.0f, -106.1f, -58.7f, -144.8f)
+                curveToRelative(-6.6f, 8.5f, -12.3f, 17.7f, -17.0f, 27.4f)
+                curveToRelative(28.9f, 32.3f, 44.8f, 74.1f, 44.9f, 117.4f)
+                curveToRelative(0.0f, 97.7f, -79.4f, 177.1f, -177.1f, 177.1f)
+                curveToRelative(-30.8f, 0.0f, -61.0f, -8.1f, -87.6f, -23.4f)
+                curveToRelative(82.9f, -107.3f, 150.8f, -37.8f, 184.3f, -226.6f)
+                curveToRelative(5.8f, -32.6f, 28.0f, -94.3f, 126.2f, -160.2f)
+                curveToRelative(8.1f, -5.4f, 2.4f, -18.1f, -7.0f, -15.7f)
                 close()
-                moveTo(125.0f, 406.4f)
-                arcTo(176.66f, 176.66f, 0.0f, false, true, 62.9f, 272.0f)
-                curveTo(62.9f, 174.34f, 142.35f, 94.9f, 240.0f, 94.9f)
-                arcToRelative(174.0f, 174.0f, 0.0f, false, true, 76.63f, 17.75f)
-                curveTo(250.64f, 174.76f, 189.77f, 265.52f, 125.0f, 406.4f)
+                moveTo(109.3f, 406.4f)
+                curveTo(89.8f, 389.8f, 74.2f, 369.2f, 63.5f, 346.0f)
+                reflectiveCurveToRelative(-16.3f, -48.5f, -16.3f, -74.0f)
+                curveToRelative(0.0f, -97.7f, 79.4f, -177.1f, 177.1f, -177.1f)
+                curveToRelative(26.6f, 0.0f, 52.8f, 6.1f, 76.6f, 17.8f)
+                curveToRelative(-66.0f, 62.1f, -126.9f, 152.9f, -191.6f, 293.8f)
                 close()
             }
         }

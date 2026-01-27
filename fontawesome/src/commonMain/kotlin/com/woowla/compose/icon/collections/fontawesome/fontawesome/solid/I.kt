@@ -37,7 +37,6 @@ public val SolidGroup.I: ImageVector
                 lineToRelative(96.0f, 0.0f)
                 curveToRelative(17.7f, 0.0f, 32.0f, -14.3f, 32.0f, -32.0f)
                 reflectiveCurveToRelative(-14.3f, -32.0f, -32.0f, -32.0f)
-                lineTo(160.0f, 32.0f)
                 lineTo(32.0f, 32.0f)
                 close()
             }

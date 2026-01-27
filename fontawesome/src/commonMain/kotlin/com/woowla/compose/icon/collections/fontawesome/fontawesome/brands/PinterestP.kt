@@ -22,8 +22,8 @@ public val BrandsGroup.PinterestP: ImageVector
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
                 moveTo(204.0f, 6.5f)
-                curveTo(101.4f, 6.5f, 0.0f, 74.9f, 0.0f, 185.6f)
-                curveTo(0.0f, 256.0f, 39.6f, 296.0f, 63.6f, 296.0f)
+                curveToRelative(-102.6f, 0.0f, -204.0f, 68.4f, -204.0f, 179.1f)
+                curveToRelative(0.0f, 70.4f, 39.6f, 110.4f, 63.6f, 110.4f)
                 curveToRelative(9.9f, 0.0f, 15.6f, -27.6f, 15.6f, -35.4f)
                 curveToRelative(0.0f, -9.3f, -23.7f, -29.1f, -23.7f, -67.8f)
                 curveToRelative(0.0f, -80.4f, 61.2f, -137.4f, 140.4f, -137.4f)
@@ -39,7 +39,7 @@ public val BrandsGroup.PinterestP: ImageVector
                 curveToRelative(50.4f, -69.0f, 48.6f, -82.5f, 71.4f, -172.8f)
                 curveToRelative(12.3f, 23.4f, 44.1f, 36.0f, 69.3f, 36.0f)
                 curveToRelative(106.2f, 0.0f, 153.9f, -103.5f, 153.9f, -196.8f)
-                curveTo(384.0f, 71.3f, 298.2f, 6.5f, 204.0f, 6.5f)
+                curveToRelative(0.0f, -99.3f, -85.8f, -164.1f, -180.0f, -164.1f)
                 close()
             }
         }
