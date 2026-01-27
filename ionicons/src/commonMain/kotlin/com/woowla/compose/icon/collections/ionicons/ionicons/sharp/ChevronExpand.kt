@@ -22,14 +22,14 @@ public val SharpGroup.ChevronExpand: ImageVector
         _chevronExpand = Builder(name = "ChevronExpand", defaultWidth = 512.0.dp, defaultHeight =
                 512.0.dp, viewportWidth = 512.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 48.0f, strokeLineCap = StrokeCap.Square, strokeLineJoin = Miter,
+                    strokeLineWidth = 48.0f, strokeLineCap = Square, strokeLineJoin = Miter,
                     strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(136.0f, 208.0f)
                 lineTo(256.0f, 104.0f)
                 lineTo(376.0f, 208.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 48.0f, strokeLineCap = StrokeCap.Square, strokeLineJoin = Miter,
+                    strokeLineWidth = 48.0f, strokeLineCap = Square, strokeLineJoin = Miter,
                     strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(136.0f, 304.0f)
                 lineTo(256.0f, 408.0f)

@@ -23,19 +23,19 @@ public val SharpGroup.Magnet: ImageVector
         _magnet = Builder(name = "Magnet", defaultWidth = 512.0.dp, defaultHeight = 512.0.dp,
                 viewportWidth = 512.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 32.0f, strokeLineCap = StrokeCap.Square, strokeLineJoin = Miter,
+                    strokeLineWidth = 32.0f, strokeLineCap = Square, strokeLineJoin = Miter,
                     strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(191.98f, 463.58f)
                 lineTo(191.98f, 415.58f)
             }
             path(fill = SolidColor(Color(0xFF000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 32.0f, strokeLineCap = StrokeCap.Square, strokeLineJoin = Miter,
+                    strokeLineWidth = 32.0f, strokeLineCap = Square, strokeLineJoin = Miter,
                     strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(90.16f, 421.4f)
                 lineTo(124.1f, 387.46f)
             }
             path(fill = SolidColor(Color(0xFF000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 32.0f, strokeLineCap = StrokeCap.Square, strokeLineJoin = Miter,
+                    strokeLineWidth = 32.0f, strokeLineCap = Square, strokeLineJoin = Miter,
                     strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(47.98f, 319.58f)
                 lineTo(95.98f, 319.58f)

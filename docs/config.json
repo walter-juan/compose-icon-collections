@@ -26,15 +26,6 @@
             ]
         },
         {
-            "name": "Ionicons",
-            "value": "ionicons",
-            "categories": [
-                "outline",
-                "sharp",
-                "filled"
-            ]
-        },
-        {
             "name": "Twbs",
             "value": "twbs",
             "categories": [
@@ -95,6 +86,15 @@
             "value": "tabler",
             "categories": [
                 "filled",
+                "outline"
+            ]
+        },
+        {
+            "name": "Ionicons",
+            "value": "ionicons",
+            "categories": [
+                "filled",
+                "sharp",
                 "outline"
             ]
         }
