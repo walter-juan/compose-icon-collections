@@ -11,12 +11,12 @@ import androidx.compose.ui.graphics.vector.path
 import androidx.compose.ui.unit.dp
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.SolidGroup
 
-public val SolidGroup.PaintBrush: ImageVector
+public val SolidGroup.Paintbrush: ImageVector
     get() {
-        if (_paintBrush != null) {
-            return _paintBrush!!
+        if (_paintbrush != null) {
+            return _paintbrush!!
         }
-        _paintBrush = Builder(name = "PaintBrush", defaultWidth = 576.0.dp, defaultHeight =
+        _paintbrush = Builder(name = "Paintbrush", defaultWidth = 576.0.dp, defaultHeight =
                 512.0.dp, viewportWidth = 576.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
@@ -45,7 +45,7 @@ public val SolidGroup.PaintBrush: ImageVector
             }
         }
         .build()
-        return _paintBrush!!
+        return _paintbrush!!
     }
 
-private var _paintBrush: ImageVector? = null
+private var _paintbrush: ImageVector? = null

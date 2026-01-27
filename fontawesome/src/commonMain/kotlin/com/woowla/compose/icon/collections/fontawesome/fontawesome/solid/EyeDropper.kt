@@ -11,12 +11,12 @@ import androidx.compose.ui.graphics.vector.path
 import androidx.compose.ui.unit.dp
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.SolidGroup
 
-public val SolidGroup.EyeDropper: ImageVector
+public val SolidGroup.Eyedropper: ImageVector
     get() {
-        if (_eyeDropper != null) {
-            return _eyeDropper!!
+        if (_eyedropper != null) {
+            return _eyedropper!!
         }
-        _eyeDropper = Builder(name = "EyeDropper", defaultWidth = 512.0.dp, defaultHeight =
+        _eyedropper = Builder(name = "Eyedropper", defaultWidth = 512.0.dp, defaultHeight =
                 512.0.dp, viewportWidth = 512.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
@@ -57,7 +57,7 @@ public val SolidGroup.EyeDropper: ImageVector
             }
         }
         .build()
-        return _eyeDropper!!
+        return _eyedropper!!
     }
 
-private var _eyeDropper: ImageVector? = null
+private var _eyedropper: ImageVector? = null

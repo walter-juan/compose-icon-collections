@@ -11,12 +11,12 @@ import androidx.compose.ui.graphics.vector.path
 import androidx.compose.ui.unit.dp
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.SolidGroup
 
-public val SolidGroup.TShirt: ImageVector
+public val SolidGroup.Tshirt: ImageVector
     get() {
-        if (_tShirt != null) {
-            return _tShirt!!
+        if (_tshirt != null) {
+            return _tshirt!!
         }
-        _tShirt = Builder(name = "TShirt", defaultWidth = 640.0.dp, defaultHeight = 512.0.dp,
+        _tshirt = Builder(name = "Tshirt", defaultWidth = 640.0.dp, defaultHeight = 512.0.dp,
                 viewportWidth = 640.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
@@ -47,7 +47,7 @@ public val SolidGroup.TShirt: ImageVector
             }
         }
         .build()
-        return _tShirt!!
+        return _tshirt!!
     }
 
-private var _tShirt: ImageVector? = null
+private var _tshirt: ImageVector? = null
