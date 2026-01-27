@@ -16,6 +16,8 @@ import com.woowla.compose.icon.collections.remix.remix.userandfaces.AccountPinCi
 import com.woowla.compose.icon.collections.remix.remix.userandfaces.AccountPinCircleLine
 import com.woowla.compose.icon.collections.remix.remix.userandfaces.AdminFill
 import com.woowla.compose.icon.collections.remix.remix.userandfaces.AdminLine
+import com.woowla.compose.icon.collections.remix.remix.userandfaces.AiAgentFill
+import com.woowla.compose.icon.collections.remix.remix.userandfaces.AiAgentLine
 import com.woowla.compose.icon.collections.remix.remix.userandfaces.AliensFill
 import com.woowla.compose.icon.collections.remix.remix.userandfaces.AliensLine
 import com.woowla.compose.icon.collections.remix.remix.userandfaces.BearSmileFill
@@ -28,6 +30,8 @@ import com.woowla.compose.icon.collections.remix.remix.userandfaces.CriminalFill
 import com.woowla.compose.icon.collections.remix.remix.userandfaces.CriminalLine
 import com.woowla.compose.icon.collections.remix.remix.userandfaces.Emotion2Fill
 import com.woowla.compose.icon.collections.remix.remix.userandfaces.Emotion2Line
+import com.woowla.compose.icon.collections.remix.remix.userandfaces.EmotionAddFill
+import com.woowla.compose.icon.collections.remix.remix.userandfaces.EmotionAddLine
 import com.woowla.compose.icon.collections.remix.remix.userandfaces.EmotionFill
 import com.woowla.compose.icon.collections.remix.remix.userandfaces.EmotionHappyFill
 import com.woowla.compose.icon.collections.remix.remix.userandfaces.EmotionHappyLine
@@ -44,6 +48,10 @@ import com.woowla.compose.icon.collections.remix.remix.userandfaces.GenderlessFi
 import com.woowla.compose.icon.collections.remix.remix.userandfaces.GenderlessLine
 import com.woowla.compose.icon.collections.remix.remix.userandfaces.Ghost2Fill
 import com.woowla.compose.icon.collections.remix.remix.userandfaces.Ghost2Line
+import com.woowla.compose.icon.collections.remix.remix.userandfaces.Ghost3Fill
+import com.woowla.compose.icon.collections.remix.remix.userandfaces.Ghost3Line
+import com.woowla.compose.icon.collections.remix.remix.userandfaces.Ghost4Fill
+import com.woowla.compose.icon.collections.remix.remix.userandfaces.Ghost4Line
 import com.woowla.compose.icon.collections.remix.remix.userandfaces.GhostFill
 import com.woowla.compose.icon.collections.remix.remix.userandfaces.GhostLine
 import com.woowla.compose.icon.collections.remix.remix.userandfaces.GhostSmileFill
@@ -145,12 +153,13 @@ public val UserAndFacesGroup.AllIcons: ____KtList<ImageVector>
     __AllIcons= listOf(AccountBox2Fill, AccountBox2Line, AccountBoxFill, AccountBoxLine,
         AccountCircle2Fill, AccountCircle2Line, AccountCircleFill, AccountCircleLine,
         AccountPinBoxFill, AccountPinBoxLine, AccountPinCircleFill, AccountPinCircleLine, AdminFill,
-        AdminLine, AliensFill, AliensLine, BearSmileFill, BearSmileLine, BodyScanFill, BodyScanLine,
-        ContactsFill, ContactsLine, CriminalFill, CriminalLine, Emotion2Fill, Emotion2Line,
-        EmotionFill, EmotionHappyFill, EmotionHappyLine, EmotionLaughFill, EmotionLaughLine,
-        EmotionLine, EmotionNormalFill, EmotionNormalLine, EmotionSadFill, EmotionSadLine,
-        EmotionUnhappyFill, EmotionUnhappyLine, GenderlessFill, GenderlessLine, Ghost2Fill,
-        Ghost2Line, GhostFill, GhostLine, GhostSmileFill, GhostSmileLine, Group2Fill, Group2Line,
+        AdminLine, AiAgentFill, AiAgentLine, AliensFill, AliensLine, BearSmileFill, BearSmileLine,
+        BodyScanFill, BodyScanLine, ContactsFill, ContactsLine, CriminalFill, CriminalLine,
+        Emotion2Fill, Emotion2Line, EmotionAddFill, EmotionAddLine, EmotionFill, EmotionHappyFill,
+        EmotionHappyLine, EmotionLaughFill, EmotionLaughLine, EmotionLine, EmotionNormalFill,
+        EmotionNormalLine, EmotionSadFill, EmotionSadLine, EmotionUnhappyFill, EmotionUnhappyLine,
+        GenderlessFill, GenderlessLine, Ghost2Fill, Ghost2Line, Ghost3Fill, Ghost3Line, Ghost4Fill,
+        Ghost4Line, GhostFill, GhostLine, GhostSmileFill, GhostSmileLine, Group2Fill, Group2Line,
         Group3Fill, Group3Line, GroupFill, GroupLine, MenFill, MenLine, MickeyFill, MickeyLine,
         OpenArmFill, OpenArmLine, ParentFill, ParentLine, Robot2Fill, Robot2Line, Robot3Fill,
         Robot3Line, RobotFill, RobotLine, Skull2Fill, Skull2Line, SkullFill, SkullLine, SpyFill,

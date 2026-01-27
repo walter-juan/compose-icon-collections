@@ -10,6 +10,12 @@ import com.woowla.compose.icon.collections.remix.remix.communication.Chat3Fill
 import com.woowla.compose.icon.collections.remix.remix.communication.Chat3Line
 import com.woowla.compose.icon.collections.remix.remix.communication.Chat4Fill
 import com.woowla.compose.icon.collections.remix.remix.communication.Chat4Line
+import com.woowla.compose.icon.collections.remix.remix.communication.ChatAi2Fill
+import com.woowla.compose.icon.collections.remix.remix.communication.ChatAi2Line
+import com.woowla.compose.icon.collections.remix.remix.communication.ChatAi3Fill
+import com.woowla.compose.icon.collections.remix.remix.communication.ChatAi3Line
+import com.woowla.compose.icon.collections.remix.remix.communication.ChatAi4Fill
+import com.woowla.compose.icon.collections.remix.remix.communication.ChatAi4Line
 import com.woowla.compose.icon.collections.remix.remix.communication.ChatAiFill
 import com.woowla.compose.icon.collections.remix.remix.communication.ChatAiLine
 import com.woowla.compose.icon.collections.remix.remix.communication.ChatCheckFill
@@ -44,6 +50,8 @@ import com.woowla.compose.icon.collections.remix.remix.communication.ChatSmile2F
 import com.woowla.compose.icon.collections.remix.remix.communication.ChatSmile2Line
 import com.woowla.compose.icon.collections.remix.remix.communication.ChatSmile3Fill
 import com.woowla.compose.icon.collections.remix.remix.communication.ChatSmile3Line
+import com.woowla.compose.icon.collections.remix.remix.communication.ChatSmileAi3Fill
+import com.woowla.compose.icon.collections.remix.remix.communication.ChatSmileAi3Line
 import com.woowla.compose.icon.collections.remix.remix.communication.ChatSmileAiFill
 import com.woowla.compose.icon.collections.remix.remix.communication.ChatSmileAiLine
 import com.woowla.compose.icon.collections.remix.remix.communication.ChatSmileFill
@@ -68,6 +76,8 @@ import com.woowla.compose.icon.collections.remix.remix.communication.Message2Fil
 import com.woowla.compose.icon.collections.remix.remix.communication.Message2Line
 import com.woowla.compose.icon.collections.remix.remix.communication.Message3Fill
 import com.woowla.compose.icon.collections.remix.remix.communication.Message3Line
+import com.woowla.compose.icon.collections.remix.remix.communication.MessageAi3Fill
+import com.woowla.compose.icon.collections.remix.remix.communication.MessageAi3Line
 import com.woowla.compose.icon.collections.remix.remix.communication.MessageFill
 import com.woowla.compose.icon.collections.remix.remix.communication.MessageLine
 import com.woowla.compose.icon.collections.remix.remix.communication.QuestionAnswerFill
@@ -78,6 +88,10 @@ import com.woowla.compose.icon.collections.remix.remix.communication.SpeakAiFill
 import com.woowla.compose.icon.collections.remix.remix.communication.SpeakAiLine
 import com.woowla.compose.icon.collections.remix.remix.communication.SpeakFill
 import com.woowla.compose.icon.collections.remix.remix.communication.SpeakLine
+import com.woowla.compose.icon.collections.remix.remix.communication.SpeechToTextFill
+import com.woowla.compose.icon.collections.remix.remix.communication.SpeechToTextLine
+import com.woowla.compose.icon.collections.remix.remix.communication.TextToSpeechFill
+import com.woowla.compose.icon.collections.remix.remix.communication.TextToSpeechLine
 import com.woowla.compose.icon.collections.remix.remix.communication.VideoChatFill
 import com.woowla.compose.icon.collections.remix.remix.communication.VideoChatLine
 import kotlin.collections.List as ____KtList
@@ -95,19 +109,21 @@ public val CommunicationGroup.AllIcons: ____KtList<ImageVector>
       return __AllIcons!!
     }
     __AllIcons= listOf(Chat1Fill, Chat1Line, Chat2Fill, Chat2Line, Chat3Fill, Chat3Line, Chat4Fill,
-        Chat4Line, ChatAiFill, ChatAiLine, ChatCheckFill, ChatCheckLine, ChatDeleteFill,
-        ChatDeleteLine, ChatDownloadFill, ChatDownloadLine, ChatFollowUpFill, ChatFollowUpLine,
-        ChatForwardFill, ChatForwardLine, ChatHeartFill, ChatHeartLine, ChatHistoryFill,
-        ChatHistoryLine, ChatNewFill, ChatNewLine, ChatOffFill, ChatOffLine, ChatPollFill,
-        ChatPollLine, ChatPrivateFill, ChatPrivateLine, ChatQuoteFill, ChatQuoteLine,
-        ChatSearchFill, ChatSearchLine, ChatSettingsFill, ChatSettingsLine, ChatSmile2Fill,
-        ChatSmile2Line, ChatSmile3Fill, ChatSmile3Line, ChatSmileAiFill, ChatSmileAiLine,
-        ChatSmileFill, ChatSmileLine, ChatThreadFill, ChatThreadLine, ChatUnreadFill,
-        ChatUnreadLine, ChatUploadFill, ChatUploadLine, ChatVoiceAiFill, ChatVoiceAiLine,
-        ChatVoiceFill, ChatVoiceLine, DiscussFill, DiscussLine, EmojiStickerFill, EmojiStickerLine,
-        FeedbackFill, FeedbackLine, Message2Fill, Message2Line, Message3Fill, Message3Line,
-        MessageFill, MessageLine, QuestionAnswerFill, QuestionAnswerLine, QuestionnaireFill,
-        QuestionnaireLine, SpeakAiFill, SpeakAiLine, SpeakFill, SpeakLine, VideoChatFill,
-        VideoChatLine)
+        Chat4Line, ChatAi2Fill, ChatAi2Line, ChatAi3Fill, ChatAi3Line, ChatAi4Fill, ChatAi4Line,
+        ChatAiFill, ChatAiLine, ChatCheckFill, ChatCheckLine, ChatDeleteFill, ChatDeleteLine,
+        ChatDownloadFill, ChatDownloadLine, ChatFollowUpFill, ChatFollowUpLine, ChatForwardFill,
+        ChatForwardLine, ChatHeartFill, ChatHeartLine, ChatHistoryFill, ChatHistoryLine,
+        ChatNewFill, ChatNewLine, ChatOffFill, ChatOffLine, ChatPollFill, ChatPollLine,
+        ChatPrivateFill, ChatPrivateLine, ChatQuoteFill, ChatQuoteLine, ChatSearchFill,
+        ChatSearchLine, ChatSettingsFill, ChatSettingsLine, ChatSmile2Fill, ChatSmile2Line,
+        ChatSmile3Fill, ChatSmile3Line, ChatSmileAi3Fill, ChatSmileAi3Line, ChatSmileAiFill,
+        ChatSmileAiLine, ChatSmileFill, ChatSmileLine, ChatThreadFill, ChatThreadLine,
+        ChatUnreadFill, ChatUnreadLine, ChatUploadFill, ChatUploadLine, ChatVoiceAiFill,
+        ChatVoiceAiLine, ChatVoiceFill, ChatVoiceLine, DiscussFill, DiscussLine, EmojiStickerFill,
+        EmojiStickerLine, FeedbackFill, FeedbackLine, Message2Fill, Message2Line, Message3Fill,
+        Message3Line, MessageAi3Fill, MessageAi3Line, MessageFill, MessageLine, QuestionAnswerFill,
+        QuestionAnswerLine, QuestionnaireFill, QuestionnaireLine, SpeakAiFill, SpeakAiLine,
+        SpeakFill, SpeakLine, SpeechToTextFill, SpeechToTextLine, TextToSpeechFill,
+        TextToSpeechLine, VideoChatFill, VideoChatLine)
     return __AllIcons!!
   }

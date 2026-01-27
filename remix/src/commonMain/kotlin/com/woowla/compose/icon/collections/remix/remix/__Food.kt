@@ -14,6 +14,8 @@ import com.woowla.compose.icon.collections.remix.remix.food.Cake3Fill
 import com.woowla.compose.icon.collections.remix.remix.food.Cake3Line
 import com.woowla.compose.icon.collections.remix.remix.food.CakeFill
 import com.woowla.compose.icon.collections.remix.remix.food.CakeLine
+import com.woowla.compose.icon.collections.remix.remix.food.CookieFill
+import com.woowla.compose.icon.collections.remix.remix.food.CookieLine
 import com.woowla.compose.icon.collections.remix.remix.food.CupFill
 import com.woowla.compose.icon.collections.remix.remix.food.CupLine
 import com.woowla.compose.icon.collections.remix.remix.food.Drinks2Fill
@@ -22,6 +24,8 @@ import com.woowla.compose.icon.collections.remix.remix.food.DrinksFill
 import com.woowla.compose.icon.collections.remix.remix.food.DrinksLine
 import com.woowla.compose.icon.collections.remix.remix.food.Goblet2Fill
 import com.woowla.compose.icon.collections.remix.remix.food.Goblet2Line
+import com.woowla.compose.icon.collections.remix.remix.food.GobletBrokenFill
+import com.woowla.compose.icon.collections.remix.remix.food.GobletBrokenLine
 import com.woowla.compose.icon.collections.remix.remix.food.GobletFill
 import com.woowla.compose.icon.collections.remix.remix.food.GobletLine
 import com.woowla.compose.icon.collections.remix.remix.food.KnifeBloodFill
@@ -47,9 +51,9 @@ public val FoodGroup.AllIcons: ____KtList<ImageVector>
       return __AllIcons!!
     }
     __AllIcons= listOf(BeerFill, BeerLine, BowlFill, BowlLine, BreadFill, BreadLine, Cake2Fill,
-        Cake2Line, Cake3Fill, Cake3Line, CakeFill, CakeLine, CupFill, CupLine, Drinks2Fill,
-        Drinks2Line, DrinksFill, DrinksLine, Goblet2Fill, Goblet2Line, GobletFill, GobletLine,
-        KnifeBloodFill, KnifeBloodLine, KnifeFill, KnifeLine, Restaurant2Fill, Restaurant2Line,
-        RestaurantFill, RestaurantLine)
+        Cake2Line, Cake3Fill, Cake3Line, CakeFill, CakeLine, CookieFill, CookieLine, CupFill,
+        CupLine, Drinks2Fill, Drinks2Line, DrinksFill, DrinksLine, Goblet2Fill, Goblet2Line,
+        GobletBrokenFill, GobletBrokenLine, GobletFill, GobletLine, KnifeBloodFill, KnifeBloodLine,
+        KnifeFill, KnifeLine, Restaurant2Fill, Restaurant2Line, RestaurantFill, RestaurantLine)
     return __AllIcons!!
   }

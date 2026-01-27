@@ -3,6 +3,7 @@ package com.woowla.compose.icon.collections.remix.remix
 import androidx.compose.ui.graphics.vector.ImageVector
 import com.woowla.compose.icon.collections.remix.Remix
 import com.woowla.compose.icon.collections.remix.remix.editor.AB
+import com.woowla.compose.icon.collections.remix.remix.editor.Ai
 import com.woowla.compose.icon.collections.remix.remix.editor.AiGenerate
 import com.woowla.compose.icon.collections.remix.remix.editor.AiGenerate2
 import com.woowla.compose.icon.collections.remix.remix.editor.AiGenerateText
@@ -22,6 +23,7 @@ import com.woowla.compose.icon.collections.remix.remix.editor.CalendarView
 import com.woowla.compose.icon.collections.remix.remix.editor.CarouselView
 import com.woowla.compose.icon.collections.remix.remix.editor.CodeBlock
 import com.woowla.compose.icon.collections.remix.remix.editor.CodeView
+import com.woowla.compose.icon.collections.remix.remix.editor.CursorHand
 import com.woowla.compose.icon.collections.remix.remix.editor.CustomSize
 import com.woowla.compose.icon.collections.remix.remix.editor.DeleteColumn
 import com.woowla.compose.icon.collections.remix.remix.editor.DeleteRow
@@ -37,8 +39,8 @@ import com.woowla.compose.icon.collections.remix.remix.editor.FocusMode
 import com.woowla.compose.icon.collections.remix.remix.editor.FontColor
 import com.woowla.compose.icon.collections.remix.remix.editor.FontFamily
 import com.woowla.compose.icon.collections.remix.remix.editor.FontMono
-import com.woowla.compose.icon.collections.remix.remix.editor.FontSans
 import com.woowla.compose.icon.collections.remix.remix.editor.FontSansSerif
+import com.woowla.compose.icon.collections.remix.remix.editor.FontSerif
 import com.woowla.compose.icon.collections.remix.remix.editor.FontSize
 import com.woowla.compose.icon.collections.remix.remix.editor.FontSize2
 import com.woowla.compose.icon.collections.remix.remix.editor.FontSizeAi
@@ -54,6 +56,7 @@ import com.woowla.compose.icon.collections.remix.remix.editor.H4
 import com.woowla.compose.icon.collections.remix.remix.editor.H5
 import com.woowla.compose.icon.collections.remix.remix.editor.H6
 import com.woowla.compose.icon.collections.remix.remix.editor.Hand
+import com.woowla.compose.icon.collections.remix.remix.editor.Hand2
 import com.woowla.compose.icon.collections.remix.remix.editor.Hashtag
 import com.woowla.compose.icon.collections.remix.remix.editor.Heading
 import com.woowla.compose.icon.collections.remix.remix.editor.IndentDecrease
@@ -164,24 +167,24 @@ public val EditorGroup.AllIcons: ____KtList<ImageVector>
     if (__AllIcons != null) {
       return __AllIcons!!
     }
-    __AllIcons= listOf(AB, AiGenerate, AiGenerate2, AiGenerateText, AlignBottom, AlignCenter,
+    __AllIcons= listOf(AB, Ai, AiGenerate, AiGenerate2, AiGenerateText, AlignBottom, AlignCenter,
         AlignJustify, AlignLeft, AlignRight, AlignTop, AlignVertically, Asterisk, Attachment2, Bold,
-        BringForward, BringToFront, CalendarView, CarouselView, CodeBlock, CodeView, CustomSize,
-        DeleteColumn, DeleteRow, DoubleQuotesL, DoubleQuotesR, Draggable, DropdownList, Emphasis,
-        EmphasisCn, EnglishInput, FlowChart, FocusMode, FontColor, FontFamily, FontMono, FontSans,
-        FontSansSerif, FontSize, FontSize2, FontSizeAi, FormatClear, Formula, Functions,
-        GalleryView, GalleryView2, H1, H2, H3, H4, H5, H6, Hand, Hashtag, Heading, IndentDecrease,
-        IndentIncrease, InfoI, InputCursorMove, InputField, InsertColumnLeft, InsertColumnRight,
-        InsertRowBottom, InsertRowTop, Italic, KanbanView, KanbanView2, LetterSpacing2, LineHeight,
-        LineHeight2, Link, LinkM, LinkUnlink, LinkUnlinkM, ListCheck, ListCheck2, ListCheck3,
-        ListIndefinite, ListOrdered, ListOrdered2, ListRadio, ListUnordered, ListView,
-        MergeCellsHorizontal, MergeCellsVertical, MindMap, NodeTree, Number0, Number1, Number2,
-        Number3, Number4, Number5, Number6, Number7, Number8, Number9, Omega, OrganizationChart,
-        Overline, PageSeparator, Paragraph, PinyinInput, QuestionMark, QuoteText, RoundedCorner,
-        SendBackward, SendToBack, Separator, SingleQuotesL, SingleQuotesR, Sketching, SlashCommands,
-        SlashCommands2, SlideshowView, SortAlphabetAsc, SortAlphabetDesc, SortAsc, SortDesc,
-        SortNumberAsc, SortNumberDesc, Space, SplitCellsHorizontal, SplitCellsVertical, SquareRoot,
-        StackedView, Strikethrough, Strikethrough2, Subscript, Subscript2, Superscript,
+        BringForward, BringToFront, CalendarView, CarouselView, CodeBlock, CodeView, CursorHand,
+        CustomSize, DeleteColumn, DeleteRow, DoubleQuotesL, DoubleQuotesR, Draggable, DropdownList,
+        Emphasis, EmphasisCn, EnglishInput, FlowChart, FocusMode, FontColor, FontFamily, FontMono,
+        FontSansSerif, FontSerif, FontSize, FontSize2, FontSizeAi, FormatClear, Formula, Functions,
+        GalleryView, GalleryView2, H1, H2, H3, H4, H5, H6, Hand, Hand2, Hashtag, Heading,
+        IndentDecrease, IndentIncrease, InfoI, InputCursorMove, InputField, InsertColumnLeft,
+        InsertColumnRight, InsertRowBottom, InsertRowTop, Italic, KanbanView, KanbanView2,
+        LetterSpacing2, LineHeight, LineHeight2, Link, LinkM, LinkUnlink, LinkUnlinkM, ListCheck,
+        ListCheck2, ListCheck3, ListIndefinite, ListOrdered, ListOrdered2, ListRadio, ListUnordered,
+        ListView, MergeCellsHorizontal, MergeCellsVertical, MindMap, NodeTree, Number0, Number1,
+        Number2, Number3, Number4, Number5, Number6, Number7, Number8, Number9, Omega,
+        OrganizationChart, Overline, PageSeparator, Paragraph, PinyinInput, QuestionMark, QuoteText,
+        RoundedCorner, SendBackward, SendToBack, Separator, SingleQuotesL, SingleQuotesR, Sketching,
+        SlashCommands, SlashCommands2, SlideshowView, SortAlphabetAsc, SortAlphabetDesc, SortAsc,
+        SortDesc, SortNumberAsc, SortNumberDesc, Space, SplitCellsHorizontal, SplitCellsVertical,
+        SquareRoot, StackedView, Strikethrough, Strikethrough2, Subscript, Subscript2, Superscript,
         Superscript2, Table2, Table3, TableView, Text, TextBlock, TextDirectionL, TextDirectionR,
         TextSnippet, TextSpacing, TextWrap, TimelineView, Translate, Translate2, TranslateAi,
         TranslateAi2, Underline, WubiInput)

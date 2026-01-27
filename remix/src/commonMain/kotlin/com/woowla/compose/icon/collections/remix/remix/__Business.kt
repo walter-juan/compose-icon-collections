@@ -12,6 +12,8 @@ import com.woowla.compose.icon.collections.remix.remix.business.ArchiveFill
 import com.woowla.compose.icon.collections.remix.remix.business.ArchiveLine
 import com.woowla.compose.icon.collections.remix.remix.business.ArchiveStackFill
 import com.woowla.compose.icon.collections.remix.remix.business.ArchiveStackLine
+import com.woowla.compose.icon.collections.remix.remix.business.AreaChartFill
+import com.woowla.compose.icon.collections.remix.remix.business.AreaChartLine
 import com.woowla.compose.icon.collections.remix.remix.business.AtFill
 import com.woowla.compose.icon.collections.remix.remix.business.AtLine
 import com.woowla.compose.icon.collections.remix.remix.business.AttachmentFill
@@ -98,6 +100,8 @@ import com.woowla.compose.icon.collections.remix.remix.business.FlagOffFill
 import com.woowla.compose.icon.collections.remix.remix.business.FlagOffLine
 import com.woowla.compose.icon.collections.remix.remix.business.GlobalFill
 import com.woowla.compose.icon.collections.remix.remix.business.GlobalLine
+import com.woowla.compose.icon.collections.remix.remix.business.GlobalOffFill
+import com.woowla.compose.icon.collections.remix.remix.business.GlobalOffLine
 import com.woowla.compose.icon.collections.remix.remix.business.HonourFill
 import com.woowla.compose.icon.collections.remix.remix.business.HonourLine
 import com.woowla.compose.icon.collections.remix.remix.business.IdCardFill
@@ -148,6 +152,8 @@ import com.woowla.compose.icon.collections.remix.remix.business.Medal2Fill
 import com.woowla.compose.icon.collections.remix.remix.business.Medal2Line
 import com.woowla.compose.icon.collections.remix.remix.business.MedalFill
 import com.woowla.compose.icon.collections.remix.remix.business.MedalLine
+import com.woowla.compose.icon.collections.remix.remix.business.Megaphone2Fill
+import com.woowla.compose.icon.collections.remix.remix.business.Megaphone2Line
 import com.woowla.compose.icon.collections.remix.remix.business.MegaphoneFill
 import com.woowla.compose.icon.collections.remix.remix.business.MegaphoneLine
 import com.woowla.compose.icon.collections.remix.remix.business.PassExpiredFill
@@ -182,6 +188,8 @@ import com.woowla.compose.icon.collections.remix.remix.business.ReplyAllFill
 import com.woowla.compose.icon.collections.remix.remix.business.ReplyAllLine
 import com.woowla.compose.icon.collections.remix.remix.business.ReplyFill
 import com.woowla.compose.icon.collections.remix.remix.business.ReplyLine
+import com.woowla.compose.icon.collections.remix.remix.business.SendInsFill
+import com.woowla.compose.icon.collections.remix.remix.business.SendInsLine
 import com.woowla.compose.icon.collections.remix.remix.business.SendPlane2Fill
 import com.woowla.compose.icon.collections.remix.remix.business.SendPlane2Line
 import com.woowla.compose.icon.collections.remix.remix.business.SendPlaneFill
@@ -202,6 +210,8 @@ import com.woowla.compose.icon.collections.remix.remix.business.SlideshowFill
 import com.woowla.compose.icon.collections.remix.remix.business.SlideshowLine
 import com.woowla.compose.icon.collections.remix.remix.business.StackFill
 import com.woowla.compose.icon.collections.remix.remix.business.StackLine
+import com.woowla.compose.icon.collections.remix.remix.business.StackedChartFill
+import com.woowla.compose.icon.collections.remix.remix.business.StackedChartLine
 import com.woowla.compose.icon.collections.remix.remix.business.TrademarkFill
 import com.woowla.compose.icon.collections.remix.remix.business.TrademarkLine
 import com.woowla.compose.icon.collections.remix.remix.business.TriangularFlagFill
@@ -228,43 +238,44 @@ public val BusinessGroup.AllIcons: ____KtList<ImageVector>
     }
     __AllIcons= listOf(AdvertisementFill, AdvertisementLine, Archive2Fill, Archive2Line,
         ArchiveDrawerFill, ArchiveDrawerLine, ArchiveFill, ArchiveLine, ArchiveStackFill,
-        ArchiveStackLine, AtFill, AtLine, AttachmentFill, AttachmentLine, AwardFill, AwardLine,
-        BarChart2Fill, BarChart2Line, BarChartBoxAiFill, BarChartBoxAiLine, BarChartBoxFill,
-        BarChartBoxLine, BarChartFill, BarChartGroupedFill, BarChartGroupedLine,
-        BarChartHorizontalFill, BarChartHorizontalLine, BarChartLine, Bookmark2Fill, Bookmark2Line,
-        Bookmark3Fill, Bookmark3Line, BookmarkFill, BookmarkLine, Briefcase2Fill, Briefcase2Line,
-        Briefcase3Fill, Briefcase3Line, Briefcase4Fill, Briefcase4Line, Briefcase5Fill,
-        Briefcase5Line, BriefcaseFill, BriefcaseLine, BubbleChartFill, BubbleChartLine,
-        CalculatorFill, CalculatorLine, Calendar2Fill, Calendar2Line, CalendarCheckFill,
-        CalendarCheckLine, CalendarCloseFill, CalendarCloseLine, CalendarEventFill,
-        CalendarEventLine, CalendarFill, CalendarLine, CalendarScheduleFill, CalendarScheduleLine,
-        CalendarTodoFill, CalendarTodoLine, CloudFill, CloudLine, CloudOffFill, CloudOffLine,
-        CopyleftFill, CopyleftLine, CopyrightFill, CopyrightLine, CreativeCommonsByFill,
-        CreativeCommonsByLine, CreativeCommonsFill, CreativeCommonsLine, CreativeCommonsNcFill,
-        CreativeCommonsNcLine, CreativeCommonsNdFill, CreativeCommonsNdLine, CreativeCommonsSaFill,
-        CreativeCommonsSaLine, CreativeCommonsZeroFill, CreativeCommonsZeroLine,
-        CustomerService2Fill, CustomerService2Line, CustomerServiceFill, CustomerServiceLine,
-        DonutChartFill, DonutChartLine, Flag2Fill, Flag2Line, FlagFill, FlagLine, FlagOffFill,
-        FlagOffLine, GlobalFill, GlobalLine, HonourFill, HonourLine, IdCardFill, IdCardLine,
-        Inbox2Fill, Inbox2Line, InboxArchiveFill, InboxArchiveLine, InboxFill, InboxLine,
-        InboxUnarchiveFill, InboxUnarchiveLine, InfoCardFill, InfoCardLine, LineChartFill,
-        LineChartLine, LinksFill, LinksLine, MailAddFill, MailAddLine, MailAiFill, MailAiLine,
-        MailCheckFill, MailCheckLine, MailCloseFill, MailCloseLine, MailDownloadFill,
-        MailDownloadLine, MailFill, MailForbidFill, MailForbidLine, MailLine, MailLockFill,
-        MailLockLine, MailOpenFill, MailOpenLine, MailSendFill, MailSendLine, MailSettingsFill,
-        MailSettingsLine, MailStarFill, MailStarLine, MailUnreadFill, MailUnreadLine,
-        MailVolumeFill, MailVolumeLine, Medal2Fill, Medal2Line, MedalFill, MedalLine, MegaphoneFill,
-        MegaphoneLine, PassExpiredFill, PassExpiredLine, PassPendingFill, PassPendingLine,
-        PassValidFill, PassValidLine, PieChart2Fill, PieChart2Line, PieChartBoxFill,
-        PieChartBoxLine, PieChartFill, PieChartLine, PresentationFill, PresentationLine,
-        PrinterCloudFill, PrinterCloudLine, PrinterFill, PrinterLine, ProfileFill, ProfileLine,
-        Projector2Fill, Projector2Line, ProjectorFill, ProjectorLine, RecordMailFill,
-        RecordMailLine, RegisteredFill, RegisteredLine, ReplyAllFill, ReplyAllLine, ReplyFill,
-        ReplyLine, SendPlane2Fill, SendPlane2Line, SendPlaneFill, SendPlaneLine, SeoFill, SeoLine,
-        ServiceFill, ServiceLine, ShakeHandsFill, ShakeHandsLine, Slideshow2Fill, Slideshow2Line,
-        Slideshow3Fill, Slideshow3Line, Slideshow4Fill, Slideshow4Line, SlideshowFill,
-        SlideshowLine, StackFill, StackLine, TrademarkFill, TrademarkLine, TriangularFlagFill,
-        TriangularFlagLine, VerifiedBadgeFill, VerifiedBadgeLine, Window2Fill, Window2Line,
-        WindowFill, WindowLine)
+        ArchiveStackLine, AreaChartFill, AreaChartLine, AtFill, AtLine, AttachmentFill,
+        AttachmentLine, AwardFill, AwardLine, BarChart2Fill, BarChart2Line, BarChartBoxAiFill,
+        BarChartBoxAiLine, BarChartBoxFill, BarChartBoxLine, BarChartFill, BarChartGroupedFill,
+        BarChartGroupedLine, BarChartHorizontalFill, BarChartHorizontalLine, BarChartLine,
+        Bookmark2Fill, Bookmark2Line, Bookmark3Fill, Bookmark3Line, BookmarkFill, BookmarkLine,
+        Briefcase2Fill, Briefcase2Line, Briefcase3Fill, Briefcase3Line, Briefcase4Fill,
+        Briefcase4Line, Briefcase5Fill, Briefcase5Line, BriefcaseFill, BriefcaseLine,
+        BubbleChartFill, BubbleChartLine, CalculatorFill, CalculatorLine, Calendar2Fill,
+        Calendar2Line, CalendarCheckFill, CalendarCheckLine, CalendarCloseFill, CalendarCloseLine,
+        CalendarEventFill, CalendarEventLine, CalendarFill, CalendarLine, CalendarScheduleFill,
+        CalendarScheduleLine, CalendarTodoFill, CalendarTodoLine, CloudFill, CloudLine,
+        CloudOffFill, CloudOffLine, CopyleftFill, CopyleftLine, CopyrightFill, CopyrightLine,
+        CreativeCommonsByFill, CreativeCommonsByLine, CreativeCommonsFill, CreativeCommonsLine,
+        CreativeCommonsNcFill, CreativeCommonsNcLine, CreativeCommonsNdFill, CreativeCommonsNdLine,
+        CreativeCommonsSaFill, CreativeCommonsSaLine, CreativeCommonsZeroFill,
+        CreativeCommonsZeroLine, CustomerService2Fill, CustomerService2Line, CustomerServiceFill,
+        CustomerServiceLine, DonutChartFill, DonutChartLine, Flag2Fill, Flag2Line, FlagFill,
+        FlagLine, FlagOffFill, FlagOffLine, GlobalFill, GlobalLine, GlobalOffFill, GlobalOffLine,
+        HonourFill, HonourLine, IdCardFill, IdCardLine, Inbox2Fill, Inbox2Line, InboxArchiveFill,
+        InboxArchiveLine, InboxFill, InboxLine, InboxUnarchiveFill, InboxUnarchiveLine,
+        InfoCardFill, InfoCardLine, LineChartFill, LineChartLine, LinksFill, LinksLine, MailAddFill,
+        MailAddLine, MailAiFill, MailAiLine, MailCheckFill, MailCheckLine, MailCloseFill,
+        MailCloseLine, MailDownloadFill, MailDownloadLine, MailFill, MailForbidFill, MailForbidLine,
+        MailLine, MailLockFill, MailLockLine, MailOpenFill, MailOpenLine, MailSendFill,
+        MailSendLine, MailSettingsFill, MailSettingsLine, MailStarFill, MailStarLine,
+        MailUnreadFill, MailUnreadLine, MailVolumeFill, MailVolumeLine, Medal2Fill, Medal2Line,
+        MedalFill, MedalLine, Megaphone2Fill, Megaphone2Line, MegaphoneFill, MegaphoneLine,
+        PassExpiredFill, PassExpiredLine, PassPendingFill, PassPendingLine, PassValidFill,
+        PassValidLine, PieChart2Fill, PieChart2Line, PieChartBoxFill, PieChartBoxLine, PieChartFill,
+        PieChartLine, PresentationFill, PresentationLine, PrinterCloudFill, PrinterCloudLine,
+        PrinterFill, PrinterLine, ProfileFill, ProfileLine, Projector2Fill, Projector2Line,
+        ProjectorFill, ProjectorLine, RecordMailFill, RecordMailLine, RegisteredFill,
+        RegisteredLine, ReplyAllFill, ReplyAllLine, ReplyFill, ReplyLine, SendInsFill, SendInsLine,
+        SendPlane2Fill, SendPlane2Line, SendPlaneFill, SendPlaneLine, SeoFill, SeoLine, ServiceFill,
+        ServiceLine, ShakeHandsFill, ShakeHandsLine, Slideshow2Fill, Slideshow2Line, Slideshow3Fill,
+        Slideshow3Line, Slideshow4Fill, Slideshow4Line, SlideshowFill, SlideshowLine, StackFill,
+        StackLine, StackedChartFill, StackedChartLine, TrademarkFill, TrademarkLine,
+        TriangularFlagFill, TriangularFlagLine, VerifiedBadgeFill, VerifiedBadgeLine, Window2Fill,
+        Window2Line, WindowFill, WindowLine)
     return __AllIcons!!
   }

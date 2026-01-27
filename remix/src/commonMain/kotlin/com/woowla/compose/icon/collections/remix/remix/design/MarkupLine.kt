@@ -23,7 +23,7 @@ public val DesignGroup.MarkupLine: ImageVector
                     pathFillType = NonZero) {
                 moveTo(10.0f, 10.497f)
                 lineTo(11.038f, 6.862f)
-                curveTo(11.19f, 6.331f, 11.744f, 6.023f, 12.275f, 6.175f)
+                curveTo(11.19f, 6.331f, 11.744f, 6.024f, 12.275f, 6.175f)
                 curveTo(12.607f, 6.27f, 12.867f, 6.53f, 12.962f, 6.862f)
                 lineTo(14.0f, 10.497f)
                 verticalLineTo(11.997f)

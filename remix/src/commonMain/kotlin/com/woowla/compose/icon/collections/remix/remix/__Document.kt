@@ -10,6 +10,8 @@ import com.woowla.compose.icon.collections.remix.remix.document.Book2Fill
 import com.woowla.compose.icon.collections.remix.remix.document.Book2Line
 import com.woowla.compose.icon.collections.remix.remix.document.Book3Fill
 import com.woowla.compose.icon.collections.remix.remix.document.Book3Line
+import com.woowla.compose.icon.collections.remix.remix.document.BookAiFill
+import com.woowla.compose.icon.collections.remix.remix.document.BookAiLine
 import com.woowla.compose.icon.collections.remix.remix.document.BookFill
 import com.woowla.compose.icon.collections.remix.remix.document.BookLine
 import com.woowla.compose.icon.collections.remix.remix.document.BookMarkedFill
@@ -20,6 +22,10 @@ import com.woowla.compose.icon.collections.remix.remix.document.BookReadFill
 import com.woowla.compose.icon.collections.remix.remix.document.BookReadLine
 import com.woowla.compose.icon.collections.remix.remix.document.BookletFill
 import com.woowla.compose.icon.collections.remix.remix.document.BookletLine
+import com.woowla.compose.icon.collections.remix.remix.document.Certificate2Fill
+import com.woowla.compose.icon.collections.remix.remix.document.Certificate2Line
+import com.woowla.compose.icon.collections.remix.remix.document.CertificateFill
+import com.woowla.compose.icon.collections.remix.remix.document.CertificateLine
 import com.woowla.compose.icon.collections.remix.remix.document.ClipboardFill
 import com.woowla.compose.icon.collections.remix.remix.document.ClipboardLine
 import com.woowla.compose.icon.collections.remix.remix.document.ContactsBook2Fill
@@ -42,6 +48,10 @@ import com.woowla.compose.icon.collections.remix.remix.document.File4Fill
 import com.woowla.compose.icon.collections.remix.remix.document.File4Line
 import com.woowla.compose.icon.collections.remix.remix.document.FileAddFill
 import com.woowla.compose.icon.collections.remix.remix.document.FileAddLine
+import com.woowla.compose.icon.collections.remix.remix.document.FileAi2Fill
+import com.woowla.compose.icon.collections.remix.remix.document.FileAi2Line
+import com.woowla.compose.icon.collections.remix.remix.document.FileAiFill
+import com.woowla.compose.icon.collections.remix.remix.document.FileAiLine
 import com.woowla.compose.icon.collections.remix.remix.document.FileChart2Fill
 import com.woowla.compose.icon.collections.remix.remix.document.FileChart2Line
 import com.woowla.compose.icon.collections.remix.remix.document.FileChartFill
@@ -108,6 +118,8 @@ import com.woowla.compose.icon.collections.remix.remix.document.FilePptFill
 import com.woowla.compose.icon.collections.remix.remix.document.FilePptLine
 import com.woowla.compose.icon.collections.remix.remix.document.FileReduceFill
 import com.woowla.compose.icon.collections.remix.remix.document.FileReduceLine
+import com.woowla.compose.icon.collections.remix.remix.document.FileScanFill
+import com.woowla.compose.icon.collections.remix.remix.document.FileScanLine
 import com.woowla.compose.icon.collections.remix.remix.document.FileSearchFill
 import com.woowla.compose.icon.collections.remix.remix.document.FileSearchLine
 import com.woowla.compose.icon.collections.remix.remix.document.FileSettingsFill
@@ -249,12 +261,14 @@ public val DocumentGroup.AllIcons: ____KtList<ImageVector>
       return __AllIcons!!
     }
     __AllIcons= listOf(ArticleFill, ArticleLine, BillFill, BillLine, Book2Fill, Book2Line,
-        Book3Fill, Book3Line, BookFill, BookLine, BookMarkedFill, BookMarkedLine, BookOpenFill,
-        BookOpenLine, BookReadFill, BookReadLine, BookletFill, BookletLine, ClipboardFill,
-        ClipboardLine, ContactsBook2Fill, ContactsBook2Line, ContactsBook3Fill, ContactsBook3Line,
-        ContactsBookFill, ContactsBookLine, ContactsBookUploadFill, ContactsBookUploadLine,
-        ContractFill, ContractLine, DraftFill, DraftLine, File2Fill, File2Line, File3Fill,
-        File3Line, File4Fill, File4Line, FileAddFill, FileAddLine, FileChart2Fill, FileChart2Line,
+        Book3Fill, Book3Line, BookAiFill, BookAiLine, BookFill, BookLine, BookMarkedFill,
+        BookMarkedLine, BookOpenFill, BookOpenLine, BookReadFill, BookReadLine, BookletFill,
+        BookletLine, Certificate2Fill, Certificate2Line, CertificateFill, CertificateLine,
+        ClipboardFill, ClipboardLine, ContactsBook2Fill, ContactsBook2Line, ContactsBook3Fill,
+        ContactsBook3Line, ContactsBookFill, ContactsBookLine, ContactsBookUploadFill,
+        ContactsBookUploadLine, ContractFill, ContractLine, DraftFill, DraftLine, File2Fill,
+        File2Line, File3Fill, File3Line, File4Fill, File4Line, FileAddFill, FileAddLine,
+        FileAi2Fill, FileAi2Line, FileAiFill, FileAiLine, FileChart2Fill, FileChart2Line,
         FileChartFill, FileChartLine, FileCheckFill, FileCheckLine, FileCloseFill, FileCloseLine,
         FileCloudFill, FileCloudLine, FileCodeFill, FileCodeLine, FileCopy2Fill, FileCopy2Line,
         FileCopyFill, FileCopyLine, FileDamageFill, FileDamageLine, FileDownloadFill,
@@ -265,30 +279,30 @@ public val DocumentGroup.AllIcons: ____KtList<ImageVector>
         FileList3Line, FileListFill, FileListLine, FileLockFill, FileLockLine, FileMarkedFill,
         FileMarkedLine, FileMusicFill, FileMusicLine, FilePaper2Fill, FilePaper2Line, FilePaperFill,
         FilePaperLine, FilePdf2Fill, FilePdf2Line, FilePdfFill, FilePdfLine, FilePpt2Fill,
-        FilePpt2Line, FilePptFill, FilePptLine, FileReduceFill, FileReduceLine, FileSearchFill,
-        FileSearchLine, FileSettingsFill, FileSettingsLine, FileShield2Fill, FileShield2Line,
-        FileShieldFill, FileShieldLine, FileShredFill, FileShredLine, FileTextFill, FileTextLine,
-        FileTransferFill, FileTransferLine, FileUnknowFill, FileUnknowLine, FileUploadFill,
-        FileUploadLine, FileUserFill, FileUserLine, FileVideoFill, FileVideoLine, FileWarningFill,
-        FileWarningLine, FileWord2Fill, FileWord2Line, FileWordFill, FileWordLine, FileZipFill,
-        FileZipLine, Folder2Fill, Folder2Line, Folder3Fill, Folder3Line, Folder4Fill, Folder4Line,
-        Folder5Fill, Folder5Line, Folder6Fill, Folder6Line, FolderAddFill, FolderAddLine,
-        FolderChart2Fill, FolderChart2Line, FolderChartFill, FolderChartLine, FolderCheckFill,
-        FolderCheckLine, FolderCloseFill, FolderCloseLine, FolderCloudFill, FolderCloudLine,
-        FolderDownloadFill, FolderDownloadLine, FolderFill, FolderForbidFill, FolderForbidLine,
-        FolderHistoryFill, FolderHistoryLine, FolderImageFill, FolderImageLine, FolderInfoFill,
-        FolderInfoLine, FolderKeyholeFill, FolderKeyholeLine, FolderLine, FolderLockFill,
-        FolderLockLine, FolderMusicFill, FolderMusicLine, FolderOpenFill, FolderOpenLine,
-        FolderReceivedFill, FolderReceivedLine, FolderReduceFill, FolderReduceLine,
-        FolderSettingsFill, FolderSettingsLine, FolderSharedFill, FolderSharedLine,
-        FolderShield2Fill, FolderShield2Line, FolderShieldFill, FolderShieldLine,
-        FolderTransferFill, FolderTransferLine, FolderUnknowFill, FolderUnknowLine,
-        FolderUploadFill, FolderUploadLine, FolderUserFill, FolderUserLine, FolderVideoFill,
-        FolderVideoLine, FolderWarningFill, FolderWarningLine, FolderZipFill, FolderZipLine,
-        FoldersFill, FoldersLine, KeynoteFill, KeynoteLine, MarkdownFill, MarkdownLine, NewsFill,
-        NewsLine, NewspaperFill, NewspaperLine, NumbersFill, NumbersLine, PagesFill, PagesLine,
-        ReceiptFill, ReceiptLine, StickyNote2Fill, StickyNote2Line, StickyNoteAddFill,
-        StickyNoteAddLine, StickyNoteFill, StickyNoteLine, SurveyFill, SurveyLine, TaskFill,
-        TaskLine, TodoFill, TodoLine)
+        FilePpt2Line, FilePptFill, FilePptLine, FileReduceFill, FileReduceLine, FileScanFill,
+        FileScanLine, FileSearchFill, FileSearchLine, FileSettingsFill, FileSettingsLine,
+        FileShield2Fill, FileShield2Line, FileShieldFill, FileShieldLine, FileShredFill,
+        FileShredLine, FileTextFill, FileTextLine, FileTransferFill, FileTransferLine,
+        FileUnknowFill, FileUnknowLine, FileUploadFill, FileUploadLine, FileUserFill, FileUserLine,
+        FileVideoFill, FileVideoLine, FileWarningFill, FileWarningLine, FileWord2Fill,
+        FileWord2Line, FileWordFill, FileWordLine, FileZipFill, FileZipLine, Folder2Fill,
+        Folder2Line, Folder3Fill, Folder3Line, Folder4Fill, Folder4Line, Folder5Fill, Folder5Line,
+        Folder6Fill, Folder6Line, FolderAddFill, FolderAddLine, FolderChart2Fill, FolderChart2Line,
+        FolderChartFill, FolderChartLine, FolderCheckFill, FolderCheckLine, FolderCloseFill,
+        FolderCloseLine, FolderCloudFill, FolderCloudLine, FolderDownloadFill, FolderDownloadLine,
+        FolderFill, FolderForbidFill, FolderForbidLine, FolderHistoryFill, FolderHistoryLine,
+        FolderImageFill, FolderImageLine, FolderInfoFill, FolderInfoLine, FolderKeyholeFill,
+        FolderKeyholeLine, FolderLine, FolderLockFill, FolderLockLine, FolderMusicFill,
+        FolderMusicLine, FolderOpenFill, FolderOpenLine, FolderReceivedFill, FolderReceivedLine,
+        FolderReduceFill, FolderReduceLine, FolderSettingsFill, FolderSettingsLine,
+        FolderSharedFill, FolderSharedLine, FolderShield2Fill, FolderShield2Line, FolderShieldFill,
+        FolderShieldLine, FolderTransferFill, FolderTransferLine, FolderUnknowFill,
+        FolderUnknowLine, FolderUploadFill, FolderUploadLine, FolderUserFill, FolderUserLine,
+        FolderVideoFill, FolderVideoLine, FolderWarningFill, FolderWarningLine, FolderZipFill,
+        FolderZipLine, FoldersFill, FoldersLine, KeynoteFill, KeynoteLine, MarkdownFill,
+        MarkdownLine, NewsFill, NewsLine, NewspaperFill, NewspaperLine, NumbersFill, NumbersLine,
+        PagesFill, PagesLine, ReceiptFill, ReceiptLine, StickyNote2Fill, StickyNote2Line,
+        StickyNoteAddFill, StickyNoteAddLine, StickyNoteFill, StickyNoteLine, SurveyFill,
+        SurveyLine, TaskFill, TaskLine, TodoFill, TodoLine)
     return __AllIcons!!
   }

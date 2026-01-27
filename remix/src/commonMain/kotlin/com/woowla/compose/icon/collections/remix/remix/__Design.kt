@@ -2,6 +2,8 @@ package com.woowla.compose.icon.collections.remix.remix
 
 import androidx.compose.ui.graphics.vector.ImageVector
 import com.woowla.compose.icon.collections.remix.Remix
+import com.woowla.compose.icon.collections.remix.remix.design.AiGenerate2Fill
+import com.woowla.compose.icon.collections.remix.remix.design.AiGenerate2Line
 import com.woowla.compose.icon.collections.remix.remix.design.AlignItemBottomFill
 import com.woowla.compose.icon.collections.remix.remix.design.AlignItemBottomLine
 import com.woowla.compose.icon.collections.remix.remix.design.AlignItemHorizontalCenterFill
@@ -32,6 +34,8 @@ import com.woowla.compose.icon.collections.remix.remix.design.Brush3Fill
 import com.woowla.compose.icon.collections.remix.remix.design.Brush3Line
 import com.woowla.compose.icon.collections.remix.remix.design.Brush4Fill
 import com.woowla.compose.icon.collections.remix.remix.design.Brush4Line
+import com.woowla.compose.icon.collections.remix.remix.design.BrushAi3Fill
+import com.woowla.compose.icon.collections.remix.remix.design.BrushAi3Line
 import com.woowla.compose.icon.collections.remix.remix.design.BrushAiFill
 import com.woowla.compose.icon.collections.remix.remix.design.BrushAiLine
 import com.woowla.compose.icon.collections.remix.remix.design.BrushFill
@@ -70,6 +74,8 @@ import com.woowla.compose.icon.collections.remix.remix.design.CrosshairFill
 import com.woowla.compose.icon.collections.remix.remix.design.CrosshairLine
 import com.woowla.compose.icon.collections.remix.remix.design.DragDropFill
 import com.woowla.compose.icon.collections.remix.remix.design.DragDropLine
+import com.woowla.compose.icon.collections.remix.remix.design.DrawFill
+import com.woowla.compose.icon.collections.remix.remix.design.DrawLine
 import com.woowla.compose.icon.collections.remix.remix.design.DropFill
 import com.woowla.compose.icon.collections.remix.remix.design.DropLine
 import com.woowla.compose.icon.collections.remix.remix.design.Edit2Fill
@@ -154,18 +160,28 @@ import com.woowla.compose.icon.collections.remix.remix.design.MarkPenFill
 import com.woowla.compose.icon.collections.remix.remix.design.MarkPenLine
 import com.woowla.compose.icon.collections.remix.remix.design.MarkupFill
 import com.woowla.compose.icon.collections.remix.remix.design.MarkupLine
+import com.woowla.compose.icon.collections.remix.remix.design.MosaicFill
+import com.woowla.compose.icon.collections.remix.remix.design.MosaicLine
 import com.woowla.compose.icon.collections.remix.remix.design.OctagonFill
 import com.woowla.compose.icon.collections.remix.remix.design.OctagonLine
 import com.woowla.compose.icon.collections.remix.remix.design.PaintBrushFill
 import com.woowla.compose.icon.collections.remix.remix.design.PaintBrushLine
 import com.woowla.compose.icon.collections.remix.remix.design.PaintFill
 import com.woowla.compose.icon.collections.remix.remix.design.PaintLine
+import com.woowla.compose.icon.collections.remix.remix.design.PaintingAiFill
+import com.woowla.compose.icon.collections.remix.remix.design.PaintingAiLine
+import com.woowla.compose.icon.collections.remix.remix.design.PaintingFill
+import com.woowla.compose.icon.collections.remix.remix.design.PaintingLine
 import com.woowla.compose.icon.collections.remix.remix.design.PaletteFill
 import com.woowla.compose.icon.collections.remix.remix.design.PaletteLine
 import com.woowla.compose.icon.collections.remix.remix.design.PantoneFill
 import com.woowla.compose.icon.collections.remix.remix.design.PantoneLine
 import com.woowla.compose.icon.collections.remix.remix.design.PenNibFill
 import com.woowla.compose.icon.collections.remix.remix.design.PenNibLine
+import com.woowla.compose.icon.collections.remix.remix.design.PencilAi2Fill
+import com.woowla.compose.icon.collections.remix.remix.design.PencilAi2Line
+import com.woowla.compose.icon.collections.remix.remix.design.PencilAiFill
+import com.woowla.compose.icon.collections.remix.remix.design.PencilAiLine
 import com.woowla.compose.icon.collections.remix.remix.design.PencilFill
 import com.woowla.compose.icon.collections.remix.remix.design.PencilLine
 import com.woowla.compose.icon.collections.remix.remix.design.PencilRuler2Fill
@@ -180,6 +196,8 @@ import com.woowla.compose.icon.collections.remix.remix.design.QuillPenFill
 import com.woowla.compose.icon.collections.remix.remix.design.QuillPenLine
 import com.woowla.compose.icon.collections.remix.remix.design.RectangleFill
 import com.woowla.compose.icon.collections.remix.remix.design.RectangleLine
+import com.woowla.compose.icon.collections.remix.remix.design.RemixFill
+import com.woowla.compose.icon.collections.remix.remix.design.RemixLine
 import com.woowla.compose.icon.collections.remix.remix.design.Ruler2Fill
 import com.woowla.compose.icon.collections.remix.remix.design.Ruler2Line
 import com.woowla.compose.icon.collections.remix.remix.design.RulerFill
@@ -218,6 +236,8 @@ import com.woowla.compose.icon.collections.remix.remix.design.ToolsFill
 import com.woowla.compose.icon.collections.remix.remix.design.ToolsLine
 import com.woowla.compose.icon.collections.remix.remix.design.TriangleFill
 import com.woowla.compose.icon.collections.remix.remix.design.TriangleLine
+import com.woowla.compose.icon.collections.remix.remix.design.WrenchFill
+import com.woowla.compose.icon.collections.remix.remix.design.WrenchLine
 import kotlin.collections.List as ____KtList
 
 public object DesignGroup
@@ -232,42 +252,46 @@ public val DesignGroup.AllIcons: ____KtList<ImageVector>
     if (__AllIcons != null) {
       return __AllIcons!!
     }
-    __AllIcons= listOf(AlignItemBottomFill, AlignItemBottomLine, AlignItemHorizontalCenterFill,
-        AlignItemHorizontalCenterLine, AlignItemLeftFill, AlignItemLeftLine, AlignItemRightFill,
-        AlignItemRightLine, AlignItemTopFill, AlignItemTopLine, AlignItemVerticalCenterFill,
-        AlignItemVerticalCenterLine, Anticlockwise2Fill, Anticlockwise2Line, AnticlockwiseFill,
-        AnticlockwiseLine, Artboard2Fill, Artboard2Line, ArtboardFill, ArtboardLine, BallPenFill,
-        BallPenLine, BlurOffFill, BlurOffLine, Brush2Fill, Brush2Line, Brush3Fill, Brush3Line,
-        Brush4Fill, Brush4Line, BrushAiFill, BrushAiLine, BrushFill, BrushLine, CircleFill,
+    __AllIcons= listOf(AiGenerate2Fill, AiGenerate2Line, AlignItemBottomFill, AlignItemBottomLine,
+        AlignItemHorizontalCenterFill, AlignItemHorizontalCenterLine, AlignItemLeftFill,
+        AlignItemLeftLine, AlignItemRightFill, AlignItemRightLine, AlignItemTopFill,
+        AlignItemTopLine, AlignItemVerticalCenterFill, AlignItemVerticalCenterLine,
+        Anticlockwise2Fill, Anticlockwise2Line, AnticlockwiseFill, AnticlockwiseLine, Artboard2Fill,
+        Artboard2Line, ArtboardFill, ArtboardLine, BallPenFill, BallPenLine, BlurOffFill,
+        BlurOffLine, Brush2Fill, Brush2Line, Brush3Fill, Brush3Line, Brush4Fill, Brush4Line,
+        BrushAi3Fill, BrushAi3Line, BrushAiFill, BrushAiLine, BrushFill, BrushLine, CircleFill,
         CircleLine, Clockwise2Fill, Clockwise2Line, ClockwiseFill, ClockwiseLine, CollageFill,
         CollageLine, ColorFilterAiFill, ColorFilterAiLine, ColorFilterFill, ColorFilterLine,
         Compasses2Fill, Compasses2Line, CompassesFill, CompassesLine, Contrast2Fill, Contrast2Line,
         ContrastDrop2Fill, ContrastDrop2Line, ContrastDropFill, ContrastDropLine, ContrastFill,
         ContrastLine, Crop2Fill, Crop2Line, CropFill, CropLine, Crosshair2Fill, Crosshair2Line,
-        CrosshairFill, CrosshairLine, DragDropFill, DragDropLine, DropFill, DropLine, Edit2Fill,
-        Edit2Line, EditBoxFill, EditBoxLine, EditCircleFill, EditCircleLine, EditFill, EditLine,
-        EraserFill, EraserLine, FlipHorizontal2Fill, FlipHorizontal2Line, FlipHorizontalFill,
-        FlipHorizontalLine, FlipVertical2Fill, FlipVertical2Line, FlipVerticalFill,
-        FlipVerticalLine, Focus2Fill, Focus2Line, Focus3Fill, Focus3Line, FocusFill, FocusLine,
-        GridFill, GridLine, HammerFill, HammerLine, HexagonFill, HexagonLine, InkBottleFill,
-        InkBottleLine, InputMethodFill, InputMethodLine, Layout2Fill, Layout2Line, Layout3Fill,
-        Layout3Line, Layout4Fill, Layout4Line, Layout5Fill, Layout5Line, Layout6Fill, Layout6Line,
-        LayoutBottom2Fill, LayoutBottom2Line, LayoutBottomFill, LayoutBottomLine, LayoutColumnFill,
-        LayoutColumnLine, LayoutFill, LayoutGrid2Fill, LayoutGrid2Line, LayoutGridFill,
-        LayoutGridLine, LayoutHorizontalFill, LayoutHorizontalLine, LayoutLeft2Fill,
+        CrosshairFill, CrosshairLine, DragDropFill, DragDropLine, DrawFill, DrawLine, DropFill,
+        DropLine, Edit2Fill, Edit2Line, EditBoxFill, EditBoxLine, EditCircleFill, EditCircleLine,
+        EditFill, EditLine, EraserFill, EraserLine, FlipHorizontal2Fill, FlipHorizontal2Line,
+        FlipHorizontalFill, FlipHorizontalLine, FlipVertical2Fill, FlipVertical2Line,
+        FlipVerticalFill, FlipVerticalLine, Focus2Fill, Focus2Line, Focus3Fill, Focus3Line,
+        FocusFill, FocusLine, GridFill, GridLine, HammerFill, HammerLine, HexagonFill, HexagonLine,
+        InkBottleFill, InkBottleLine, InputMethodFill, InputMethodLine, Layout2Fill, Layout2Line,
+        Layout3Fill, Layout3Line, Layout4Fill, Layout4Line, Layout5Fill, Layout5Line, Layout6Fill,
+        Layout6Line, LayoutBottom2Fill, LayoutBottom2Line, LayoutBottomFill, LayoutBottomLine,
+        LayoutColumnFill, LayoutColumnLine, LayoutFill, LayoutGrid2Fill, LayoutGrid2Line,
+        LayoutGridFill, LayoutGridLine, LayoutHorizontalFill, LayoutHorizontalLine, LayoutLeft2Fill,
         LayoutLeft2Line, LayoutLeftFill, LayoutLeftLine, LayoutLine, LayoutMasonryFill,
         LayoutMasonryLine, LayoutRight2Fill, LayoutRight2Line, LayoutRightFill, LayoutRightLine,
         LayoutRowFill, LayoutRowLine, LayoutTop2Fill, LayoutTop2Line, LayoutTopFill, LayoutTopLine,
         LayoutVerticalFill, LayoutVerticalLine, MagicFill, MagicLine, MarkPenFill, MarkPenLine,
-        MarkupFill, MarkupLine, OctagonFill, OctagonLine, PaintBrushFill, PaintBrushLine, PaintFill,
-        PaintLine, PaletteFill, PaletteLine, PantoneFill, PantoneLine, PenNibFill, PenNibLine,
-        PencilFill, PencilLine, PencilRuler2Fill, PencilRuler2Line, PencilRulerFill,
-        PencilRulerLine, PentagonFill, PentagonLine, QuillPenAiFill, QuillPenAiLine, QuillPenFill,
-        QuillPenLine, RectangleFill, RectangleLine, Ruler2Fill, Ruler2Line, RulerFill, RulerLine,
+        MarkupFill, MarkupLine, MosaicFill, MosaicLine, OctagonFill, OctagonLine, PaintBrushFill,
+        PaintBrushLine, PaintFill, PaintLine, PaintingAiFill, PaintingAiLine, PaintingFill,
+        PaintingLine, PaletteFill, PaletteLine, PantoneFill, PantoneLine, PenNibFill, PenNibLine,
+        PencilAi2Fill, PencilAi2Line, PencilAiFill, PencilAiLine, PencilFill, PencilLine,
+        PencilRuler2Fill, PencilRuler2Line, PencilRulerFill, PencilRulerLine, PentagonFill,
+        PentagonLine, QuillPenAiFill, QuillPenAiLine, QuillPenFill, QuillPenLine, RectangleFill,
+        RectangleLine, RemixFill, RemixLine, Ruler2Fill, Ruler2Line, RulerFill, RulerLine,
         Scissors2Fill, Scissors2Line, ScissorsCutFill, ScissorsCutLine, ScissorsFill, ScissorsLine,
         Screenshot2Fill, Screenshot2Line, ScreenshotFill, ScreenshotLine, ShadowFill, ShadowLine,
         Shape2Fill, Shape2Line, ShapeFill, ShapeLine, ShapesFill, ShapesLine, SipFill, SipLine,
         SliceFill, SliceLine, SquareFill, SquareLine, TBoxFill, TBoxLine, TableAltFill,
-        TableAltLine, TableFill, TableLine, ToolsFill, ToolsLine, TriangleFill, TriangleLine)
+        TableAltLine, TableFill, TableLine, ToolsFill, ToolsLine, TriangleFill, TriangleLine,
+        WrenchFill, WrenchLine)
     return __AllIcons!!
   }

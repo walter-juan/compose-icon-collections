@@ -27,11 +27,11 @@ public val DesignGroup.FocusFill: ImageVector
                 curveTo(6.48f, 22.0f, 2.0f, 17.52f, 2.0f, 12.0f)
                 curveTo(2.0f, 6.48f, 6.48f, 2.0f, 12.0f, 2.0f)
                 close()
-                moveTo(12.0f, 10.0f)
-                curveTo(10.9f, 10.0f, 10.0f, 10.9f, 10.0f, 12.0f)
-                curveTo(10.0f, 13.1f, 10.9f, 14.0f, 12.0f, 14.0f)
-                curveTo(13.1f, 14.0f, 14.0f, 13.1f, 14.0f, 12.0f)
-                curveTo(14.0f, 10.9f, 13.1f, 10.0f, 12.0f, 10.0f)
+                moveTo(12.0f, 9.5f)
+                curveTo(10.619f, 9.5f, 9.5f, 10.619f, 9.5f, 12.0f)
+                curveTo(9.5f, 13.381f, 10.619f, 14.5f, 12.0f, 14.5f)
+                curveTo(13.381f, 14.5f, 14.5f, 13.381f, 14.5f, 12.0f)
+                curveTo(14.5f, 10.619f, 13.381f, 9.5f, 12.0f, 9.5f)
                 close()
             }
         }

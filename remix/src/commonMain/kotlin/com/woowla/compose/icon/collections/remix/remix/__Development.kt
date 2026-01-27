@@ -48,6 +48,10 @@ import com.woowla.compose.icon.collections.remix.remix.development.GitRepository
 import com.woowla.compose.icon.collections.remix.remix.development.GitRepositoryPrivateLine
 import com.woowla.compose.icon.collections.remix.remix.development.Html5Fill
 import com.woowla.compose.icon.collections.remix.remix.development.Html5Line
+import com.woowla.compose.icon.collections.remix.remix.development.IssuesFill
+import com.woowla.compose.icon.collections.remix.remix.development.IssuesLine
+import com.woowla.compose.icon.collections.remix.remix.development.IssuesReopenFill
+import com.woowla.compose.icon.collections.remix.remix.development.IssuesReopenLine
 import com.woowla.compose.icon.collections.remix.remix.development.JavascriptFill
 import com.woowla.compose.icon.collections.remix.remix.development.JavascriptLine
 import com.woowla.compose.icon.collections.remix.remix.development.ParenthesesFill
@@ -86,8 +90,9 @@ public val DevelopmentGroup.AllIcons: ____KtList<ImageVector>
         GitMergeFill, GitMergeLine, GitPrDraftFill, GitPrDraftLine, GitPullRequestFill,
         GitPullRequestLine, GitRepositoryCommitsFill, GitRepositoryCommitsLine, GitRepositoryFill,
         GitRepositoryLine, GitRepositoryPrivateFill, GitRepositoryPrivateLine, Html5Fill, Html5Line,
-        JavascriptFill, JavascriptLine, ParenthesesFill, ParenthesesLine, PhpFill, PhpLine,
-        Puzzle2Fill, Puzzle2Line, PuzzleFill, PuzzleLine, TerminalBoxFill, TerminalBoxLine,
-        TerminalFill, TerminalLine, TerminalWindowFill, TerminalWindowLine)
+        IssuesFill, IssuesLine, IssuesReopenFill, IssuesReopenLine, JavascriptFill, JavascriptLine,
+        ParenthesesFill, ParenthesesLine, PhpFill, PhpLine, Puzzle2Fill, Puzzle2Line, PuzzleFill,
+        PuzzleLine, TerminalBoxFill, TerminalBoxLine, TerminalFill, TerminalLine,
+        TerminalWindowFill, TerminalWindowLine)
     return __AllIcons!!
   }
