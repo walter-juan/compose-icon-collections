@@ -23,21 +23,21 @@ public val SharpGroup.VolumeHigh: ImageVector
         _volumeHigh = Builder(name = "VolumeHigh", defaultWidth = 512.0.dp, defaultHeight =
                 512.0.dp, viewportWidth = 512.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 32.0f, strokeLineCap = Square, strokeLineJoin = Miter,
+                    strokeLineWidth = 32.0f, strokeLineCap = StrokeCap.Square, strokeLineJoin = Miter,
                     strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(320.0f, 320.0f)
                 curveToRelative(9.74f, -19.38f, 16.0f, -40.84f, 16.0f, -64.0f)
                 curveToRelative(0.0f, -23.48f, -6.0f, -44.42f, -16.0f, -64.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 32.0f, strokeLineCap = Square, strokeLineJoin = Miter,
+                    strokeLineWidth = 32.0f, strokeLineCap = StrokeCap.Square, strokeLineJoin = Miter,
                     strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(368.0f, 368.0f)
                 curveToRelative(19.48f, -33.92f, 32.0f, -64.06f, 32.0f, -112.0f)
                 reflectiveCurveToRelative(-12.0f, -77.74f, -32.0f, -112.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 32.0f, strokeLineCap = Square, strokeLineJoin = Miter,
+                    strokeLineWidth = 32.0f, strokeLineCap = StrokeCap.Square, strokeLineJoin = Miter,
                     strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(416.0f, 416.0f)
                 curveToRelative(30.0f, -46.0f, 48.0f, -91.43f, 48.0f, -160.0f)
