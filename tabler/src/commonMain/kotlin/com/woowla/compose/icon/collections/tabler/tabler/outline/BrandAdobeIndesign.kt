@@ -36,19 +36,26 @@ public val OutlineGroup.BrandAdobeIndesign: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(14.842f, 11.053f)
-                verticalLineToRelative(3.79f)
-                curveToRelative(0.0f, 1.044f, -0.49f, 0.946f, -1.42f, 0.946f)
-                arcToRelative(2.368f, 2.368f, 0.0f, false, true, 0.0f, -4.736f)
-                close()
-                moveTo(14.842f, 11.053f)
-                verticalLineToRelative(-2.843f)
+                moveTo(15.0f, 11.0f)
+                verticalLineToRelative(4.0f)
+                curveToRelative(0.0f, 1.1f, -0.657f, 0.997f, -1.6f, 0.997f)
+                arcToRelative(2.35f, 2.35f, 0.0f, false, true, -1.697f, -0.731f)
+                arcToRelative(2.55f, 2.55f, 0.0f, false, true, -0.703f, -1.767f)
+                curveToRelative(0.0f, -0.663f, 0.253f, -1.299f, 0.703f, -1.767f)
+                arcToRelative(2.35f, 2.35f, 0.0f, false, true, 1.697f, -0.732f)
+                horizontalLineToRelative(1.6f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(8.211f, 8.211f)
-                verticalLineToRelative(7.578f)
+                moveTo(15.0f, 11.0f)
+                verticalLineToRelative(-3.0f)
+            }
+            path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
+                    strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
+                    StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
+                moveTo(8.0f, 8.0f)
+                verticalLineToRelative(8.0f)
             }
         }
         .build()

@@ -27,7 +27,7 @@ public val OutlineGroup.BrandGoogleDrive: ImageVector
                 lineToRelative(-6.0f, 10.0f)
                 lineToRelative(-3.0f, -5.0f)
                 lineToRelative(6.0f, -10.0f)
-                close()
+                lineToRelative(3.0f, 5.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -44,7 +44,7 @@ public val OutlineGroup.BrandGoogleDrive: ImageVector
                 lineToRelative(-6.0f, -10.0f)
                 horizontalLineToRelative(6.0f)
                 lineToRelative(6.0f, 10.0f)
-                close()
+                lineToRelative(-6.0f, 0.0f)
             }
         }
         .build()

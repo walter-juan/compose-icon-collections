@@ -30,7 +30,6 @@ public val OutlineGroup.RectangleRoundedBottom: ImageVector
                 arcToRelative(1.0f, 1.0f, 0.0f, false, false, -1.0f, 1.0f)
                 verticalLineToRelative(5.0f)
                 arcToRelative(6.0f, 6.0f, 0.0f, false, false, 6.0f, 6.0f)
-                close()
             }
         }
         .build()

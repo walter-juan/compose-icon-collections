@@ -29,7 +29,7 @@ public val OutlineGroup.BrandVisualStudio: ImageVector
                 lineToRelative(-4.0f, -2.0f)
                 lineToRelative(-10.0f, 13.0f)
                 lineToRelative(-2.0f, -1.0f)
-                close()
+                lineToRelative(0.0f, -8.0f)
             }
         }
         .build()

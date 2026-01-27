@@ -39,7 +39,7 @@ public val OutlineGroup.BrandParsinta: ImageVector
                 moveTo(10.0f, 9.0f)
                 verticalLineToRelative(6.0f)
                 lineToRelative(5.0f, -3.0f)
-                close()
+                lineToRelative(-5.0f, -3.0f)
             }
         }
         .build()

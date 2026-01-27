@@ -30,7 +30,6 @@ public val OutlineGroup.BrandDrops: ImageVector
                 arcToRelative(7.907f, 7.907f, 0.0f, false, true, 1.759f, -8.666f)
                 lineToRelative(5.637f, -5.416f)
                 lineToRelative(5.637f, 5.416f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -42,7 +41,6 @@ public val OutlineGroup.BrandDrops: ImageVector
                 arcToRelative(3.595f, 3.595f, 0.0f, false, true, 0.77f, -3.877f)
                 lineToRelative(2.466f, -2.423f)
                 lineToRelative(2.466f, 2.423f)
-                close()
             }
         }
         .build()

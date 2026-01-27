@@ -32,7 +32,6 @@ public val OutlineGroup.Bong: ImageVector
                 arcToRelative(5.0f, 5.0f, 0.0f, true, true, -6.392f, -2.192f)
                 verticalLineToRelative(-8.416f)
                 horizontalLineToRelative(4.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

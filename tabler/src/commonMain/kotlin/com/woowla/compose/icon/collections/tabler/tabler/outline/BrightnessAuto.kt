@@ -39,7 +39,7 @@ public val OutlineGroup.BrightnessAuto: ImageVector
                 verticalLineToRelative(-3.5f)
                 lineToRelative(-2.5f, -2.5f)
                 lineToRelative(2.5f, -2.5f)
-                close()
+                lineToRelative(0.0f, -3.5f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

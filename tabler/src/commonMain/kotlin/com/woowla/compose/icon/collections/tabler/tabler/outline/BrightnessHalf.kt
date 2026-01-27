@@ -26,7 +26,6 @@ public val OutlineGroup.BrightnessHalf: ImageVector
                 moveTo(12.0f, 9.0f)
                 arcToRelative(3.0f, 3.0f, 0.0f, false, false, 0.0f, 6.0f)
                 verticalLineToRelative(-6.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -47,7 +46,7 @@ public val OutlineGroup.BrightnessHalf: ImageVector
                 verticalLineToRelative(-3.5f)
                 lineToRelative(-2.5f, -2.5f)
                 lineToRelative(2.5f, -2.5f)
-                close()
+                lineToRelative(0.0f, -3.5f)
             }
         }
         .build()

@@ -56,7 +56,6 @@ public val OutlineGroup.MoodHeart: ImageVector
                 arcToRelative(1.627f, 1.627f, 0.0f, false, false, -2.346f, -0.004f)
                 arcToRelative(1.74f, 1.74f, 0.0f, false, false, -0.004f, 2.412f)
                 lineToRelative(2.51f, 2.59f)
-                close()
             }
         }
         .build()

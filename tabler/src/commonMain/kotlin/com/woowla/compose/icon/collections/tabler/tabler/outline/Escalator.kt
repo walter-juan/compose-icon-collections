@@ -32,7 +32,6 @@ public val OutlineGroup.Escalator: ImageVector
                 lineToRelative(8.414f, -8.414f)
                 horizontalLineToRelative(1.5f)
                 arcToRelative(2.5f, 2.5f, 0.0f, false, false, 0.0f, -5.0f)
-                close()
             }
         }
         .build()

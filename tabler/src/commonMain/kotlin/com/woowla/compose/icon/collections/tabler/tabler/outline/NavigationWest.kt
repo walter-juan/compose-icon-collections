@@ -36,7 +36,7 @@ public val OutlineGroup.NavigationWest: ImageVector
                 lineToRelative(-4.0f, -8.0f)
                 lineToRelative(-4.0f, 8.0f)
                 lineToRelative(4.0f, -2.0f)
-                close()
+                lineToRelative(4.0f, 2.0f)
             }
         }
         .build()

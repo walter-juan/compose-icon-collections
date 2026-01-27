@@ -31,7 +31,6 @@ public val OutlineGroup.BrandCoinbase: ImageVector
                 arcToRelative(5.185f, 5.185f, 0.0f, false, false, 7.354f, 0.013f)
                 lineToRelative(3.349f, 3.367f)
                 arcToRelative(9.887f, 9.887f, 0.0f, false, true, -7.05f, 2.912f)
-                close()
             }
         }
         .build()

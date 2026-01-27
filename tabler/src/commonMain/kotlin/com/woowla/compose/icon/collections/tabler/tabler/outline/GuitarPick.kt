@@ -32,7 +32,6 @@ public val OutlineGroup.GuitarPick: ImageVector
                 lineToRelative(0.354f, 0.347f)
                 arcToRelative(3.9f, 3.9f, 0.0f, false, false, 5.364f, 0.0f)
                 arcToRelative(14.05f, 14.05f, 0.0f, false, false, 1.319f, -1.428f)
-                close()
             }
         }
         .build()

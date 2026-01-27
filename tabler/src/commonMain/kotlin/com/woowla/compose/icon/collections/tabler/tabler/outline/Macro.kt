@@ -56,7 +56,6 @@ public val OutlineGroup.Macro: ImageVector
                 lineToRelative(3.0f, -2.0f)
                 verticalLineToRelative(3.0f)
                 arcToRelative(5.0f, 5.0f, 0.0f, false, true, -5.0f, 5.0f)
-                close()
             }
         }
         .build()

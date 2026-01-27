@@ -28,7 +28,6 @@ public val OutlineGroup.BrandGoogleOne: ImageVector
                 arcToRelative(2.0f, 2.0f, 0.0f, false, false, 4.0f, 0.0f)
                 verticalLineToRelative(-13.982f)
                 arcToRelative(2.0f, 2.0f, 0.0f, true, false, -4.0f, 0.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -40,7 +39,6 @@ public val OutlineGroup.BrandGoogleOne: ImageVector
                 curveToRelative(0.812f, -0.792f, 0.846f, -2.11f, 0.076f, -2.945f)
                 arcToRelative(1.984f, 1.984f, 0.0f, false, false, -2.861f, -0.077f)
                 lineToRelative(-4.953f, 4.835f)
-                close()
             }
         }
         .build()

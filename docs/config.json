@@ -17,56 +17,6 @@
             ]
         },
         {
-            "name": "Remix icons",
-            "value": "remix",
-            "categories": [
-                "others",
-                "business",
-                "media",
-                "finance",
-                "userandfaces",
-                "arrows",
-                "map",
-                "logos",
-                "system",
-                "editor",
-                "device",
-                "food",
-                "communication",
-                "weather",
-                "development",
-                "buildings",
-                "healthandmedical",
-                "document",
-                "design"
-            ]
-        },
-        {
-            "name": "FontAwesome",
-            "value": "fontawesome",
-            "categories": [
-                "regular",
-                "solid",
-                "brands"
-            ]
-        },
-        {
-            "name": "Octicons",
-            "value": "octicons",
-            "categories": [
-                ""
-            ]
-        },
-        {
-            "name": "Ionicons",
-            "value": "ionicons",
-            "categories": [
-                "outline",
-                "sharp",
-                "filled"
-            ]
-        },
-        {
             "name": "Twbs",
             "value": "twbs",
             "categories": [
@@ -83,18 +33,69 @@
             ]
         },
         {
-            "name": "Simpleicons",
-            "value": "simpleicons",
+            "name": "Octicons",
+            "value": "octicons",
             "categories": [
                 ""
+            ]
+        },
+        {
+            "name": "Remix icons",
+            "value": "remix",
+            "categories": [
+                "document",
+                "communication",
+                "development",
+                "arrows",
+                "logos",
+                "weather",
+                "healthandmedical",
+                "gameandsports",
+                "business",
+                "system",
+                "editor",
+                "map",
+                "design",
+                "others",
+                "finance",
+                "userandfaces",
+                "device",
+                "media",
+                "food",
+                "buildings"
             ]
         },
         {
             "name": "Tabler",
             "value": "tabler",
             "categories": [
-                "outline",
-                "filled"
+                "filled",
+                "outline"
+            ]
+        },
+        {
+            "name": "Ionicons",
+            "value": "ionicons",
+            "categories": [
+                "filled",
+                "sharp",
+                "outline"
+            ]
+        },
+        {
+            "name": "FontAwesome",
+            "value": "fontawesome",
+            "categories": [
+                "solid",
+                "regular",
+                "brands"
+            ]
+        },
+        {
+            "name": "Simpleicons",
+            "value": "simpleicons",
+            "categories": [
+                ""
             ]
         }
     ]

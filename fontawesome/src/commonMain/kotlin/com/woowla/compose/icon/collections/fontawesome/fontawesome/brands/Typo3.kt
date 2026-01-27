@@ -25,7 +25,7 @@ public val BrandsGroup.Typo3: ImageVector
                 curveToRelative(0.0f, -24.7f, 5.4f, -32.4f, 13.9f, -39.4f)
                 curveToRelative(-69.5f, 8.5f, -149.3f, 34.0f, -176.3f, 66.4f)
                 curveToRelative(-5.4f, 7.7f, -9.3f, 20.8f, -9.3f, 37.1f)
-                curveTo(7.0f, 246.0f, 113.8f, 480.0f, 191.1f, 480.0f)
+                curveToRelative(0.0f, 103.5f, 106.8f, 337.5f, 184.1f, 337.5f)
                 curveToRelative(36.3f, 0.0f, 97.3f, -59.5f, 146.7f, -139.0f)
                 curveToRelative(-7.0f, 2.3f, -11.6f, 2.3f, -18.5f, 2.3f)
                 curveToRelative(-57.2f, 0.0f, -140.6f, -198.5f, -140.6f, -264.9f)

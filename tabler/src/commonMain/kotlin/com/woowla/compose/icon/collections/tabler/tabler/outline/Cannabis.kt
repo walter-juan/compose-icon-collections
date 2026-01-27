@@ -38,7 +38,6 @@ public val OutlineGroup.Cannabis: ImageVector
                 curveToRelative(1.0f, 1.5f, 1.0f, 3.5f, 1.0f, 3.5f)
                 curveToRelative(-2.0f, 0.0f, -4.438f, -2.22f, -5.0f, -3.0f)
                 curveToRelative(-0.563f, 0.78f, -3.0f, 3.0f, -5.0f, 3.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

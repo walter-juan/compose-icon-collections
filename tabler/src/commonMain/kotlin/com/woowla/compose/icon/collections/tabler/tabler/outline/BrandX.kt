@@ -27,7 +27,7 @@ public val OutlineGroup.BrandX: ImageVector
                 lineToRelative(11.733f, 16.0f)
                 horizontalLineToRelative(4.267f)
                 lineToRelative(-11.733f, -16.0f)
-                close()
+                lineToRelative(-4.267f, 0.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

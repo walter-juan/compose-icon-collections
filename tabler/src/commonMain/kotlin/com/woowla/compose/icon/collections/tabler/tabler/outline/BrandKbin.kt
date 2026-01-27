@@ -44,7 +44,6 @@ public val OutlineGroup.BrandKbin: ImageVector
                 curveToRelative(0.39f, 0.0f, 0.76f, -0.618f, 1.296f, -2.061f)
                 lineToRelative(4.457f, -14.49f)
                 curveToRelative(0.326f, -0.83f, 0.76f, -1.448f, 2.108f, -1.448f)
-                close()
             }
         }
         .build()

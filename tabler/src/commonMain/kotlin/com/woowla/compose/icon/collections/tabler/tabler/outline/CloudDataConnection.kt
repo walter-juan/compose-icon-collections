@@ -33,7 +33,6 @@ public val OutlineGroup.CloudDataConnection: ImageVector
                 arcToRelative(2.42f, 2.42f, 0.0f, false, true, -2.425f, 2.414f)
                 horizontalLineToRelative(-8.315f)
                 curveToRelative(-1.8f, 0.0f, -3.26f, -1.39f, -3.26f, -3.103f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -44,8 +43,7 @@ public val OutlineGroup.CloudDataConnection: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(12.0f, 18.0f)
-                moveToRelative(-2.0f, 0.0f)
+                moveTo(10.0f, 18.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, true, false, 4.0f, 0.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, true, false, -4.0f, 0.0f)
             }

@@ -37,32 +37,28 @@ public val OutlineGroup.Affiliate: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(5.5f, 5.5f)
-                moveToRelative(-1.5f, 0.0f)
+                moveTo(4.0f, 5.5f)
                 arcToRelative(1.5f, 1.5f, 0.0f, true, false, 3.0f, 0.0f)
                 arcToRelative(1.5f, 1.5f, 0.0f, true, false, -3.0f, 0.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(18.5f, 5.5f)
-                moveToRelative(-1.5f, 0.0f)
+                moveTo(17.0f, 5.5f)
                 arcToRelative(1.5f, 1.5f, 0.0f, true, false, 3.0f, 0.0f)
                 arcToRelative(1.5f, 1.5f, 0.0f, true, false, -3.0f, 0.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(18.5f, 18.5f)
-                moveToRelative(-1.5f, 0.0f)
+                moveTo(17.0f, 18.5f)
                 arcToRelative(1.5f, 1.5f, 0.0f, true, false, 3.0f, 0.0f)
                 arcToRelative(1.5f, 1.5f, 0.0f, true, false, -3.0f, 0.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(8.5f, 15.5f)
-                moveToRelative(-4.5f, 0.0f)
+                moveTo(4.0f, 15.5f)
                 arcToRelative(4.5f, 4.5f, 0.0f, true, false, 9.0f, 0.0f)
                 arcToRelative(4.5f, 4.5f, 0.0f, true, false, -9.0f, 0.0f)
             }

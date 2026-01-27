@@ -30,7 +30,6 @@ public val OutlineGroup.BrandCloudflare: ImageVector
                 curveToRelative(-0.001f, -1.64f, 1.36f, -2.954f, 3.0f, -3.0f)
                 curveToRelative(0.0f, -1.5f, 1.0f, -3.0f, 3.0f, -3.0f)
                 curveToRelative(0.66f, -1.942f, 2.562f, -2.986f, 5.031f, -2.993f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

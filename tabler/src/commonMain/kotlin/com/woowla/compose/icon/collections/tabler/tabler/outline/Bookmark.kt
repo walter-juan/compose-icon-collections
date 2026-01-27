@@ -29,7 +29,6 @@ public val OutlineGroup.Bookmark: ImageVector
                 arcToRelative(4.0f, 4.0f, 0.0f, false, true, 4.0f, -4.0f)
                 horizontalLineToRelative(4.0f)
                 arcToRelative(4.0f, 4.0f, 0.0f, false, true, 4.0f, 4.0f)
-                close()
             }
         }
         .build()

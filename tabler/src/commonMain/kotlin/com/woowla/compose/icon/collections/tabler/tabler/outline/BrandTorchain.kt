@@ -29,7 +29,6 @@ public val OutlineGroup.BrandTorchain: ImageVector
                 curveToRelative(-0.791f, 0.85f, 0.153f, 2.18f, 1.238f, 1.73f)
                 lineToRelative(9.616f, -4.096f)
                 arcToRelative(1.398f, 1.398f, 0.0f, false, false, 0.44f, -2.277f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -40,7 +39,7 @@ public val OutlineGroup.BrandTorchain: ImageVector
                 curveToRelative(0.791f, -0.85f, -0.153f, -2.18f, -1.238f, -1.73f)
                 lineToRelative(-9.616f, 4.098f)
                 arcToRelative(1.398f, 1.398f, 0.0f, false, false, -0.44f, 2.277f)
-                close()
+                lineToRelative(-0.001f, -0.001f)
             }
         }
         .build()

@@ -16,15 +16,15 @@ public val BrandsGroup.Diaspora: ImageVector
         if (_diaspora != null) {
             return _diaspora!!
         }
-        _diaspora = Builder(name = "Diaspora", defaultWidth = 512.0.dp, defaultHeight = 512.0.dp,
-                viewportWidth = 512.0f, viewportHeight = 512.0f).apply {
+        _diaspora = Builder(name = "Diaspora", defaultWidth = 448.0.dp, defaultHeight = 512.0.dp,
+                viewportWidth = 448.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(251.64f, 354.55f)
+                moveTo(219.7f, 354.6f)
                 curveToRelative(-1.4f, 0.0f, -88.0f, 119.9f, -88.7f, 119.9f)
-                reflectiveCurveTo(76.34f, 414.0f, 76.0f, 413.25f)
-                reflectiveCurveToRelative(86.6f, -125.7f, 86.6f, -127.4f)
+                reflectiveCurveTo(44.4f, 414.0f, 44.0f, 413.3f)
+                reflectiveCurveTo(130.6f, 287.5f, 130.6f, 285.8f)
                 curveToRelative(0.0f, -2.2f, -129.6f, -44.0f, -137.6f, -47.1f)
                 curveToRelative(-1.3f, -0.5f, 31.4f, -101.8f, 31.7f, -102.1f)
                 curveToRelative(0.6f, -0.7f, 144.4f, 47.0f, 145.5f, 47.0f)
@@ -38,6 +38,7 @@ public val BrandsGroup.Diaspora: ImageVector
                 curveToRelative(-0.3f, 1.4f, 82.8f, 122.1f, 82.5f, 122.9f)
                 reflectiveCurveToRelative(-85.5f, 63.5f, -86.3f, 63.5f)
                 curveToRelative(-1.0f, -0.2f, -89.0f, -125.5f, -90.9f, -125.5f)
+                lineToRelative(0.0f, 0.0f)
                 close()
             }
         }

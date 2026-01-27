@@ -30,7 +30,6 @@ public val OutlineGroup.BrandSnapseed: ImageVector
                 arcToRelative(0.46f, 0.46f, 0.0f, false, false, 0.61f, 0.0f)
                 curveToRelative(2.957f, -2.589f, 4.547f, -5.464f, 4.547f, -8.392f)
                 curveToRelative(0.0f, -2.928f, -1.6f, -5.799f, -4.548f, -8.378f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

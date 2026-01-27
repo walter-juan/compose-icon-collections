@@ -30,7 +30,6 @@ public val OutlineGroup.SquareRotated: ImageVector
                 arcToRelative(2.045f, 2.045f, 0.0f, false, true, 0.0f, -2.892f)
                 lineToRelative(7.955f, -7.955f)
                 arcToRelative(2.045f, 2.045f, 0.0f, false, true, 2.892f, 0.0f)
-                close()
             }
         }
         .build()

@@ -38,7 +38,7 @@ public val OutlineGroup.Shareplay: ImageVector
                 moveTo(9.0f, 20.0f)
                 horizontalLineToRelative(6.0f)
                 lineToRelative(-3.0f, -5.0f)
-                close()
+                lineToRelative(-3.0f, 5.0f)
             }
         }
         .build()

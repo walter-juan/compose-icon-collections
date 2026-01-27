@@ -35,7 +35,6 @@ public val OutlineGroup.MapPin: ImageVector
                 arcToRelative(2.0f, 2.0f, 0.0f, false, true, -2.827f, 0.0f)
                 lineToRelative(-4.244f, -4.243f)
                 arcToRelative(8.0f, 8.0f, 0.0f, true, true, 11.314f, 0.0f)
-                close()
             }
         }
         .build()

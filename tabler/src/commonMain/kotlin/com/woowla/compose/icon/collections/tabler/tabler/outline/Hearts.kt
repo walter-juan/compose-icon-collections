@@ -41,7 +41,7 @@ public val OutlineGroup.Hearts: ImageVector
                 arcToRelative(2.747f, 2.747f, 0.0f, false, false, -3.91f, -0.007f)
                 arcToRelative(2.81f, 2.81f, 0.0f, false, false, -0.007f, 3.948f)
                 lineToRelative(4.182f, 4.238f)
-                close()
+                lineToRelative(0.007f, 0.0f)
             }
         }
         .build()

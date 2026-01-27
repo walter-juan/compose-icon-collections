@@ -23,21 +23,20 @@ public val OutlineGroup.Language: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(4.0f, 5.0f)
+                moveTo(9.0f, 6.371f)
+                curveToRelative(0.0f, 4.418f, -2.239f, 6.629f, -5.0f, 6.629f)
+            }
+            path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
+                    strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
+                    StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
+                moveTo(4.0f, 6.371f)
                 horizontalLineToRelative(7.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(9.0f, 3.0f)
-                verticalLineToRelative(2.0f)
-                curveToRelative(0.0f, 4.418f, -2.239f, 8.0f, -5.0f, 8.0f)
-            }
-            path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
-                    strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
-                    StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(5.0f, 9.0f)
-                curveToRelative(0.0f, 2.144f, 2.952f, 3.908f, 6.7f, 4.0f)
+                curveToRelative(0.0f, 2.144f, 2.252f, 3.908f, 6.0f, 4.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -51,6 +50,12 @@ public val OutlineGroup.Language: ImageVector
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(19.1f, 18.0f)
                 horizontalLineToRelative(-6.2f)
+            }
+            path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
+                    strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
+                    StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
+                moveTo(6.694f, 3.0f)
+                lineToRelative(0.793f, 0.582f)
             }
         }
         .build()

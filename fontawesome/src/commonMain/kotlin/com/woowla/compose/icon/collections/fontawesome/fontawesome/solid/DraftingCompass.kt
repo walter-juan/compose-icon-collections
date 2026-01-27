@@ -1,0 +1,74 @@
+package com.woowla.compose.icon.collections.fontawesome.fontawesome.solid
+
+import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.graphics.PathFillType.Companion.NonZero
+import androidx.compose.ui.graphics.SolidColor
+import androidx.compose.ui.graphics.StrokeCap.Companion.Butt
+import androidx.compose.ui.graphics.StrokeJoin.Companion.Miter
+import androidx.compose.ui.graphics.vector.ImageVector
+import androidx.compose.ui.graphics.vector.ImageVector.Builder
+import androidx.compose.ui.graphics.vector.path
+import androidx.compose.ui.unit.dp
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.SolidGroup
+
+public val SolidGroup.DraftingCompass: ImageVector
+    get() {
+        if (_draftingCompass != null) {
+            return _draftingCompass!!
+        }
+        _draftingCompass = Builder(name = "DraftingCompass", defaultWidth = 512.0.dp, defaultHeight
+                = 512.0.dp, viewportWidth = 512.0f, viewportHeight = 512.0f).apply {
+            path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
+                    strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
+                    pathFillType = NonZero) {
+                moveTo(99.3f, 256.1f)
+                lineToRelative(69.4f, -119.9f)
+                curveToRelative(-5.6f, -12.2f, -8.8f, -25.8f, -8.8f, -40.2f)
+                curveToRelative(0.0f, -53.0f, 43.0f, -96.0f, 96.0f, -96.0f)
+                reflectiveCurveToRelative(96.0f, 43.0f, 96.0f, 96.0f)
+                curveToRelative(0.0f, 14.3f, -3.1f, 27.9f, -8.8f, 40.2f)
+                lineToRelative(44.4f, 76.7f)
+                curveToRelative(-23.1f, 26.0f, -53.7f, 45.1f, -88.4f, 53.8f)
+                lineTo(256.0f, 191.9f)
+                lineTo(187.9f, 309.5f)
+                curveToRelative(21.5f, 6.8f, 44.3f, 10.5f, 68.1f, 10.5f)
+                curveToRelative(70.7f, 0.0f, 133.8f, -32.7f, 174.9f, -84.0f)
+                curveToRelative(11.1f, -13.8f, 31.2f, -16.0f, 45.0f, -5.0f)
+                reflectiveCurveToRelative(16.0f, 31.2f, 5.0f, 45.0f)
+                curveToRelative(-52.7f, 65.8f, -133.9f, 108.0f, -224.8f, 108.0f)
+                curveToRelative(-35.4f, 0.0f, -69.4f, -6.4f, -100.7f, -18.1f)
+                lineTo(98.7f, 463.7f)
+                curveTo(94.0f, 471.8f, 87.0f, 478.4f, 78.6f, 482.6f)
+                lineTo(23.2f, 510.3f)
+                curveToRelative(-5.0f, 2.5f, -10.9f, 2.2f, -15.6f, -0.7f)
+                reflectiveCurveTo(0.0f, 501.5f, 0.0f, 496.0f)
+                lineToRelative(0.0f, -55.4f)
+                curveToRelative(0.0f, -8.4f, 2.2f, -16.7f, 6.5f, -24.1f)
+                lineToRelative(60.0f, -103.7f)
+                curveToRelative(-12.8f, -11.2f, -24.6f, -23.5f, -35.3f, -36.8f)
+                curveToRelative(-11.1f, -13.8f, -8.8f, -33.9f, 5.0f, -45.0f)
+                reflectiveCurveToRelative(33.9f, -8.8f, 45.0f, 5.0f)
+                curveToRelative(5.7f, 7.1f, 11.8f, 13.8f, 18.2f, 20.1f)
+                close()
+                moveTo(381.1f, 407.9f)
+                curveToRelative(32.5f, -13.0f, 62.4f, -31.0f, 88.9f, -52.9f)
+                lineToRelative(35.6f, 61.5f)
+                curveToRelative(4.2f, 7.3f, 6.5f, 15.6f, 6.5f, 24.1f)
+                lineToRelative(0.0f, 55.4f)
+                curveToRelative(0.0f, 5.5f, -2.9f, 10.7f, -7.6f, 13.6f)
+                reflectiveCurveToRelative(-10.6f, 3.2f, -15.6f, 0.7f)
+                lineToRelative(-55.4f, -27.7f)
+                curveToRelative(-8.4f, -4.2f, -15.4f, -10.8f, -20.1f, -18.9f)
+                lineToRelative(-32.3f, -55.8f)
+                close()
+                moveTo(256.0f, 128.0f)
+                arcToRelative(32.0f, 32.0f, 0.0f, true, false, 0.0f, -64.0f)
+                arcToRelative(32.0f, 32.0f, 0.0f, true, false, 0.0f, 64.0f)
+                close()
+            }
+        }
+        .build()
+        return _draftingCompass!!
+    }
+
+private var _draftingCompass: ImageVector? = null

@@ -32,7 +32,7 @@ public val OutlineGroup.BrandPrisma: ImageVector
                 arcToRelative(0.448f, 0.448f, 0.0f, false, false, -0.787f, -0.033f)
                 lineToRelative(-7.453f, 12.838f)
                 arcToRelative(1.07f, 1.07f, 0.0f, false, false, 0.037f, 1.147f)
-                close()
+                lineToRelative(-0.001f, 0.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

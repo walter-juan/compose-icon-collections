@@ -32,7 +32,7 @@ public val OutlineGroup.FlipFlops: ImageVector
                 lineToRelative(-0.6f, -9.014f)
                 curveToRelative(-0.138f, -2.071f, 1.538f, -3.855f, 3.743f, -3.985f)
                 arcToRelative(4.15f, 4.15f, 0.0f, false, true, 0.25f, -0.007f)
-                close()
+                lineToRelative(-0.001f, 0.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -59,7 +59,6 @@ public val OutlineGroup.FlipFlops: ImageVector
                 lineToRelative(-0.6f, -9.014f)
                 curveToRelative(-0.138f, -2.071f, 1.538f, -3.855f, 3.742f, -3.985f)
                 curveToRelative(0.084f, 0.0f, 0.167f, -0.007f, 0.25f, -0.007f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

@@ -28,7 +28,6 @@ public val OutlineGroup.BrandPeanut: ImageVector
                 lineToRelative(-0.462f, 0.195f)
                 lineToRelative(-0.817f, 0.359f)
                 arcToRelative(4.5f, 4.5f, 0.0f, true, true, 0.0f, -8.49f)
-                verticalLineToRelative(0.0f)
                 lineToRelative(1.054f, 0.462f)
                 lineToRelative(0.434f, 0.178f)
                 curveToRelative(1.292f, 0.507f, 1.863f, 0.48f, 3.237f, -0.082f)

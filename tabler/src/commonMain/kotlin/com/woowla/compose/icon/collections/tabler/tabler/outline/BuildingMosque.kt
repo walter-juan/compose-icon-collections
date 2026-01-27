@@ -69,7 +69,6 @@ public val OutlineGroup.BuildingMosque: ImageVector
                 arcToRelative(0.5f, 0.5f, 0.0f, false, false, 0.5f, 0.5f)
                 horizontalLineToRelative(1.0f)
                 arcToRelative(0.5f, 0.5f, 0.0f, false, false, 0.5f, -0.5f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -82,7 +81,6 @@ public val OutlineGroup.BuildingMosque: ImageVector
                 arcToRelative(0.5f, 0.5f, 0.0f, false, false, 0.5f, 0.5f)
                 horizontalLineToRelative(1.0f)
                 arcToRelative(0.5f, 0.5f, 0.0f, false, false, 0.5f, -0.5f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

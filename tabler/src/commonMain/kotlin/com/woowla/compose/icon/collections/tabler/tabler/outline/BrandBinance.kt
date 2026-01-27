@@ -29,7 +29,7 @@ public val OutlineGroup.BrandBinance: ImageVector
                 lineToRelative(4.0f, 4.0f)
                 lineToRelative(2.0f, -2.0f)
                 lineToRelative(-6.0f, -6.0f)
-                close()
+                lineToRelative(-6.0f, 6.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -40,7 +40,7 @@ public val OutlineGroup.BrandBinance: ImageVector
                 lineToRelative(3.5f, -3.5f)
                 lineToRelative(2.0f, 2.0f)
                 lineToRelative(-5.5f, 5.5f)
-                close()
+                lineToRelative(-6.0f, -6.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -49,7 +49,7 @@ public val OutlineGroup.BrandBinance: ImageVector
                 lineToRelative(2.0f, 2.0f)
                 lineToRelative(-2.0f, 2.0f)
                 lineToRelative(-2.0f, -2.0f)
-                close()
+                lineToRelative(2.0f, -2.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -58,7 +58,7 @@ public val OutlineGroup.BrandBinance: ImageVector
                 lineToRelative(2.0f, 2.0f)
                 lineToRelative(-2.0f, 2.0f)
                 lineToRelative(-2.0f, -2.0f)
-                close()
+                lineToRelative(2.0f, -2.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -67,7 +67,7 @@ public val OutlineGroup.BrandBinance: ImageVector
                 lineToRelative(2.0f, 2.0f)
                 lineToRelative(-2.0f, 2.0f)
                 lineToRelative(-2.0f, -2.0f)
-                close()
+                lineToRelative(2.0f, -2.0f)
             }
         }
         .build()

@@ -22,7 +22,7 @@ public val SolidGroup.CirclePlus: ImageVector
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
                 moveTo(256.0f, 512.0f)
-                arcTo(256.0f, 256.0f, 0.0f, true, false, 256.0f, 0.0f)
+                arcToRelative(256.0f, 256.0f, 0.0f, true, false, 0.0f, -512.0f)
                 arcToRelative(256.0f, 256.0f, 0.0f, true, false, 0.0f, 512.0f)
                 close()
                 moveTo(232.0f, 344.0f)

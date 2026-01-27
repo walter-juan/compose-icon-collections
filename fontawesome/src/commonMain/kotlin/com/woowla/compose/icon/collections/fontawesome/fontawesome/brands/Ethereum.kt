@@ -25,13 +25,13 @@ public val BrandsGroup.Ethereum: ImageVector
                 lineTo(160.0f, 353.6f)
                 lineTo(8.0f, 260.8f)
                 lineTo(160.0f, 0.0f)
-                lineToRelative(151.9f, 260.8f)
+                lineTo(311.9f, 260.8f)
                 close()
                 moveTo(160.0f, 383.4f)
                 lineTo(8.0f, 290.6f)
                 lineTo(160.0f, 512.0f)
-                lineToRelative(152.0f, -221.4f)
-                lineToRelative(-152.0f, 92.8f)
+                lineTo(312.0f, 290.6f)
+                lineTo(160.0f, 383.4f)
                 close()
             }
         }

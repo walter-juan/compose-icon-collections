@@ -36,7 +36,6 @@ public val OutlineGroup.BrandRumble: ImageVector
                 curveToRelative(-1.199f, -3.902f, -1.022f, -8.312f, 0.134f, -12.23f)
                 curveToRelative(0.609f, -2.057f, 2.643f, -3.349f, 4.737f, -2.874f)
                 curveToRelative(3.88f, 0.88f, 7.52f, 3.147f, 10.302f, 6.01f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -51,7 +50,6 @@ public val OutlineGroup.BrandRumble: ImageVector
                 arcToRelative(14.783f, 14.783f, 0.0f, false, false, 1.694f, -0.827f)
                 arcToRelative(14.46f, 14.46f, 0.0f, false, false, 1.562f, -1.035f)
                 verticalLineToRelative(-0.005f)
-                close()
             }
         }
         .build()

@@ -38,7 +38,6 @@ public val OutlineGroup.BrandTopbuzz: ImageVector
                 lineToRelative(2.028f, -9.493f)
                 curveToRelative(0.037f, -0.17f, -0.031f, -0.274f, -0.204f, -0.31f)
                 lineToRelative(-4.384f, -0.927f)
-                close()
             }
         }
         .build()

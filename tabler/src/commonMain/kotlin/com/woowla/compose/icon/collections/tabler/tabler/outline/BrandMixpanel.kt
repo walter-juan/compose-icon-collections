@@ -23,24 +23,21 @@ public val OutlineGroup.BrandMixpanel: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(4.5f, 12.0f)
-                moveToRelative(-2.5f, 0.0f)
+                moveTo(2.0f, 12.0f)
                 arcToRelative(2.5f, 2.5f, 0.0f, true, false, 5.0f, 0.0f)
                 arcToRelative(2.5f, 2.5f, 0.0f, true, false, -5.0f, 0.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(20.5f, 12.0f)
-                moveToRelative(-1.5f, 0.0f)
+                moveTo(19.0f, 12.0f)
                 arcToRelative(1.5f, 1.5f, 0.0f, true, false, 3.0f, 0.0f)
                 arcToRelative(1.5f, 1.5f, 0.0f, true, false, -3.0f, 0.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(13.0f, 12.0f)
-                moveToRelative(-2.0f, 0.0f)
+                moveTo(11.0f, 12.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, true, false, 4.0f, 0.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, true, false, -4.0f, 0.0f)
             }

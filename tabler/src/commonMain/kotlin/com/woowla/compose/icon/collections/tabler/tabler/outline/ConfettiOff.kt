@@ -82,8 +82,6 @@ public val OutlineGroup.ConfettiOff: ImageVector
                 lineToRelative(-4.39f, 9.58f)
                 arcToRelative(1.0f, 1.0f, 0.0f, false, false, 1.329f, 1.329f)
                 lineToRelative(9.579f, -4.39f)
-                verticalLineToRelative(0.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

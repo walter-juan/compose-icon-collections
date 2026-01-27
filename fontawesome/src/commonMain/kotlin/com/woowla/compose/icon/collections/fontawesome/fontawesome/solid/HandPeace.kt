@@ -16,19 +16,19 @@ public val SolidGroup.HandPeace: ImageVector
         if (_handPeace != null) {
             return _handPeace!!
         }
-        _handPeace = Builder(name = "HandPeace", defaultWidth = 512.0.dp, defaultHeight = 512.0.dp,
-                viewportWidth = 512.0f, viewportHeight = 512.0f).apply {
+        _handPeace = Builder(name = "HandPeace", defaultWidth = 448.0.dp, defaultHeight = 512.0.dp,
+                viewportWidth = 448.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(224.0f, 0.0f)
+                moveTo(192.0f, 0.0f)
                 curveToRelative(17.7f, 0.0f, 32.0f, 14.3f, 32.0f, 32.0f)
                 lineToRelative(0.0f, 208.0f)
                 lineToRelative(-64.0f, 0.0f)
                 lineToRelative(0.0f, -208.0f)
                 curveToRelative(0.0f, -17.7f, 14.3f, -32.0f, 32.0f, -32.0f)
                 close()
-                moveTo(320.0f, 160.0f)
+                moveTo(288.0f, 160.0f)
                 curveToRelative(17.7f, 0.0f, 32.0f, 14.3f, 32.0f, 32.0f)
                 lineToRelative(0.0f, 64.0f)
                 curveToRelative(0.0f, 17.7f, -14.3f, 32.0f, -32.0f, 32.0f)
@@ -36,7 +36,7 @@ public val SolidGroup.HandPeace: ImageVector
                 lineToRelative(0.0f, -64.0f)
                 curveToRelative(0.0f, -17.7f, 14.3f, -32.0f, 32.0f, -32.0f)
                 close()
-                moveTo(384.0f, 224.0f)
+                moveTo(352.0f, 224.0f)
                 curveToRelative(0.0f, -17.7f, 14.3f, -32.0f, 32.0f, -32.0f)
                 reflectiveCurveToRelative(32.0f, 14.3f, 32.0f, 32.0f)
                 lineToRelative(0.0f, 64.0f)
@@ -44,17 +44,16 @@ public val SolidGroup.HandPeace: ImageVector
                 reflectiveCurveToRelative(-32.0f, -14.3f, -32.0f, -32.0f)
                 lineToRelative(0.0f, -64.0f)
                 close()
-                moveTo(93.3f, 51.2f)
-                lineTo(175.9f, 240.0f)
-                lineToRelative(-69.9f, 0.0f)
-                lineTo(34.7f, 76.8f)
-                curveTo(27.6f, 60.6f, 35.0f, 41.8f, 51.2f, 34.7f)
-                reflectiveCurveToRelative(35.1f, 0.3f, 42.1f, 16.5f)
+                moveTo(61.3f, 51.2f)
+                lineTo(143.9f, 240.0f)
+                lineTo(74.1f, 240.0f)
+                lineTo(2.7f, 76.8f)
+                curveTo(-4.4f, 60.6f, 3.0f, 41.8f, 19.2f, 34.7f)
+                reflectiveCurveTo(54.2f, 35.0f, 61.3f, 51.2f)
                 close()
-                moveTo(120.3f, 272.5f)
+                moveTo(88.3f, 272.5f)
                 lineToRelative(-0.2f, -0.5f)
-                lineToRelative(69.9f, 0.0f)
-                lineToRelative(26.1f, 0.0f)
+                lineToRelative(95.9f, 0.0f)
                 curveToRelative(22.1f, 0.0f, 40.0f, 17.9f, 40.0f, 40.0f)
                 reflectiveCurveToRelative(-17.9f, 40.0f, -40.0f, 40.0f)
                 lineToRelative(-56.0f, 0.0f)
@@ -71,8 +70,8 @@ public val SolidGroup.HandPeace: ImageVector
                 curveToRelative(0.0f, 88.4f, -71.6f, 160.0f, -160.0f, 160.0f)
                 lineToRelative(-61.7f, 0.0f)
                 curveToRelative(-42.4f, 0.0f, -83.1f, -16.9f, -113.1f, -46.9f)
-                lineToRelative(-11.6f, -11.6f)
-                curveTo(77.5f, 429.5f, 64.0f, 396.9f, 64.0f, 363.0f)
+                lineTo(69.5f, 453.5f)
+                curveTo(45.5f, 429.5f, 32.0f, 396.9f, 32.0f, 363.0f)
                 lineToRelative(0.0f, -27.0f)
                 curveToRelative(0.0f, -32.7f, 24.6f, -59.7f, 56.3f, -63.5f)
                 close()

@@ -63,7 +63,6 @@ public val OutlineGroup.ListLetters: ImageVector
                 arcToRelative(1.5f, 1.5f, 0.0f, false, false, 0.0f, -3.0f)
                 horizontalLineToRelative(-1.5f)
                 verticalLineToRelative(6.0f)
-                close()
             }
         }
         .build()

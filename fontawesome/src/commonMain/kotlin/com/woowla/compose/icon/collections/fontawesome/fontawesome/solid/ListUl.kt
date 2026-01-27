@@ -21,7 +21,7 @@ public val SolidGroup.ListUl: ImageVector
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(64.0f, 144.0f)
+                moveTo(48.0f, 144.0f)
                 arcToRelative(48.0f, 48.0f, 0.0f, true, false, 0.0f, -96.0f)
                 arcToRelative(48.0f, 48.0f, 0.0f, true, false, 0.0f, 96.0f)
                 close()
@@ -49,11 +49,11 @@ public val SolidGroup.ListUl: ImageVector
                 reflectiveCurveToRelative(-14.3f, -32.0f, -32.0f, -32.0f)
                 lineToRelative(-288.0f, 0.0f)
                 close()
-                moveTo(64.0f, 464.0f)
+                moveTo(48.0f, 464.0f)
                 arcToRelative(48.0f, 48.0f, 0.0f, true, false, 0.0f, -96.0f)
                 arcToRelative(48.0f, 48.0f, 0.0f, true, false, 0.0f, 96.0f)
                 close()
-                moveTo(112.0f, 256.0f)
+                moveTo(96.0f, 256.0f)
                 arcToRelative(48.0f, 48.0f, 0.0f, true, false, -96.0f, 0.0f)
                 arcToRelative(48.0f, 48.0f, 0.0f, true, false, 96.0f, 0.0f)
                 close()

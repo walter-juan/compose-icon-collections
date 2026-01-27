@@ -30,7 +30,6 @@ public val OutlineGroup.BrandGooglePhotos: ImageVector
                 arcToRelative(0.61f, 0.61f, 0.0f, false, true, -0.426f, -0.173f)
                 arcToRelative(0.585f, 0.585f, 0.0f, false, true, -0.177f, -0.418f)
                 curveToRelative(0.0f, -2.435f, 2.015f, -4.409f, 4.5f, -4.409f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -41,7 +40,6 @@ public val OutlineGroup.BrandGooglePhotos: ImageVector
                 horizontalLineToRelative(8.397f)
                 curveToRelative(0.333f, 0.0f, 0.603f, 0.265f, 0.603f, 0.591f)
                 curveToRelative(0.0f, 2.435f, -2.015f, 4.409f, -4.5f, 4.409f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -53,7 +51,6 @@ public val OutlineGroup.BrandGooglePhotos: ImageVector
                 arcToRelative(0.61f, 0.61f, 0.0f, false, true, -0.173f, 0.431f)
                 arcToRelative(0.584f, 0.584f, 0.0f, false, true, -0.422f, 0.177f)
                 curveToRelative(-2.433f, 0.0f, -4.405f, -2.015f, -4.405f, -4.5f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -65,7 +62,6 @@ public val OutlineGroup.BrandGooglePhotos: ImageVector
                 arcToRelative(0.61f, 0.61f, 0.0f, false, true, 0.175f, -0.428f)
                 arcToRelative(0.584f, 0.584f, 0.0f, false, true, 0.42f, -0.175f)
                 curveToRelative(2.433f, 0.0f, 4.405f, 2.015f, 4.405f, 4.5f)
-                close()
             }
         }
         .build()

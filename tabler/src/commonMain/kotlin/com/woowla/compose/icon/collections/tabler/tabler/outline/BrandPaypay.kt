@@ -44,7 +44,6 @@ public val OutlineGroup.BrandPaypay: ImageVector
                 arcToRelative(2.0f, 2.0f, 0.0f, false, false, 2.0f, 2.0f)
                 horizontalLineToRelative(14.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, false, false, 2.0f, -2.0f)
-                close()
             }
         }
         .build()

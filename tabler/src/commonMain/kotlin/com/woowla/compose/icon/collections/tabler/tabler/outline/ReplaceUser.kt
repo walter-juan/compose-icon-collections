@@ -58,7 +58,6 @@ public val OutlineGroup.ReplaceUser: ImageVector
                 curveToRelative(-0.375f, -0.375f, -0.884f, -0.586f, -1.414f, -0.586f)
                 curveToRelative(-0.53f, 0.0f, -1.039f, 0.211f, -1.414f, 0.586f)
                 curveToRelative(-0.375f, 0.375f, -0.586f, 0.884f, -0.586f, 1.414f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -72,7 +71,6 @@ public val OutlineGroup.ReplaceUser: ImageVector
                 curveToRelative(-0.375f, -0.375f, -0.884f, -0.586f, -1.414f, -0.586f)
                 curveToRelative(-0.53f, 0.0f, -1.039f, 0.211f, -1.414f, 0.586f)
                 curveToRelative(-0.375f, 0.375f, -0.586f, 0.884f, -0.586f, 1.414f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

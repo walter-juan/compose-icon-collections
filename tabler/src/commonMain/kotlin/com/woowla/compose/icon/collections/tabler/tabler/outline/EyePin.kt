@@ -42,7 +42,6 @@ public val OutlineGroup.EyePin: ImageVector
                 arcToRelative(3.0f, 3.0f, 0.0f, true, false, -4.242f, 0.0f)
                 curveToRelative(0.418f, 0.419f, 1.125f, 1.045f, 2.121f, 1.879f)
                 curveToRelative(1.051f, -0.89f, 1.759f, -1.516f, 2.121f, -1.879f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

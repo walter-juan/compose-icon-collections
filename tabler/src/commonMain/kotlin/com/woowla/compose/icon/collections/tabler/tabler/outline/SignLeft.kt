@@ -46,7 +46,7 @@ public val OutlineGroup.SignLeft: ImageVector
                 lineToRelative(-2.0f, 2.5f)
                 lineToRelative(2.0f, 2.5f)
                 horizontalLineToRelative(10.0f)
-                close()
+                lineToRelative(0.0f, -5.0f)
             }
         }
         .build()

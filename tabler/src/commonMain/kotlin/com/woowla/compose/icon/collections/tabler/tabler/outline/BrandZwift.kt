@@ -34,7 +34,6 @@ public val OutlineGroup.BrandZwift: ImageVector
                 horizontalLineToRelative(-2.5f)
                 lineToRelative(7.0f, -11.0f)
                 horizontalLineToRelative(-15.5f)
-                close()
             }
         }
         .build()

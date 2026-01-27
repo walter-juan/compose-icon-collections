@@ -6,8 +6,16 @@ import com.woowla.compose.icon.collections.remix.remix.healthandmedical.AedElect
 import com.woowla.compose.icon.collections.remix.remix.healthandmedical.AedElectrodesLine
 import com.woowla.compose.icon.collections.remix.remix.healthandmedical.AedFill
 import com.woowla.compose.icon.collections.remix.remix.healthandmedical.AedLine
+import com.woowla.compose.icon.collections.remix.remix.healthandmedical.AtomFill
+import com.woowla.compose.icon.collections.remix.remix.healthandmedical.AtomLine
 import com.woowla.compose.icon.collections.remix.remix.healthandmedical.Brain2Fill
 import com.woowla.compose.icon.collections.remix.remix.healthandmedical.Brain2Line
+import com.woowla.compose.icon.collections.remix.remix.healthandmedical.Brain3Fill
+import com.woowla.compose.icon.collections.remix.remix.healthandmedical.Brain3Line
+import com.woowla.compose.icon.collections.remix.remix.healthandmedical.Brain4Fill
+import com.woowla.compose.icon.collections.remix.remix.healthandmedical.Brain4Line
+import com.woowla.compose.icon.collections.remix.remix.healthandmedical.BrainAi3Fill
+import com.woowla.compose.icon.collections.remix.remix.healthandmedical.BrainAi3Line
 import com.woowla.compose.icon.collections.remix.remix.healthandmedical.BrainFill
 import com.woowla.compose.icon.collections.remix.remix.healthandmedical.BrainLine
 import com.woowla.compose.icon.collections.remix.remix.healthandmedical.CapsuleFill
@@ -92,8 +100,9 @@ public val HealthAndMedicalGroup.AllIcons: ____KtList<ImageVector>
     if (__AllIcons != null) {
       return __AllIcons!!
     }
-    __AllIcons= listOf(AedElectrodesFill, AedElectrodesLine, AedFill, AedLine, Brain2Fill,
-        Brain2Line, BrainFill, BrainLine, CapsuleFill, CapsuleLine, DislikeFill, DislikeLine,
+    __AllIcons= listOf(AedElectrodesFill, AedElectrodesLine, AedFill, AedLine, AtomFill, AtomLine,
+        Brain2Fill, Brain2Line, Brain3Fill, Brain3Line, Brain4Fill, Brain4Line, BrainAi3Fill,
+        BrainAi3Line, BrainFill, BrainLine, CapsuleFill, CapsuleLine, DislikeFill, DislikeLine,
         DnaFill, DnaLine, DossierFill, DossierLine, DropperFill, DropperLine, EmpathizeFill,
         EmpathizeLine, FirstAidKitFill, FirstAidKitLine, FlaskFill, FlaskLine, HandSanitizerFill,
         HandSanitizerLine, HealthBookFill, HealthBookLine, Heart2Fill, Heart2Line, Heart3Fill,

@@ -62,7 +62,6 @@ public val OutlineGroup.HexagonalPrism: ImageVector
                 arcToRelative(2.006f, 2.006f, 0.0f, false, false, -0.853f, 1.644f)
                 verticalLineToRelative(9.261f)
                 curveToRelative(0.0f, 0.655f, 0.318f, 1.269f, 0.853f, 1.644f)
-                close()
             }
         }
         .build()

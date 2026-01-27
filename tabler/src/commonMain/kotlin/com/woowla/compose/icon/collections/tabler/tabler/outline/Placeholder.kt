@@ -41,7 +41,7 @@ public val OutlineGroup.Placeholder: ImageVector
                 lineToRelative(4.0f, -4.0f)
                 lineToRelative(-4.0f, -4.0f)
                 lineToRelative(-4.0f, 4.0f)
-                close()
+                lineToRelative(4.0f, 4.0f)
             }
         }
         .build()

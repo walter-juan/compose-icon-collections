@@ -34,7 +34,6 @@ public val OutlineGroup.HotelService: ImageVector
                 curveToRelative(1.055f, -0.66f, 1.696f, -1.316f, 1.696f, -2.56f)
                 arcToRelative(2.5f, 2.5f, 0.0f, true, false, -5.0f, 0.0f)
                 arcToRelative(1.5f, 1.5f, 0.0f, false, true, -1.5f, 1.5f)
-                close()
             }
         }
         .build()

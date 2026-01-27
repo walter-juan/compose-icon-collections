@@ -27,7 +27,7 @@ public val OutlineGroup.MoonStars: ImageVector
                 curveToRelative(0.132f, 0.0f, 0.263f, 0.0f, 0.393f, 0.0f)
                 arcToRelative(7.5f, 7.5f, 0.0f, false, false, 7.92f, 12.446f)
                 arcToRelative(9.0f, 9.0f, 0.0f, true, true, -8.313f, -12.454f)
-                close()
+                lineToRelative(0.0f, 0.008f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

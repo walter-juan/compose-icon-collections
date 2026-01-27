@@ -31,16 +31,14 @@ public val OutlineGroup.FileVector: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(9.5f, 16.5f)
-                moveToRelative(-1.5f, 0.0f)
+                moveTo(8.0f, 16.5f)
                 arcToRelative(1.5f, 1.5f, 0.0f, true, false, 3.0f, 0.0f)
                 arcToRelative(1.5f, 1.5f, 0.0f, true, false, -3.0f, 0.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(14.5f, 12.5f)
-                moveToRelative(-1.5f, 0.0f)
+                moveTo(13.0f, 12.5f)
                 arcToRelative(1.5f, 1.5f, 0.0f, true, false, 3.0f, 0.0f)
                 arcToRelative(1.5f, 1.5f, 0.0f, true, false, -3.0f, 0.0f)
             }
@@ -56,7 +54,6 @@ public val OutlineGroup.FileVector: ImageVector
                 lineToRelative(5.0f, 5.0f)
                 verticalLineToRelative(11.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, false, true, -2.0f, 2.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

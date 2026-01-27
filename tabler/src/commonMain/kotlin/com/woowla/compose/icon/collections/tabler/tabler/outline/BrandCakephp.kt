@@ -32,7 +32,6 @@ public val OutlineGroup.BrandCakephp: ImageVector
                 verticalLineToRelative(2.8f)
                 curveToRelative(0.0f, 1.766f, 4.478f, 4.0f, 10.0f, 4.0f)
                 verticalLineToRelative(-3.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -44,7 +43,6 @@ public val OutlineGroup.BrandCakephp: ImageVector
                 verticalLineToRelative(-3.0f)
                 curveToRelative(0.0f, 0.754f, -0.638f, 1.453f, -2.0f, 2.0f)
                 lineToRelative(-8.0f, -2.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -54,7 +52,6 @@ public val OutlineGroup.BrandCakephp: ImageVector
                 lineToRelative(0.002f, -3.0f)
                 curveToRelative(-5.522f, 0.0f, -10.0f, -1.734f, -10.0f, -3.5f)
                 verticalLineToRelative(3.5f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

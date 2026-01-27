@@ -47,7 +47,6 @@ public val OutlineGroup.Message: ImageVector
                 verticalLineToRelative(-8.0f)
                 arcToRelative(3.0f, 3.0f, 0.0f, false, true, 3.0f, -3.0f)
                 horizontalLineToRelative(12.0f)
-                close()
             }
         }
         .build()

@@ -27,7 +27,7 @@ public val OutlineGroup.BrandZoom: ImageVector
                 verticalLineToRelative(5.128f)
                 lineToRelative(3.989f, 3.487f)
                 verticalLineToRelative(-12.0f)
-                close()
+                lineToRelative(-3.989f, 3.385f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -42,7 +42,7 @@ public val OutlineGroup.BrandZoom: ImageVector
                 lineToRelative(0.01f, -8.0f)
                 arcToRelative(0.882f, 0.882f, 0.0f, false, true, 0.208f, -0.71f)
                 arcToRelative(0.841f, 0.841f, 0.0f, false, true, 0.67f, -0.287f)
-                close()
+                lineToRelative(-0.001f, -0.002f)
             }
         }
         .build()

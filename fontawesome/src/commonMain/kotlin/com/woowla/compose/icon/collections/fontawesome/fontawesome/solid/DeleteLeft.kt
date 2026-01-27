@@ -16,8 +16,8 @@ public val SolidGroup.DeleteLeft: ImageVector
         if (_deleteLeft != null) {
             return _deleteLeft!!
         }
-        _deleteLeft = Builder(name = "DeleteLeft", defaultWidth = 576.0.dp, defaultHeight =
-                512.0.dp, viewportWidth = 576.0f, viewportHeight = 512.0f).apply {
+        _deleteLeft = Builder(name = "DeleteLeft", defaultWidth = 640.0.dp, defaultHeight =
+                512.0.dp, viewportWidth = 640.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
@@ -34,22 +34,22 @@ public val SolidGroup.DeleteLeft: ImageVector
                 curveToRelative(35.3f, 0.0f, 64.0f, -28.7f, 64.0f, -64.0f)
                 lineToRelative(0.0f, -256.0f)
                 close()
-                moveTo(271.0f, 175.0f)
+                moveTo(284.1f, 188.1f)
                 curveToRelative(9.4f, -9.4f, 24.6f, -9.4f, 33.9f, 0.0f)
-                lineToRelative(47.0f, 47.0f)
-                lineToRelative(47.0f, -47.0f)
+                lineToRelative(33.9f, 33.9f)
+                lineToRelative(33.9f, -33.9f)
                 curveToRelative(9.4f, -9.4f, 24.6f, -9.4f, 33.9f, 0.0f)
                 reflectiveCurveToRelative(9.4f, 24.6f, 0.0f, 33.9f)
-                lineToRelative(-47.0f, 47.0f)
-                lineToRelative(47.0f, 47.0f)
+                lineToRelative(-33.9f, 33.9f)
+                lineToRelative(33.9f, 33.9f)
                 curveToRelative(9.4f, 9.4f, 9.4f, 24.6f, 0.0f, 33.9f)
                 reflectiveCurveToRelative(-24.6f, 9.4f, -33.9f, 0.0f)
-                lineToRelative(-47.0f, -47.0f)
-                lineToRelative(-47.0f, 47.0f)
+                lineToRelative(-33.9f, -33.9f)
+                lineToRelative(-33.9f, 33.9f)
                 curveToRelative(-9.4f, 9.4f, -24.6f, 9.4f, -33.9f, 0.0f)
                 reflectiveCurveToRelative(-9.4f, -24.6f, 0.0f, -33.9f)
-                lineToRelative(47.0f, -47.0f)
-                lineToRelative(-47.0f, -47.0f)
+                lineToRelative(33.9f, -33.9f)
+                lineToRelative(-33.9f, -33.9f)
                 curveToRelative(-9.4f, -9.4f, -9.4f, -24.6f, 0.0f, -33.9f)
                 close()
             }

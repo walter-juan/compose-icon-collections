@@ -26,7 +26,6 @@ public val OutlineGroup.BrandDingtalk: ImageVector
                 moveTo(21.0f, 12.0f)
                 arcToRelative(9.0f, 9.0f, 0.0f, true, true, -18.0f, 0.0f)
                 arcToRelative(9.0f, 9.0f, 0.0f, false, true, 18.0f, 0.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -39,7 +38,6 @@ public val OutlineGroup.BrandDingtalk: ImageVector
                 lineToRelative(-5.0f, 4.0f)
                 lineToRelative(1.0f, -4.0f)
                 curveToRelative(-3.1f, 0.03f, -3.114f, -3.139f, -4.0f, -6.5f)
-                close()
             }
         }
         .build()

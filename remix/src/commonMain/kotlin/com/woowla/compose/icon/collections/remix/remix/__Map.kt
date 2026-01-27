@@ -134,6 +134,8 @@ import com.woowla.compose.icon.collections.remix.remix.map.SignalTowerFill
 import com.woowla.compose.icon.collections.remix.remix.map.SignalTowerLine
 import com.woowla.compose.icon.collections.remix.remix.map.SignpostFill
 import com.woowla.compose.icon.collections.remix.remix.map.SignpostLine
+import com.woowla.compose.icon.collections.remix.remix.map.SpaceShip2Fill
+import com.woowla.compose.icon.collections.remix.remix.map.SpaceShip2Line
 import com.woowla.compose.icon.collections.remix.remix.map.SpaceShipFill
 import com.woowla.compose.icon.collections.remix.remix.map.SpaceShipLine
 import com.woowla.compose.icon.collections.remix.remix.map.Steering2Fill
@@ -207,12 +209,12 @@ public val MapGroup.AllIcons: ____KtList<ImageVector>
         RoadMapLine, RoadsterFill, RoadsterLine, Rocket2Fill, Rocket2Line, RocketFill, RocketLine,
         RouteFill, RouteLine, RunFill, RunLine, SailboatFill, SailboatLine, Ship2Fill, Ship2Line,
         ShipFill, ShipLine, SignalTowerFill, SignalTowerLine, SignpostFill, SignpostLine,
-        SpaceShipFill, SpaceShipLine, Steering2Fill, Steering2Line, SteeringFill, SteeringLine,
-        SubwayFill, SubwayLine, SubwayWifiFill, SubwayWifiLine, Suitcase2Fill, Suitcase2Line,
-        Suitcase3Fill, Suitcase3Line, SuitcaseFill, SuitcaseLine, TakeawayFill, TakeawayLine,
-        TaxiFill, TaxiLine, TaxiWifiFill, TaxiWifiLine, TimeZoneFill, TimeZoneLine,
-        TrafficLightFill, TrafficLightLine, TrainFill, TrainLine, TrainWifiFill, TrainWifiLine,
-        TreasureMapFill, TreasureMapLine, TruckFill, TruckLine, UnpinFill, UnpinLine, WalkFill,
-        WalkLine)
+        SpaceShip2Fill, SpaceShip2Line, SpaceShipFill, SpaceShipLine, Steering2Fill, Steering2Line,
+        SteeringFill, SteeringLine, SubwayFill, SubwayLine, SubwayWifiFill, SubwayWifiLine,
+        Suitcase2Fill, Suitcase2Line, Suitcase3Fill, Suitcase3Line, SuitcaseFill, SuitcaseLine,
+        TakeawayFill, TakeawayLine, TaxiFill, TaxiLine, TaxiWifiFill, TaxiWifiLine, TimeZoneFill,
+        TimeZoneLine, TrafficLightFill, TrafficLightLine, TrainFill, TrainLine, TrainWifiFill,
+        TrainWifiLine, TreasureMapFill, TreasureMapLine, TruckFill, TruckLine, UnpinFill, UnpinLine,
+        WalkFill, WalkLine)
     return __AllIcons!!
   }

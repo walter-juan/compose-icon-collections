@@ -31,7 +31,6 @@ public val OutlineGroup.Bread: ImageVector
                 arcToRelative(3.0f, 3.0f, 0.0f, false, true, 1.824f, -5.231f)
                 horizontalLineToRelative(12.176f)
                 verticalLineToRelative(-0.005f)
-                close()
             }
         }
         .build()

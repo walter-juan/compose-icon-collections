@@ -34,7 +34,6 @@ public val OutlineGroup.FilterExclamation: ImageVector
                 lineToRelative(-4.48f, -4.928f)
                 arcToRelative(2.0f, 2.0f, 0.0f, false, true, -0.52f, -1.345f)
                 verticalLineToRelative(-2.227f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

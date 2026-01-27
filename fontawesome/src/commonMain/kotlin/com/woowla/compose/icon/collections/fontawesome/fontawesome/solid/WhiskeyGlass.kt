@@ -16,28 +16,26 @@ public val SolidGroup.WhiskeyGlass: ImageVector
         if (_whiskeyGlass != null) {
             return _whiskeyGlass!!
         }
-        _whiskeyGlass = Builder(name = "WhiskeyGlass", defaultWidth = 512.0.dp, defaultHeight =
-                512.0.dp, viewportWidth = 512.0f, viewportHeight = 512.0f).apply {
+        _whiskeyGlass = Builder(name = "WhiskeyGlass", defaultWidth = 448.0.dp, defaultHeight =
+                512.0.dp, viewportWidth = 448.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
                 moveTo(32.0f, 32.0f)
-                curveToRelative(-9.3f, 0.0f, -18.1f, 4.0f, -24.2f, 11.1f)
-                reflectiveCurveTo(-1.0f, 59.4f, 0.3f, 68.6f)
-                lineToRelative(50.0f, 342.9f)
-                curveToRelative(5.7f, 39.3f, 39.4f, 68.5f, 79.2f, 68.5f)
-                lineToRelative(253.0f, 0.0f)
-                curveToRelative(39.7f, 0.0f, 73.4f, -29.1f, 79.2f, -68.5f)
-                lineToRelative(50.0f, -342.9f)
-                curveToRelative(1.3f, -9.2f, -1.4f, -18.5f, -7.5f, -25.5f)
-                reflectiveCurveTo(489.3f, 32.0f, 480.0f, 32.0f)
+                curveTo(14.3f, 32.0f, 0.0f, 46.3f, 0.0f, 64.0f)
+                lineTo(0.0f, 352.0f)
+                curveToRelative(0.0f, 70.7f, 57.3f, 128.0f, 128.0f, 128.0f)
+                lineToRelative(192.0f, 0.0f)
+                curveToRelative(70.7f, 0.0f, 128.0f, -57.3f, 128.0f, -128.0f)
+                lineToRelative(0.0f, -288.0f)
+                curveToRelative(0.0f, -17.7f, -14.3f, -32.0f, -32.0f, -32.0f)
                 lineTo(32.0f, 32.0f)
                 close()
-                moveTo(87.7f, 224.0f)
-                lineTo(69.0f, 96.0f)
-                lineToRelative(374.0f, 0.0f)
-                lineTo(424.3f, 224.0f)
-                lineTo(87.7f, 224.0f)
+                moveTo(64.0f, 256.0f)
+                lineToRelative(0.0f, -160.0f)
+                lineToRelative(320.0f, 0.0f)
+                lineToRelative(0.0f, 160.0f)
+                lineToRelative(-320.0f, 0.0f)
                 close()
             }
         }

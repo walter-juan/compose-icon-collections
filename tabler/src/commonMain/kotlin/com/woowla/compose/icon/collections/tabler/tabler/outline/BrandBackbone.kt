@@ -26,7 +26,7 @@ public val OutlineGroup.BrandBackbone: ImageVector
                 moveTo(5.0f, 20.0f)
                 lineToRelative(14.0f, -8.0f)
                 lineToRelative(-14.0f, -8.0f)
-                close()
+                lineToRelative(0.0f, 16.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -34,7 +34,7 @@ public val OutlineGroup.BrandBackbone: ImageVector
                 moveTo(19.0f, 20.0f)
                 lineToRelative(-14.0f, -8.0f)
                 lineToRelative(14.0f, -8.0f)
-                close()
+                lineToRelative(0.0f, 16.0f)
             }
         }
         .build()

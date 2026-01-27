@@ -31,7 +31,7 @@ public val OutlineGroup.BrandBing: ImageVector
                 verticalLineToRelative(4.5f)
                 lineToRelative(-10.0f, 5.0f)
                 lineToRelative(-4.0f, -2.0f)
-                close()
+                lineToRelative(0.0f, -16.0f)
             }
         }
         .build()

@@ -27,7 +27,7 @@ public val OutlineGroup.BrandSupabase: ImageVector
                 lineToRelative(8.0f, -11.0f)
                 horizontalLineToRelative(-8.0f)
                 verticalLineToRelative(-7.0f)
-                close()
+                lineToRelative(-8.0f, 11.0f)
             }
         }
         .build()

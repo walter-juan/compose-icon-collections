@@ -43,7 +43,6 @@ public val OutlineGroup.Pick: ImageVector
                 lineToRelative(-5.0f, -5.0f)
                 horizontalLineToRelative(-3.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, true, true, 0.0f, -4.0f)
-                close()
             }
         }
         .build()

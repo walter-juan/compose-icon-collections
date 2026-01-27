@@ -23,16 +23,14 @@ public val OutlineGroup.RvTruck: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(7.0f, 17.0f)
-                moveToRelative(-2.0f, 0.0f)
+                moveTo(5.0f, 17.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, true, false, 4.0f, 0.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, true, false, -4.0f, 0.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(17.0f, 17.0f)
-                moveToRelative(-2.0f, 0.0f)
+                moveTo(15.0f, 17.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, true, false, 4.0f, 0.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, true, false, -4.0f, 0.0f)
             }
@@ -73,16 +71,13 @@ public val OutlineGroup.RvTruck: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(6.0f, 4.0f)
-                moveToRelative(0.0f, 1.5f)
+                moveTo(6.0f, 5.5f)
                 arcToRelative(1.5f, 1.5f, 0.0f, false, true, 1.5f, -1.5f)
                 horizontalLineToRelative(7.0f)
                 arcToRelative(1.5f, 1.5f, 0.0f, false, true, 1.5f, 1.5f)
-                verticalLineToRelative(0.0f)
                 arcToRelative(1.5f, 1.5f, 0.0f, false, true, -1.5f, 1.5f)
                 horizontalLineToRelative(-7.0f)
                 arcToRelative(1.5f, 1.5f, 0.0f, false, true, -1.5f, -1.5f)
-                close()
             }
         }
         .build()

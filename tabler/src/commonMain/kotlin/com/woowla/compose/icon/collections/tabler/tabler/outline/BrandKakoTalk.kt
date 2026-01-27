@@ -44,7 +44,6 @@ public val OutlineGroup.BrandKakoTalk: ImageVector
                 lineToRelative(0.592f, -2.962f)
                 curveToRelative(-2.741f, -1.284f, -4.592f, -3.73f, -4.592f, -6.538f)
                 curveToRelative(0.0f, -4.142f, 4.03f, -7.5f, 9.0f, -7.5f)
-                close()
             }
         }
         .build()

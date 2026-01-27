@@ -21,21 +21,21 @@ public val SolidGroup.Equals: ImageVector
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(48.0f, 128.0f)
+                moveTo(32.0f, 128.0f)
                 curveToRelative(-17.7f, 0.0f, -32.0f, 14.3f, -32.0f, 32.0f)
                 reflectiveCurveToRelative(14.3f, 32.0f, 32.0f, 32.0f)
-                lineToRelative(352.0f, 0.0f)
+                lineToRelative(384.0f, 0.0f)
                 curveToRelative(17.7f, 0.0f, 32.0f, -14.3f, 32.0f, -32.0f)
                 reflectiveCurveToRelative(-14.3f, -32.0f, -32.0f, -32.0f)
-                lineTo(48.0f, 128.0f)
+                lineTo(32.0f, 128.0f)
                 close()
-                moveTo(48.0f, 320.0f)
+                moveTo(32.0f, 320.0f)
                 curveToRelative(-17.7f, 0.0f, -32.0f, 14.3f, -32.0f, 32.0f)
                 reflectiveCurveToRelative(14.3f, 32.0f, 32.0f, 32.0f)
-                lineToRelative(352.0f, 0.0f)
+                lineToRelative(384.0f, 0.0f)
                 curveToRelative(17.7f, 0.0f, 32.0f, -14.3f, 32.0f, -32.0f)
                 reflectiveCurveToRelative(-14.3f, -32.0f, -32.0f, -32.0f)
-                lineTo(48.0f, 320.0f)
+                lineTo(32.0f, 320.0f)
                 close()
             }
         }

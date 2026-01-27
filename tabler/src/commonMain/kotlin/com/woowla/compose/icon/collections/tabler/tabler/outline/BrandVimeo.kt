@@ -34,7 +34,6 @@ public val OutlineGroup.BrandVimeo: ImageVector
                 curveToRelative(-0.49f, 0.0f, -0.924f, -1.165f, -1.5f, -3.5f)
                 curveToRelative(-0.59f, -2.42f, -0.5f, -6.5f, -3.0f, -6.5f)
                 reflectiveCurveToRelative(-5.5f, 4.5f, -5.5f, 4.5f)
-                close()
             }
         }
         .build()

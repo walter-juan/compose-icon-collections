@@ -34,7 +34,6 @@ public val OutlineGroup.Bowl: ImageVector
                 curveToRelative(-1.687f, -1.054f, -4.0f, -5.0f, -4.0f, -6.5f)
                 verticalLineToRelative(-0.5f)
                 arcToRelative(1.0f, 1.0f, 0.0f, false, true, 1.0f, -1.0f)
-                close()
             }
         }
         .build()

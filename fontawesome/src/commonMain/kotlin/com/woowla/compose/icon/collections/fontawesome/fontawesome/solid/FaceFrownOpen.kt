@@ -22,14 +22,14 @@ public val SolidGroup.FaceFrownOpen: ImageVector
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
                 moveTo(256.0f, 512.0f)
-                arcTo(256.0f, 256.0f, 0.0f, true, false, 256.0f, 0.0f)
+                arcToRelative(256.0f, 256.0f, 0.0f, true, false, 0.0f, -512.0f)
                 arcToRelative(256.0f, 256.0f, 0.0f, true, false, 0.0f, 512.0f)
                 close()
-                moveTo(176.4f, 176.0f)
+                moveTo(176.0f, 176.0f)
                 arcToRelative(32.0f, 32.0f, 0.0f, true, true, 0.0f, 64.0f)
                 arcToRelative(32.0f, 32.0f, 0.0f, true, true, 0.0f, -64.0f)
                 close()
-                moveTo(304.4f, 208.0f)
+                moveTo(304.0f, 208.0f)
                 arcToRelative(32.0f, 32.0f, 0.0f, true, true, 64.0f, 0.0f)
                 arcToRelative(32.0f, 32.0f, 0.0f, true, true, -64.0f, 0.0f)
                 close()

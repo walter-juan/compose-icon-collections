@@ -33,7 +33,6 @@ public val OutlineGroup.Lungs: ImageVector
                 curveToRelative(-0.42f, 1.37f, -0.636f, 2.962f, -0.648f, 4.775f)
                 curveToRelative(-0.012f, 1.675f, 1.261f, 3.054f, 2.877f, 3.161f)
                 lineToRelative(0.203f, 0.007f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -48,7 +47,6 @@ public val OutlineGroup.Lungs: ImageVector
                 curveToRelative(0.42f, 1.37f, 0.636f, 2.962f, 0.648f, 4.775f)
                 curveToRelative(0.012f, 1.675f, -1.261f, 3.054f, -2.878f, 3.161f)
                 lineToRelative(-0.202f, 0.007f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

@@ -38,7 +38,7 @@ public val OutlineGroup.StackBackward: ImageVector
                 lineToRelative(8.0f, -4.0f)
                 lineToRelative(-6.0f, -3.0f)
                 lineToRelative(-2.0f, 1.0f)
-                close()
+                lineToRelative(-2.0f, -1.0f)
             }
         }
         .build()

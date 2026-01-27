@@ -26,6 +26,8 @@ import com.woowla.compose.icon.collections.remix.remix.system.Apps2AiFill
 import com.woowla.compose.icon.collections.remix.remix.system.Apps2AiLine
 import com.woowla.compose.icon.collections.remix.remix.system.Apps2Fill
 import com.woowla.compose.icon.collections.remix.remix.system.Apps2Line
+import com.woowla.compose.icon.collections.remix.remix.system.AppsAiFill
+import com.woowla.compose.icon.collections.remix.remix.system.AppsAiLine
 import com.woowla.compose.icon.collections.remix.remix.system.AppsFill
 import com.woowla.compose.icon.collections.remix.remix.system.AppsLine
 import com.woowla.compose.icon.collections.remix.remix.system.CheckDoubleFill
@@ -116,6 +118,8 @@ import com.woowla.compose.icon.collections.remix.remix.system.ForbidFill
 import com.woowla.compose.icon.collections.remix.remix.system.ForbidLine
 import com.woowla.compose.icon.collections.remix.remix.system.FunctionAddFill
 import com.woowla.compose.icon.collections.remix.remix.system.FunctionAddLine
+import com.woowla.compose.icon.collections.remix.remix.system.FunctionAiFill
+import com.woowla.compose.icon.collections.remix.remix.system.FunctionAiLine
 import com.woowla.compose.icon.collections.remix.remix.system.FunctionFill
 import com.woowla.compose.icon.collections.remix.remix.system.FunctionLine
 import com.woowla.compose.icon.collections.remix.remix.system.HistoryFill
@@ -168,8 +172,12 @@ import com.woowla.compose.icon.collections.remix.remix.system.LogoutCircleFill
 import com.woowla.compose.icon.collections.remix.remix.system.LogoutCircleLine
 import com.woowla.compose.icon.collections.remix.remix.system.LogoutCircleRFill
 import com.woowla.compose.icon.collections.remix.remix.system.LogoutCircleRLine
+import com.woowla.compose.icon.collections.remix.remix.system.LoopLeftAiFill
+import com.woowla.compose.icon.collections.remix.remix.system.LoopLeftAiLine
 import com.woowla.compose.icon.collections.remix.remix.system.LoopLeftFill
 import com.woowla.compose.icon.collections.remix.remix.system.LoopLeftLine
+import com.woowla.compose.icon.collections.remix.remix.system.LoopRightAiFill
+import com.woowla.compose.icon.collections.remix.remix.system.LoopRightAiLine
 import com.woowla.compose.icon.collections.remix.remix.system.LoopRightFill
 import com.woowla.compose.icon.collections.remix.remix.system.LoopRightLine
 import com.woowla.compose.icon.collections.remix.remix.system.Menu2Fill
@@ -240,6 +248,14 @@ import com.woowla.compose.icon.collections.remix.remix.system.ResetRightFill
 import com.woowla.compose.icon.collections.remix.remix.system.ResetRightLine
 import com.woowla.compose.icon.collections.remix.remix.system.Search2Fill
 import com.woowla.compose.icon.collections.remix.remix.system.Search2Line
+import com.woowla.compose.icon.collections.remix.remix.system.SearchAi2Fill
+import com.woowla.compose.icon.collections.remix.remix.system.SearchAi2Line
+import com.woowla.compose.icon.collections.remix.remix.system.SearchAi3Fill
+import com.woowla.compose.icon.collections.remix.remix.system.SearchAi3Line
+import com.woowla.compose.icon.collections.remix.remix.system.SearchAi4Fill
+import com.woowla.compose.icon.collections.remix.remix.system.SearchAi4Line
+import com.woowla.compose.icon.collections.remix.remix.system.SearchAiFill
+import com.woowla.compose.icon.collections.remix.remix.system.SearchAiLine
 import com.woowla.compose.icon.collections.remix.remix.system.SearchEyeFill
 import com.woowla.compose.icon.collections.remix.remix.system.SearchEyeLine
 import com.woowla.compose.icon.collections.remix.remix.system.SearchFill
@@ -351,34 +367,36 @@ public val SystemGroup.AllIcons: ____KtList<ImageVector>
     __AllIcons= listOf(AddBoxFill, AddBoxLine, AddCircleFill, AddCircleLine, AddFill, AddLargeFill,
         AddLargeLine, AddLine, AlarmAddFill, AlarmAddLine, AlarmFill, AlarmLine, AlarmSnoozeFill,
         AlarmSnoozeLine, AlarmWarningFill, AlarmWarningLine, AlertFill, AlertLine, Apps2AddFill,
-        Apps2AddLine, Apps2AiFill, Apps2AiLine, Apps2Fill, Apps2Line, AppsFill, AppsLine,
-        CheckDoubleFill, CheckDoubleLine, CheckFill, CheckLine, CheckboxBlankCircleFill,
-        CheckboxBlankCircleLine, CheckboxBlankFill, CheckboxBlankLine, CheckboxCircleFill,
-        CheckboxCircleLine, CheckboxFill, CheckboxIndeterminateFill, CheckboxIndeterminateLine,
-        CheckboxLine, CheckboxMultipleBlankFill, CheckboxMultipleBlankLine, CheckboxMultipleFill,
-        CheckboxMultipleLine, CloseCircleFill, CloseCircleLine, CloseFill, CloseLargeFill,
-        CloseLargeLine, CloseLine, DashboardFill, DashboardHorizontalFill, DashboardHorizontalLine,
-        DashboardLine, DeleteBack2Fill, DeleteBack2Line, DeleteBackFill, DeleteBackLine,
-        DeleteBin2Fill, DeleteBin2Line, DeleteBin3Fill, DeleteBin3Line, DeleteBin4Fill,
-        DeleteBin4Line, DeleteBin5Fill, DeleteBin5Line, DeleteBin6Fill, DeleteBin6Line,
-        DeleteBin7Fill, DeleteBin7Line, DeleteBinFill, DeleteBinLine, DivideFill, DivideLine,
-        Download2Fill, Download2Line, DownloadCloud2Fill, DownloadCloud2Line, DownloadCloudFill,
-        DownloadCloudLine, DownloadFill, DownloadLine, EqualFill, EqualLine, ErrorWarningFill,
-        ErrorWarningLine, ExportFill, ExportLine, ExternalLinkFill, ExternalLinkLine, Eye2Fill,
-        Eye2Line, EyeCloseFill, EyeCloseLine, EyeFill, EyeLine, EyeOffFill, EyeOffLine, Filter2Fill,
-        Filter2Line, Filter3Fill, Filter3Line, FilterFill, FilterLine, FilterOffFill, FilterOffLine,
+        Apps2AddLine, Apps2AiFill, Apps2AiLine, Apps2Fill, Apps2Line, AppsAiFill, AppsAiLine,
+        AppsFill, AppsLine, CheckDoubleFill, CheckDoubleLine, CheckFill, CheckLine,
+        CheckboxBlankCircleFill, CheckboxBlankCircleLine, CheckboxBlankFill, CheckboxBlankLine,
+        CheckboxCircleFill, CheckboxCircleLine, CheckboxFill, CheckboxIndeterminateFill,
+        CheckboxIndeterminateLine, CheckboxLine, CheckboxMultipleBlankFill,
+        CheckboxMultipleBlankLine, CheckboxMultipleFill, CheckboxMultipleLine, CloseCircleFill,
+        CloseCircleLine, CloseFill, CloseLargeFill, CloseLargeLine, CloseLine, DashboardFill,
+        DashboardHorizontalFill, DashboardHorizontalLine, DashboardLine, DeleteBack2Fill,
+        DeleteBack2Line, DeleteBackFill, DeleteBackLine, DeleteBin2Fill, DeleteBin2Line,
+        DeleteBin3Fill, DeleteBin3Line, DeleteBin4Fill, DeleteBin4Line, DeleteBin5Fill,
+        DeleteBin5Line, DeleteBin6Fill, DeleteBin6Line, DeleteBin7Fill, DeleteBin7Line,
+        DeleteBinFill, DeleteBinLine, DivideFill, DivideLine, Download2Fill, Download2Line,
+        DownloadCloud2Fill, DownloadCloud2Line, DownloadCloudFill, DownloadCloudLine, DownloadFill,
+        DownloadLine, EqualFill, EqualLine, ErrorWarningFill, ErrorWarningLine, ExportFill,
+        ExportLine, ExternalLinkFill, ExternalLinkLine, Eye2Fill, Eye2Line, EyeCloseFill,
+        EyeCloseLine, EyeFill, EyeLine, EyeOffFill, EyeOffLine, Filter2Fill, Filter2Line,
+        Filter3Fill, Filter3Line, FilterFill, FilterLine, FilterOffFill, FilterOffLine,
         FindReplaceFill, FindReplaceLine, Forbid2Fill, Forbid2Line, ForbidFill, ForbidLine,
-        FunctionAddFill, FunctionAddLine, FunctionFill, FunctionLine, HistoryFill, HistoryLine,
-        Hourglass2Fill, Hourglass2Line, HourglassFill, HourglassLine, ImportFill, ImportLine,
-        IndeterminateCircleFill, IndeterminateCircleLine, Information2Fill, Information2Line,
-        InformationFill, InformationLine, InformationOffFill, InformationOffLine, ListSettingsFill,
-        ListSettingsLine, Loader2Fill, Loader2Line, Loader3Fill, Loader3Line, Loader4Fill,
-        Loader4Line, Loader5Fill, Loader5Line, LoaderFill, LoaderLine, Lock2Fill, Lock2Line,
-        LockFill, LockLine, LockPasswordFill, LockPasswordLine, LockStarFill, LockStarLine,
-        LockUnlockFill, LockUnlockLine, LoginBoxFill, LoginBoxLine, LoginCircleFill,
-        LoginCircleLine, LogoutBoxFill, LogoutBoxLine, LogoutBoxRFill, LogoutBoxRLine,
-        LogoutCircleFill, LogoutCircleLine, LogoutCircleRFill, LogoutCircleRLine, LoopLeftFill,
-        LoopLeftLine, LoopRightFill, LoopRightLine, Menu2Fill, Menu2Line, Menu3Fill, Menu3Line,
+        FunctionAddFill, FunctionAddLine, FunctionAiFill, FunctionAiLine, FunctionFill,
+        FunctionLine, HistoryFill, HistoryLine, Hourglass2Fill, Hourglass2Line, HourglassFill,
+        HourglassLine, ImportFill, ImportLine, IndeterminateCircleFill, IndeterminateCircleLine,
+        Information2Fill, Information2Line, InformationFill, InformationLine, InformationOffFill,
+        InformationOffLine, ListSettingsFill, ListSettingsLine, Loader2Fill, Loader2Line,
+        Loader3Fill, Loader3Line, Loader4Fill, Loader4Line, Loader5Fill, Loader5Line, LoaderFill,
+        LoaderLine, Lock2Fill, Lock2Line, LockFill, LockLine, LockPasswordFill, LockPasswordLine,
+        LockStarFill, LockStarLine, LockUnlockFill, LockUnlockLine, LoginBoxFill, LoginBoxLine,
+        LoginCircleFill, LoginCircleLine, LogoutBoxFill, LogoutBoxLine, LogoutBoxRFill,
+        LogoutBoxRLine, LogoutCircleFill, LogoutCircleLine, LogoutCircleRFill, LogoutCircleRLine,
+        LoopLeftAiFill, LoopLeftAiLine, LoopLeftFill, LoopLeftLine, LoopRightAiFill,
+        LoopRightAiLine, LoopRightFill, LoopRightLine, Menu2Fill, Menu2Line, Menu3Fill, Menu3Line,
         Menu4Fill, Menu4Line, Menu5Fill, Menu5Line, MenuAddFill, MenuAddLine, MenuFill,
         MenuFold2Fill, MenuFold2Line, MenuFold3Fill, MenuFold3Line, MenuFold4Fill, MenuFold4Line,
         MenuFoldFill, MenuFoldLine, MenuLine, MenuSearchFill, MenuSearchLine, MenuUnfold2Fill,
@@ -390,15 +408,16 @@ public val SystemGroup.AllIcons: ____KtList<ImageVector>
         Progress8Line, Prohibited2Fill, Prohibited2Line, ProhibitedFill, ProhibitedLine,
         QuestionFill, QuestionLine, RadioButtonFill, RadioButtonLine, RefreshFill, RefreshLine,
         ResetLeftFill, ResetLeftLine, ResetRightFill, ResetRightLine, Search2Fill, Search2Line,
-        SearchEyeFill, SearchEyeLine, SearchFill, SearchLine, Settings2Fill, Settings2Line,
-        Settings3Fill, Settings3Line, Settings4Fill, Settings4Line, Settings5Fill, Settings5Line,
-        Settings6Fill, Settings6Line, SettingsFill, SettingsLine, Share2Fill, Share2Line,
-        ShareBoxFill, ShareBoxLine, ShareCircleFill, ShareCircleLine, ShareFill, ShareForward2Fill,
-        ShareForward2Line, ShareForwardBoxFill, ShareForwardBoxLine, ShareForwardFill,
-        ShareForwardLine, ShareLine, ShieldCheckFill, ShieldCheckLine, ShieldCrossFill,
-        ShieldCrossLine, ShieldFill, ShieldFlashFill, ShieldFlashLine, ShieldKeyholeFill,
-        ShieldKeyholeLine, ShieldLine, ShieldStarFill, ShieldStarLine, ShieldUserFill,
-        ShieldUserLine, SideBarFill, SideBarLine, SidebarFoldFill, SidebarFoldLine,
+        SearchAi2Fill, SearchAi2Line, SearchAi3Fill, SearchAi3Line, SearchAi4Fill, SearchAi4Line,
+        SearchAiFill, SearchAiLine, SearchEyeFill, SearchEyeLine, SearchFill, SearchLine,
+        Settings2Fill, Settings2Line, Settings3Fill, Settings3Line, Settings4Fill, Settings4Line,
+        Settings5Fill, Settings5Line, Settings6Fill, Settings6Line, SettingsFill, SettingsLine,
+        Share2Fill, Share2Line, ShareBoxFill, ShareBoxLine, ShareCircleFill, ShareCircleLine,
+        ShareFill, ShareForward2Fill, ShareForward2Line, ShareForwardBoxFill, ShareForwardBoxLine,
+        ShareForwardFill, ShareForwardLine, ShareLine, ShieldCheckFill, ShieldCheckLine,
+        ShieldCrossFill, ShieldCrossLine, ShieldFill, ShieldFlashFill, ShieldFlashLine,
+        ShieldKeyholeFill, ShieldKeyholeLine, ShieldLine, ShieldStarFill, ShieldStarLine,
+        ShieldUserFill, ShieldUserLine, SideBarFill, SideBarLine, SidebarFoldFill, SidebarFoldLine,
         SidebarUnfoldFill, SidebarUnfoldLine, Spam2Fill, Spam2Line, Spam3Fill, Spam3Line, SpamFill,
         SpamLine, StarFill, StarHalfFill, StarHalfLine, StarHalfSFill, StarHalfSLine, StarLine,
         StarOffFill, StarOffLine, StarSFill, StarSLine, SubtractFill, SubtractLine, ThumbDownFill,

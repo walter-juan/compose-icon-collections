@@ -12,6 +12,10 @@ import com.woowla.compose.icon.collections.remix.remix.media.Camera2Fill
 import com.woowla.compose.icon.collections.remix.remix.media.Camera2Line
 import com.woowla.compose.icon.collections.remix.remix.media.Camera3Fill
 import com.woowla.compose.icon.collections.remix.remix.media.Camera3Line
+import com.woowla.compose.icon.collections.remix.remix.media.Camera4Fill
+import com.woowla.compose.icon.collections.remix.remix.media.Camera4Line
+import com.woowla.compose.icon.collections.remix.remix.media.CameraAi2Fill
+import com.woowla.compose.icon.collections.remix.remix.media.CameraAi2Line
 import com.woowla.compose.icon.collections.remix.remix.media.CameraAiFill
 import com.woowla.compose.icon.collections.remix.remix.media.CameraAiLine
 import com.woowla.compose.icon.collections.remix.remix.media.CameraFill
@@ -88,10 +92,14 @@ import com.woowla.compose.icon.collections.remix.remix.media.ImageCircleAiFill
 import com.woowla.compose.icon.collections.remix.remix.media.ImageCircleAiLine
 import com.woowla.compose.icon.collections.remix.remix.media.ImageCircleFill
 import com.woowla.compose.icon.collections.remix.remix.media.ImageCircleLine
+import com.woowla.compose.icon.collections.remix.remix.media.ImageDownloadFill
+import com.woowla.compose.icon.collections.remix.remix.media.ImageDownloadLine
 import com.woowla.compose.icon.collections.remix.remix.media.ImageEditFill
 import com.woowla.compose.icon.collections.remix.remix.media.ImageEditLine
 import com.woowla.compose.icon.collections.remix.remix.media.ImageFill
 import com.woowla.compose.icon.collections.remix.remix.media.ImageLine
+import com.woowla.compose.icon.collections.remix.remix.media.ImageUploadFill
+import com.woowla.compose.icon.collections.remix.remix.media.ImageUploadLine
 import com.woowla.compose.icon.collections.remix.remix.media.LandscapeAiFill
 import com.woowla.compose.icon.collections.remix.remix.media.LandscapeAiLine
 import com.woowla.compose.icon.collections.remix.remix.media.LandscapeFill
@@ -305,21 +313,22 @@ public val MediaGroup.AllIcons: ____KtList<ImageVector>
       return __AllIcons!!
     }
     __AllIcons= listOf(AlbumFill, AlbumLine, AspectRatioFill, AspectRatioLine, BroadcastFill,
-        BroadcastLine, Camera2Fill, Camera2Line, Camera3Fill, Camera3Line, CameraAiFill,
-        CameraAiLine, CameraFill, CameraLensAiFill, CameraLensAiLine, CameraLensFill,
-        CameraLensLine, CameraLine, CameraOffFill, CameraOffLine, CameraSwitchFill,
-        CameraSwitchLine, ClapperboardAiFill, ClapperboardAiLine, ClapperboardFill,
-        ClapperboardLine, ClosedCaptioningAiFill, ClosedCaptioningAiLine, ClosedCaptioningFill,
-        ClosedCaptioningLine, DiscFill, DiscLine, DvFill, DvLine, DvdAiFill, DvdAiLine, DvdFill,
-        DvdLine, EjectFill, EjectLine, Equalizer2Fill, Equalizer2Line, Equalizer3Fill,
-        Equalizer3Line, EqualizerFill, EqualizerLine, FilmAiFill, FilmAiLine, FilmFill, FilmLine,
-        Forward10Fill, Forward10Line, Forward15Fill, Forward15Line, Forward30Fill, Forward30Line,
-        Forward5Fill, Forward5Line, ForwardEndFill, ForwardEndLine, ForwardEndMiniFill,
-        ForwardEndMiniLine, FullscreenExitFill, FullscreenExitLine, FullscreenFill, FullscreenLine,
-        GalleryFill, GalleryLine, GalleryUploadFill, GalleryUploadLine, HdFill, HdLine,
-        HeadphoneFill, HeadphoneLine, HqFill, HqLine, Image2Fill, Image2Line, ImageAddFill,
-        ImageAddLine, ImageAiFill, ImageAiLine, ImageCircleAiFill, ImageCircleAiLine,
-        ImageCircleFill, ImageCircleLine, ImageEditFill, ImageEditLine, ImageFill, ImageLine,
+        BroadcastLine, Camera2Fill, Camera2Line, Camera3Fill, Camera3Line, Camera4Fill, Camera4Line,
+        CameraAi2Fill, CameraAi2Line, CameraAiFill, CameraAiLine, CameraFill, CameraLensAiFill,
+        CameraLensAiLine, CameraLensFill, CameraLensLine, CameraLine, CameraOffFill, CameraOffLine,
+        CameraSwitchFill, CameraSwitchLine, ClapperboardAiFill, ClapperboardAiLine,
+        ClapperboardFill, ClapperboardLine, ClosedCaptioningAiFill, ClosedCaptioningAiLine,
+        ClosedCaptioningFill, ClosedCaptioningLine, DiscFill, DiscLine, DvFill, DvLine, DvdAiFill,
+        DvdAiLine, DvdFill, DvdLine, EjectFill, EjectLine, Equalizer2Fill, Equalizer2Line,
+        Equalizer3Fill, Equalizer3Line, EqualizerFill, EqualizerLine, FilmAiFill, FilmAiLine,
+        FilmFill, FilmLine, Forward10Fill, Forward10Line, Forward15Fill, Forward15Line,
+        Forward30Fill, Forward30Line, Forward5Fill, Forward5Line, ForwardEndFill, ForwardEndLine,
+        ForwardEndMiniFill, ForwardEndMiniLine, FullscreenExitFill, FullscreenExitLine,
+        FullscreenFill, FullscreenLine, GalleryFill, GalleryLine, GalleryUploadFill,
+        GalleryUploadLine, HdFill, HdLine, HeadphoneFill, HeadphoneLine, HqFill, HqLine, Image2Fill,
+        Image2Line, ImageAddFill, ImageAddLine, ImageAiFill, ImageAiLine, ImageCircleAiFill,
+        ImageCircleAiLine, ImageCircleFill, ImageCircleLine, ImageDownloadFill, ImageDownloadLine,
+        ImageEditFill, ImageEditLine, ImageFill, ImageLine, ImageUploadFill, ImageUploadLine,
         LandscapeAiFill, LandscapeAiLine, LandscapeFill, LandscapeLine, LiveFill, LiveLine,
         MemoriesFill, MemoriesLine, Mic2AiFill, Mic2AiLine, Mic2Fill, Mic2Line, MicAiFill,
         MicAiLine, MicFill, MicLine, MicOffFill, MicOffLine, Movie2AiFill, Movie2AiLine, Movie2Fill,

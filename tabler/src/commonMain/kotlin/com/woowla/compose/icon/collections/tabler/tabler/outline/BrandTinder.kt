@@ -28,7 +28,6 @@ public val OutlineGroup.BrandTinder: ImageVector
                 curveToRelative(0.0f, 0.528f, 0.27f, 3.475f, 1.0f, 3.167f)
                 curveToRelative(3.0f, 0.0f, 4.0f, -4.222f, 3.587f, -7.389f)
                 curveToRelative(2.7f, 1.411f, 4.987f, 3.376f, 6.331f, 6.174f)
-                close()
             }
         }
         .build()

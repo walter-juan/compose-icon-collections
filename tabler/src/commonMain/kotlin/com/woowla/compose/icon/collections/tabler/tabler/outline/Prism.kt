@@ -40,7 +40,6 @@ public val OutlineGroup.Prism: ImageVector
                 arcToRelative(1.0f, 1.0f, 0.0f, false, true, 1.0f, 1.0f)
                 verticalLineToRelative(11.17f)
                 arcToRelative(2.5f, 2.5f, 0.0f, false, true, -1.0f, 2.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

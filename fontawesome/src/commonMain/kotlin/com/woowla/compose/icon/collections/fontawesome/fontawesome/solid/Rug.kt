@@ -16,22 +16,15 @@ public val SolidGroup.Rug: ImageVector
         if (_rug != null) {
             return _rug!!
         }
-        _rug = Builder(name = "Rug", defaultWidth = 640.0.dp, defaultHeight = 512.0.dp,
-                viewportWidth = 640.0f, viewportHeight = 512.0f).apply {
+        _rug = Builder(name = "Rug", defaultWidth = 576.0.dp, defaultHeight = 512.0.dp,
+                viewportWidth = 576.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
                 moveTo(24.0f, 64.0f)
-                lineToRelative(32.0f, 0.0f)
-                lineToRelative(24.0f, 0.0f)
-                lineToRelative(0.0f, 24.0f)
-                lineToRelative(0.0f, 88.0f)
-                lineToRelative(0.0f, 80.0f)
-                lineToRelative(0.0f, 80.0f)
-                lineToRelative(0.0f, 88.0f)
-                lineToRelative(0.0f, 24.0f)
-                lineToRelative(-24.0f, 0.0f)
-                lineToRelative(-32.0f, 0.0f)
+                lineToRelative(56.0f, 0.0f)
+                lineToRelative(0.0f, 384.0f)
+                lineToRelative(-56.0f, 0.0f)
                 curveToRelative(-13.3f, 0.0f, -24.0f, -10.7f, -24.0f, -24.0f)
                 reflectiveCurveToRelative(10.7f, -24.0f, 24.0f, -24.0f)
                 lineToRelative(8.0f, 0.0f)
@@ -55,13 +48,13 @@ public val SolidGroup.Rug: ImageVector
                 curveTo(10.7f, 112.0f, 0.0f, 101.3f, 0.0f, 88.0f)
                 reflectiveCurveTo(10.7f, 64.0f, 24.0f, 64.0f)
                 close()
-                moveTo(112.0f, 64.0f)
-                lineToRelative(416.0f, 0.0f)
+                moveTo(128.0f, 64.0f)
+                lineToRelative(320.0f, 0.0f)
                 lineToRelative(0.0f, 384.0f)
-                lineToRelative(-416.0f, 0.0f)
+                lineToRelative(-320.0f, 0.0f)
                 lineToRelative(0.0f, -384.0f)
                 close()
-                moveTo(640.0f, 88.0f)
+                moveTo(576.0f, 88.0f)
                 curveToRelative(0.0f, 13.3f, -10.7f, 24.0f, -24.0f, 24.0f)
                 lineToRelative(-8.0f, 0.0f)
                 lineToRelative(0.0f, 40.0f)
@@ -83,16 +76,9 @@ public val SolidGroup.Rug: ImageVector
                 lineToRelative(8.0f, 0.0f)
                 curveToRelative(13.3f, 0.0f, 24.0f, 10.7f, 24.0f, 24.0f)
                 reflectiveCurveToRelative(-10.7f, 24.0f, -24.0f, 24.0f)
-                lineToRelative(-32.0f, 0.0f)
-                lineToRelative(-24.0f, 0.0f)
-                lineToRelative(0.0f, -24.0f)
-                lineToRelative(0.0f, -88.0f)
-                lineToRelative(0.0f, -80.0f)
-                lineToRelative(0.0f, -80.0f)
-                lineToRelative(0.0f, -88.0f)
-                lineToRelative(0.0f, -24.0f)
-                lineToRelative(24.0f, 0.0f)
-                lineToRelative(32.0f, 0.0f)
+                lineToRelative(-56.0f, 0.0f)
+                lineToRelative(0.0f, -384.0f)
+                lineToRelative(56.0f, 0.0f)
                 curveToRelative(13.3f, 0.0f, 24.0f, 10.7f, 24.0f, 24.0f)
                 close()
             }

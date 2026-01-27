@@ -34,7 +34,6 @@ public val OutlineGroup.GrillSpatula: ImageVector
                 arcToRelative(1.96f, 1.96f, 0.0f, false, true, -2.773f, 2.772f)
                 lineToRelative(-1.08f, -1.079f)
                 arcToRelative(1.96f, 1.96f, 0.0f, false, true, 2.773f, -2.772f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -44,7 +43,6 @@ public val OutlineGroup.GrillSpatula: ImageVector
                 arcToRelative(2.9f, 2.9f, 0.0f, false, false, 4.1f, -4.1f)
                 lineToRelative(-3.15f, -3.05f)
                 lineToRelative(-4.0f, 4.0f)
-                close()
             }
         }
         .build()

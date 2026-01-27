@@ -26,7 +26,6 @@ public val OutlineGroup.VacuumCleaner: ImageVector
                 moveTo(21.0f, 12.0f)
                 arcToRelative(9.0f, 9.0f, 0.0f, true, true, -18.0f, 0.0f)
                 arcToRelative(9.0f, 9.0f, 0.0f, false, true, 18.0f, 0.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -34,7 +33,6 @@ public val OutlineGroup.VacuumCleaner: ImageVector
                 moveTo(14.0f, 9.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, true, true, -4.0f, 0.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, false, true, 4.0f, 0.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

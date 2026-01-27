@@ -21,16 +21,15 @@ public val SolidGroup.BreadSlice: ImageVector
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(256.0f, 32.0f)
-                curveTo(192.0f, 32.0f, 0.0f, 64.0f, 0.0f, 192.0f)
-                curveToRelative(0.0f, 35.3f, 28.7f, 64.0f, 64.0f, 64.0f)
-                verticalLineTo(432.0f)
-                curveToRelative(0.0f, 26.5f, 21.5f, 48.0f, 48.0f, 48.0f)
-                horizontalLineTo(400.0f)
-                curveToRelative(26.5f, 0.0f, 48.0f, -21.5f, 48.0f, -48.0f)
-                verticalLineTo(256.0f)
-                curveToRelative(35.3f, 0.0f, 64.0f, -28.7f, 64.0f, -64.0f)
-                curveTo(512.0f, 64.0f, 320.0f, 32.0f, 256.0f, 32.0f)
+                moveTo(64.0f, 432.0f)
+                lineToRelative(0.0f, -176.0f)
+                curveToRelative(-35.3f, 0.0f, -64.0f, -28.7f, -64.0f, -64.0f)
+                curveToRelative(0.0f, -216.5f, 512.0f, -216.5f, 512.0f, 0.0f)
+                curveToRelative(0.0f, 35.3f, -28.7f, 64.0f, -64.0f, 64.0f)
+                lineToRelative(0.0f, 176.0f)
+                curveToRelative(0.0f, 26.5f, -21.5f, 48.0f, -48.0f, 48.0f)
+                lineToRelative(-288.0f, 0.0f)
+                curveToRelative(-26.5f, 0.0f, -48.0f, -21.5f, -48.0f, -48.0f)
                 close()
             }
         }

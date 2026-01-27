@@ -21,18 +21,18 @@ public val SolidGroup.Bookmark: ImageVector
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(0.0f, 48.0f)
-                verticalLineTo(487.7f)
-                curveTo(0.0f, 501.1f, 10.9f, 512.0f, 24.3f, 512.0f)
-                curveToRelative(5.0f, 0.0f, 9.9f, -1.5f, 14.0f, -4.4f)
-                lineTo(192.0f, 400.0f)
-                lineTo(345.7f, 507.6f)
-                curveToRelative(4.1f, 2.9f, 9.0f, 4.4f, 14.0f, 4.4f)
-                curveToRelative(13.4f, 0.0f, 24.3f, -10.9f, 24.3f, -24.3f)
-                verticalLineTo(48.0f)
-                curveToRelative(0.0f, -26.5f, -21.5f, -48.0f, -48.0f, -48.0f)
-                horizontalLineTo(48.0f)
-                curveTo(21.5f, 0.0f, 0.0f, 21.5f, 0.0f, 48.0f)
+                moveTo(64.0f, 0.0f)
+                curveTo(28.7f, 0.0f, 0.0f, 28.7f, 0.0f, 64.0f)
+                lineTo(0.0f, 480.0f)
+                curveToRelative(0.0f, 11.5f, 6.2f, 22.2f, 16.2f, 27.8f)
+                reflectiveCurveToRelative(22.3f, 5.5f, 32.2f, -0.4f)
+                lineTo(192.0f, 421.3f)
+                lineTo(335.5f, 507.4f)
+                curveToRelative(9.9f, 5.9f, 22.2f, 6.1f, 32.2f, 0.4f)
+                reflectiveCurveTo(384.0f, 491.5f, 384.0f, 480.0f)
+                lineToRelative(0.0f, -416.0f)
+                curveToRelative(0.0f, -35.3f, -28.7f, -64.0f, -64.0f, -64.0f)
+                lineTo(64.0f, 0.0f)
                 close()
             }
         }

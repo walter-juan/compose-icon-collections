@@ -26,7 +26,6 @@ public val OutlineGroup.GenderEpicene: ImageVector
                 moveTo(15.536f, 15.536f)
                 arcToRelative(5.0f, 5.0f, 0.0f, true, false, -7.072f, -7.072f)
                 arcToRelative(5.0f, 5.0f, 0.0f, false, false, 7.072f, 7.072f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

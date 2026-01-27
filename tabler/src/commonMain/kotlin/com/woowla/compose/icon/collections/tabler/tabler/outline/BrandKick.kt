@@ -45,7 +45,7 @@ public val OutlineGroup.BrandKick: ImageVector
                 horizontalLineToRelative(-3.0f)
                 verticalLineToRelative(4.0f)
                 horizontalLineToRelative(-5.0f)
-                close()
+                lineToRelative(0.0f, -16.0f)
             }
         }
         .build()

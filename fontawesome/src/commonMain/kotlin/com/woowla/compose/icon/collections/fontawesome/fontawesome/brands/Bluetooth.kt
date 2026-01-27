@@ -16,31 +16,32 @@ public val BrandsGroup.Bluetooth: ImageVector
         if (_bluetooth != null) {
             return _bluetooth!!
         }
-        _bluetooth = Builder(name = "Bluetooth", defaultWidth = 448.0.dp, defaultHeight = 512.0.dp,
-                viewportWidth = 448.0f, viewportHeight = 512.0f).apply {
+        _bluetooth = Builder(name = "Bluetooth", defaultWidth = 384.0.dp, defaultHeight = 512.0.dp,
+                viewportWidth = 384.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(292.6f, 171.1f)
-                lineTo(249.7f, 214.0f)
+                moveTo(260.6f, 171.1f)
+                lineToRelative(-42.9f, 42.9f)
                 lineToRelative(-0.3f, -86.0f)
                 lineToRelative(43.2f, 43.1f)
-                moveToRelative(-43.2f, 219.8f)
+                close()
+                moveTo(217.4f, 390.9f)
                 lineToRelative(43.1f, -43.1f)
                 lineToRelative(-42.9f, -42.9f)
                 lineToRelative(-0.2f, 86.0f)
                 close()
-                moveTo(416.0f, 259.4f)
-                curveTo(416.0f, 465.0f, 344.1f, 512.0f, 230.9f, 512.0f)
-                reflectiveCurveTo(32.0f, 465.0f, 32.0f, 259.4f)
-                reflectiveCurveTo(115.4f, 0.0f, 228.6f, 0.0f)
-                reflectiveCurveTo(416.0f, 53.9f, 416.0f, 259.4f)
+                moveTo(384.0f, 259.4f)
+                curveTo(384.0f, 465.0f, 312.1f, 512.0f, 198.9f, 512.0f)
+                reflectiveCurveTo(0.0f, 465.0f, 0.0f, 259.4f)
+                reflectiveCurveTo(83.4f, 0.0f, 196.6f, 0.0f)
+                reflectiveCurveTo(384.0f, 53.9f, 384.0f, 259.4f)
                 close()
-                moveTo(257.5f, 259.4f)
+                moveTo(225.5f, 259.4f)
                 lineToRelative(79.4f, -88.6f)
-                lineTo(211.8f, 36.5f)
-                verticalLineToRelative(176.9f)
-                lineTo(138.0f, 139.6f)
+                lineToRelative(-125.1f, -134.3f)
+                lineToRelative(0.0f, 176.9f)
+                lineToRelative(-73.8f, -73.8f)
                 lineToRelative(-27.0f, 26.9f)
                 lineToRelative(92.7f, 93.0f)
                 lineToRelative(-92.7f, 93.0f)

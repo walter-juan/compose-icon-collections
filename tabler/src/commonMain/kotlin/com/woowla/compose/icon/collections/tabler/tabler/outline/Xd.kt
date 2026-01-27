@@ -42,7 +42,6 @@ public val OutlineGroup.Xd: ImageVector
                 verticalLineToRelative(-4.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, false, false, -2.0f, -2.0f)
                 horizontalLineToRelative(-2.0f)
-                close()
             }
         }
         .build()

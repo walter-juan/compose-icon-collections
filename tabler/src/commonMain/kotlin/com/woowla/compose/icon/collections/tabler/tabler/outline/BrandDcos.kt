@@ -28,7 +28,7 @@ public val OutlineGroup.BrandDcos: ImageVector
                 lineToRelative(9.0f, -14.0f)
                 verticalLineToRelative(10.0f)
                 lineToRelative(-18.0f, -10.0f)
-                close()
+                lineToRelative(0.0f, 12.0f)
             }
         }
         .build()

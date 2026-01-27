@@ -28,7 +28,6 @@ public val OutlineGroup.Brand4chan: ImageVector
                 curveToRelative(-0.038f, -2.324f, -2.485f, -3.19f, -3.016f, -1.5f)
                 curveToRelative(0.0f, 0.0f, -0.502f, -2.0f, -2.01f, -2.0f)
                 curveToRelative(-1.508f, 0.0f, -2.984f, 3.0f, -0.974f, 8.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -38,7 +37,7 @@ public val OutlineGroup.Brand4chan: ImageVector
                 curveToRelative(-0.038f, -2.324f, -2.493f, -3.19f, -3.025f, -1.5f)
                 curveToRelative(0.0f, 0.0f, -0.505f, -2.0f, -2.017f, -2.0f)
                 curveToRelative(-1.513f, 0.0f, -3.0f, 3.0f, -0.977f, 8.0f)
-                close()
+                lineToRelative(-0.001f, 0.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -59,7 +58,6 @@ public val OutlineGroup.Brand4chan: ImageVector
                 lineToRelative(0.222f, -0.098f)
                 curveToRelative(0.586f, -0.28f, 1.367f, -0.832f, 1.367f, -1.777f)
                 curveToRelative(0.0f, -1.513f, -3.0f, -3.0f, -8.0f, -0.977f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -80,7 +78,6 @@ public val OutlineGroup.Brand4chan: ImageVector
                 lineToRelative(0.098f, 0.222f)
                 curveToRelative(0.28f, 0.586f, 0.832f, 1.367f, 1.777f, 1.367f)
                 curveToRelative(1.513f, 0.0f, 3.0f, -3.0f, 0.977f, -8.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -101,7 +98,6 @@ public val OutlineGroup.Brand4chan: ImageVector
                 lineToRelative(-0.22f, 0.098f)
                 curveToRelative(-0.588f, 0.28f, -1.368f, 0.832f, -1.368f, 1.777f)
                 curveToRelative(0.0f, 1.513f, 3.0f, 3.0f, 8.0f, 0.977f)
-                close()
             }
         }
         .build()

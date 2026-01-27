@@ -57,7 +57,6 @@ public val OutlineGroup.SchoolBell: ImageVector
                 lineToRelative(1.867f, -1.867f)
                 lineToRelative(0.16f, -0.153f)
                 arcToRelative(5.105f, 5.105f, 0.0f, false, true, 7.059f, 0.153f)
-                close()
             }
         }
         .build()

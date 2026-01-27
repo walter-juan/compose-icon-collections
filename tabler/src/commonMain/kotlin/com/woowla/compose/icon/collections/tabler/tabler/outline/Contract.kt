@@ -65,7 +65,7 @@ public val OutlineGroup.Contract: ImageVector
                 lineToRelative(-6.39f, 6.42f)
                 horizontalLineToRelative(-3.0f)
                 verticalLineToRelative(-3.0f)
-                close()
+                lineToRelative(6.42f, -6.39f)
             }
         }
         .build()

@@ -31,9 +31,11 @@ public val SolidGroup.MobileButton: ImageVector
                 curveToRelative(0.0f, -35.3f, -28.7f, -64.0f, -64.0f, -64.0f)
                 lineTo(80.0f, 0.0f)
                 close()
-                moveTo(192.0f, 400.0f)
-                arcToRelative(32.0f, 32.0f, 0.0f, true, true, 0.0f, 64.0f)
-                arcToRelative(32.0f, 32.0f, 0.0f, true, true, 0.0f, -64.0f)
+                moveTo(192.0f, 464.0f)
+                curveToRelative(-17.7f, 0.0f, -32.0f, -14.3f, -32.0f, -32.0f)
+                reflectiveCurveToRelative(14.3f, -32.0f, 32.0f, -32.0f)
+                reflectiveCurveToRelative(32.0f, 14.3f, 32.0f, 32.0f)
+                reflectiveCurveToRelative(-14.3f, 32.0f, -32.0f, 32.0f)
                 close()
             }
         }

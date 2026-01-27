@@ -34,7 +34,6 @@ public val OutlineGroup.BrandApple: ImageVector
                 curveToRelative(-1.096f, -1.606f, -3.162f, -2.113f, -3.75f, -2.153f)
                 curveToRelative(-1.535f, -0.12f, -3.032f, 1.077f, -3.75f, 1.077f)
                 curveToRelative(-0.729f, 0.0f, -2.036f, -1.077f, -3.214f, -1.077f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

@@ -16,31 +16,34 @@ public val BrandsGroup.Wirsindhandwerk: ImageVector
         if (_wirsindhandwerk != null) {
             return _wirsindhandwerk!!
         }
-        _wirsindhandwerk = Builder(name = "Wirsindhandwerk", defaultWidth = 512.0.dp, defaultHeight
-                = 512.0.dp, viewportWidth = 512.0f, viewportHeight = 512.0f).apply {
+        _wirsindhandwerk = Builder(name = "Wirsindhandwerk", defaultWidth = 448.0.dp, defaultHeight
+                = 512.0.dp, viewportWidth = 448.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(50.77f, 479.81f)
-                horizontalLineToRelative(83.36f)
-                lineTo(134.13f, 367.85f)
-                lineToRelative(-83.36f, 47.01f)
+                moveTo(18.9f, 479.8f)
+                lineToRelative(83.4f, 0.0f)
+                lineToRelative(0.0f, -112.0f)
+                lineToRelative(-83.4f, 47.0f)
+                lineToRelative(0.0f, 65.0f)
                 close()
-                moveTo(379.82f, 479.81f)
-                horizontalLineToRelative(82.35f)
-                lineTo(462.17f, 414.86f)
-                lineToRelative(-82.35f, -47.01f)
+                moveTo(347.9f, 479.8f)
+                lineToRelative(82.4f, 0.0f)
+                lineToRelative(0.0f, -65.0f)
+                lineToRelative(-82.4f, -47.0f)
+                lineToRelative(0.0f, 112.0f)
                 close()
-                moveTo(379.82f, 31.81f)
-                lineTo(379.82f, 251.57f)
-                lineTo(256.18f, 179.19f)
-                lineTo(134.5f, 251.57f)
-                lineTo(134.5f, 31.81f)
-                lineTo(50.77f, 31.81f)
-                lineTo(50.77f, 392.61f)
-                lineTo(256.18f, 270.32f)
-                lineTo(462.17f, 392.61f)
-                lineTo(462.17f, 31.81f)
+                moveTo(347.9f, 31.8f)
+                lineToRelative(0.0f, 219.8f)
+                lineToRelative(-123.6f, -72.4f)
+                lineToRelative(-121.7f, 72.4f)
+                lineToRelative(0.0f, -219.8f)
+                lineToRelative(-83.7f, 0.0f)
+                lineToRelative(0.0f, 360.8f)
+                lineToRelative(205.4f, -122.3f)
+                lineToRelative(206.0f, 122.3f)
+                lineToRelative(0.0f, -360.8f)
+                lineToRelative(-82.3f, 0.0f)
                 close()
             }
         }

@@ -16,31 +16,31 @@ public val BrandsGroup.Dochub: ImageVector
         if (_dochub != null) {
             return _dochub!!
         }
-        _dochub = Builder(name = "Dochub", defaultWidth = 416.0.dp, defaultHeight = 512.0.dp,
-                viewportWidth = 416.0f, viewportHeight = 512.0f).apply {
+        _dochub = Builder(name = "Dochub", defaultWidth = 448.0.dp, defaultHeight = 512.0.dp,
+                viewportWidth = 448.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(397.9f, 160.0f)
-                horizontalLineTo(256.0f)
-                verticalLineTo(19.6f)
-                lineTo(397.9f, 160.0f)
+                moveTo(413.9f, 160.0f)
+                lineTo(272.0f, 160.0f)
+                lineTo(272.0f, 19.6f)
+                lineTo(413.9f, 160.0f)
                 close()
-                moveTo(304.0f, 192.0f)
-                verticalLineToRelative(130.0f)
+                moveTo(320.0f, 192.0f)
+                lineToRelative(0.0f, 130.0f)
                 curveToRelative(0.0f, 66.8f, -36.5f, 100.1f, -113.3f, 100.1f)
-                horizontalLineTo(96.0f)
-                verticalLineTo(84.8f)
-                horizontalLineToRelative(94.7f)
+                lineToRelative(-94.7f, 0.0f)
+                lineToRelative(0.0f, -337.3f)
+                lineToRelative(94.7f, 0.0f)
                 curveToRelative(12.0f, 0.0f, 23.1f, 0.8f, 33.1f, 2.5f)
-                verticalLineToRelative(-84.0f)
-                curveTo(212.9f, 1.1f, 201.4f, 0.0f, 189.2f, 0.0f)
-                horizontalLineTo(0.0f)
-                verticalLineToRelative(512.0f)
-                horizontalLineToRelative(189.2f)
-                curveTo(329.7f, 512.0f, 400.0f, 447.4f, 400.0f, 318.1f)
-                verticalLineTo(192.0f)
-                horizontalLineToRelative(-96.0f)
+                lineToRelative(0.0f, -84.0f)
+                curveTo(228.9f, 1.1f, 217.4f, 0.0f, 205.2f, 0.0f)
+                lineTo(16.0f, 0.0f)
+                lineTo(16.0f, 512.0f)
+                lineTo(205.2f, 512.0f)
+                curveTo(345.7f, 512.0f, 416.0f, 447.4f, 416.0f, 318.1f)
+                lineToRelative(0.0f, -126.1f)
+                lineToRelative(-96.0f, 0.0f)
                 close()
             }
         }

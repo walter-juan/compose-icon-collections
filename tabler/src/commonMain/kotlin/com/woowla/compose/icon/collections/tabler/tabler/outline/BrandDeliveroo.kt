@@ -33,23 +33,21 @@ public val OutlineGroup.BrandDeliveroo: ImageVector
                 lineToRelative(7.0f, -1.5f)
                 lineToRelative(-1.5f, -7.5f)
                 lineToRelative(4.5f, -1.0f)
-                close()
+                lineToRelative(2.0f, 7.5f)
             }
             path(fill = SolidColor(Color(0xFF000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(15.5f, 15.5f)
-                moveToRelative(-1.0f, 0.0f)
-                arcToRelative(1.0f, 1.0f, 0.0f, true, true, 2.0f, 0.0f)
-                arcToRelative(1.0f, 1.0f, 0.0f, true, true, -2.0f, 0.0f)
+                moveTo(14.5f, 15.5f)
+                arcToRelative(1.0f, 1.0f, 0.0f, true, false, 2.0f, 0.0f)
+                arcToRelative(1.0f, 1.0f, 0.0f, true, false, -2.0f, 0.0f)
             }
             path(fill = SolidColor(Color(0xFF000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(11.5f, 14.5f)
-                moveToRelative(-1.0f, 0.0f)
-                arcToRelative(1.0f, 1.0f, 0.0f, true, true, 2.0f, 0.0f)
-                arcToRelative(1.0f, 1.0f, 0.0f, true, true, -2.0f, 0.0f)
+                moveTo(10.5f, 14.5f)
+                arcToRelative(1.0f, 1.0f, 0.0f, true, false, 2.0f, 0.0f)
+                arcToRelative(1.0f, 1.0f, 0.0f, true, false, -2.0f, 0.0f)
             }
         }
         .build()

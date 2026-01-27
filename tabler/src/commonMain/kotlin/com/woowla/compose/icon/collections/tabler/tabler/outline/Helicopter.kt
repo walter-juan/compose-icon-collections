@@ -38,7 +38,6 @@ public val OutlineGroup.Helicopter: ImageVector
                 arcToRelative(2.0f, 2.0f, 0.0f, false, false, 2.0f, -2.0f)
                 curveToRelative(0.0f, -3.31f, -3.13f, -5.0f, -7.0f, -5.0f)
                 horizontalLineToRelative(-2.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

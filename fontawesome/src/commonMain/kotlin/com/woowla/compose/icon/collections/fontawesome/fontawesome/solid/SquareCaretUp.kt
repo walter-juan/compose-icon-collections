@@ -35,7 +35,7 @@ public val SolidGroup.SquareCaretUp: ImageVector
                 curveToRelative(6.7f, 0.0f, 13.0f, 2.8f, 17.6f, 7.7f)
                 lineToRelative(104.0f, 112.0f)
                 curveToRelative(6.5f, 7.0f, 8.2f, 17.2f, 4.4f, 25.9f)
-                reflectiveCurveToRelative(-12.5f, 14.4f, -22.0f, 14.4f)
+                reflectiveCurveTo(337.5f, 320.0f, 328.0f, 320.0f)
                 lineToRelative(-208.0f, 0.0f)
                 curveToRelative(-9.5f, 0.0f, -18.2f, -5.7f, -22.0f, -14.4f)
                 reflectiveCurveToRelative(-2.1f, -18.9f, 4.4f, -25.9f)

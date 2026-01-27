@@ -33,7 +33,7 @@ public val BrandsGroup.Kickstarter: ImageVector
                 close()
                 moveTo(320.8f, 233.0f)
                 lineToRelative(-23.3f, 23.1f)
-                lineTo(320.8f, 279.0f)
+                lineToRelative(23.3f, 22.9f)
                 curveToRelative(24.1f, 23.9f, 24.1f, 63.0f, 0.0f, 86.9f)
                 reflectiveCurveToRelative(-63.4f, 23.9f, -87.6f, 0.0f)
                 lineToRelative(-8.5f, -8.4f)

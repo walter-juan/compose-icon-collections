@@ -32,7 +32,7 @@ public val OutlineGroup.BrandOffice: ImageVector
                 lineToRelative(7.0f, 2.0f)
                 verticalLineToRelative(13.0f)
                 lineToRelative(-7.0f, 3.0f)
-                close()
+                lineToRelative(-9.0f, -3.0f)
             }
         }
         .build()

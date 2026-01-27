@@ -30,7 +30,6 @@ public val OutlineGroup.Diamonds: ImageVector
                 curveToRelative(0.608f, 0.783f, 0.608f, 2.223f, 0.0f, 3.0f)
                 lineToRelative(-5.375f, 6.911f)
                 arcToRelative(1.457f, 1.457f, 0.0f, false, true, -2.338f, 0.0f)
-                close()
             }
         }
         .build()

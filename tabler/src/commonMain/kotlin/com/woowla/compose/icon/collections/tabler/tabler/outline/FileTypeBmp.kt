@@ -58,7 +58,6 @@ public val OutlineGroup.FileTypeBmp: ImageVector
                 arcToRelative(1.5f, 1.5f, 0.0f, false, false, 0.0f, -3.0f)
                 horizontalLineToRelative(-1.5f)
                 verticalLineToRelative(6.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

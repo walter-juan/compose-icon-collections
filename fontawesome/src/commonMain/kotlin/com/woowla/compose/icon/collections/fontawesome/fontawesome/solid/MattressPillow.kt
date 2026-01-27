@@ -16,8 +16,8 @@ public val SolidGroup.MattressPillow: ImageVector
         if (_mattressPillow != null) {
             return _mattressPillow!!
         }
-        _mattressPillow = Builder(name = "MattressPillow", defaultWidth = 640.0.dp, defaultHeight =
-                512.0.dp, viewportWidth = 640.0f, viewportHeight = 512.0f).apply {
+        _mattressPillow = Builder(name = "MattressPillow", defaultWidth = 576.0.dp, defaultHeight =
+                512.0.dp, viewportWidth = 576.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
@@ -29,12 +29,12 @@ public val SolidGroup.MattressPillow: ImageVector
                 lineToRelative(192.0f, 0.0f)
                 lineToRelative(0.0f, -384.0f)
                 close()
-                moveTo(288.0f, 448.0f)
-                lineToRelative(288.0f, 0.0f)
+                moveTo(304.0f, 448.0f)
+                lineToRelative(208.0f, 0.0f)
                 curveToRelative(35.3f, 0.0f, 64.0f, -28.7f, 64.0f, -64.0f)
                 lineToRelative(0.0f, -256.0f)
                 curveToRelative(0.0f, -35.3f, -28.7f, -64.0f, -64.0f, -64.0f)
-                lineTo(288.0f, 64.0f)
+                lineToRelative(-208.0f, 0.0f)
                 lineToRelative(0.0f, 384.0f)
                 close()
                 moveTo(64.0f, 160.0f)

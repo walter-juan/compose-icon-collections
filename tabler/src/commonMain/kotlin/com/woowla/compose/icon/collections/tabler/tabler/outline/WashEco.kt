@@ -59,7 +59,6 @@ public val OutlineGroup.WashEco: ImageVector
                 horizontalLineToRelative(3.0f)
                 verticalLineToRelative(3.0f)
                 arcToRelative(3.0f, 3.0f, 0.0f, false, true, -3.0f, 3.0f)
-                close()
             }
         }
         .build()

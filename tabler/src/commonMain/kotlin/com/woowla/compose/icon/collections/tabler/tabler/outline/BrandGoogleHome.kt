@@ -34,7 +34,6 @@ public val OutlineGroup.BrandGoogleHome: ImageVector
                 curveToRelative(0.363f, 0.362f, 0.566f, 0.853f, 0.566f, 1.365f)
                 verticalLineToRelative(6.857f)
                 arcToRelative(1.928f, 1.928f, 0.0f, false, true, -1.928f, 1.928f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

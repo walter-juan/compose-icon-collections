@@ -22,7 +22,7 @@ public val SolidGroup.CircleChevronLeft: ImageVector
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
                 moveTo(512.0f, 256.0f)
-                arcTo(256.0f, 256.0f, 0.0f, true, false, 0.0f, 256.0f)
+                arcToRelative(256.0f, 256.0f, 0.0f, true, false, -512.0f, 0.0f)
                 arcToRelative(256.0f, 256.0f, 0.0f, true, false, 512.0f, 0.0f)
                 close()
                 moveTo(271.0f, 135.0f)

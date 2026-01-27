@@ -26,7 +26,6 @@ public val OutlineGroup.BrandPlanetscale: ImageVector
                 moveTo(20.993f, 11.63f)
                 arcToRelative(9.0f, 9.0f, 0.0f, false, true, -9.362f, 9.362f)
                 lineToRelative(9.362f, -9.362f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -35,7 +34,6 @@ public val OutlineGroup.BrandPlanetscale: ImageVector
                 arcToRelative(9.001f, 9.001f, 0.0f, false, true, 8.166f, 5.211f)
                 lineToRelative(-11.955f, 11.955f)
                 arcToRelative(9.0f, 9.0f, 0.0f, false, true, 3.789f, -17.166f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

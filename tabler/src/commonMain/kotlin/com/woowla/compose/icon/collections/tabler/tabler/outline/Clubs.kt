@@ -31,7 +31,6 @@ public val OutlineGroup.Clubs: ImageVector
                 lineToRelative(0.0f, -1.355f)
                 arcToRelative(4.0f, 4.0f, 0.0f, true, true, -1.164f, -6.199f)
                 arcToRelative(4.0f, 4.0f, 0.0f, false, true, 3.163f, -6.446f)
-                close()
             }
         }
         .build()

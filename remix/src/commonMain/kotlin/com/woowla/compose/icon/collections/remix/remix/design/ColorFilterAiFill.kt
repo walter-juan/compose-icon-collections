@@ -16,8 +16,8 @@ public val DesignGroup.ColorFilterAiFill: ImageVector
         if (_colorFilterAiFill != null) {
             return _colorFilterAiFill!!
         }
-        _colorFilterAiFill = Builder(name = "ColorFilterAiFill", defaultWidth = 25.0.dp,
-                defaultHeight = 24.0.dp, viewportWidth = 25.0f, viewportHeight = 24.0f).apply {
+        _colorFilterAiFill = Builder(name = "ColorFilterAiFill", defaultWidth = 24.0.dp,
+                defaultHeight = 24.0.dp, viewportWidth = 24.0f, viewportHeight = 24.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
@@ -54,8 +54,8 @@ public val DesignGroup.ColorFilterAiFill: ImageVector
                 curveTo(19.648f, 0.897f, 20.246f, 0.897f, 20.428f, 1.308f)
                 lineTo(20.747f, 2.025f)
                 curveTo(21.198f, 3.038f, 22.031f, 3.844f, 23.074f, 4.276f)
-                lineTo(23.685f, 4.529f)
-                curveTo(24.111f, 4.706f, 24.111f, 5.294f, 23.685f, 5.471f)
+                lineTo(23.67f, 4.529f)
+                curveTo(24.096f, 4.706f, 24.096f, 5.294f, 23.67f, 5.471f)
                 lineTo(23.074f, 5.724f)
                 curveTo(22.031f, 6.156f, 21.198f, 6.962f, 20.747f, 7.975f)
                 lineTo(20.428f, 8.692f)

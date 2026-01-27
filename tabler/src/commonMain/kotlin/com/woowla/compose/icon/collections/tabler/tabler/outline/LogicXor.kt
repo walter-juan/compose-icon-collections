@@ -50,7 +50,6 @@ public val OutlineGroup.LogicXor: ImageVector
                 moveTo(10.0f, 5.0f)
                 curveToRelative(10.667f, 2.1f, 10.667f, 12.6f, 0.0f, 14.0f)
                 curveToRelative(1.806f, -4.667f, 1.806f, -9.333f, 0.0f, -14.0f)
-                close()
             }
         }
         .build()

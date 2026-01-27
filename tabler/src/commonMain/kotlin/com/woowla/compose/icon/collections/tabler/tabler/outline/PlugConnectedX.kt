@@ -34,7 +34,6 @@ public val OutlineGroup.PlugConnectedX: ImageVector
                 lineToRelative(-1.5f, 1.5f)
                 arcToRelative(3.536f, 3.536f, 0.0f, true, true, -5.0f, -5.0f)
                 lineToRelative(1.5f, -1.5f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -44,7 +43,6 @@ public val OutlineGroup.PlugConnectedX: ImageVector
                 lineToRelative(1.5f, -1.5f)
                 arcToRelative(3.536f, 3.536f, 0.0f, true, true, 5.0f, 5.0f)
                 lineToRelative(-1.5f, 1.5f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

@@ -42,7 +42,7 @@ public val OutlineGroup.Shovel: ImageVector
                 arcToRelative(4.108f, 4.108f, 0.0f, false, true, -5.809f, -5.81f)
                 lineToRelative(2.704f, -2.703f)
                 arcToRelative(0.968f, 0.968f, 0.0f, false, true, 1.37f, 0.0f)
-                close()
+                lineToRelative(-0.001f, 0.0f)
             }
         }
         .build()

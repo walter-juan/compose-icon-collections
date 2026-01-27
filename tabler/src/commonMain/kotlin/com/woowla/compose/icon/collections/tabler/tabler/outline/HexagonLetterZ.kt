@@ -37,7 +37,6 @@ public val OutlineGroup.HexagonLetterZ: ImageVector
                 arcToRelative(2.33f, 2.33f, 0.0f, false, true, 2.25f, 0.0f)
                 lineToRelative(6.75f, 3.98f)
                 horizontalLineToRelative(-0.033f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

@@ -34,7 +34,6 @@ public val OutlineGroup.BrandGuardian: ImageVector
                 curveToRelative(-2.808f, 0.0f, -4.5f, 4.373f, -4.5f, 9.0f)
                 reflectiveCurveToRelative(1.763f, 8.976f, 4.572f, 8.976f)
                 curveToRelative(0.0f, 0.023f, -9.572f, 1.092f, -9.572f, -8.976f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

@@ -57,7 +57,6 @@ public val OutlineGroup.Skateboarding: ImageVector
                 moveTo(17.5f, 21.0f)
                 arcToRelative(0.5f, 0.5f, 0.0f, true, false, 0.0f, -1.0f)
                 arcToRelative(0.5f, 0.5f, 0.0f, false, false, 0.0f, 1.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -73,7 +72,6 @@ public val OutlineGroup.Skateboarding: ImageVector
                 moveTo(6.5f, 21.0f)
                 arcToRelative(0.5f, 0.5f, 0.0f, true, false, 0.0f, -1.0f)
                 arcToRelative(0.5f, 0.5f, 0.0f, false, false, 0.0f, 1.0f)
-                close()
             }
         }
         .build()

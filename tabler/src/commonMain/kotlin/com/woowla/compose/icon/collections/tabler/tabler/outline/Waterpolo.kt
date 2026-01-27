@@ -62,7 +62,6 @@ public val OutlineGroup.Waterpolo: ImageVector
                 moveTo(6.5f, 5.0f)
                 arcToRelative(0.5f, 0.5f, 0.0f, true, false, 0.0f, -1.0f)
                 arcToRelative(0.5f, 0.5f, 0.0f, false, false, 0.0f, 1.0f)
-                close()
             }
         }
         .build()

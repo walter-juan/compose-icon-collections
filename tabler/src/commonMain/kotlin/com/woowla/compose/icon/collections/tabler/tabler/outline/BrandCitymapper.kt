@@ -27,7 +27,6 @@ public val OutlineGroup.BrandCitymapper: ImageVector
                 arcToRelative(1.0f, 1.0f, 0.0f, true, true, -1.0f, 1.013f)
                 arcToRelative(1.0f, 1.0f, 0.0f, false, true, 1.0f, -1.0f)
                 verticalLineToRelative(-0.013f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -36,7 +35,6 @@ public val OutlineGroup.BrandCitymapper: ImageVector
                 arcToRelative(1.0f, 1.0f, 0.0f, true, true, -1.0f, 1.013f)
                 arcToRelative(1.0f, 1.0f, 0.0f, false, true, 1.0f, -1.0f)
                 verticalLineToRelative(-0.013f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

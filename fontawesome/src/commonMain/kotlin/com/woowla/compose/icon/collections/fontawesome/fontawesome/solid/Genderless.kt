@@ -21,13 +21,13 @@ public val SolidGroup.Genderless: ImageVector
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(192.0f, 144.0f)
-                arcToRelative(112.0f, 112.0f, 0.0f, true, true, 0.0f, 224.0f)
-                arcToRelative(112.0f, 112.0f, 0.0f, true, true, 0.0f, -224.0f)
+                moveTo(192.0f, 128.0f)
+                arcToRelative(128.0f, 128.0f, 0.0f, true, true, 0.0f, 256.0f)
+                arcToRelative(128.0f, 128.0f, 0.0f, true, true, 0.0f, -256.0f)
                 close()
-                moveTo(192.0f, 432.0f)
-                arcToRelative(176.0f, 176.0f, 0.0f, true, false, 0.0f, -352.0f)
-                arcToRelative(176.0f, 176.0f, 0.0f, true, false, 0.0f, 352.0f)
+                moveTo(192.0f, 448.0f)
+                arcToRelative(192.0f, 192.0f, 0.0f, true, false, 0.0f, -384.0f)
+                arcToRelative(192.0f, 192.0f, 0.0f, true, false, 0.0f, 384.0f)
                 close()
             }
         }

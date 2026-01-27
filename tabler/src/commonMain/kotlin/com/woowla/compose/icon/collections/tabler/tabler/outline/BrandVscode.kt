@@ -27,7 +27,7 @@ public val OutlineGroup.BrandVscode: ImageVector
                 verticalLineToRelative(18.0f)
                 lineToRelative(4.0f, -2.5f)
                 verticalLineToRelative(-13.0f)
-                close()
+                lineToRelative(-4.0f, -2.5f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

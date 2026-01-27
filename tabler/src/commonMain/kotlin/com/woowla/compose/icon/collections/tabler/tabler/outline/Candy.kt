@@ -32,7 +32,6 @@ public val OutlineGroup.Candy: ImageVector
                 arcToRelative(2.0f, 2.0f, 0.0f, false, true, -2.828f, 0.0f)
                 lineToRelative(-2.829f, -2.831f)
                 arcToRelative(2.0f, 2.0f, 0.0f, false, true, 0.0f, -2.828f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

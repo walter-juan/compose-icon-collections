@@ -66,7 +66,7 @@ public val OutlineGroup.Trees: ImageVector
                 arcToRelative(3.0f, 3.0f, 0.0f, false, true, 0.305f, 4.833f)
                 arcToRelative(3.0f, 3.0f, 0.0f, false, true, -2.919f, 3.695f)
                 horizontalLineToRelative(-4.0f)
-                close()
+                lineToRelative(-0.176f, -0.005f)
             }
         }
         .build()

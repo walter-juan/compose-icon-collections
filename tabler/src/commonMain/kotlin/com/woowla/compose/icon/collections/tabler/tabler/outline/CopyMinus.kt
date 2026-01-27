@@ -31,7 +31,7 @@ public val OutlineGroup.CopyMinus: ImageVector
                 arcToRelative(2.667f, 2.667f, 0.0f, false, true, -2.667f, 2.667f)
                 horizontalLineToRelative(-8.666f)
                 arcToRelative(2.667f, 2.667f, 0.0f, false, true, -2.667f, -2.667f)
-                close()
+                lineToRelative(0.0f, -8.666f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

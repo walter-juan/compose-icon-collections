@@ -29,7 +29,6 @@ public val OutlineGroup.BrandPatreon: ImageVector
                 curveToRelative(2.75f, 0.036f, 3.159f, -3.603f, 4.43f, -5.356f)
                 curveToRelative(0.906f, -1.247f, 2.071f, -1.599f, 3.506f, -1.963f)
                 curveToRelative(2.465f, -0.627f, 4.146f, -2.626f, 4.142f, -5.273f)
-                close()
             }
         }
         .build()

@@ -34,7 +34,6 @@ public val OutlineGroup.Chisel: ImageVector
                 arcToRelative(1.96f, 1.96f, 0.0f, false, true, -2.773f, 2.772f)
                 lineToRelative(-2.08f, -2.079f)
                 arcToRelative(1.96f, 1.96f, 0.0f, false, true, 2.773f, -2.772f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -47,7 +46,6 @@ public val OutlineGroup.Chisel: ImageVector
                 horizontalLineToRelative(-2.172f)
                 arcToRelative(2.0f, 2.0f, 0.0f, false, true, -1.414f, -0.586f)
                 lineToRelative(-7.414f, -7.414f)
-                close()
             }
         }
         .build()

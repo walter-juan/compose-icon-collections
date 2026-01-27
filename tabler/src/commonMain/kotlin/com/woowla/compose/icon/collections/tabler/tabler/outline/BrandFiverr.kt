@@ -39,7 +39,6 @@ public val OutlineGroup.BrandFiverr: ImageVector
                 arcToRelative(1.967f, 1.967f, 0.0f, false, true, 2.0f, -1.967f)
                 horizontalLineToRelative(2.0f)
                 verticalLineToRelative(-4.0f)
-                close()
             }
         }
         .build()

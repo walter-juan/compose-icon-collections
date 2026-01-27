@@ -27,7 +27,7 @@ public val OutlineGroup.Badge: ImageVector
                 lineToRelative(-5.0f, -3.0f)
                 verticalLineToRelative(13.0f)
                 lineToRelative(5.0f, 3.0f)
-                close()
+                lineToRelative(5.0f, -3.0f)
             }
         }
         .build()

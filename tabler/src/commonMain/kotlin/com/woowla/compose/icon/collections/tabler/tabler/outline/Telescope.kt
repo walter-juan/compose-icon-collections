@@ -46,7 +46,7 @@ public val OutlineGroup.Telescope: ImageVector
                 lineToRelative(-0.056f, 0.032f)
                 lineToRelative(-12.694f, 7.618f)
                 curveToRelative(-1.02f, 0.613f, -1.357f, 1.897f, -0.76f, 2.905f)
-                close()
+                lineToRelative(-0.001f, 0.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

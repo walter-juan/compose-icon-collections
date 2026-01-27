@@ -63,7 +63,7 @@ public val OutlineGroup.PlayCardStar: ImageVector
                 lineToRelative(-1.318f, 1.28f)
                 lineToRelative(0.31f, 1.807f)
                 arcToRelative(0.292f, 0.292f, 0.0f, false, true, -0.425f, 0.308f)
-                close()
+                lineToRelative(-1.628f, -0.853f)
             }
         }
         .build()

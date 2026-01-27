@@ -39,7 +39,7 @@ public val OutlineGroup.Avocado: ImageVector
                 curveToRelative(0.563f, -0.585f, 1.055f, -1.3f, 1.477f, -2.144f)
                 curveToRelative(0.398f, -0.844f, 0.68f, -1.723f, 0.844f, -2.637f)
                 verticalLineToRelative(-0.035f)
-                close()
+                lineToRelative(-0.001f, 0.001f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -53,7 +53,6 @@ public val OutlineGroup.Avocado: ImageVector
                 curveToRelative(0.74f, -0.762f, 1.166f, -1.614f, 1.278f, -2.556f)
                 curveToRelative(0.135f, -0.92f, -0.112f, -1.704f, -0.74f, -2.354f)
                 curveToRelative(-0.65f, -0.628f, -1.435f, -0.875f, -2.354f, -0.74f)
-                close()
             }
         }
         .build()

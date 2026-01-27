@@ -57,7 +57,6 @@ public val OutlineGroup.PlayBasketball: ImageVector
                 moveTo(18.5f, 16.0f)
                 arcToRelative(0.5f, 0.5f, 0.0f, true, false, 0.0f, -1.0f)
                 arcToRelative(0.5f, 0.5f, 0.0f, false, false, 0.0f, 1.0f)
-                close()
             }
         }
         .build()

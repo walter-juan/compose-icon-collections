@@ -31,7 +31,7 @@ public val OutlineGroup.BrandReddit: ImageVector
                 lineToRelative(-1.0f, -0.206f)
                 arcToRelative(2.5f, 2.5f, 0.0f, false, true, 2.326f, -4.36f)
                 curveToRelative(1.646f, -1.313f, 4.026f, -2.14f, 6.674f, -2.14f)
-                close()
+                lineToRelative(0.999f, 0.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -43,26 +43,23 @@ public val OutlineGroup.BrandReddit: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(19.0f, 4.0f)
-                moveToRelative(-1.0f, 0.0f)
+                moveTo(18.0f, 4.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, true, false, 2.0f, 0.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, true, false, -2.0f, 0.0f)
             }
             path(fill = SolidColor(Color(0xFF000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(9.0f, 13.0f)
-                moveToRelative(-0.5f, 0.0f)
-                arcToRelative(0.5f, 0.5f, 0.0f, true, true, 1.0f, 0.0f)
-                arcToRelative(0.5f, 0.5f, 0.0f, true, true, -1.0f, 0.0f)
+                moveTo(8.5f, 13.0f)
+                arcToRelative(0.5f, 0.5f, 0.0f, true, false, 1.0f, 0.0f)
+                arcToRelative(0.5f, 0.5f, 0.0f, true, false, -1.0f, 0.0f)
             }
             path(fill = SolidColor(Color(0xFF000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(15.0f, 13.0f)
-                moveToRelative(-0.5f, 0.0f)
-                arcToRelative(0.5f, 0.5f, 0.0f, true, true, 1.0f, 0.0f)
-                arcToRelative(0.5f, 0.5f, 0.0f, true, true, -1.0f, 0.0f)
+                moveTo(14.5f, 13.0f)
+                arcToRelative(0.5f, 0.5f, 0.0f, true, false, 1.0f, 0.0f)
+                arcToRelative(0.5f, 0.5f, 0.0f, true, false, -1.0f, 0.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

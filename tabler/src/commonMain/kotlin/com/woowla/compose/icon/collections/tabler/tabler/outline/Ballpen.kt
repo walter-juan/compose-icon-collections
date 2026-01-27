@@ -38,7 +38,6 @@ public val OutlineGroup.Ballpen: ImageVector
                 arcToRelative(2.0f, 2.0f, 0.0f, false, false, -2.829f, 0.0f)
                 lineToRelative(-10.586f, 10.586f)
                 arcToRelative(2.828f, 2.828f, 0.0f, false, false, 0.0f, 4.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

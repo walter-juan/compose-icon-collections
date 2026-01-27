@@ -30,7 +30,6 @@ public val OutlineGroup.Droplets: ImageVector
                 arcToRelative(0.6f, 0.6f, 0.0f, false, false, -1.005f, 0.0f)
                 lineToRelative(-2.098f, 3.227f)
                 arcToRelative(3.003f, 3.003f, 0.0f, false, false, 0.671f, 3.798f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -42,7 +41,6 @@ public val OutlineGroup.Droplets: ImageVector
                 arcToRelative(0.6f, 0.6f, 0.0f, false, false, -1.005f, 0.0f)
                 lineToRelative(-2.098f, 3.227f)
                 arcToRelative(3.003f, 3.003f, 0.0f, false, false, 0.671f, 3.798f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -54,7 +52,7 @@ public val OutlineGroup.Droplets: ImageVector
                 arcToRelative(0.6f, 0.6f, 0.0f, false, false, -1.005f, 0.0f)
                 lineToRelative(-2.098f, 3.227f)
                 arcToRelative(3.003f, 3.003f, 0.0f, false, false, 0.671f, 3.798f)
-                close()
+                lineToRelative(0.001f, 0.0f)
             }
         }
         .build()

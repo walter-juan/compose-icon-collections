@@ -38,11 +38,9 @@ public val FilledGroup.Dice2: ImageVector
                 moveTo(14.5f, 13.0f)
                 arcToRelative(1.5f, 1.5f, 0.0f, true, false, 0.0f, 3.0f)
                 arcToRelative(1.5f, 1.5f, 0.0f, false, false, 0.0f, -3.0f)
-                close()
-                moveTo(9.5f, 8.0f)
+                moveToRelative(-5.0f, -5.0f)
                 arcToRelative(1.5f, 1.5f, 0.0f, true, false, 0.0f, 3.0f)
                 arcToRelative(1.5f, 1.5f, 0.0f, false, false, 0.0f, -3.0f)
-                close()
             }
         }
         .build()

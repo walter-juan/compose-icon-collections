@@ -51,7 +51,7 @@ public val OutlineGroup.MoneybagHeart: ImageVector
                 lineToRelative(-0.223f, -0.22f)
                 arcToRelative(2.24f, 2.24f, 0.0f, false, false, -3.128f, -0.006f)
                 arcToRelative(2.143f, 2.143f, 0.0f, false, false, -0.006f, 3.071f)
-                close()
+                lineToRelative(3.355f, 3.296f)
             }
         }
         .build()

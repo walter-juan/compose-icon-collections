@@ -69,7 +69,7 @@ public val OutlineGroup.BrandSnowflake: ImageVector
                 lineToRelative(1.0f, 1.0f)
                 lineToRelative(-1.0f, 1.0f)
                 lineToRelative(-1.0f, -1.0f)
-                close()
+                lineToRelative(1.0f, -1.0f)
             }
         }
         .build()

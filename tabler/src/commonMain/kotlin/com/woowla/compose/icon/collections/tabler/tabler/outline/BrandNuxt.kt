@@ -40,7 +40,6 @@ public val OutlineGroup.BrandNuxt: ImageVector
                 lineToRelative(-4.043f, 7.013f)
                 curveToRelative(-0.382f, 0.662f, 0.076f, 1.505f, 0.819f, 1.505f)
                 horizontalLineToRelative(8.086f)
-                close()
             }
         }
         .build()

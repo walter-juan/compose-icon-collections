@@ -28,7 +28,6 @@ public val OutlineGroup.BrandGoogle: ImageVector
                 horizontalLineToRelative(-4.125f)
                 verticalLineToRelative(-3.0f)
                 horizontalLineToRelative(7.945f)
-                close()
             }
         }
         .build()

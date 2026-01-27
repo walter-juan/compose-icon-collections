@@ -1,0 +1,67 @@
+package com.woowla.compose.icon.collections.fontawesome.fontawesome.solid
+
+import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.graphics.PathFillType.Companion.NonZero
+import androidx.compose.ui.graphics.SolidColor
+import androidx.compose.ui.graphics.StrokeCap.Companion.Butt
+import androidx.compose.ui.graphics.StrokeJoin.Companion.Miter
+import androidx.compose.ui.graphics.vector.ImageVector
+import androidx.compose.ui.graphics.vector.ImageVector.Builder
+import androidx.compose.ui.graphics.vector.path
+import androidx.compose.ui.unit.dp
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.SolidGroup
+
+public val SolidGroup.ArrowRightFromFile: ImageVector
+    get() {
+        if (_arrowRightFromFile != null) {
+            return _arrowRightFromFile!!
+        }
+        _arrowRightFromFile = Builder(name = "ArrowRightFromFile", defaultWidth = 576.0.dp,
+                defaultHeight = 512.0.dp, viewportWidth = 576.0f, viewportHeight = 512.0f).apply {
+            path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
+                    strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
+                    pathFillType = NonZero) {
+                moveTo(96.5f, 0.0f)
+                curveToRelative(-35.3f, 0.0f, -64.0f, 28.7f, -64.0f, 64.0f)
+                lineToRelative(0.0f, 384.0f)
+                curveToRelative(0.0f, 35.3f, 28.7f, 64.0f, 64.0f, 64.0f)
+                lineToRelative(256.0f, 0.0f)
+                curveToRelative(35.3f, 0.0f, 64.0f, -28.7f, 64.0f, -64.0f)
+                lineToRelative(0.0f, -96.0f)
+                lineToRelative(78.1f, 0.0f)
+                lineToRelative(-31.0f, 31.0f)
+                curveToRelative(-9.4f, 9.4f, -9.4f, 24.6f, 0.0f, 33.9f)
+                reflectiveCurveToRelative(24.6f, 9.4f, 33.9f, 0.0f)
+                lineToRelative(72.0f, -72.0f)
+                curveToRelative(9.4f, -9.4f, 9.4f, -24.6f, 0.0f, -33.9f)
+                lineToRelative(-72.0f, -72.0f)
+                curveToRelative(-9.4f, -9.4f, -24.6f, -9.4f, -33.9f, 0.0f)
+                reflectiveCurveToRelative(-9.4f, 24.6f, 0.0f, 33.9f)
+                lineToRelative(31.0f, 31.0f)
+                lineToRelative(-78.1f, 0.0f)
+                lineToRelative(0.0f, -133.5f)
+                curveToRelative(0.0f, -17.0f, -6.7f, -33.3f, -18.7f, -45.3f)
+                lineTo(291.2f, 18.7f)
+                curveTo(279.2f, 6.7f, 263.0f, 0.0f, 246.0f, 0.0f)
+                lineTo(96.5f, 0.0f)
+                close()
+                moveTo(358.0f, 176.0f)
+                lineToRelative(-93.5f, 0.0f)
+                curveToRelative(-13.3f, 0.0f, -24.0f, -10.7f, -24.0f, -24.0f)
+                lineTo(240.5f, 58.5f)
+                lineTo(358.0f, 176.0f)
+                close()
+                moveTo(224.5f, 328.0f)
+                curveToRelative(0.0f, -13.3f, 10.7f, -24.0f, 24.0f, -24.0f)
+                lineToRelative(104.0f, 0.0f)
+                lineToRelative(0.0f, 48.0f)
+                lineToRelative(-104.0f, 0.0f)
+                curveToRelative(-13.3f, 0.0f, -24.0f, -10.7f, -24.0f, -24.0f)
+                close()
+            }
+        }
+        .build()
+        return _arrowRightFromFile!!
+    }
+
+private var _arrowRightFromFile: ImageVector? = null

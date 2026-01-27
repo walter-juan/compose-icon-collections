@@ -34,7 +34,6 @@ public val OutlineGroup.Lighter: ImageVector
                 verticalLineToRelative(-5.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, false, true, 2.0f, -2.0f)
                 horizontalLineToRelative(3.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -43,7 +42,6 @@ public val OutlineGroup.Lighter: ImageVector
                 lineToRelative(1.465f, 1.638f)
                 arcToRelative(2.0f, 2.0f, 0.0f, true, true, -3.015f, 0.099f)
                 lineToRelative(1.55f, -1.737f)
-                close()
             }
         }
         .build()

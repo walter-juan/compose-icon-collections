@@ -16,8 +16,8 @@ public val RegularGroup.MoneyBill1: ImageVector
         if (_moneyBill1 != null) {
             return _moneyBill1!!
         }
-        _moneyBill1 = Builder(name = "MoneyBill1", defaultWidth = 576.0.dp, defaultHeight =
-                512.0.dp, viewportWidth = 576.0f, viewportHeight = 512.0f).apply {
+        _moneyBill1 = Builder(name = "MoneyBill1", defaultWidth = 512.0.dp, defaultHeight =
+                512.0.dp, viewportWidth = 512.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
@@ -25,15 +25,15 @@ public val RegularGroup.MoneyBill1: ImageVector
                 curveToRelative(0.0f, 35.3f, -28.7f, 64.0f, -64.0f, 64.0f)
                 lineToRelative(0.0f, 160.0f)
                 curveToRelative(35.3f, 0.0f, 64.0f, 28.7f, 64.0f, 64.0f)
-                lineToRelative(352.0f, 0.0f)
+                lineToRelative(288.0f, 0.0f)
                 curveToRelative(0.0f, -35.3f, 28.7f, -64.0f, 64.0f, -64.0f)
                 lineToRelative(0.0f, -160.0f)
                 curveToRelative(-35.3f, 0.0f, -64.0f, -28.7f, -64.0f, -64.0f)
-                lineToRelative(-352.0f, 0.0f)
+                lineToRelative(-288.0f, 0.0f)
                 close()
                 moveTo(0.0f, 128.0f)
                 curveTo(0.0f, 92.7f, 28.7f, 64.0f, 64.0f, 64.0f)
-                lineToRelative(448.0f, 0.0f)
+                lineToRelative(384.0f, 0.0f)
                 curveToRelative(35.3f, 0.0f, 64.0f, 28.7f, 64.0f, 64.0f)
                 lineToRelative(0.0f, 256.0f)
                 curveToRelative(0.0f, 35.3f, -28.7f, 64.0f, -64.0f, 64.0f)
@@ -41,25 +41,24 @@ public val RegularGroup.MoneyBill1: ImageVector
                 curveToRelative(-35.3f, 0.0f, -64.0f, -28.7f, -64.0f, -64.0f)
                 lineTo(0.0f, 128.0f)
                 close()
-                moveTo(176.0f, 256.0f)
-                arcToRelative(112.0f, 112.0f, 0.0f, true, true, 224.0f, 0.0f)
-                arcToRelative(112.0f, 112.0f, 0.0f, true, true, -224.0f, 0.0f)
+                moveTo(256.0f, 144.0f)
+                arcToRelative(112.0f, 112.0f, 0.0f, true, true, 0.0f, 224.0f)
+                arcToRelative(112.0f, 112.0f, 0.0f, true, true, 0.0f, -224.0f)
                 close()
-                moveTo(256.0f, 208.0f)
-                curveToRelative(0.0f, 8.8f, 7.2f, 16.0f, 16.0f, 16.0f)
-                lineToRelative(0.0f, 64.0f)
-                lineToRelative(-8.0f, 0.0f)
-                curveToRelative(-8.8f, 0.0f, -16.0f, 7.2f, -16.0f, 16.0f)
-                reflectiveCurveToRelative(7.2f, 16.0f, 16.0f, 16.0f)
-                lineToRelative(24.0f, 0.0f)
-                lineToRelative(24.0f, 0.0f)
-                curveToRelative(8.8f, 0.0f, 16.0f, -7.2f, 16.0f, -16.0f)
-                reflectiveCurveToRelative(-7.2f, -16.0f, -16.0f, -16.0f)
-                lineToRelative(-8.0f, 0.0f)
-                lineToRelative(0.0f, -80.0f)
-                curveToRelative(0.0f, -8.8f, -7.2f, -16.0f, -16.0f, -16.0f)
+                moveTo(240.0f, 188.0f)
+                curveToRelative(-11.0f, 0.0f, -20.0f, 9.0f, -20.0f, 20.0f)
+                curveToRelative(0.0f, 9.7f, 6.9f, 17.7f, 16.0f, 19.6f)
+                lineToRelative(0.0f, 48.4f)
+                lineToRelative(-4.0f, 0.0f)
+                curveToRelative(-11.0f, 0.0f, -20.0f, 9.0f, -20.0f, 20.0f)
+                reflectiveCurveToRelative(9.0f, 20.0f, 20.0f, 20.0f)
+                lineToRelative(48.0f, 0.0f)
+                curveToRelative(11.0f, 0.0f, 20.0f, -9.0f, 20.0f, -20.0f)
+                reflectiveCurveToRelative(-9.0f, -20.0f, -20.0f, -20.0f)
+                lineToRelative(-4.0f, 0.0f)
+                lineToRelative(0.0f, -68.0f)
+                curveToRelative(0.0f, -11.0f, -9.0f, -20.0f, -20.0f, -20.0f)
                 lineToRelative(-16.0f, 0.0f)
-                curveToRelative(-8.8f, 0.0f, -16.0f, 7.2f, -16.0f, 16.0f)
                 close()
             }
         }

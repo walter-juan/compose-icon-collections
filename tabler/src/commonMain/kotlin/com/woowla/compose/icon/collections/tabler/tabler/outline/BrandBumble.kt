@@ -54,7 +54,6 @@ public val OutlineGroup.BrandBumble: ImageVector
                 arcToRelative(1.507f, 1.507f, 0.0f, false, false, 0.0f, -1.486f)
                 lineToRelative(-4.268f, -7.509f)
                 arcToRelative(1.46f, 1.46f, 0.0f, false, false, -1.268f, -0.748f)
-                close()
             }
         }
         .build()

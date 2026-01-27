@@ -26,7 +26,7 @@ public val OutlineGroup.BrandThreejs: ImageVector
                 moveTo(8.0f, 22.0f)
                 lineToRelative(-5.0f, -19.0f)
                 lineToRelative(19.0f, 5.5f)
-                close()
+                lineToRelative(-14.0f, 13.5f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -49,7 +49,7 @@ public val OutlineGroup.BrandThreejs: ImageVector
                 moveTo(9.527f, 4.893f)
                 lineToRelative(1.473f, 6.107f)
                 lineToRelative(-6.31f, -1.564f)
-                close()
+                lineToRelative(4.837f, -4.543f)
             }
         }
         .build()

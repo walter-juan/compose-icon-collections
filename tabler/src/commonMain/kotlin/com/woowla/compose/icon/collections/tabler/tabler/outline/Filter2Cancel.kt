@@ -52,7 +52,7 @@ public val OutlineGroup.Filter2Cancel: ImageVector
                 curveToRelative(-0.563f, -0.563f, -1.326f, -0.879f, -2.121f, -0.879f)
                 curveToRelative(-0.796f, 0.0f, -1.559f, 0.316f, -2.121f, 0.879f)
                 curveToRelative(-0.563f, 0.563f, -0.879f, 1.326f, -0.879f, 2.121f)
-                close()
+                lineToRelative(1.0f, 2.0f)
             }
         }
         .build()

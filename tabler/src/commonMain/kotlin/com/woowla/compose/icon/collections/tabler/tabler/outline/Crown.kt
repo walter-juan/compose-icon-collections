@@ -28,7 +28,7 @@ public val OutlineGroup.Crown: ImageVector
                 horizontalLineToRelative(-14.0f)
                 lineToRelative(-2.0f, -10.0f)
                 lineToRelative(5.0f, 4.0f)
-                close()
+                lineToRelative(4.0f, -6.0f)
             }
         }
         .build()

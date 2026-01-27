@@ -30,7 +30,7 @@ public val OutlineGroup.BrandGooglePlay: ImageVector
                 arcToRelative(0.55f, 0.55f, 0.0f, false, false, 0.0f, -0.953f)
                 lineToRelative(-14.622f, -8.419f)
                 arcToRelative(0.7f, 0.7f, 0.0f, false, false, -1.05f, 0.607f)
-                close()
+                lineToRelative(0.0f, -0.001f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

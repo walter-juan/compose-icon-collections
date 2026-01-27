@@ -24,8 +24,8 @@ public val Octicons.RepoLocked16: ImageVector
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(1.0f, 2.5f)
-                arcTo(2.5f, 2.5f, 0.0f, false, true, 3.5f, 0.0f)
+                moveTo(2.0f, 2.5f)
+                arcTo(2.5f, 2.5f, 0.0f, false, true, 4.5f, 0.0f)
                 horizontalLineToRelative(8.75f)
                 arcToRelative(0.75f, 0.75f, 0.0f, false, true, 0.75f, 0.75f)
                 verticalLineToRelative(3.5f)
@@ -34,15 +34,15 @@ public val Octicons.RepoLocked16: ImageVector
                 horizontalLineToRelative(-8.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, false, false, -1.0f, 1.0f)
                 verticalLineToRelative(6.708f)
-                arcTo(2.492f, 2.492f, 0.0f, false, true, 3.5f, 9.0f)
-                horizontalLineToRelative(2.75f)
+                arcTo(2.492f, 2.492f, 0.0f, false, true, 4.5f, 9.0f)
+                horizontalLineToRelative(1.75f)
                 arcToRelative(0.75f, 0.75f, 0.0f, false, true, 0.0f, 1.5f)
-                horizontalLineTo(3.5f)
+                horizontalLineTo(4.5f)
                 arcToRelative(1.0f, 1.0f, 0.0f, true, false, 0.0f, 2.0f)
-                horizontalLineToRelative(2.75f)
+                horizontalLineToRelative(1.75f)
                 arcToRelative(0.75f, 0.75f, 0.0f, false, true, 0.0f, 1.5f)
-                horizontalLineTo(3.5f)
-                arcTo(2.5f, 2.5f, 0.0f, false, true, 1.0f, 11.5f)
+                horizontalLineTo(4.5f)
+                arcTo(2.5f, 2.5f, 0.0f, false, true, 2.0f, 11.5f)
                 verticalLineToRelative(-9.0f)
                 close()
             }

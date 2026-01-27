@@ -34,7 +34,7 @@ public val OutlineGroup.BrandCake: ImageVector
                 reflectiveCurveToRelative(2.577f, 1.441f, 4.353f, 2.466f)
                 curveToRelative(1.776f, 1.024f, 3.288f, 0.759f, 4.313f, 2.534f)
                 curveToRelative(1.026f, 1.775f, 0.04f, 2.95f, 0.04f, 5.0f)
-                close()
+                lineToRelative(0.001f, 0.0f)
             }
         }
         .build()

@@ -26,7 +26,7 @@ public val OutlineGroup.PlayerTrackPrev: ImageVector
                 moveTo(21.0f, 5.0f)
                 verticalLineToRelative(14.0f)
                 lineToRelative(-8.0f, -7.0f)
-                close()
+                lineToRelative(8.0f, -7.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -34,7 +34,7 @@ public val OutlineGroup.PlayerTrackPrev: ImageVector
                 moveTo(10.0f, 5.0f)
                 verticalLineToRelative(14.0f)
                 lineToRelative(-8.0f, -7.0f)
-                close()
+                lineToRelative(8.0f, -7.0f)
             }
         }
         .build()

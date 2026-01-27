@@ -106,6 +106,8 @@ import com.woowla.compose.icon.collections.tabler.tabler.outline.AlphabetGreek
 import com.woowla.compose.icon.collections.tabler.tabler.outline.AlphabetHebrew
 import com.woowla.compose.icon.collections.tabler.tabler.outline.AlphabetKorean
 import com.woowla.compose.icon.collections.tabler.tabler.outline.AlphabetLatin
+import com.woowla.compose.icon.collections.tabler.tabler.outline.AlphabetPolish
+import com.woowla.compose.icon.collections.tabler.tabler.outline.AlphabetRunes
 import com.woowla.compose.icon.collections.tabler.tabler.outline.AlphabetThai
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Alt
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Ambulance
@@ -509,6 +511,7 @@ import com.woowla.compose.icon.collections.tabler.tabler.outline.BleachNoChlorin
 import com.woowla.compose.icon.collections.tabler.tabler.outline.BleachOff
 import com.woowla.compose.icon.collections.tabler.tabler.outline.BlendMode
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Blender
+import com.woowla.compose.icon.collections.tabler.tabler.outline.Blind
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Blob
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Blockquote
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Blocks
@@ -623,7 +626,7 @@ import com.woowla.compose.icon.collections.tabler.tabler.outline.BrandAdobeAfter
 import com.woowla.compose.icon.collections.tabler.tabler.outline.BrandAdobeIllustrator
 import com.woowla.compose.icon.collections.tabler.tabler.outline.BrandAdobeIndesign
 import com.woowla.compose.icon.collections.tabler.tabler.outline.BrandAdobePhotoshop
-import com.woowla.compose.icon.collections.tabler.tabler.outline.BrandAdobePremier
+import com.woowla.compose.icon.collections.tabler.tabler.outline.BrandAdobePremiere
 import com.woowla.compose.icon.collections.tabler.tabler.outline.BrandAdobeXd
 import com.woowla.compose.icon.collections.tabler.tabler.outline.BrandAdonisJs
 import com.woowla.compose.icon.collections.tabler.tabler.outline.BrandAirbnb
@@ -721,6 +724,7 @@ import com.woowla.compose.icon.collections.tabler.tabler.outline.BrandDoctrine
 import com.woowla.compose.icon.collections.tabler.tabler.outline.BrandDolbyDigital
 import com.woowla.compose.icon.collections.tabler.tabler.outline.BrandDouban
 import com.woowla.compose.icon.collections.tabler.tabler.outline.BrandDribbble
+import com.woowla.compose.icon.collections.tabler.tabler.outline.BrandDropbox
 import com.woowla.compose.icon.collections.tabler.tabler.outline.BrandDrops
 import com.woowla.compose.icon.collections.tabler.tabler.outline.BrandDrupal
 import com.woowla.compose.icon.collections.tabler.tabler.outline.BrandEdge
@@ -910,6 +914,7 @@ import com.woowla.compose.icon.collections.tabler.tabler.outline.BrandSvelte
 import com.woowla.compose.icon.collections.tabler.tabler.outline.BrandSwift
 import com.woowla.compose.icon.collections.tabler.tabler.outline.BrandSymfony
 import com.woowla.compose.icon.collections.tabler.tabler.outline.BrandTabler
+import com.woowla.compose.icon.collections.tabler.tabler.outline.BrandTabnine
 import com.woowla.compose.icon.collections.tabler.tabler.outline.BrandTailwind
 import com.woowla.compose.icon.collections.tabler.tabler.outline.BrandTaobao
 import com.woowla.compose.icon.collections.tabler.tabler.outline.BrandTeams
@@ -1303,6 +1308,7 @@ import com.woowla.compose.icon.collections.tabler.tabler.outline.CircleArrowRigh
 import com.woowla.compose.icon.collections.tabler.tabler.outline.CircleArrowUp
 import com.woowla.compose.icon.collections.tabler.tabler.outline.CircleArrowUpLeft
 import com.woowla.compose.icon.collections.tabler.tabler.outline.CircleArrowUpRight
+import com.woowla.compose.icon.collections.tabler.tabler.outline.CircleAsterisk
 import com.woowla.compose.icon.collections.tabler.tabler.outline.CircleCaretDown
 import com.woowla.compose.icon.collections.tabler.tabler.outline.CircleCaretLeft
 import com.woowla.compose.icon.collections.tabler.tabler.outline.CircleCaretRight
@@ -1785,6 +1791,7 @@ import com.woowla.compose.icon.collections.tabler.tabler.outline.DatabaseShare
 import com.woowla.compose.icon.collections.tabler.tabler.outline.DatabaseSmile
 import com.woowla.compose.icon.collections.tabler.tabler.outline.DatabaseStar
 import com.woowla.compose.icon.collections.tabler.tabler.outline.DatabaseX
+import com.woowla.compose.icon.collections.tabler.tabler.outline.Deaf
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Decimal
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Deer
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Delta
@@ -2607,6 +2614,7 @@ import com.woowla.compose.icon.collections.tabler.tabler.outline.HemisphereOff
 import com.woowla.compose.icon.collections.tabler.tabler.outline.HemispherePlus
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Hexagon
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Hexagon3d
+import com.woowla.compose.icon.collections.tabler.tabler.outline.HexagonAsterisk
 import com.woowla.compose.icon.collections.tabler.tabler.outline.HexagonLetterA
 import com.woowla.compose.icon.collections.tabler.tabler.outline.HexagonLetterB
 import com.woowla.compose.icon.collections.tabler.tabler.outline.HexagonLetterC
@@ -3588,6 +3596,7 @@ import com.woowla.compose.icon.collections.tabler.tabler.outline.Olympics
 import com.woowla.compose.icon.collections.tabler.tabler.outline.OlympicsOff
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Om
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Omega
+import com.woowla.compose.icon.collections.tabler.tabler.outline.Option
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Outbound
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Outlet
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Oval
@@ -3988,7 +3997,9 @@ import com.woowla.compose.icon.collections.tabler.tabler.outline.RewindForward60
 import com.woowla.compose.icon.collections.tabler.tabler.outline.RibbonHealth
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Rings
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Ripple
+import com.woowla.compose.icon.collections.tabler.tabler.outline.RippleDown
 import com.woowla.compose.icon.collections.tabler.tabler.outline.RippleOff
+import com.woowla.compose.icon.collections.tabler.tabler.outline.RippleUp
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Road
 import com.woowla.compose.icon.collections.tabler.tabler.outline.RoadOff
 import com.woowla.compose.icon.collections.tabler.tabler.outline.RoadSign
@@ -4001,6 +4012,7 @@ import com.woowla.compose.icon.collections.tabler.tabler.outline.RollerSkating
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Rollercoaster
 import com.woowla.compose.icon.collections.tabler.tabler.outline.RollercoasterOff
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Rosette
+import com.woowla.compose.icon.collections.tabler.tabler.outline.RosetteAsterisk
 import com.woowla.compose.icon.collections.tabler.tabler.outline.RosetteDiscount
 import com.woowla.compose.icon.collections.tabler.tabler.outline.RosetteDiscountCheck
 import com.woowla.compose.icon.collections.tabler.tabler.outline.RosetteDiscountCheckOff
@@ -4119,6 +4131,7 @@ import com.woowla.compose.icon.collections.tabler.tabler.outline.ServerSpark
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Servicemark
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Settings
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Settings2
+import com.woowla.compose.icon.collections.tabler.tabler.outline.SettingsAi
 import com.woowla.compose.icon.collections.tabler.tabler.outline.SettingsAutomation
 import com.woowla.compose.icon.collections.tabler.tabler.outline.SettingsBolt
 import com.woowla.compose.icon.collections.tabler.tabler.outline.SettingsCancel
@@ -4293,6 +4306,7 @@ import com.woowla.compose.icon.collections.tabler.tabler.outline.SpacingHorizont
 import com.woowla.compose.icon.collections.tabler.tabler.outline.SpacingVertical
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Spade
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Sparkles
+import com.woowla.compose.icon.collections.tabler.tabler.outline.Sparkles2
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Speakerphone
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Speedboat
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Sphere
@@ -4364,6 +4378,7 @@ import com.woowla.compose.icon.collections.tabler.tabler.outline.SquareLetterX
 import com.woowla.compose.icon.collections.tabler.tabler.outline.SquareLetterY
 import com.woowla.compose.icon.collections.tabler.tabler.outline.SquareLetterZ
 import com.woowla.compose.icon.collections.tabler.tabler.outline.SquareMinus
+import com.woowla.compose.icon.collections.tabler.tabler.outline.SquareMinus2
 import com.woowla.compose.icon.collections.tabler.tabler.outline.SquareNumber0
 import com.woowla.compose.icon.collections.tabler.tabler.outline.SquareNumber1
 import com.woowla.compose.icon.collections.tabler.tabler.outline.SquareNumber2
@@ -4381,6 +4396,7 @@ import com.woowla.compose.icon.collections.tabler.tabler.outline.SquarePlus2
 import com.woowla.compose.icon.collections.tabler.tabler.outline.SquareRoot
 import com.woowla.compose.icon.collections.tabler.tabler.outline.SquareRoot2
 import com.woowla.compose.icon.collections.tabler.tabler.outline.SquareRotated
+import com.woowla.compose.icon.collections.tabler.tabler.outline.SquareRotatedAsterisk
 import com.woowla.compose.icon.collections.tabler.tabler.outline.SquareRotatedForbid
 import com.woowla.compose.icon.collections.tabler.tabler.outline.SquareRotatedForbid2
 import com.woowla.compose.icon.collections.tabler.tabler.outline.SquareRotatedOff
@@ -4484,6 +4500,10 @@ import com.woowla.compose.icon.collections.tabler.tabler.outline.Strikethrough
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Submarine
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Subscript
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Subtask
+import com.woowla.compose.icon.collections.tabler.tabler.outline.Subtitles
+import com.woowla.compose.icon.collections.tabler.tabler.outline.SubtitlesAi
+import com.woowla.compose.icon.collections.tabler.tabler.outline.SubtitlesEdit
+import com.woowla.compose.icon.collections.tabler.tabler.outline.SubtitlesOff
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Sum
 import com.woowla.compose.icon.collections.tabler.tabler.outline.SumOff
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Sun
@@ -4818,6 +4838,7 @@ import com.woowla.compose.icon.collections.tabler.tabler.outline.Volcano
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Volume
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Volume2
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Volume3
+import com.woowla.compose.icon.collections.tabler.tabler.outline.Volume4
 import com.woowla.compose.icon.collections.tabler.tabler.outline.VolumeOff
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Vs
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Walk
@@ -4873,6 +4894,7 @@ import com.woowla.compose.icon.collections.tabler.tabler.outline.Wheel
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Wheelchair
 import com.woowla.compose.icon.collections.tabler.tabler.outline.WheelchairOff
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Whirl
+import com.woowla.compose.icon.collections.tabler.tabler.outline.Whisk
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Wifi
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Wifi0
 import com.woowla.compose.icon.collections.tabler.tabler.outline.Wifi1
@@ -4997,15 +5019,15 @@ public val OutlineGroup.AllIcons: ____KtList<ImageVector>
         AlignBoxRightMiddle, AlignBoxRightStretch, AlignBoxRightTop, AlignBoxTopCenter,
         AlignBoxTopLeft, AlignBoxTopRight, AlignCenter, AlignJustified, AlignLeft, AlignLeft2,
         AlignRight, AlignRight2, Alpha, AlphabetArabic, AlphabetBangla, AlphabetCyrillic,
-        AlphabetGreek, AlphabetHebrew, AlphabetKorean, AlphabetLatin, AlphabetThai, Alt, Ambulance,
-        Ampersand, Analyze, AnalyzeOff, Anchor, AnchorOff, Angle, Ankh, Antenna, AntennaBars1,
-        AntennaBars2, AntennaBars3, AntennaBars4, AntennaBars5, AntennaBarsOff, AntennaOff,
-        Aperture, ApertureOff, Api, ApiApp, ApiAppOff, ApiOff, AppWindow, Apple, Apps, AppsOff,
-        ArcheryArrow, Archive, ArchiveOff, Armchair, Armchair2, Armchair2Off, ArmchairOff,
-        ArrowAutofitContent, ArrowAutofitDown, ArrowAutofitHeight, ArrowAutofitLeft,
-        ArrowAutofitRight, ArrowAutofitUp, ArrowAutofitWidth, ArrowBack, ArrowBackUp,
-        ArrowBackUpDouble, ArrowBadgeDown, ArrowBadgeLeft, ArrowBadgeRight, ArrowBadgeUp,
-        ArrowBarBoth, ArrowBarDown, ArrowBarLeft, ArrowBarRight, ArrowBarToDown,
+        AlphabetGreek, AlphabetHebrew, AlphabetKorean, AlphabetLatin, AlphabetPolish, AlphabetRunes,
+        AlphabetThai, Alt, Ambulance, Ampersand, Analyze, AnalyzeOff, Anchor, AnchorOff, Angle,
+        Ankh, Antenna, AntennaBars1, AntennaBars2, AntennaBars3, AntennaBars4, AntennaBars5,
+        AntennaBarsOff, AntennaOff, Aperture, ApertureOff, Api, ApiApp, ApiAppOff, ApiOff,
+        AppWindow, Apple, Apps, AppsOff, ArcheryArrow, Archive, ArchiveOff, Armchair, Armchair2,
+        Armchair2Off, ArmchairOff, ArrowAutofitContent, ArrowAutofitDown, ArrowAutofitHeight,
+        ArrowAutofitLeft, ArrowAutofitRight, ArrowAutofitUp, ArrowAutofitWidth, ArrowBack,
+        ArrowBackUp, ArrowBackUpDouble, ArrowBadgeDown, ArrowBadgeLeft, ArrowBadgeRight,
+        ArrowBadgeUp, ArrowBarBoth, ArrowBarDown, ArrowBarLeft, ArrowBarRight, ArrowBarToDown,
         ArrowBarToDownDashed, ArrowBarToLeft, ArrowBarToLeftDashed, ArrowBarToRight,
         ArrowBarToRightDashed, ArrowBarToUp, ArrowBarToUpDashed, ArrowBarUp, ArrowBearLeft,
         ArrowBearLeft2, ArrowBearRight, ArrowBearRight2, ArrowBigDown, ArrowBigDownLine,
@@ -5063,11 +5085,11 @@ public val OutlineGroup.AllIcons: ____KtList<ImageVector>
         BellRinging, BellRinging2, BellSchool, BellSearch, BellShare, BellStar, BellUp, BellX,
         BellZ, Beta, Bible, Bike, BikeOff, Binary, BinaryOff, BinaryTree, BinaryTree2, Binoculars,
         Biohazard, BiohazardOff, Blade, Bleach, BleachChlorine, BleachNoChlorine, BleachOff,
-        BlendMode, Blender, Blob, Blockquote, Blocks, Bluetooth, BluetoothConnected, BluetoothOff,
-        BluetoothX, Blur, BlurOff, Bmp, BodyScan, Bold, BoldOff, Bolt, BoltOff, Bomb, Bone, BoneOff,
-        Bong, BongOff, Book, Book2, BookDownload, BookOff, BookUpload, Bookmark, BookmarkAi,
-        BookmarkEdit, BookmarkMinus, BookmarkOff, BookmarkPlus, BookmarkQuestion, Bookmarks,
-        BookmarksOff, Books, BooksOff, Boom, BorderAll, BorderBottom, BorderBottomPlus,
+        BlendMode, Blender, Blind, Blob, Blockquote, Blocks, Bluetooth, BluetoothConnected,
+        BluetoothOff, BluetoothX, Blur, BlurOff, Bmp, BodyScan, Bold, BoldOff, Bolt, BoltOff, Bomb,
+        Bone, BoneOff, Bong, BongOff, Book, Book2, BookDownload, BookOff, BookUpload, Bookmark,
+        BookmarkAi, BookmarkEdit, BookmarkMinus, BookmarkOff, BookmarkPlus, BookmarkQuestion,
+        Bookmarks, BookmarksOff, Books, BooksOff, Boom, BorderAll, BorderBottom, BorderBottomPlus,
         BorderCornerIos, BorderCornerPill, BorderCornerRounded, BorderCornerSquare, BorderCorners,
         BorderHorizontal, BorderInner, BorderLeft, BorderLeftPlus, BorderNone, BorderOuter,
         BorderRadius, BorderRight, BorderRightPlus, BorderSides, BorderStyle, BorderStyle2,
@@ -5080,7 +5102,7 @@ public val OutlineGroup.AllIcons: ____KtList<ImageVector>
         BracesOff, Brackets, BracketsAngle, BracketsAngleOff, BracketsContain, BracketsContainEnd,
         BracketsContainStart, BracketsOff, Braille, Brain, Brand4chan, BrandAbstract, BrandAdobe,
         BrandAdobeAfterEffect, BrandAdobeIllustrator, BrandAdobeIndesign, BrandAdobePhotoshop,
-        BrandAdobePremier, BrandAdobeXd, BrandAdonisJs, BrandAirbnb, BrandAirtable, BrandAlgolia,
+        BrandAdobePremiere, BrandAdobeXd, BrandAdonisJs, BrandAirbnb, BrandAirtable, BrandAlgolia,
         BrandAlipay, BrandAlpineJs, BrandAmazon, BrandAmd, BrandAmie, BrandAmigo, BrandAmongUs,
         BrandAndroid, BrandAngular, BrandAnsible, BrandAo3, BrandAppgallery, BrandApple,
         BrandAppleArcade, BrandAppleNews, BrandApplePodcast, BrandAppstore, BrandArc, BrandAsana,
@@ -5096,8 +5118,8 @@ public val OutlineGroup.AllIcons: ____KtList<ImageVector>
         BrandDcos, BrandDebian, BrandDeezer, BrandDeliveroo, BrandDeno, BrandDenodo,
         BrandDeviantart, BrandDigg, BrandDingtalk, BrandDiscord, BrandDisney, BrandDisqus,
         BrandDjango, BrandDocker, BrandDoctrine, BrandDolbyDigital, BrandDouban, BrandDribbble,
-        BrandDrops, BrandDrupal, BrandEdge, BrandElastic, BrandElectronicArts, BrandEmber,
-        BrandEnvato, BrandEtsy, BrandEvernote, BrandFacebook, BrandFeedly, BrandFigma,
+        BrandDropbox, BrandDrops, BrandDrupal, BrandEdge, BrandElastic, BrandElectronicArts,
+        BrandEmber, BrandEnvato, BrandEtsy, BrandEvernote, BrandFacebook, BrandFeedly, BrandFigma,
         BrandFilezilla, BrandFinder, BrandFirebase, BrandFirefox, BrandFiverr, BrandFlickr,
         BrandFlightradar24, BrandFlipboard, BrandFlutter, BrandFortnite, BrandFoursquare,
         BrandFramer, BrandFramerMotion, BrandFunimation, BrandGatsby, BrandGit, BrandGithub,
@@ -5127,23 +5149,23 @@ public val OutlineGroup.AllIcons: ____KtList<ImageVector>
         BrandSpeedtest, BrandSpotify, BrandStackoverflow, BrandStackshare, BrandSteam,
         BrandStocktwits, BrandStorj, BrandStorybook, BrandStorytel, BrandStrava, BrandStripe,
         BrandSublimeText, BrandSugarizer, BrandSupabase, BrandSuperhuman, BrandSupernova,
-        BrandSurfshark, BrandSvelte, BrandSwift, BrandSymfony, BrandTabler, BrandTailwind,
-        BrandTaobao, BrandTeams, BrandTed, BrandTelegram, BrandTerraform, BrandTesla, BrandTether,
-        BrandThingiverse, BrandThreads, BrandThreejs, BrandTidal, BrandTiktok, BrandTinder,
-        BrandTopbuzz, BrandTorchain, BrandToyota, BrandTrello, BrandTripadvisor, BrandTumblr,
-        BrandTwilio, BrandTwitch, BrandTwitter, BrandTypescript, BrandUber, BrandUbuntu, BrandUnity,
-        BrandUnsplash, BrandUpwork, BrandValorant, BrandVercel, BrandVimeo, BrandVinted, BrandVisa,
-        BrandVisualStudio, BrandVite, BrandVivaldi, BrandVk, BrandVlc, BrandVolkswagen, BrandVsco,
-        BrandVscode, BrandVue, BrandWalmart, BrandWaze, BrandWebflow, BrandWechat, BrandWeibo,
-        BrandWhatsapp, BrandWikipedia, BrandWindows, BrandWindy, BrandWish, BrandWix,
-        BrandWordpress, BrandX, BrandXamarin, BrandXbox, BrandXdeep, BrandXing, BrandYahoo,
-        BrandYandex, BrandYarn, BrandYatse, BrandYcombinator, BrandYoutube, BrandYoutubeKids,
-        BrandZalando, BrandZapier, BrandZeit, BrandZhihu, BrandZoom, BrandZulip, BrandZwift, Bread,
-        BreadOff, Briefcase, Briefcase2, BriefcaseOff, Brightness, Brightness2, BrightnessAuto,
-        BrightnessDown, BrightnessHalf, BrightnessOff, BrightnessUp, Broadcast, BroadcastOff,
-        Browser, BrowserCheck, BrowserMaximize, BrowserMinus, BrowserOff, BrowserPlus, BrowserShare,
-        BrowserX, Brush, BrushOff, Bubble, BubbleMinus, BubblePlus, BubbleTea, BubbleTea2,
-        BubbleText, BubbleX, Bucket, BucketDroplet, BucketOff, Bug, BugOff, Building,
+        BrandSurfshark, BrandSvelte, BrandSwift, BrandSymfony, BrandTabler, BrandTabnine,
+        BrandTailwind, BrandTaobao, BrandTeams, BrandTed, BrandTelegram, BrandTerraform, BrandTesla,
+        BrandTether, BrandThingiverse, BrandThreads, BrandThreejs, BrandTidal, BrandTiktok,
+        BrandTinder, BrandTopbuzz, BrandTorchain, BrandToyota, BrandTrello, BrandTripadvisor,
+        BrandTumblr, BrandTwilio, BrandTwitch, BrandTwitter, BrandTypescript, BrandUber,
+        BrandUbuntu, BrandUnity, BrandUnsplash, BrandUpwork, BrandValorant, BrandVercel, BrandVimeo,
+        BrandVinted, BrandVisa, BrandVisualStudio, BrandVite, BrandVivaldi, BrandVk, BrandVlc,
+        BrandVolkswagen, BrandVsco, BrandVscode, BrandVue, BrandWalmart, BrandWaze, BrandWebflow,
+        BrandWechat, BrandWeibo, BrandWhatsapp, BrandWikipedia, BrandWindows, BrandWindy, BrandWish,
+        BrandWix, BrandWordpress, BrandX, BrandXamarin, BrandXbox, BrandXdeep, BrandXing,
+        BrandYahoo, BrandYandex, BrandYarn, BrandYatse, BrandYcombinator, BrandYoutube,
+        BrandYoutubeKids, BrandZalando, BrandZapier, BrandZeit, BrandZhihu, BrandZoom, BrandZulip,
+        BrandZwift, Bread, BreadOff, Briefcase, Briefcase2, BriefcaseOff, Brightness, Brightness2,
+        BrightnessAuto, BrightnessDown, BrightnessHalf, BrightnessOff, BrightnessUp, Broadcast,
+        BroadcastOff, Browser, BrowserCheck, BrowserMaximize, BrowserMinus, BrowserOff, BrowserPlus,
+        BrowserShare, BrowserX, Brush, BrushOff, Bubble, BubbleMinus, BubblePlus, BubbleTea,
+        BubbleTea2, BubbleText, BubbleX, Bucket, BucketDroplet, BucketOff, Bug, BugOff, Building,
         BuildingAirport, BuildingArch, BuildingBank, BuildingBridge, BuildingBridge2,
         BuildingBroadcastTower, BuildingBurjAlArab, BuildingCarousel, BuildingCastle,
         BuildingChurch, BuildingCircus, BuildingCog, BuildingCommunity, BuildingCottage,
@@ -5187,64 +5209,64 @@ public val OutlineGroup.AllIcons: ____KtList<ImageVector>
         ChevronsDownRight, ChevronsLeft, ChevronsRight, ChevronsUp, ChevronsUpLeft, ChevronsUpRight,
         Chisel, ChristmasBall, ChristmasTree, ChristmasTreeOff, Circle, CircleArrowDown,
         CircleArrowDownLeft, CircleArrowDownRight, CircleArrowLeft, CircleArrowRight, CircleArrowUp,
-        CircleArrowUpLeft, CircleArrowUpRight, CircleCaretDown, CircleCaretLeft, CircleCaretRight,
-        CircleCaretUp, CircleCheck, CircleChevronDown, CircleChevronLeft, CircleChevronRight,
-        CircleChevronUp, CircleChevronsDown, CircleChevronsLeft, CircleChevronsRight,
-        CircleChevronsUp, CircleDashed, CircleDashedCheck, CircleDashedLetterA, CircleDashedLetterB,
-        CircleDashedLetterC, CircleDashedLetterD, CircleDashedLetterE, CircleDashedLetterF,
-        CircleDashedLetterG, CircleDashedLetterH, CircleDashedLetterI, CircleDashedLetterJ,
-        CircleDashedLetterK, CircleDashedLetterL, CircleDashedLetterM, CircleDashedLetterN,
-        CircleDashedLetterO, CircleDashedLetterP, CircleDashedLetterQ, CircleDashedLetterR,
-        CircleDashedLetterS, CircleDashedLetterT, CircleDashedLetterU, CircleDashedLetterV,
-        CircleDashedLetterW, CircleDashedLetterX, CircleDashedLetterY, CircleDashedLetterZ,
-        CircleDashedMinus, CircleDashedNumber0, CircleDashedNumber1, CircleDashedNumber2,
-        CircleDashedNumber3, CircleDashedNumber4, CircleDashedNumber5, CircleDashedNumber6,
-        CircleDashedNumber7, CircleDashedNumber8, CircleDashedNumber9, CircleDashedPercentage,
-        CircleDashedPlus, CircleDashedX, CircleDot, CircleDotted, CircleDottedLetterA,
-        CircleDottedLetterB, CircleDottedLetterC, CircleDottedLetterD, CircleDottedLetterE,
-        CircleDottedLetterF, CircleDottedLetterG, CircleDottedLetterH, CircleDottedLetterI,
-        CircleDottedLetterJ, CircleDottedLetterK, CircleDottedLetterL, CircleDottedLetterM,
-        CircleDottedLetterN, CircleDottedLetterO, CircleDottedLetterP, CircleDottedLetterQ,
-        CircleDottedLetterR, CircleDottedLetterS, CircleDottedLetterT, CircleDottedLetterU,
-        CircleDottedLetterV, CircleDottedLetterW, CircleDottedLetterX, CircleDottedLetterY,
-        CircleDottedLetterZ, CircleHalf, CircleHalf2, CircleHalfVertical, CircleKey, CircleLetterA,
-        CircleLetterB, CircleLetterC, CircleLetterD, CircleLetterE, CircleLetterF, CircleLetterG,
-        CircleLetterH, CircleLetterI, CircleLetterJ, CircleLetterK, CircleLetterL, CircleLetterM,
-        CircleLetterN, CircleLetterO, CircleLetterP, CircleLetterQ, CircleLetterR, CircleLetterS,
-        CircleLetterT, CircleLetterU, CircleLetterV, CircleLetterW, CircleLetterX, CircleLetterY,
-        CircleLetterZ, CircleMinus, CircleMinus2, CircleNumber0, CircleNumber1, CircleNumber2,
-        CircleNumber3, CircleNumber4, CircleNumber5, CircleNumber6, CircleNumber7, CircleNumber8,
-        CircleNumber9, CircleOff, CirclePercentage, CirclePlus, CirclePlus2, CircleRectangle,
-        CircleRectangleOff, CircleSquare, CircleTriangle, CircleX, Circles, CirclesRelation,
-        CircuitAmmeter, CircuitBattery, CircuitBulb, CircuitCapacitor, CircuitCapacitorPolarized,
-        CircuitCell, CircuitCellPlus, CircuitChangeover, CircuitDiode, CircuitDiodeZener,
-        CircuitGround, CircuitGroundDigital, CircuitInductor, CircuitMotor, CircuitPushbutton,
-        CircuitResistor, CircuitSwitchClosed, CircuitSwitchOpen, CircuitVoltmeter, ClearAll,
-        ClearFormatting, Click, CliffJumping, Clipboard, ClipboardCheck, ClipboardCopy,
-        ClipboardData, ClipboardHeart, ClipboardList, ClipboardOff, ClipboardPlus, ClipboardSearch,
-        ClipboardSmile, ClipboardText, ClipboardTypography, ClipboardX, Clock, Clock12, Clock2,
-        Clock24, ClockBitcoin, ClockBolt, ClockCancel, ClockCheck, ClockCode, ClockCog, ClockDollar,
-        ClockDown, ClockEdit, ClockExclamation, ClockHeart, ClockHour1, ClockHour10, ClockHour11,
-        ClockHour12, ClockHour2, ClockHour3, ClockHour4, ClockHour5, ClockHour6, ClockHour7,
-        ClockHour8, ClockHour9, ClockMinus, ClockOff, ClockPause, ClockPin, ClockPlay, ClockPlus,
-        ClockQuestion, ClockRecord, ClockSearch, ClockShare, ClockShield, ClockStar, ClockStop,
-        ClockUp, ClockX, ClothesRack, ClothesRackOff, Cloud, CloudBitcoin, CloudBolt, CloudCancel,
-        CloudCheck, CloudCode, CloudCog, CloudComputing, CloudDataConnection, CloudDollar,
-        CloudDown, CloudDownload, CloudExclamation, CloudFog, CloudHeart, CloudLock, CloudLockOpen,
-        CloudMinus, CloudNetwork, CloudOff, CloudPause, CloudPin, CloudPlus, CloudQuestion,
-        CloudRain, CloudSearch, CloudShare, CloudSnow, CloudStar, CloudStorm, CloudUp, CloudUpload,
-        CloudX, Clover, Clover2, Clubs, Code, CodeAsterisk, CodeCircle, CodeCircle2, CodeDots,
-        CodeMinus, CodeOff, CodePlus, CodeVariable, CodeVariableMinus, CodeVariablePlus, Coffee,
-        CoffeeOff, Coffin, Coin, CoinBitcoin, CoinEuro, CoinMonero, CoinOff, CoinPound, CoinRupee,
-        CoinTaka, CoinYen, CoinYuan, Coins, ColorFilter, ColorPicker, ColorPickerOff, ColorSwatch,
-        ColorSwatchOff, ColumnInsertLeft, ColumnInsertRight, ColumnRemove, Columns, Columns1,
-        Columns2, Columns3, ColumnsOff, Comet, Command, CommandOff, Compass, CompassOff, Components,
-        ComponentsOff, Cone, Cone2, ConeOff, ConePlus, Confetti, ConfettiOff, Confucius,
-        CongruentTo, Container, ContainerOff, Contract, Contrast, Contrast2, Contrast2Off,
-        ContrastOff, Cooker, Cookie, CookieMan, CookieOff, Copy, CopyCheck, CopyMinus, CopyOff,
-        CopyPlus, CopyX, Copyleft, CopyleftOff, Copyright, CopyrightOff, CornerDownLeft,
-        CornerDownLeftDouble, CornerDownRight, CornerDownRightDouble, CornerLeftDown,
-        CornerLeftDownDouble, CornerLeftUp, CornerLeftUpDouble, CornerRightDown,
+        CircleArrowUpLeft, CircleArrowUpRight, CircleAsterisk, CircleCaretDown, CircleCaretLeft,
+        CircleCaretRight, CircleCaretUp, CircleCheck, CircleChevronDown, CircleChevronLeft,
+        CircleChevronRight, CircleChevronUp, CircleChevronsDown, CircleChevronsLeft,
+        CircleChevronsRight, CircleChevronsUp, CircleDashed, CircleDashedCheck, CircleDashedLetterA,
+        CircleDashedLetterB, CircleDashedLetterC, CircleDashedLetterD, CircleDashedLetterE,
+        CircleDashedLetterF, CircleDashedLetterG, CircleDashedLetterH, CircleDashedLetterI,
+        CircleDashedLetterJ, CircleDashedLetterK, CircleDashedLetterL, CircleDashedLetterM,
+        CircleDashedLetterN, CircleDashedLetterO, CircleDashedLetterP, CircleDashedLetterQ,
+        CircleDashedLetterR, CircleDashedLetterS, CircleDashedLetterT, CircleDashedLetterU,
+        CircleDashedLetterV, CircleDashedLetterW, CircleDashedLetterX, CircleDashedLetterY,
+        CircleDashedLetterZ, CircleDashedMinus, CircleDashedNumber0, CircleDashedNumber1,
+        CircleDashedNumber2, CircleDashedNumber3, CircleDashedNumber4, CircleDashedNumber5,
+        CircleDashedNumber6, CircleDashedNumber7, CircleDashedNumber8, CircleDashedNumber9,
+        CircleDashedPercentage, CircleDashedPlus, CircleDashedX, CircleDot, CircleDotted,
+        CircleDottedLetterA, CircleDottedLetterB, CircleDottedLetterC, CircleDottedLetterD,
+        CircleDottedLetterE, CircleDottedLetterF, CircleDottedLetterG, CircleDottedLetterH,
+        CircleDottedLetterI, CircleDottedLetterJ, CircleDottedLetterK, CircleDottedLetterL,
+        CircleDottedLetterM, CircleDottedLetterN, CircleDottedLetterO, CircleDottedLetterP,
+        CircleDottedLetterQ, CircleDottedLetterR, CircleDottedLetterS, CircleDottedLetterT,
+        CircleDottedLetterU, CircleDottedLetterV, CircleDottedLetterW, CircleDottedLetterX,
+        CircleDottedLetterY, CircleDottedLetterZ, CircleHalf, CircleHalf2, CircleHalfVertical,
+        CircleKey, CircleLetterA, CircleLetterB, CircleLetterC, CircleLetterD, CircleLetterE,
+        CircleLetterF, CircleLetterG, CircleLetterH, CircleLetterI, CircleLetterJ, CircleLetterK,
+        CircleLetterL, CircleLetterM, CircleLetterN, CircleLetterO, CircleLetterP, CircleLetterQ,
+        CircleLetterR, CircleLetterS, CircleLetterT, CircleLetterU, CircleLetterV, CircleLetterW,
+        CircleLetterX, CircleLetterY, CircleLetterZ, CircleMinus, CircleMinus2, CircleNumber0,
+        CircleNumber1, CircleNumber2, CircleNumber3, CircleNumber4, CircleNumber5, CircleNumber6,
+        CircleNumber7, CircleNumber8, CircleNumber9, CircleOff, CirclePercentage, CirclePlus,
+        CirclePlus2, CircleRectangle, CircleRectangleOff, CircleSquare, CircleTriangle, CircleX,
+        Circles, CirclesRelation, CircuitAmmeter, CircuitBattery, CircuitBulb, CircuitCapacitor,
+        CircuitCapacitorPolarized, CircuitCell, CircuitCellPlus, CircuitChangeover, CircuitDiode,
+        CircuitDiodeZener, CircuitGround, CircuitGroundDigital, CircuitInductor, CircuitMotor,
+        CircuitPushbutton, CircuitResistor, CircuitSwitchClosed, CircuitSwitchOpen,
+        CircuitVoltmeter, ClearAll, ClearFormatting, Click, CliffJumping, Clipboard, ClipboardCheck,
+        ClipboardCopy, ClipboardData, ClipboardHeart, ClipboardList, ClipboardOff, ClipboardPlus,
+        ClipboardSearch, ClipboardSmile, ClipboardText, ClipboardTypography, ClipboardX, Clock,
+        Clock12, Clock2, Clock24, ClockBitcoin, ClockBolt, ClockCancel, ClockCheck, ClockCode,
+        ClockCog, ClockDollar, ClockDown, ClockEdit, ClockExclamation, ClockHeart, ClockHour1,
+        ClockHour10, ClockHour11, ClockHour12, ClockHour2, ClockHour3, ClockHour4, ClockHour5,
+        ClockHour6, ClockHour7, ClockHour8, ClockHour9, ClockMinus, ClockOff, ClockPause, ClockPin,
+        ClockPlay, ClockPlus, ClockQuestion, ClockRecord, ClockSearch, ClockShare, ClockShield,
+        ClockStar, ClockStop, ClockUp, ClockX, ClothesRack, ClothesRackOff, Cloud, CloudBitcoin,
+        CloudBolt, CloudCancel, CloudCheck, CloudCode, CloudCog, CloudComputing,
+        CloudDataConnection, CloudDollar, CloudDown, CloudDownload, CloudExclamation, CloudFog,
+        CloudHeart, CloudLock, CloudLockOpen, CloudMinus, CloudNetwork, CloudOff, CloudPause,
+        CloudPin, CloudPlus, CloudQuestion, CloudRain, CloudSearch, CloudShare, CloudSnow,
+        CloudStar, CloudStorm, CloudUp, CloudUpload, CloudX, Clover, Clover2, Clubs, Code,
+        CodeAsterisk, CodeCircle, CodeCircle2, CodeDots, CodeMinus, CodeOff, CodePlus, CodeVariable,
+        CodeVariableMinus, CodeVariablePlus, Coffee, CoffeeOff, Coffin, Coin, CoinBitcoin, CoinEuro,
+        CoinMonero, CoinOff, CoinPound, CoinRupee, CoinTaka, CoinYen, CoinYuan, Coins, ColorFilter,
+        ColorPicker, ColorPickerOff, ColorSwatch, ColorSwatchOff, ColumnInsertLeft,
+        ColumnInsertRight, ColumnRemove, Columns, Columns1, Columns2, Columns3, ColumnsOff, Comet,
+        Command, CommandOff, Compass, CompassOff, Components, ComponentsOff, Cone, Cone2, ConeOff,
+        ConePlus, Confetti, ConfettiOff, Confucius, CongruentTo, Container, ContainerOff, Contract,
+        Contrast, Contrast2, Contrast2Off, ContrastOff, Cooker, Cookie, CookieMan, CookieOff, Copy,
+        CopyCheck, CopyMinus, CopyOff, CopyPlus, CopyX, Copyleft, CopyleftOff, Copyright,
+        CopyrightOff, CornerDownLeft, CornerDownLeftDouble, CornerDownRight, CornerDownRightDouble,
+        CornerLeftDown, CornerLeftDownDouble, CornerLeftUp, CornerLeftUpDouble, CornerRightDown,
         CornerRightDownDouble, CornerRightUp, CornerRightUpDouble, CornerUpLeft, CornerUpLeftDouble,
         CornerUpRight, CornerUpRightDouble, Cpu, Cpu2, CpuOff, Crane, CraneOff, CreativeCommons,
         CreativeCommonsBy, CreativeCommonsNc, CreativeCommonsNd, CreativeCommonsOff,
@@ -5270,55 +5292,56 @@ public val OutlineGroup.AllIcons: ____KtList<ImageVector>
         Dashboard, DashboardOff, Database, DatabaseCog, DatabaseDollar, DatabaseEdit,
         DatabaseExclamation, DatabaseExport, DatabaseHeart, DatabaseImport, DatabaseLeak,
         DatabaseMinus, DatabaseOff, DatabasePlus, DatabaseSearch, DatabaseShare, DatabaseSmile,
-        DatabaseStar, DatabaseX, Decimal, Deer, Delta, Dental, DentalBroken, DentalOff, Deselect,
-        Desk, Details, DetailsOff, DeviceAirpods, DeviceAirpodsCase, DeviceAirtag, DeviceAnalytics,
-        DeviceAudioTape, DeviceCameraPhone, DeviceCctv, DeviceCctvOff, DeviceComputerCamera,
-        DeviceComputerCameraOff, DeviceDesktop, DeviceDesktopAnalytics, DeviceDesktopBolt,
-        DeviceDesktopCancel, DeviceDesktopCheck, DeviceDesktopCode, DeviceDesktopCog,
-        DeviceDesktopDollar, DeviceDesktopDown, DeviceDesktopExclamation, DeviceDesktopHeart,
-        DeviceDesktopMinus, DeviceDesktopOff, DeviceDesktopPause, DeviceDesktopPin,
-        DeviceDesktopPlus, DeviceDesktopQuestion, DeviceDesktopSearch, DeviceDesktopShare,
-        DeviceDesktopStar, DeviceDesktopUp, DeviceDesktopX, DeviceFloppy, DeviceGamepad,
-        DeviceGamepad2, DeviceGamepad3, DeviceHeartMonitor, DeviceImac, DeviceImacBolt,
-        DeviceImacCancel, DeviceImacCheck, DeviceImacCode, DeviceImacCog, DeviceImacDollar,
-        DeviceImacDown, DeviceImacExclamation, DeviceImacHeart, DeviceImacMinus, DeviceImacOff,
-        DeviceImacPause, DeviceImacPin, DeviceImacPlus, DeviceImacQuestion, DeviceImacSearch,
-        DeviceImacShare, DeviceImacStar, DeviceImacUp, DeviceImacX, DeviceIpad, DeviceIpadBolt,
-        DeviceIpadCancel, DeviceIpadCheck, DeviceIpadCode, DeviceIpadCog, DeviceIpadDollar,
-        DeviceIpadDown, DeviceIpadExclamation, DeviceIpadHeart, DeviceIpadHorizontal,
-        DeviceIpadHorizontalBolt, DeviceIpadHorizontalCancel, DeviceIpadHorizontalCheck,
-        DeviceIpadHorizontalCode, DeviceIpadHorizontalCog, DeviceIpadHorizontalDollar,
-        DeviceIpadHorizontalDown, DeviceIpadHorizontalExclamation, DeviceIpadHorizontalHeart,
-        DeviceIpadHorizontalMinus, DeviceIpadHorizontalOff, DeviceIpadHorizontalPause,
-        DeviceIpadHorizontalPin, DeviceIpadHorizontalPlus, DeviceIpadHorizontalQuestion,
-        DeviceIpadHorizontalSearch, DeviceIpadHorizontalShare, DeviceIpadHorizontalStar,
-        DeviceIpadHorizontalUp, DeviceIpadHorizontalX, DeviceIpadMinus, DeviceIpadOff,
-        DeviceIpadPause, DeviceIpadPin, DeviceIpadPlus, DeviceIpadQuestion, DeviceIpadSearch,
-        DeviceIpadShare, DeviceIpadStar, DeviceIpadUp, DeviceIpadX, DeviceLandlinePhone,
-        DeviceLaptop, DeviceLaptopOff, DeviceMobile, DeviceMobileBolt, DeviceMobileCancel,
-        DeviceMobileCharging, DeviceMobileCheck, DeviceMobileCode, DeviceMobileCog,
-        DeviceMobileDollar, DeviceMobileDown, DeviceMobileExclamation, DeviceMobileHeart,
-        DeviceMobileMessage, DeviceMobileMinus, DeviceMobileOff, DeviceMobilePause, DeviceMobilePin,
-        DeviceMobilePlus, DeviceMobileQuestion, DeviceMobileRotated, DeviceMobileSearch,
-        DeviceMobileShare, DeviceMobileStar, DeviceMobileUp, DeviceMobileVibration, DeviceMobileX,
-        DeviceNintendo, DeviceNintendoOff, DeviceProjector, DeviceRemote, DeviceSdCard, DeviceSim,
-        DeviceSim1, DeviceSim2, DeviceSim3, DeviceSpeaker, DeviceSpeakerOff, DeviceTablet,
-        DeviceTabletBolt, DeviceTabletCancel, DeviceTabletCheck, DeviceTabletCode, DeviceTabletCog,
-        DeviceTabletDollar, DeviceTabletDown, DeviceTabletExclamation, DeviceTabletHeart,
-        DeviceTabletMinus, DeviceTabletOff, DeviceTabletPause, DeviceTabletPin, DeviceTabletPlus,
-        DeviceTabletQuestion, DeviceTabletSearch, DeviceTabletShare, DeviceTabletStar,
-        DeviceTabletUp, DeviceTabletX, DeviceTv, DeviceTvOff, DeviceTvOld, DeviceUnknown, DeviceUsb,
-        DeviceVisionPro, DeviceWatch, DeviceWatchBolt, DeviceWatchCancel, DeviceWatchCheck,
-        DeviceWatchCode, DeviceWatchCog, DeviceWatchDollar, DeviceWatchDown, DeviceWatchExclamation,
-        DeviceWatchHeart, DeviceWatchMinus, DeviceWatchOff, DeviceWatchPause, DeviceWatchPin,
-        DeviceWatchPlus, DeviceWatchQuestion, DeviceWatchSearch, DeviceWatchShare, DeviceWatchStar,
-        DeviceWatchStats, DeviceWatchStats2, DeviceWatchUp, DeviceWatchX, Devices, Devices2,
-        DevicesBolt, DevicesCancel, DevicesCheck, DevicesCode, DevicesCog, DevicesDollar,
-        DevicesDown, DevicesExclamation, DevicesHeart, DevicesMinus, DevicesOff, DevicesPause,
-        DevicesPc, DevicesPcOff, DevicesPin, DevicesPlus, DevicesQuestion, DevicesSearch,
-        DevicesShare, DevicesStar, DevicesUp, DevicesX, Diabolo, DiaboloOff, DiaboloPlus, Dialpad,
-        DialpadOff, Diamond, DiamondOff, Diamonds, Diaper, Dice, Dice1, Dice2, Dice3, Dice4, Dice5,
-        Dice6, Dimensions, Direction, DirectionArrows, DirectionHorizontal, DirectionSign,
+        DatabaseStar, DatabaseX, Deaf, Decimal, Deer, Delta, Dental, DentalBroken, DentalOff,
+        Deselect, Desk, Details, DetailsOff, DeviceAirpods, DeviceAirpodsCase, DeviceAirtag,
+        DeviceAnalytics, DeviceAudioTape, DeviceCameraPhone, DeviceCctv, DeviceCctvOff,
+        DeviceComputerCamera, DeviceComputerCameraOff, DeviceDesktop, DeviceDesktopAnalytics,
+        DeviceDesktopBolt, DeviceDesktopCancel, DeviceDesktopCheck, DeviceDesktopCode,
+        DeviceDesktopCog, DeviceDesktopDollar, DeviceDesktopDown, DeviceDesktopExclamation,
+        DeviceDesktopHeart, DeviceDesktopMinus, DeviceDesktopOff, DeviceDesktopPause,
+        DeviceDesktopPin, DeviceDesktopPlus, DeviceDesktopQuestion, DeviceDesktopSearch,
+        DeviceDesktopShare, DeviceDesktopStar, DeviceDesktopUp, DeviceDesktopX, DeviceFloppy,
+        DeviceGamepad, DeviceGamepad2, DeviceGamepad3, DeviceHeartMonitor, DeviceImac,
+        DeviceImacBolt, DeviceImacCancel, DeviceImacCheck, DeviceImacCode, DeviceImacCog,
+        DeviceImacDollar, DeviceImacDown, DeviceImacExclamation, DeviceImacHeart, DeviceImacMinus,
+        DeviceImacOff, DeviceImacPause, DeviceImacPin, DeviceImacPlus, DeviceImacQuestion,
+        DeviceImacSearch, DeviceImacShare, DeviceImacStar, DeviceImacUp, DeviceImacX, DeviceIpad,
+        DeviceIpadBolt, DeviceIpadCancel, DeviceIpadCheck, DeviceIpadCode, DeviceIpadCog,
+        DeviceIpadDollar, DeviceIpadDown, DeviceIpadExclamation, DeviceIpadHeart,
+        DeviceIpadHorizontal, DeviceIpadHorizontalBolt, DeviceIpadHorizontalCancel,
+        DeviceIpadHorizontalCheck, DeviceIpadHorizontalCode, DeviceIpadHorizontalCog,
+        DeviceIpadHorizontalDollar, DeviceIpadHorizontalDown, DeviceIpadHorizontalExclamation,
+        DeviceIpadHorizontalHeart, DeviceIpadHorizontalMinus, DeviceIpadHorizontalOff,
+        DeviceIpadHorizontalPause, DeviceIpadHorizontalPin, DeviceIpadHorizontalPlus,
+        DeviceIpadHorizontalQuestion, DeviceIpadHorizontalSearch, DeviceIpadHorizontalShare,
+        DeviceIpadHorizontalStar, DeviceIpadHorizontalUp, DeviceIpadHorizontalX, DeviceIpadMinus,
+        DeviceIpadOff, DeviceIpadPause, DeviceIpadPin, DeviceIpadPlus, DeviceIpadQuestion,
+        DeviceIpadSearch, DeviceIpadShare, DeviceIpadStar, DeviceIpadUp, DeviceIpadX,
+        DeviceLandlinePhone, DeviceLaptop, DeviceLaptopOff, DeviceMobile, DeviceMobileBolt,
+        DeviceMobileCancel, DeviceMobileCharging, DeviceMobileCheck, DeviceMobileCode,
+        DeviceMobileCog, DeviceMobileDollar, DeviceMobileDown, DeviceMobileExclamation,
+        DeviceMobileHeart, DeviceMobileMessage, DeviceMobileMinus, DeviceMobileOff,
+        DeviceMobilePause, DeviceMobilePin, DeviceMobilePlus, DeviceMobileQuestion,
+        DeviceMobileRotated, DeviceMobileSearch, DeviceMobileShare, DeviceMobileStar,
+        DeviceMobileUp, DeviceMobileVibration, DeviceMobileX, DeviceNintendo, DeviceNintendoOff,
+        DeviceProjector, DeviceRemote, DeviceSdCard, DeviceSim, DeviceSim1, DeviceSim2, DeviceSim3,
+        DeviceSpeaker, DeviceSpeakerOff, DeviceTablet, DeviceTabletBolt, DeviceTabletCancel,
+        DeviceTabletCheck, DeviceTabletCode, DeviceTabletCog, DeviceTabletDollar, DeviceTabletDown,
+        DeviceTabletExclamation, DeviceTabletHeart, DeviceTabletMinus, DeviceTabletOff,
+        DeviceTabletPause, DeviceTabletPin, DeviceTabletPlus, DeviceTabletQuestion,
+        DeviceTabletSearch, DeviceTabletShare, DeviceTabletStar, DeviceTabletUp, DeviceTabletX,
+        DeviceTv, DeviceTvOff, DeviceTvOld, DeviceUnknown, DeviceUsb, DeviceVisionPro, DeviceWatch,
+        DeviceWatchBolt, DeviceWatchCancel, DeviceWatchCheck, DeviceWatchCode, DeviceWatchCog,
+        DeviceWatchDollar, DeviceWatchDown, DeviceWatchExclamation, DeviceWatchHeart,
+        DeviceWatchMinus, DeviceWatchOff, DeviceWatchPause, DeviceWatchPin, DeviceWatchPlus,
+        DeviceWatchQuestion, DeviceWatchSearch, DeviceWatchShare, DeviceWatchStar, DeviceWatchStats,
+        DeviceWatchStats2, DeviceWatchUp, DeviceWatchX, Devices, Devices2, DevicesBolt,
+        DevicesCancel, DevicesCheck, DevicesCode, DevicesCog, DevicesDollar, DevicesDown,
+        DevicesExclamation, DevicesHeart, DevicesMinus, DevicesOff, DevicesPause, DevicesPc,
+        DevicesPcOff, DevicesPin, DevicesPlus, DevicesQuestion, DevicesSearch, DevicesShare,
+        DevicesStar, DevicesUp, DevicesX, Diabolo, DiaboloOff, DiaboloPlus, Dialpad, DialpadOff,
+        Diamond, DiamondOff, Diamonds, Diaper, Dice, Dice1, Dice2, Dice3, Dice4, Dice5, Dice6,
+        Dimensions, Direction, DirectionArrows, DirectionHorizontal, DirectionSign,
         DirectionSignOff, Directions, DirectionsOff, Disabled, Disabled2, DisabledOff, Disc,
         DiscGolf, DiscOff, Discount, DiscountOff, Divide, Dna, Dna2, Dna2Off, DnaOff, Dog, DogBowl,
         Door, DoorEnter, DoorExit, DoorOff, Dots, DotsCircleHorizontal, DotsDiagonal, DotsDiagonal2,
@@ -5396,28 +5419,28 @@ public val OutlineGroup.AllIcons: ____KtList<ImageVector>
         HeartShare, HeartSpark, HeartStar, HeartUp, HeartX, Heartbeat, Hearts, HeartsOff,
         Helicopter, HelicopterLanding, Helmet, HelmetOff, Help, HelpCircle, HelpHexagon,
         HelpOctagon, HelpOff, HelpSmall, HelpSquare, HelpSquareRounded, HelpTriangle, Hemisphere,
-        HemisphereOff, HemispherePlus, Hexagon, Hexagon3d, HexagonLetterA, HexagonLetterB,
-        HexagonLetterC, HexagonLetterD, HexagonLetterE, HexagonLetterF, HexagonLetterG,
-        HexagonLetterH, HexagonLetterI, HexagonLetterJ, HexagonLetterK, HexagonLetterL,
-        HexagonLetterM, HexagonLetterN, HexagonLetterO, HexagonLetterP, HexagonLetterQ,
-        HexagonLetterR, HexagonLetterS, HexagonLetterT, HexagonLetterU, HexagonLetterV,
-        HexagonLetterW, HexagonLetterX, HexagonLetterY, HexagonLetterZ, HexagonMinus, HexagonMinus2,
-        HexagonNumber0, HexagonNumber1, HexagonNumber2, HexagonNumber3, HexagonNumber4,
-        HexagonNumber5, HexagonNumber6, HexagonNumber7, HexagonNumber8, HexagonNumber9, HexagonOff,
-        HexagonPlus, HexagonPlus2, HexagonalPrism, HexagonalPrismOff, HexagonalPrismPlus,
-        HexagonalPyramid, HexagonalPyramidOff, HexagonalPyramidPlus, Hexagons, HexagonsOff,
-        Hierarchy, Hierarchy2, Hierarchy3, HierarchyOff, Highlight, HighlightOff, History,
-        HistoryOff, HistoryToggle, Home, Home2, HomeBitcoin, HomeBolt, HomeCancel, HomeCheck,
-        HomeCog, HomeDollar, HomeDot, HomeDown, HomeEco, HomeEdit, HomeExclamation, HomeHand,
-        HomeHeart, HomeInfinity, HomeLink, HomeMinus, HomeMove, HomeOff, HomePlus, HomeQuestion,
-        HomeRibbon, HomeSearch, HomeShare, HomeShield, HomeSignal, HomeSpark, HomeStar, HomeStats,
-        HomeUp, HomeX, Horse, HorseToy, Horseshoe, Hospital, HospitalCircle, HotelService,
-        Hourglass, HourglassEmpty, HourglassHigh, HourglassLow, HourglassOff, Hours12, Hours24,
-        Html, HttpConnect, HttpConnectOff, HttpDelete, HttpDeleteOff, HttpGet, HttpGetOff, HttpHead,
-        HttpHeadOff, HttpOptions, HttpOptionsOff, HttpPatch, HttpPatchOff, HttpPost, HttpPostOff,
-        HttpPut, HttpPutOff, HttpQue, HttpQueOff, HttpTrace, HttpTraceOff, IceCream, IceCream2,
-        IceCreamOff, IceSkating, Icons, IconsOff, Id, IdBadge, IdBadge2, IdBadgeOff, IdOff,
-        Ikosaedr, ImageInPicture, Inbox, InboxOff, IndentDecrease, IndentIncrease, Infinity,
+        HemisphereOff, HemispherePlus, Hexagon, Hexagon3d, HexagonAsterisk, HexagonLetterA,
+        HexagonLetterB, HexagonLetterC, HexagonLetterD, HexagonLetterE, HexagonLetterF,
+        HexagonLetterG, HexagonLetterH, HexagonLetterI, HexagonLetterJ, HexagonLetterK,
+        HexagonLetterL, HexagonLetterM, HexagonLetterN, HexagonLetterO, HexagonLetterP,
+        HexagonLetterQ, HexagonLetterR, HexagonLetterS, HexagonLetterT, HexagonLetterU,
+        HexagonLetterV, HexagonLetterW, HexagonLetterX, HexagonLetterY, HexagonLetterZ,
+        HexagonMinus, HexagonMinus2, HexagonNumber0, HexagonNumber1, HexagonNumber2, HexagonNumber3,
+        HexagonNumber4, HexagonNumber5, HexagonNumber6, HexagonNumber7, HexagonNumber8,
+        HexagonNumber9, HexagonOff, HexagonPlus, HexagonPlus2, HexagonalPrism, HexagonalPrismOff,
+        HexagonalPrismPlus, HexagonalPyramid, HexagonalPyramidOff, HexagonalPyramidPlus, Hexagons,
+        HexagonsOff, Hierarchy, Hierarchy2, Hierarchy3, HierarchyOff, Highlight, HighlightOff,
+        History, HistoryOff, HistoryToggle, Home, Home2, HomeBitcoin, HomeBolt, HomeCancel,
+        HomeCheck, HomeCog, HomeDollar, HomeDot, HomeDown, HomeEco, HomeEdit, HomeExclamation,
+        HomeHand, HomeHeart, HomeInfinity, HomeLink, HomeMinus, HomeMove, HomeOff, HomePlus,
+        HomeQuestion, HomeRibbon, HomeSearch, HomeShare, HomeShield, HomeSignal, HomeSpark,
+        HomeStar, HomeStats, HomeUp, HomeX, Horse, HorseToy, Horseshoe, Hospital, HospitalCircle,
+        HotelService, Hourglass, HourglassEmpty, HourglassHigh, HourglassLow, HourglassOff, Hours12,
+        Hours24, Html, HttpConnect, HttpConnectOff, HttpDelete, HttpDeleteOff, HttpGet, HttpGetOff,
+        HttpHead, HttpHeadOff, HttpOptions, HttpOptionsOff, HttpPatch, HttpPatchOff, HttpPost,
+        HttpPostOff, HttpPut, HttpPutOff, HttpQue, HttpQueOff, HttpTrace, HttpTraceOff, IceCream,
+        IceCream2, IceCreamOff, IceSkating, Icons, IconsOff, Id, IdBadge, IdBadge2, IdBadgeOff,
+        IdOff, Ikosaedr, ImageInPicture, Inbox, InboxOff, IndentDecrease, IndentIncrease, Infinity,
         InfinityOff, InfoCircle, InfoHexagon, InfoOctagon, InfoSmall, InfoSquare, InfoSquareRounded,
         InfoTriangle, InnerShadowBottom, InnerShadowBottomLeft, InnerShadowBottomRight,
         InnerShadowLeft, InnerShadowRight, InnerShadowTop, InnerShadowTopLeft, InnerShadowTopRight,
@@ -5541,9 +5564,9 @@ public val OutlineGroup.AllIcons: ____KtList<ImageVector>
         Number93Small, Number94Small, Number95Small, Number96Small, Number97Small, Number98Small,
         Number99Small, Number9Small, Numbers, Nurse, Nut, ObjectScan, Octagon, OctagonMinus,
         OctagonMinus2, OctagonOff, OctagonPlus, OctagonPlus2, Octahedron, OctahedronOff,
-        OctahedronPlus, Old, Olympics, OlympicsOff, Om, Omega, Outbound, Outlet, Oval, OvalVertical,
-        Overline, Package, PackageExport, PackageImport, PackageOff, Packages, Pacman, PageBreak,
-        Paint, PaintOff, Palette, PaletteOff, PanoramaHorizontal, PanoramaHorizontalOff,
+        OctahedronPlus, Old, Olympics, OlympicsOff, Om, Omega, Option, Outbound, Outlet, Oval,
+        OvalVertical, Overline, Package, PackageExport, PackageImport, PackageOff, Packages, Pacman,
+        PageBreak, Paint, PaintOff, Palette, PaletteOff, PanoramaHorizontal, PanoramaHorizontalOff,
         PanoramaVertical, PanoramaVerticalOff, PaperBag, PaperBagOff, Paperclip, Parachute,
         ParachuteOff, Parentheses, ParenthesesOff, Parking, ParkingCircle, ParkingOff, Password,
         PasswordFingerprint, PasswordMobilePhone, PasswordUser, Paw, PawOff, Paywall, Pdf, Peace,
@@ -5599,40 +5622,40 @@ public val OutlineGroup.AllIcons: ____KtList<ImageVector>
         Restore, RewindBackward10, RewindBackward15, RewindBackward20, RewindBackward30,
         RewindBackward40, RewindBackward5, RewindBackward50, RewindBackward60, RewindForward10,
         RewindForward15, RewindForward20, RewindForward30, RewindForward40, RewindForward5,
-        RewindForward50, RewindForward60, RibbonHealth, Rings, Ripple, RippleOff, Road, RoadOff,
-        RoadSign, Robot, RobotFace, RobotOff, Rocket, RocketOff, RollerSkating, Rollercoaster,
-        RollercoasterOff, Rosette, RosetteDiscount, RosetteDiscountCheck, RosetteDiscountCheckOff,
-        RosetteDiscountOff, RosetteNumber0, RosetteNumber1, RosetteNumber2, RosetteNumber3,
-        RosetteNumber4, RosetteNumber5, RosetteNumber6, RosetteNumber7, RosetteNumber8,
-        RosetteNumber9, Rotate, Rotate2, Rotate360, Rotate3d, RotateClockwise, RotateClockwise2,
-        RotateDot, RotateRectangle, Route, Route2, RouteAltLeft, RouteAltRight, RouteOff, RouteScan,
-        RouteSquare, RouteSquare2, RouteX, RouteX2, Router, RouterOff, RowInsertBottom,
-        RowInsertTop, RowRemove, Rss, RubberStamp, RubberStampOff, Ruler, Ruler2, Ruler2Off, Ruler3,
-        RulerMeasure, RulerMeasure2, RulerOff, Run, RvTruck, STurnDown, STurnLeft, STurnRight,
-        STurnUp, Sailboat, Sailboat2, SailboatOff, Salad, Salt, Sandbox, Satellite, SatelliteOff,
-        Sausage, Scale, ScaleOff, ScaleOutline, ScaleOutlineOff, Scan, ScanEye, ScanPosition,
-        Schema, SchemaOff, School, SchoolBell, SchoolOff, Scissors, ScissorsOff, Scooter,
-        ScooterElectric, Scoreboard, ScreenShare, ScreenShareOff, Screenshot, Scribble, ScribbleOff,
-        Script, ScriptMinus, ScriptPlus, ScriptX, ScubaDiving, ScubaDivingTank, ScubaMask,
-        ScubaMaskOff, Sdk, Search, SearchOff, Section, SectionSign, Seedling, SeedlingOff, Select,
-        SelectAll, Selector, Send, Send2, SendOff, Seo, Separator, SeparatorHorizontal,
-        SeparatorVertical, Server, Server2, ServerBolt, ServerCog, ServerOff, ServerSpark,
-        Servicemark, Settings, Settings2, SettingsAutomation, SettingsBolt, SettingsCancel,
-        SettingsCheck, SettingsCode, SettingsCog, SettingsDollar, SettingsDown, SettingsExclamation,
-        SettingsHeart, SettingsMinus, SettingsOff, SettingsPause, SettingsPin, SettingsPlus,
-        SettingsQuestion, SettingsSearch, SettingsShare, SettingsSpark, SettingsStar, SettingsUp,
-        SettingsX, Shadow, ShadowOff, Shape, Shape2, Shape3, ShapeOff, Share, Share2, Share3,
-        ShareOff, Shareplay, Shield, ShieldBolt, ShieldCancel, ShieldCheck, ShieldCheckered,
-        ShieldChevron, ShieldCode, ShieldCog, ShieldDollar, ShieldDown, ShieldExclamation,
-        ShieldHalf, ShieldHeart, ShieldLock, ShieldMinus, ShieldOff, ShieldPause, ShieldPin,
-        ShieldPlus, ShieldQuestion, ShieldSearch, ShieldShare, ShieldStar, ShieldUp, ShieldX, Ship,
-        ShipOff, Shirt, ShirtOff, ShirtSport, Shoe, ShoeOff, ShoppingBag, ShoppingBagCheck,
-        ShoppingBagDiscount, ShoppingBagEdit, ShoppingBagExclamation, ShoppingBagHeart,
-        ShoppingBagMinus, ShoppingBagPlus, ShoppingBagSearch, ShoppingBagX, ShoppingCart,
-        ShoppingCartBolt, ShoppingCartCancel, ShoppingCartCheck, ShoppingCartCode, ShoppingCartCog,
-        ShoppingCartCopy, ShoppingCartDiscount, ShoppingCartDollar, ShoppingCartDown,
-        ShoppingCartExclamation, ShoppingCartHeart, ShoppingCartMinus, ShoppingCartOff,
-        ShoppingCartPause, ShoppingCartPin, ShoppingCartPlus, ShoppingCartQuestion,
+        RewindForward50, RewindForward60, RibbonHealth, Rings, Ripple, RippleDown, RippleOff,
+        RippleUp, Road, RoadOff, RoadSign, Robot, RobotFace, RobotOff, Rocket, RocketOff,
+        RollerSkating, Rollercoaster, RollercoasterOff, Rosette, RosetteAsterisk, RosetteDiscount,
+        RosetteDiscountCheck, RosetteDiscountCheckOff, RosetteDiscountOff, RosetteNumber0,
+        RosetteNumber1, RosetteNumber2, RosetteNumber3, RosetteNumber4, RosetteNumber5,
+        RosetteNumber6, RosetteNumber7, RosetteNumber8, RosetteNumber9, Rotate, Rotate2, Rotate360,
+        Rotate3d, RotateClockwise, RotateClockwise2, RotateDot, RotateRectangle, Route, Route2,
+        RouteAltLeft, RouteAltRight, RouteOff, RouteScan, RouteSquare, RouteSquare2, RouteX,
+        RouteX2, Router, RouterOff, RowInsertBottom, RowInsertTop, RowRemove, Rss, RubberStamp,
+        RubberStampOff, Ruler, Ruler2, Ruler2Off, Ruler3, RulerMeasure, RulerMeasure2, RulerOff,
+        Run, RvTruck, STurnDown, STurnLeft, STurnRight, STurnUp, Sailboat, Sailboat2, SailboatOff,
+        Salad, Salt, Sandbox, Satellite, SatelliteOff, Sausage, Scale, ScaleOff, ScaleOutline,
+        ScaleOutlineOff, Scan, ScanEye, ScanPosition, Schema, SchemaOff, School, SchoolBell,
+        SchoolOff, Scissors, ScissorsOff, Scooter, ScooterElectric, Scoreboard, ScreenShare,
+        ScreenShareOff, Screenshot, Scribble, ScribbleOff, Script, ScriptMinus, ScriptPlus, ScriptX,
+        ScubaDiving, ScubaDivingTank, ScubaMask, ScubaMaskOff, Sdk, Search, SearchOff, Section,
+        SectionSign, Seedling, SeedlingOff, Select, SelectAll, Selector, Send, Send2, SendOff, Seo,
+        Separator, SeparatorHorizontal, SeparatorVertical, Server, Server2, ServerBolt, ServerCog,
+        ServerOff, ServerSpark, Servicemark, Settings, Settings2, SettingsAi, SettingsAutomation,
+        SettingsBolt, SettingsCancel, SettingsCheck, SettingsCode, SettingsCog, SettingsDollar,
+        SettingsDown, SettingsExclamation, SettingsHeart, SettingsMinus, SettingsOff, SettingsPause,
+        SettingsPin, SettingsPlus, SettingsQuestion, SettingsSearch, SettingsShare, SettingsSpark,
+        SettingsStar, SettingsUp, SettingsX, Shadow, ShadowOff, Shape, Shape2, Shape3, ShapeOff,
+        Share, Share2, Share3, ShareOff, Shareplay, Shield, ShieldBolt, ShieldCancel, ShieldCheck,
+        ShieldCheckered, ShieldChevron, ShieldCode, ShieldCog, ShieldDollar, ShieldDown,
+        ShieldExclamation, ShieldHalf, ShieldHeart, ShieldLock, ShieldMinus, ShieldOff, ShieldPause,
+        ShieldPin, ShieldPlus, ShieldQuestion, ShieldSearch, ShieldShare, ShieldStar, ShieldUp,
+        ShieldX, Ship, ShipOff, Shirt, ShirtOff, ShirtSport, Shoe, ShoeOff, ShoppingBag,
+        ShoppingBagCheck, ShoppingBagDiscount, ShoppingBagEdit, ShoppingBagExclamation,
+        ShoppingBagHeart, ShoppingBagMinus, ShoppingBagPlus, ShoppingBagSearch, ShoppingBagX,
+        ShoppingCart, ShoppingCartBolt, ShoppingCartCancel, ShoppingCartCheck, ShoppingCartCode,
+        ShoppingCartCog, ShoppingCartCopy, ShoppingCartDiscount, ShoppingCartDollar,
+        ShoppingCartDown, ShoppingCartExclamation, ShoppingCartHeart, ShoppingCartMinus,
+        ShoppingCartOff, ShoppingCartPause, ShoppingCartPin, ShoppingCartPlus, ShoppingCartQuestion,
         ShoppingCartSearch, ShoppingCartShare, ShoppingCartStar, ShoppingCartUp, ShoppingCartX,
         Shovel, ShovelPitchforks, Shredder, SignLeft, SignRight, Signal2g, Signal3g, Signal4g,
         Signal4gPlus, Signal5g, Signal6g, SignalE, SignalG, SignalH, SignalHPlus, SignalLte,
@@ -5644,21 +5667,22 @@ public val OutlineGroup.AllIcons: ____KtList<ImageVector>
         SortAscendingNumbers, SortAscendingShapes, SortAscendingSmallBig, SortDescending,
         SortDescending2, SortDescendingLetters, SortDescendingNumbers, SortDescendingShapes,
         SortDescendingSmallBig, SortZA, Sos, Soup, SoupOff, SourceCode, Space, SpaceOff, Spaces,
-        SpacingHorizontal, SpacingVertical, Spade, Sparkles, Speakerphone, Speedboat, Sphere,
-        SphereOff, SpherePlus, Spider, Spiral, SpiralOff, SportBillard, Spray, Spy, SpyOff, Sql,
-        Square, SquareArrowDown, SquareArrowLeft, SquareArrowRight, SquareArrowUp, SquareAsterisk,
-        SquareCheck, SquareChevronDown, SquareChevronLeft, SquareChevronRight, SquareChevronUp,
-        SquareChevronsDown, SquareChevronsLeft, SquareChevronsRight, SquareChevronsUp, SquareDashed,
-        SquareDot, SquareF0, SquareF1, SquareF2, SquareF3, SquareF4, SquareF5, SquareF6, SquareF7,
-        SquareF8, SquareF9, SquareForbid, SquareForbid2, SquareHalf, SquareKey, SquareLetterA,
-        SquareLetterB, SquareLetterC, SquareLetterD, SquareLetterE, SquareLetterF, SquareLetterG,
-        SquareLetterH, SquareLetterI, SquareLetterJ, SquareLetterK, SquareLetterL, SquareLetterM,
-        SquareLetterN, SquareLetterO, SquareLetterP, SquareLetterQ, SquareLetterR, SquareLetterS,
-        SquareLetterT, SquareLetterU, SquareLetterV, SquareLetterW, SquareLetterX, SquareLetterY,
-        SquareLetterZ, SquareMinus, SquareNumber0, SquareNumber1, SquareNumber2, SquareNumber3,
-        SquareNumber4, SquareNumber5, SquareNumber6, SquareNumber7, SquareNumber8, SquareNumber9,
-        SquareOff, SquarePercentage, SquarePlus, SquarePlus2, SquareRoot, SquareRoot2,
-        SquareRotated, SquareRotatedForbid, SquareRotatedForbid2, SquareRotatedOff, SquareRounded,
+        SpacingHorizontal, SpacingVertical, Spade, Sparkles, Sparkles2, Speakerphone, Speedboat,
+        Sphere, SphereOff, SpherePlus, Spider, Spiral, SpiralOff, SportBillard, Spray, Spy, SpyOff,
+        Sql, Square, SquareArrowDown, SquareArrowLeft, SquareArrowRight, SquareArrowUp,
+        SquareAsterisk, SquareCheck, SquareChevronDown, SquareChevronLeft, SquareChevronRight,
+        SquareChevronUp, SquareChevronsDown, SquareChevronsLeft, SquareChevronsRight,
+        SquareChevronsUp, SquareDashed, SquareDot, SquareF0, SquareF1, SquareF2, SquareF3, SquareF4,
+        SquareF5, SquareF6, SquareF7, SquareF8, SquareF9, SquareForbid, SquareForbid2, SquareHalf,
+        SquareKey, SquareLetterA, SquareLetterB, SquareLetterC, SquareLetterD, SquareLetterE,
+        SquareLetterF, SquareLetterG, SquareLetterH, SquareLetterI, SquareLetterJ, SquareLetterK,
+        SquareLetterL, SquareLetterM, SquareLetterN, SquareLetterO, SquareLetterP, SquareLetterQ,
+        SquareLetterR, SquareLetterS, SquareLetterT, SquareLetterU, SquareLetterV, SquareLetterW,
+        SquareLetterX, SquareLetterY, SquareLetterZ, SquareMinus, SquareMinus2, SquareNumber0,
+        SquareNumber1, SquareNumber2, SquareNumber3, SquareNumber4, SquareNumber5, SquareNumber6,
+        SquareNumber7, SquareNumber8, SquareNumber9, SquareOff, SquarePercentage, SquarePlus,
+        SquarePlus2, SquareRoot, SquareRoot2, SquareRotated, SquareRotatedAsterisk,
+        SquareRotatedForbid, SquareRotatedForbid2, SquareRotatedOff, SquareRounded,
         SquareRoundedArrowDown, SquareRoundedArrowLeft, SquareRoundedArrowRight,
         SquareRoundedArrowUp, SquareRoundedCheck, SquareRoundedChevronDown,
         SquareRoundedChevronLeft, SquareRoundedChevronRight, SquareRoundedChevronUp,
@@ -5679,18 +5703,19 @@ public val OutlineGroup.AllIcons: ____KtList<ImageVector>
         StairsDown, StairsUp, Star, StarHalf, StarOff, Stars, StarsOff, StatusChange, Steam,
         SteeringWheel, SteeringWheelOff, StepInto, StepOut, StereoGlasses, Stethoscope,
         StethoscopeOff, Sticker, Sticker2, Stopwatch, Storm, StormOff, Stretching, Stretching2,
-        Strikethrough, Submarine, Subscript, Subtask, Sum, SumOff, Sun, SunElectricity, SunHigh,
-        SunLow, SunMoon, SunOff, SunWind, Sunglasses, Sunrise, Sunset, Sunset2, Superscript, Svg,
-        Swimming, Swipe, SwipeDown, SwipeLeft, SwipeRight, SwipeUp, Switch, Switch2, Switch3,
-        SwitchHorizontal, SwitchVertical, Sword, SwordOff, Swords, Table, TableAlias, TableColumn,
-        TableDashed, TableDown, TableExport, TableHeart, TableImport, TableMinus, TableOff,
-        TableOptions, TablePlus, TableRow, TableShare, TableShortcut, TableSpark, Tag, TagMinus,
-        TagOff, TagPlus, TagStarred, Tags, TagsOff, Tallymark1, Tallymark2, Tallymark3, Tallymark4,
-        Tallymarks, Tank, Target, TargetArrow, TargetOff, Tax, TaxEuro, TaxPound, Teapot, Telescope,
-        TelescopeOff, Temperature, TemperatureCelsius, TemperatureFahrenheit, TemperatureMinus,
-        TemperatureOff, TemperaturePlus, TemperatureSnow, TemperatureSun, Template, TemplateOff,
-        Tent, TentOff, Terminal, Terminal2, TestPipe, TestPipe2, TestPipeOff, Tex, TextCaption,
-        TextColor, TextDecrease, TextDirectionLtr, TextDirectionRtl, TextGrammar, TextIncrease,
+        Strikethrough, Submarine, Subscript, Subtask, Subtitles, SubtitlesAi, SubtitlesEdit,
+        SubtitlesOff, Sum, SumOff, Sun, SunElectricity, SunHigh, SunLow, SunMoon, SunOff, SunWind,
+        Sunglasses, Sunrise, Sunset, Sunset2, Superscript, Svg, Swimming, Swipe, SwipeDown,
+        SwipeLeft, SwipeRight, SwipeUp, Switch, Switch2, Switch3, SwitchHorizontal, SwitchVertical,
+        Sword, SwordOff, Swords, Table, TableAlias, TableColumn, TableDashed, TableDown,
+        TableExport, TableHeart, TableImport, TableMinus, TableOff, TableOptions, TablePlus,
+        TableRow, TableShare, TableShortcut, TableSpark, Tag, TagMinus, TagOff, TagPlus, TagStarred,
+        Tags, TagsOff, Tallymark1, Tallymark2, Tallymark3, Tallymark4, Tallymarks, Tank, Target,
+        TargetArrow, TargetOff, Tax, TaxEuro, TaxPound, Teapot, Telescope, TelescopeOff,
+        Temperature, TemperatureCelsius, TemperatureFahrenheit, TemperatureMinus, TemperatureOff,
+        TemperaturePlus, TemperatureSnow, TemperatureSun, Template, TemplateOff, Tent, TentOff,
+        Terminal, Terminal2, TestPipe, TestPipe2, TestPipeOff, Tex, TextCaption, TextColor,
+        TextDecrease, TextDirectionLtr, TextDirectionRtl, TextGrammar, TextIncrease,
         TextOrientation, TextPlus, TextRecognition, TextResize, TextScan2, TextSize, TextSpellcheck,
         TextWrap, TextWrapColumn, TextWrapDisabled, Texture, Theater, Thermometer, ThumbDown,
         ThumbDownOff, ThumbUp, ThumbUpOff, TicTac, Ticket, TicketOff, Tie, Tilde, TiltShift,
@@ -5726,24 +5751,24 @@ public val OutlineGroup.AllIcons: ____KtList<ImageVector>
         VideoOff, VideoPlus, View360, View360Arrow, View360Number, View360Off, Viewfinder,
         ViewfinderOff, ViewportNarrow, ViewportShort, ViewportTall, ViewportWide, Vinyl, Vip,
         VipOff, Virus, VirusOff, VirusSearch, Vocabulary, VocabularyOff, Volcano, Volume, Volume2,
-        Volume3, VolumeOff, Vs, Walk, Wall, WallOff, Wallet, WalletOff, Wallpaper, WallpaperOff,
-        Wand, WandOff, Wash, WashDry, WashDry1, WashDry2, WashDry3, WashDryA, WashDryDip, WashDryF,
-        WashDryFlat, WashDryHang, WashDryOff, WashDryP, WashDryShade, WashDryW, WashDryclean,
-        WashDrycleanOff, WashEco, WashGentle, WashHand, WashMachine, WashOff, WashPress,
-        WashTemperature1, WashTemperature2, WashTemperature3, WashTemperature4, WashTemperature5,
-        WashTemperature6, WashTumbleDry, WashTumbleOff, Waterpolo, WaveSawTool, WaveSine,
-        WaveSquare, WavesElectricity, Webhook, WebhookOff, Weight, Wheat, WheatOff, Wheel,
-        Wheelchair, WheelchairOff, Whirl, Wifi, Wifi0, Wifi1, Wifi2, WifiOff, Wind, WindElectricity,
-        WindOff, Windmill, WindmillOff, Window, WindowMaximize, WindowMinimize, WindowOff, Windsock,
-        Wiper, WiperWash, Woman, Wood, World, WorldBolt, WorldCancel, WorldCheck, WorldCode,
-        WorldCog, WorldDollar, WorldDown, WorldDownload, WorldExclamation, WorldHeart,
-        WorldLatitude, WorldLongitude, WorldMinus, WorldOff, WorldPause, WorldPin, WorldPlus,
-        WorldQuestion, WorldSearch, WorldShare, WorldStar, WorldUp, WorldUpload, WorldWww, WorldX,
-        WreckingBall, Writing, WritingOff, WritingSign, WritingSignOff, X, XPowerY, XboxA, XboxB,
-        XboxX, XboxY, Xd, Xxx, YinYang, Yoga, Zeppelin, ZeppelinOff, Zip, ZodiacAquarius,
-        ZodiacAries, ZodiacCancer, ZodiacCapricorn, ZodiacGemini, ZodiacLeo, ZodiacLibra,
-        ZodiacPisces, ZodiacSagittarius, ZodiacScorpio, ZodiacTaurus, ZodiacVirgo, Zoom, ZoomCancel,
-        ZoomCheck, ZoomCode, ZoomExclamation, ZoomIn, ZoomInArea, ZoomMoney, ZoomOut, ZoomOutArea,
-        ZoomPan, ZoomQuestion, ZoomReplace, ZoomReset, ZoomScan, Zzz, ZzzOff)
+        Volume3, Volume4, VolumeOff, Vs, Walk, Wall, WallOff, Wallet, WalletOff, Wallpaper,
+        WallpaperOff, Wand, WandOff, Wash, WashDry, WashDry1, WashDry2, WashDry3, WashDryA,
+        WashDryDip, WashDryF, WashDryFlat, WashDryHang, WashDryOff, WashDryP, WashDryShade,
+        WashDryW, WashDryclean, WashDrycleanOff, WashEco, WashGentle, WashHand, WashMachine,
+        WashOff, WashPress, WashTemperature1, WashTemperature2, WashTemperature3, WashTemperature4,
+        WashTemperature5, WashTemperature6, WashTumbleDry, WashTumbleOff, Waterpolo, WaveSawTool,
+        WaveSine, WaveSquare, WavesElectricity, Webhook, WebhookOff, Weight, Wheat, WheatOff, Wheel,
+        Wheelchair, WheelchairOff, Whirl, Whisk, Wifi, Wifi0, Wifi1, Wifi2, WifiOff, Wind,
+        WindElectricity, WindOff, Windmill, WindmillOff, Window, WindowMaximize, WindowMinimize,
+        WindowOff, Windsock, Wiper, WiperWash, Woman, Wood, World, WorldBolt, WorldCancel,
+        WorldCheck, WorldCode, WorldCog, WorldDollar, WorldDown, WorldDownload, WorldExclamation,
+        WorldHeart, WorldLatitude, WorldLongitude, WorldMinus, WorldOff, WorldPause, WorldPin,
+        WorldPlus, WorldQuestion, WorldSearch, WorldShare, WorldStar, WorldUp, WorldUpload,
+        WorldWww, WorldX, WreckingBall, Writing, WritingOff, WritingSign, WritingSignOff, X,
+        XPowerY, XboxA, XboxB, XboxX, XboxY, Xd, Xxx, YinYang, Yoga, Zeppelin, ZeppelinOff, Zip,
+        ZodiacAquarius, ZodiacAries, ZodiacCancer, ZodiacCapricorn, ZodiacGemini, ZodiacLeo,
+        ZodiacLibra, ZodiacPisces, ZodiacSagittarius, ZodiacScorpio, ZodiacTaurus, ZodiacVirgo,
+        Zoom, ZoomCancel, ZoomCheck, ZoomCode, ZoomExclamation, ZoomIn, ZoomInArea, ZoomMoney,
+        ZoomOut, ZoomOutArea, ZoomPan, ZoomQuestion, ZoomReplace, ZoomReset, ZoomScan, Zzz, ZzzOff)
     return __AllIcons!!
   }

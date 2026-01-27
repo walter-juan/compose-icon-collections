@@ -28,7 +28,7 @@ public val SolidGroup.FlorinSign: ImageVector
                 curveToRelative(-17.7f, 0.0f, -32.0f, 14.3f, -32.0f, 32.0f)
                 reflectiveCurveToRelative(14.3f, 32.0f, 32.0f, 32.0f)
                 lineToRelative(80.0f, 0.0f)
-                lineTo(98.9f, 396.3f)
+                lineToRelative(-45.1f, 108.3f)
                 curveToRelative(-5.0f, 11.9f, -16.6f, 19.7f, -29.5f, 19.7f)
                 lineTo(32.0f, 416.0f)
                 curveToRelative(-17.7f, 0.0f, -32.0f, 14.3f, -32.0f, 32.0f)

@@ -47,7 +47,7 @@ public val OutlineGroup.MichelinStar: ImageVector
                 curveToRelative(0.0f, 1.688f, -1.294f, 3.094f, -2.925f, 3.094f)
                 curveToRelative(-0.675f, 0.0f, -1.575f, -0.281f, -2.138f, -0.788f)
                 lineToRelative(-0.225f, -0.169f)
-                close()
+                lineToRelative(0.001f, 0.001f)
             }
         }
         .build()

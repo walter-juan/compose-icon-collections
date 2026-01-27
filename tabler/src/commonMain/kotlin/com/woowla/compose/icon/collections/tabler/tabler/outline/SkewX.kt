@@ -30,7 +30,6 @@ public val OutlineGroup.SkewX: ImageVector
                 arcToRelative(1.0f, 1.0f, 0.0f, false, false, -0.816f, -0.983f)
                 lineToRelative(-14.0f, -2.625f)
                 arcToRelative(1.0f, 1.0f, 0.0f, false, false, -1.184f, 0.983f)
-                close()
             }
         }
         .build()

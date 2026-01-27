@@ -23,16 +23,14 @@ public val OutlineGroup.BrandTripadvisor: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(6.5f, 13.5f)
-                moveToRelative(-1.5f, 0.0f)
+                moveTo(5.0f, 13.5f)
                 arcToRelative(1.5f, 1.5f, 0.0f, true, false, 3.0f, 0.0f)
                 arcToRelative(1.5f, 1.5f, 0.0f, true, false, -3.0f, 0.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(17.5f, 13.5f)
-                moveToRelative(-1.5f, 0.0f)
+                moveTo(16.0f, 13.5f)
                 arcToRelative(1.5f, 1.5f, 0.0f, true, false, 3.0f, 0.0f)
                 arcToRelative(1.5f, 1.5f, 0.0f, true, false, -3.0f, 0.0f)
             }
@@ -43,7 +41,6 @@ public val OutlineGroup.BrandTripadvisor: ImageVector
                 arcToRelative(4.5f, 4.5f, 0.0f, true, false, 3.5f, 1.671f)
                 lineToRelative(1.0f, -1.671f)
                 horizontalLineToRelative(-4.5f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -52,7 +49,6 @@ public val OutlineGroup.BrandTripadvisor: ImageVector
                 arcToRelative(4.5f, 4.5f, 0.0f, true, true, -3.5f, 1.671f)
                 lineToRelative(-1.0f, -1.671f)
                 horizontalLineToRelative(4.5f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

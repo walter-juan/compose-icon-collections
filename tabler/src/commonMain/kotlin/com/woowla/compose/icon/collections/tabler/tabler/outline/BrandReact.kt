@@ -74,7 +74,6 @@ public val OutlineGroup.BrandReact: ImageVector
                 moveTo(11.5f, 12.866f)
                 arcToRelative(1.0f, 1.0f, 0.0f, true, false, 1.0f, -1.732f)
                 arcToRelative(1.0f, 1.0f, 0.0f, false, false, -1.0f, 1.732f)
-                close()
             }
         }
         .build()

@@ -39,7 +39,6 @@ public val OutlineGroup.ArrowMoveUp: ImageVector
                 moveTo(12.0f, 17.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, true, true, 0.0f, 4.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, false, true, 0.0f, -4.0f)
-                close()
             }
         }
         .build()

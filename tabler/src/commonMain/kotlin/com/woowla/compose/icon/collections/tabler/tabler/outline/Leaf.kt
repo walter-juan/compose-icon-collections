@@ -36,7 +36,7 @@ public val OutlineGroup.Leaf: ImageVector
                 curveToRelative(-9.0f, 0.0f, -11.986f, 4.0f, -12.0f, 9.0f)
                 curveToRelative(0.0f, 1.0f, 0.0f, 3.0f, 2.0f, 5.0f)
                 horizontalLineToRelative(3.0f)
-                close()
+                lineToRelative(0.014f, 0.0f)
             }
         }
         .build()

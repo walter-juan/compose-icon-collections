@@ -45,7 +45,7 @@ public val OutlineGroup.BrandAdobePhotoshop: ImageVector
                 curveToRelative(0.046f, -0.004f, 0.101f, -0.004f, 0.211f, -0.004f)
                 horizontalLineToRelative(1.303f)
                 arcToRelative(1.895f, 1.895f, 0.0f, true, true, 0.0f, 3.789f)
-                close()
+                lineToRelative(-2.368f, 0.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

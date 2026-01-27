@@ -21,21 +21,21 @@ public val EditorGroup.CodeView: ImageVector
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(16.95f, 8.464f)
+                moveTo(16.95f, 8.465f)
                 lineTo(18.364f, 7.05f)
                 lineTo(23.314f, 12.0f)
                 lineTo(18.364f, 16.95f)
-                lineTo(16.95f, 15.535f)
+                lineTo(16.95f, 15.536f)
                 lineTo(20.486f, 12.0f)
-                lineTo(16.95f, 8.464f)
+                lineTo(16.95f, 8.465f)
                 close()
-                moveTo(7.05f, 8.464f)
+                moveTo(7.05f, 8.465f)
                 lineTo(3.515f, 12.0f)
-                lineTo(7.05f, 15.535f)
+                lineTo(7.05f, 15.536f)
                 lineTo(5.636f, 16.95f)
                 lineTo(0.687f, 12.0f)
                 lineTo(5.636f, 7.05f)
-                lineTo(7.05f, 8.464f)
+                lineTo(7.05f, 8.465f)
                 close()
             }
         }

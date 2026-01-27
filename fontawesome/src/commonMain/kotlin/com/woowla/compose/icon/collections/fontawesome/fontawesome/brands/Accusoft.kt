@@ -22,7 +22,7 @@ public val BrandsGroup.Accusoft: ImageVector
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
                 moveTo(322.1f, 252.0f)
-                verticalLineToRelative(-1.0f)
+                lineToRelative(0.0f, -1.0f)
                 lineToRelative(-51.2f, -65.8f)
                 reflectiveCurveToRelative(-12.0f, 1.6f, -25.0f, 15.1f)
                 curveToRelative(-9.0f, 9.3f, -242.1f, 239.1f, -243.4f, 240.9f)
@@ -42,7 +42,7 @@ public val BrandsGroup.Accusoft: ImageVector
                 curveToRelative(-9.7f, -12.2f, -14.3f, -12.9f, -38.4f, -12.8f)
                 curveToRelative(-10.2f, 0.0f, -106.8f, 0.5f, -116.5f, 0.6f)
                 curveToRelative(-19.2f, 0.1f, -32.9f, -0.3f, -19.2f, 16.9f)
-                curveTo(250.0f, 75.0f, 476.5f, 365.2f, 482.2f, 372.1f)
+                curveToRelative(7.7f, 9.5f, 234.2f, 299.7f, 239.9f, 306.6f)
                 close()
                 moveTo(634.9f, 373.7f)
                 curveToRelative(-2.3f, -0.3f, -24.6f, -4.7f, -38.0f, -7.2f)

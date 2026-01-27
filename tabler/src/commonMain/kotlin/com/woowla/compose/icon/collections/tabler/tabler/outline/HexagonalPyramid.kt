@@ -34,7 +34,6 @@ public val OutlineGroup.HexagonalPyramid: ImageVector
                 arcToRelative(1.988f, 1.988f, 0.0f, false, false, 0.267f, -2.483f)
                 lineToRelative(-7.846f, -12.954f)
                 arcToRelative(0.996f, 0.996f, 0.0f, false, false, -1.676f, 0.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

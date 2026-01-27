@@ -22,7 +22,7 @@ public val SolidGroup.StarAndCrescent: ImageVector
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
                 moveTo(0.0f, 256.0f)
-                curveTo(0.0f, 114.6f, 114.6f, 0.0f, 256.0f, 0.0f)
+                curveToRelative(0.0f, -141.4f, 114.6f, -256.0f, 256.0f, -256.0f)
                 curveToRelative(33.0f, 0.0f, 64.6f, 6.3f, 93.6f, 17.7f)
                 curveToRelative(7.4f, 2.9f, 11.5f, 10.7f, 9.8f, 18.4f)
                 reflectiveCurveToRelative(-8.8f, 13.0f, -16.7f, 12.4f)

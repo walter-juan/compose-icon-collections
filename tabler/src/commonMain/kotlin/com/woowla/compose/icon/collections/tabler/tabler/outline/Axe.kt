@@ -41,7 +41,6 @@ public val OutlineGroup.Axe: ImageVector
                 lineToRelative(-6.0f, 6.0f)
                 lineToRelative(-1.296f, 3.24f)
                 arcToRelative(1.25f, 1.25f, 0.0f, false, true, -2.044f, 0.42f)
-                close()
             }
         }
         .build()

@@ -46,7 +46,7 @@ public val OutlineGroup.BrandKickstarter: ImageVector
                 curveToRelative(0.323f, 0.356f, 0.515f, 0.714f, 0.6f, 1.08f)
                 curveToRelative(0.052f, 0.224f, 0.0f, 0.643f, 0.0f, 1.26f)
                 verticalLineToRelative(2.698f)
-                close()
+                lineToRelative(-0.005f, 0.0f)
             }
         }
         .build()

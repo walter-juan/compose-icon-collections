@@ -16,25 +16,23 @@ public val BrandsGroup.Gratipay: ImageVector
         if (_gratipay != null) {
             return _gratipay!!
         }
-        _gratipay = Builder(name = "Gratipay", defaultWidth = 496.0.dp, defaultHeight = 512.0.dp,
-                viewportWidth = 496.0f, viewportHeight = 512.0f).apply {
+        _gratipay = Builder(name = "Gratipay", defaultWidth = 512.0.dp, defaultHeight = 512.0.dp,
+                viewportWidth = 512.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(248.0f, 8.0f)
-                curveTo(111.1f, 8.0f, 0.0f, 119.1f, 0.0f, 256.0f)
-                reflectiveCurveToRelative(111.1f, 248.0f, 248.0f, 248.0f)
-                reflectiveCurveToRelative(248.0f, -111.1f, 248.0f, -248.0f)
-                reflectiveCurveTo(384.9f, 8.0f, 248.0f, 8.0f)
+                moveTo(256.0f, 0.0f)
+                arcToRelative(256.0f, 256.0f, 0.0f, true, false, 0.0f, 512.0f)
+                arcToRelative(256.0f, 256.0f, 0.0f, true, false, 0.0f, -512.0f)
                 close()
-                moveTo(362.6f, 234.4f)
-                lineToRelative(-113.0f, 152.7f)
-                lineToRelative(-112.7f, -152.7f)
-                curveToRelative(-8.7f, -11.9f, -19.1f, -50.4f, 13.6f, -72.0f)
-                curveToRelative(28.1f, -18.1f, 54.6f, -4.2f, 68.5f, 11.9f)
-                curveToRelative(15.9f, 17.9f, 46.6f, 16.9f, 61.7f, 0.0f)
-                curveToRelative(13.9f, -16.1f, 40.4f, -30.0f, 68.1f, -11.9f)
-                curveToRelative(32.9f, 21.6f, 22.6f, 60.0f, 13.8f, 72.0f)
+                moveTo(374.3f, 233.7f)
+                lineTo(257.7f, 391.3f)
+                lineTo(141.3f, 233.7f)
+                curveToRelative(-9.0f, -12.3f, -19.7f, -52.0f, 14.0f, -74.3f)
+                curveToRelative(29.0f, -18.7f, 56.4f, -4.3f, 70.7f, 12.3f)
+                curveToRelative(16.4f, 18.5f, 48.1f, 17.4f, 63.7f, 0.0f)
+                curveToRelative(14.3f, -16.6f, 41.7f, -31.0f, 70.3f, -12.3f)
+                curveToRelative(34.0f, 22.3f, 23.3f, 61.9f, 14.2f, 74.3f)
                 close()
             }
         }

@@ -40,7 +40,7 @@ public val OutlineGroup.ClockStop: ImageVector
                 horizontalLineToRelative(6.0f)
                 verticalLineToRelative(6.0f)
                 horizontalLineToRelative(-6.0f)
-                close()
+                lineToRelative(0.0f, -6.0f)
             }
         }
         .build()

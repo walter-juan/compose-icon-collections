@@ -32,7 +32,7 @@ public val SolidGroup.CodeMerge: ImageVector
                 curveToRelative(0.0f, 32.8f, 19.7f, 61.0f, 48.0f, 73.3f)
                 lineToRelative(0.0f, 205.3f)
                 curveTo(19.7f, 371.0f, 0.0f, 399.2f, 0.0f, 432.0f)
-                curveToRelative(0.0f, 44.2f, 35.8f, 80.0f, 80.0f, 80.0f)
+                curveTo(0.0f, 476.2f, 35.8f, 512.0f, 80.0f, 512.0f)
                 reflectiveCurveToRelative(80.0f, -35.8f, 80.0f, -80.0f)
                 curveToRelative(0.0f, -32.8f, -19.7f, -61.0f, -48.0f, -73.3f)
                 lineToRelative(0.0f, -86.6f)

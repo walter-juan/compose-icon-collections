@@ -38,7 +38,7 @@ public val OutlineGroup.BrandElastic: ImageVector
                 arcToRelative(2.5f, 2.5f, 0.0f, false, true, 2.0f, -4.0f)
                 curveToRelative(0.787f, 0.0f, 1.542f, 0.432f, 2.0f, 1.0f)
                 curveToRelative(0.786f, -1.73f, 2.476f, -3.0f, 4.5f, -3.0f)
-                close()
+                lineToRelative(-0.002f, -0.008f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

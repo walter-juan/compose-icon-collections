@@ -50,7 +50,6 @@ public val OutlineGroup.BasketQuestion: ImageVector
                 moveTo(12.0f, 16.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, true, false, 0.0f, -4.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, false, false, 0.0f, 4.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

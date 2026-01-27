@@ -28,7 +28,7 @@ public val OutlineGroup.BrandSurfshark: ImageVector
                 curveToRelative(-5.774f, -0.208f, -6.824f, 1.0f, -7.91f, 5.382f)
                 curveToRelative(-2.884f, 11.816f, -3.845f, 14.716f, 4.792f, 11.198f)
                 curveToRelative(9.392f, -3.831f, 9.297f, -5.382f, 9.114f, -10.155f)
-                close()
+                lineToRelative(0.004f, 0.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

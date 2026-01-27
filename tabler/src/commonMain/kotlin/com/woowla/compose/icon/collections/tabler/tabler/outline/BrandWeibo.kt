@@ -31,7 +31,6 @@ public val OutlineGroup.BrandWeibo: ImageVector
                 curveToRelative(0.415f, 0.44f, 0.752f, 1.39f, 0.749f, 2.062f)
                 curveToRelative(2.0f, -1.615f, 4.308f, 0.387f, 3.5f, 2.693f)
                 curveToRelative(1.26f, 0.557f, 2.5f, 0.538f, 2.5f, 2.742f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

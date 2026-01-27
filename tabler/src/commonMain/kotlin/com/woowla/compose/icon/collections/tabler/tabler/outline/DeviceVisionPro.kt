@@ -48,7 +48,6 @@ public val OutlineGroup.DeviceVisionPro: ImageVector
                 curveToRelative(0.6f, -0.403f, 1.307f, -0.704f, 2.12f, -0.907f)
                 arcToRelative(16.088f, 16.088f, 0.0f, false, true, 2.8f, -0.423f)
                 curveToRelative(1.04f, -0.071f, 2.13f, -0.107f, 3.273f, -0.107f)
-                close()
             }
         }
         .build()

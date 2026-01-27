@@ -37,7 +37,6 @@ public val OutlineGroup.ColorPicker: ImageVector
                 lineToRelative(-11.7f, 11.7f)
                 horizontalLineToRelative(-4.0f)
                 verticalLineToRelative(-4.0f)
-                close()
             }
         }
         .build()

@@ -63,7 +63,7 @@ public val OutlineGroup.TipJar: ImageVector
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(6.0f, 4.0f)
                 horizontalLineToRelative(12.0f)
-                close()
+                lineToRelative(-12.0f, 0.0f)
             }
         }
         .build()

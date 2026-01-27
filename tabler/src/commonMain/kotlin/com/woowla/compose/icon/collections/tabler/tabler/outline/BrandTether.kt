@@ -34,7 +34,6 @@ public val OutlineGroup.BrandTether: ImageVector
                 lineToRelative(2.4f, 5.019f)
                 curveToRelative(0.58f, 1.207f, 0.26f, 2.925f, -0.69f, 3.83f)
                 curveToRelative(-3.453f, 3.293f, -3.466f, 3.279f, -6.94f, 6.549f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

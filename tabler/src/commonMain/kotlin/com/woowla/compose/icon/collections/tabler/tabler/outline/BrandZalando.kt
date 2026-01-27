@@ -38,7 +38,6 @@ public val OutlineGroup.BrandZalando: ImageVector
                 horizontalLineToRelative(-0.007f)
                 arcToRelative(19.041f, 19.041f, 0.0f, false, true, -6.425f, 2.474f)
                 arcToRelative(5.01f, 5.01f, 0.0f, false, true, -0.871f, 0.083f)
-                close()
             }
         }
         .build()

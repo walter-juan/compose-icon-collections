@@ -40,7 +40,6 @@ public val OutlineGroup.BrandRust: ImageVector
                 arcToRelative(1.916f, 1.916f, 0.0f, false, false, 1.185f, -2.859f)
                 curveToRelative(-1.045f, -1.714f, 0.918f, -3.678f, 2.633f, -2.633f)
                 arcToRelative(1.914f, 1.914f, 0.0f, false, false, 2.858f, -1.184f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -51,7 +50,6 @@ public val OutlineGroup.BrandRust: ImageVector
                 horizontalLineToRelative(-6.0f)
                 verticalLineToRelative(8.0f)
                 verticalLineToRelative(-4.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

@@ -23,8 +23,7 @@ public val OutlineGroup.Dashboard: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(12.0f, 13.0f)
-                moveToRelative(-2.0f, 0.0f)
+                moveTo(10.0f, 13.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, true, false, 4.0f, 0.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, true, false, -4.0f, 0.0f)
             }
@@ -39,7 +38,7 @@ public val OutlineGroup.Dashboard: ImageVector
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(6.4f, 20.0f)
                 arcToRelative(9.0f, 9.0f, 0.0f, true, true, 11.2f, 0.0f)
-                close()
+                lineToRelative(-11.2f, 0.0f)
             }
         }
         .build()

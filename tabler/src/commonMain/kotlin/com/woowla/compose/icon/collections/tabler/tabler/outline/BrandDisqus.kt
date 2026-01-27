@@ -31,7 +31,6 @@ public val OutlineGroup.BrandDisqus: ImageVector
                 curveToRelative(0.0f, -4.97f, 3.84f, -9.0f, 8.898f, -9.0f)
                 curveToRelative(5.052f, 0.0f, 9.152f, 4.03f, 9.152f, 9.0f)
                 curveToRelative(0.0f, 4.972f, -4.098f, 9.0f, -9.153f, 9.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -43,7 +42,6 @@ public val OutlineGroup.BrandDisqus: ImageVector
                 curveToRelative(2.112f, 0.0f, 3.515f, 0.823f, 3.515f, 2.981f)
                 verticalLineToRelative(0.035f)
                 curveToRelative(0.0f, 2.18f, -1.403f, 2.984f, -3.515f, 2.984f)
-                close()
             }
         }
         .build()

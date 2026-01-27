@@ -35,7 +35,7 @@ public val OutlineGroup.BrandDeviantart: ImageVector
                 verticalLineToRelative(-4.0f)
                 horizontalLineToRelative(6.429f)
                 lineToRelative(2.571f, -4.0f)
-                close()
+                lineToRelative(3.0f, 0.0f)
             }
         }
         .build()

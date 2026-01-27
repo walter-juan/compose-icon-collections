@@ -52,21 +52,18 @@ public val OutlineGroup.BrandRedux: ImageVector
                 arcToRelative(1.0f, 1.0f, 0.0f, false, false, -0.367f, -1.365f)
                 arcToRelative(1.007f, 1.007f, 0.0f, false, false, -1.373f, 0.366f)
                 arcToRelative(1.0f, 1.0f, 0.0f, false, false, 0.368f, 1.365f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(9.5f, 15.5f)
-                moveToRelative(-1.0f, 0.0f)
+                moveTo(8.5f, 15.5f)
                 arcToRelative(1.0f, 1.0f, 0.0f, true, false, 2.0f, 0.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, true, false, -2.0f, 0.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(15.5f, 14.0f)
-                moveToRelative(-1.0f, 0.0f)
+                moveTo(14.5f, 14.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, true, false, 2.0f, 0.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, true, false, -2.0f, 0.0f)
             }

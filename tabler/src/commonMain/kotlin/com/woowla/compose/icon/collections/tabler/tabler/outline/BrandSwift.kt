@@ -35,7 +35,6 @@ public val OutlineGroup.BrandSwift: ImageVector
                 curveToRelative(0.504f, 0.148f, 1.463f, 0.667f, 2.88f, 1.559f)
                 verticalLineToRelative(-1.507f)
                 curveToRelative(0.0f, -1.377f, -0.515f, -2.67f, -1.453f, -3.665f)
-                close()
             }
         }
         .build()

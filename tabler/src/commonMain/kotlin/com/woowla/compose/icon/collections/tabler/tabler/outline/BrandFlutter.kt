@@ -27,7 +27,7 @@ public val OutlineGroup.BrandFlutter: ImageVector
                 lineToRelative(-3.0f, -3.0f)
                 lineToRelative(8.0f, -8.0f)
                 horizontalLineToRelative(6.0f)
-                close()
+                lineToRelative(-11.0f, 11.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -38,7 +38,7 @@ public val OutlineGroup.BrandFlutter: ImageVector
                 horizontalLineToRelative(5.0f)
                 lineToRelative(-5.0f, 5.0f)
                 lineToRelative(5.0f, 5.0f)
-                close()
+                lineToRelative(-5.0f, 0.0f)
             }
         }
         .build()

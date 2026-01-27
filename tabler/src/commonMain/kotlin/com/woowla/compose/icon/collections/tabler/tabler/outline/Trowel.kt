@@ -30,7 +30,6 @@ public val OutlineGroup.Trowel: ImageVector
                 arcToRelative(1.978f, 1.978f, 0.0f, false, true, 2.502f, -2.502f)
                 lineToRelative(8.045f, 2.682f)
                 arcToRelative(1.978f, 1.978f, 0.0f, false, true, 0.773f, 3.274f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -46,7 +45,6 @@ public val OutlineGroup.Trowel: ImageVector
                 arcToRelative(1.96f, 1.96f, 0.0f, false, true, -2.773f, 2.772f)
                 lineToRelative(-1.08f, -1.079f)
                 arcToRelative(1.96f, 1.96f, 0.0f, false, true, 2.773f, -2.772f)
-                close()
             }
         }
         .build()

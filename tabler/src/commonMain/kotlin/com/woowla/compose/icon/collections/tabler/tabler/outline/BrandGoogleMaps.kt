@@ -23,8 +23,7 @@ public val OutlineGroup.BrandGoogleMaps: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(12.0f, 9.5f)
-                moveToRelative(-2.5f, 0.0f)
+                moveTo(9.5f, 9.5f)
                 arcToRelative(2.5f, 2.5f, 0.0f, true, false, 5.0f, 0.0f)
                 arcToRelative(2.5f, 2.5f, 0.0f, true, false, -5.0f, 0.0f)
             }
@@ -65,7 +64,6 @@ public val OutlineGroup.BrandGoogleMaps: ImageVector
                 arcToRelative(6.25f, 6.25f, 0.0f, false, true, 4.811f, -2.245f)
                 arcToRelative(6.462f, 6.462f, 0.0f, false, true, 1.918f, 0.284f)
                 arcToRelative(6.255f, 6.255f, 0.0f, false, true, 3.686f, 3.092f)
-                close()
             }
         }
         .build()

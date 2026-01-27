@@ -33,7 +33,6 @@ public val OutlineGroup.CircleChevronLeft: ImageVector
                 moveTo(21.0f, 12.0f)
                 arcToRelative(9.0f, 9.0f, 0.0f, true, false, -18.0f, 0.0f)
                 arcToRelative(9.0f, 9.0f, 0.0f, false, false, 18.0f, 0.0f)
-                close()
             }
         }
         .build()

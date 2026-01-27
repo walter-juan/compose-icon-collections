@@ -21,15 +21,15 @@ public val SolidGroup.Square: ImageVector
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(0.0f, 96.0f)
-                curveTo(0.0f, 60.7f, 28.7f, 32.0f, 64.0f, 32.0f)
-                horizontalLineTo(384.0f)
+                moveTo(64.0f, 32.0f)
+                lineToRelative(320.0f, 0.0f)
                 curveToRelative(35.3f, 0.0f, 64.0f, 28.7f, 64.0f, 64.0f)
-                verticalLineTo(416.0f)
+                lineToRelative(0.0f, 320.0f)
                 curveToRelative(0.0f, 35.3f, -28.7f, 64.0f, -64.0f, 64.0f)
-                horizontalLineTo(64.0f)
+                lineTo(64.0f, 480.0f)
                 curveToRelative(-35.3f, 0.0f, -64.0f, -28.7f, -64.0f, -64.0f)
-                verticalLineTo(96.0f)
+                lineTo(0.0f, 96.0f)
+                curveTo(0.0f, 60.7f, 28.7f, 32.0f, 64.0f, 32.0f)
                 close()
             }
         }

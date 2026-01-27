@@ -44,7 +44,7 @@ public val OutlineGroup.BrandTabler: ImageVector
                 arcToRelative(4.0f, 4.0f, 0.0f, false, true, -4.0f, 4.0f)
                 horizontalLineToRelative(-10.0f)
                 arcToRelative(4.0f, 4.0f, 0.0f, false, true, -4.0f, -4.0f)
-                close()
+                lineToRelative(0.0f, -10.0f)
             }
         }
         .build()

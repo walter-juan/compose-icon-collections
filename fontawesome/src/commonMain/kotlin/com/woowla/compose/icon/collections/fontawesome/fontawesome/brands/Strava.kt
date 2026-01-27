@@ -23,17 +23,19 @@ public val BrandsGroup.Strava: ImageVector
                     pathFillType = NonZero) {
                 moveTo(158.4f, 0.0f)
                 lineTo(7.0f, 292.0f)
-                horizontalLineToRelative(89.2f)
-                lineToRelative(62.2f, -116.1f)
+                lineTo(96.2f, 292.0f)
+                lineTo(158.4f, 175.9f)
                 lineTo(220.1f, 292.0f)
-                horizontalLineToRelative(88.5f)
+                lineTo(308.6f, 292.0f)
+                lineTo(158.4f, 0.0f)
                 close()
                 moveTo(308.6f, 292.0f)
                 lineToRelative(-43.9f, 88.2f)
                 lineToRelative(-44.6f, -88.2f)
-                horizontalLineToRelative(-67.6f)
+                lineToRelative(-67.6f, 0.0f)
                 lineToRelative(112.2f, 220.0f)
                 lineToRelative(111.5f, -220.0f)
+                lineToRelative(-67.6f, 0.0f)
                 close()
             }
         }

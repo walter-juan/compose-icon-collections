@@ -32,7 +32,6 @@ public val OutlineGroup.Pentagon: ImageVector
                 arcToRelative(1.978f, 1.978f, 0.0f, false, true, 0.719f, -2.212f)
                 lineToRelative(8.021f, -5.828f)
                 arcToRelative(1.978f, 1.978f, 0.0f, false, true, 2.326f, 0.0f)
-                close()
             }
         }
         .build()

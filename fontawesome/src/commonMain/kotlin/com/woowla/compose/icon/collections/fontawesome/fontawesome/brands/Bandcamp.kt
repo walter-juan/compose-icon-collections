@@ -22,15 +22,14 @@ public val BrandsGroup.Bandcamp: ImageVector
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
                 moveTo(256.0f, 8.0f)
-                curveTo(119.0f, 8.0f, 8.0f, 119.0f, 8.0f, 256.0f)
-                reflectiveCurveTo(119.0f, 504.0f, 256.0f, 504.0f)
-                reflectiveCurveTo(504.0f, 393.0f, 504.0f, 256.0f)
-                reflectiveCurveTo(393.0f, 8.0f, 256.0f, 8.0f)
+                arcToRelative(248.0f, 248.0f, 0.0f, true, false, 0.0f, 496.0f)
+                arcToRelative(248.0f, 248.0f, 0.0f, true, false, 0.0f, -496.0f)
                 close()
                 moveTo(304.2f, 334.1f)
-                horizontalLineToRelative(-181.0f)
-                lineTo(207.9f, 178.0f)
-                horizontalLineToRelative(181.0f)
+                lineToRelative(-181.0f, 0.0f)
+                lineToRelative(84.7f, -156.1f)
+                lineToRelative(181.0f, 0.0f)
+                lineToRelative(-84.7f, 156.1f)
                 close()
             }
         }

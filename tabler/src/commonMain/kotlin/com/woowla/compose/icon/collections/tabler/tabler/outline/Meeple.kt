@@ -36,7 +36,6 @@ public val OutlineGroup.Meeple: ImageVector
                 horizontalLineToRelative(-5.0f)
                 curveToRelative(-1.0f, 0.0f, -2.0f, -4.0f, -3.0f, -4.0f)
                 reflectiveCurveToRelative(-2.0f, 4.0f, -3.0f, 4.0f)
-                close()
             }
         }
         .build()

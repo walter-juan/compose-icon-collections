@@ -44,7 +44,6 @@ public val FilledGroup.BounceLeft: ImageVector
                 moveTo(6.0f, 4.0f)
                 arcToRelative(3.0f, 3.0f, 0.0f, true, false, 0.0f, 6.0f)
                 arcToRelative(3.0f, 3.0f, 0.0f, false, false, 0.0f, -6.0f)
-                close()
             }
         }
         .build()

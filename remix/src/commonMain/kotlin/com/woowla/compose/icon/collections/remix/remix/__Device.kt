@@ -86,6 +86,12 @@ import com.woowla.compose.icon.collections.remix.remix.device.MobileDownloadFill
 import com.woowla.compose.icon.collections.remix.remix.device.MobileDownloadLine
 import com.woowla.compose.icon.collections.remix.remix.device.MouseFill
 import com.woowla.compose.icon.collections.remix.remix.device.MouseLine
+import com.woowla.compose.icon.collections.remix.remix.device.NetworkErrorFill
+import com.woowla.compose.icon.collections.remix.remix.device.NetworkErrorLine
+import com.woowla.compose.icon.collections.remix.remix.device.NetworkFill
+import com.woowla.compose.icon.collections.remix.remix.device.NetworkLine
+import com.woowla.compose.icon.collections.remix.remix.device.NetworkOffFill
+import com.woowla.compose.icon.collections.remix.remix.device.NetworkOffLine
 import com.woowla.compose.icon.collections.remix.remix.device.PhoneFill
 import com.woowla.compose.icon.collections.remix.remix.device.PhoneFindFill
 import com.woowla.compose.icon.collections.remix.remix.device.PhoneFindLine
@@ -96,6 +102,8 @@ import com.woowla.compose.icon.collections.remix.remix.device.QrCodeFill
 import com.woowla.compose.icon.collections.remix.remix.device.QrCodeLine
 import com.woowla.compose.icon.collections.remix.remix.device.QrScan2Fill
 import com.woowla.compose.icon.collections.remix.remix.device.QrScan2Line
+import com.woowla.compose.icon.collections.remix.remix.device.QrScanAiFill
+import com.woowla.compose.icon.collections.remix.remix.device.QrScanAiLine
 import com.woowla.compose.icon.collections.remix.remix.device.QrScanFill
 import com.woowla.compose.icon.collections.remix.remix.device.QrScanLine
 import com.woowla.compose.icon.collections.remix.remix.device.RadarFill
@@ -138,6 +146,14 @@ import com.woowla.compose.icon.collections.remix.remix.device.ServerFill
 import com.woowla.compose.icon.collections.remix.remix.device.ServerLine
 import com.woowla.compose.icon.collections.remix.remix.device.ShutDownFill
 import com.woowla.compose.icon.collections.remix.remix.device.ShutDownLine
+import com.woowla.compose.icon.collections.remix.remix.device.SignalCellular1Fill
+import com.woowla.compose.icon.collections.remix.remix.device.SignalCellular1Line
+import com.woowla.compose.icon.collections.remix.remix.device.SignalCellular2Fill
+import com.woowla.compose.icon.collections.remix.remix.device.SignalCellular2Line
+import com.woowla.compose.icon.collections.remix.remix.device.SignalCellular3Fill
+import com.woowla.compose.icon.collections.remix.remix.device.SignalCellular3Line
+import com.woowla.compose.icon.collections.remix.remix.device.SignalCellularOffFill
+import com.woowla.compose.icon.collections.remix.remix.device.SignalCellularOffLine
 import com.woowla.compose.icon.collections.remix.remix.device.SignalWifi1Fill
 import com.woowla.compose.icon.collections.remix.remix.device.SignalWifi1Line
 import com.woowla.compose.icon.collections.remix.remix.device.SignalWifi2Fill
@@ -154,6 +170,8 @@ import com.woowla.compose.icon.collections.remix.remix.device.SimCard2Fill
 import com.woowla.compose.icon.collections.remix.remix.device.SimCard2Line
 import com.woowla.compose.icon.collections.remix.remix.device.SimCardFill
 import com.woowla.compose.icon.collections.remix.remix.device.SimCardLine
+import com.woowla.compose.icon.collections.remix.remix.device.SimCardWarningFill
+import com.woowla.compose.icon.collections.remix.remix.device.SimCardWarningLine
 import com.woowla.compose.icon.collections.remix.remix.device.SmartphoneFill
 import com.woowla.compose.icon.collections.remix.remix.device.SmartphoneLine
 import com.woowla.compose.icon.collections.remix.remix.device.TabletFill
@@ -202,17 +220,21 @@ public val DeviceGroup.AllIcons: ____KtList<ImageVector>
         HardDrive3Line, HardDriveFill, HardDriveLine, HotspotFill, HotspotLine, InstallFill,
         InstallLine, InstanceFill, InstanceLine, KeyboardBoxFill, KeyboardBoxLine, KeyboardFill,
         KeyboardLine, MacFill, MacLine, MacbookFill, MacbookLine, MobileDownloadFill,
-        MobileDownloadLine, MouseFill, MouseLine, PhoneFill, PhoneFindFill, PhoneFindLine,
+        MobileDownloadLine, MouseFill, MouseLine, NetworkErrorFill, NetworkErrorLine, NetworkFill,
+        NetworkLine, NetworkOffFill, NetworkOffLine, PhoneFill, PhoneFindFill, PhoneFindLine,
         PhoneLine, PhoneLockFill, PhoneLockLine, QrCodeFill, QrCodeLine, QrScan2Fill, QrScan2Line,
-        QrScanFill, QrScanLine, RadarFill, RadarLine, Ram2Fill, Ram2Line, RamFill, RamLine,
-        RemoteControl2Fill, RemoteControl2Line, RemoteControlFill, RemoteControlLine, RestartFill,
-        RestartLine, RfidFill, RfidLine, RotateLockFill, RotateLockLine, RouterFill, RouterLine,
-        RssFill, RssLine, Save2Fill, Save2Line, Save3Fill, Save3Line, SaveFill, SaveLine, Scan2Fill,
-        Scan2Line, ScanFill, ScanLine, SdCardFill, SdCardLine, SdCardMiniFill, SdCardMiniLine,
-        SensorFill, SensorLine, ServerFill, ServerLine, ShutDownFill, ShutDownLine, SignalWifi1Fill,
-        SignalWifi1Line, SignalWifi2Fill, SignalWifi2Line, SignalWifi3Fill, SignalWifi3Line,
-        SignalWifiErrorFill, SignalWifiErrorLine, SignalWifiFill, SignalWifiLine, SignalWifiOffFill,
-        SignalWifiOffLine, SimCard2Fill, SimCard2Line, SimCardFill, SimCardLine, SmartphoneFill,
+        QrScanAiFill, QrScanAiLine, QrScanFill, QrScanLine, RadarFill, RadarLine, Ram2Fill,
+        Ram2Line, RamFill, RamLine, RemoteControl2Fill, RemoteControl2Line, RemoteControlFill,
+        RemoteControlLine, RestartFill, RestartLine, RfidFill, RfidLine, RotateLockFill,
+        RotateLockLine, RouterFill, RouterLine, RssFill, RssLine, Save2Fill, Save2Line, Save3Fill,
+        Save3Line, SaveFill, SaveLine, Scan2Fill, Scan2Line, ScanFill, ScanLine, SdCardFill,
+        SdCardLine, SdCardMiniFill, SdCardMiniLine, SensorFill, SensorLine, ServerFill, ServerLine,
+        ShutDownFill, ShutDownLine, SignalCellular1Fill, SignalCellular1Line, SignalCellular2Fill,
+        SignalCellular2Line, SignalCellular3Fill, SignalCellular3Line, SignalCellularOffFill,
+        SignalCellularOffLine, SignalWifi1Fill, SignalWifi1Line, SignalWifi2Fill, SignalWifi2Line,
+        SignalWifi3Fill, SignalWifi3Line, SignalWifiErrorFill, SignalWifiErrorLine, SignalWifiFill,
+        SignalWifiLine, SignalWifiOffFill, SignalWifiOffLine, SimCard2Fill, SimCard2Line,
+        SimCardFill, SimCardLine, SimCardWarningFill, SimCardWarningLine, SmartphoneFill,
         SmartphoneLine, TabletFill, TabletLine, Tv2Fill, Tv2Line, TvFill, TvLine, UDiskFill,
         UDiskLine, UninstallFill, UninstallLine, UsbFill, UsbLine, WifiFill, WifiLine, WifiOffFill,
         WifiOffLine, WirelessChargingFill, WirelessChargingLine)

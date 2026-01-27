@@ -25,7 +25,7 @@ public val OutlineGroup.BrandNationalGeographic: ImageVector
                 horizontalLineToRelative(10.0f)
                 verticalLineToRelative(18.0f)
                 horizontalLineToRelative(-10.0f)
-                close()
+                lineToRelative(0.0f, -18.0f)
             }
         }
         .build()

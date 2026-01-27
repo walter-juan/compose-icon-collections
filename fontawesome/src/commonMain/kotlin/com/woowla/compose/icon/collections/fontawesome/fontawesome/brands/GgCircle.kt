@@ -21,14 +21,12 @@ public val BrandsGroup.GgCircle: ImageVector
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(257.0f, 8.0f)
-                curveTo(120.0f, 8.0f, 9.0f, 119.0f, 9.0f, 256.0f)
-                reflectiveCurveToRelative(111.0f, 248.0f, 248.0f, 248.0f)
-                reflectiveCurveToRelative(248.0f, -111.0f, 248.0f, -248.0f)
-                reflectiveCurveTo(394.0f, 8.0f, 257.0f, 8.0f)
+                moveTo(257.5f, 8.0f)
+                arcToRelative(248.0f, 248.0f, 0.0f, true, false, 0.0f, 496.0f)
+                arcToRelative(248.0f, 248.0f, 0.0f, true, false, 0.0f, -496.0f)
                 close()
-                moveTo(207.5f, 382.8f)
-                lineTo(81.8f, 257.1f)
+                moveTo(208.0f, 382.8f)
+                lineToRelative(-125.7f, -125.7f)
                 lineToRelative(125.7f, -125.7f)
                 lineToRelative(35.2f, 35.4f)
                 lineToRelative(-24.2f, 24.2f)
@@ -41,7 +39,7 @@ public val BrandsGroup.GgCircle: ImageVector
                 lineToRelative(77.2f, 77.2f)
                 lineToRelative(-75.0f, 75.2f)
                 close()
-                moveTo(306.5f, 380.6f)
+                moveTo(307.0f, 380.6f)
                 lineToRelative(-35.2f, -35.2f)
                 lineToRelative(24.1f, -24.4f)
                 lineToRelative(11.1f, 11.1f)
@@ -52,8 +50,8 @@ public val BrandsGroup.GgCircle: ImageVector
                 lineToRelative(-24.4f, 24.4f)
                 lineToRelative(-77.2f, -77.2f)
                 lineToRelative(75.0f, -75.0f)
-                lineTo(432.2f, 255.0f)
-                lineTo(306.5f, 380.6f)
+                lineToRelative(125.7f, 125.7f)
+                lineToRelative(-125.7f, 125.6f)
                 close()
             }
         }

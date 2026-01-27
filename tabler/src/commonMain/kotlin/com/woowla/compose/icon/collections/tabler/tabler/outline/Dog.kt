@@ -41,7 +41,6 @@ public val OutlineGroup.Dog: ImageVector
                 curveToRelative(0.0f, 0.667f, 0.333f, 1.0f, 1.0f, 1.0f)
                 reflectiveCurveToRelative(1.0f, -0.333f, 1.0f, -1.0f)
                 horizontalLineToRelative(-2.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -70,7 +69,6 @@ public val OutlineGroup.Dog: ImageVector
                 arcToRelative(1.021f, 1.021f, 0.0f, false, true, -1.41f, 0.111f)
                 arcToRelative(0.953f, 0.953f, 0.0f, false, true, -0.327f, -0.954f)
                 lineToRelative(1.975f, -6.815f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -81,7 +79,6 @@ public val OutlineGroup.Dog: ImageVector
                 curveToRelative(0.358f, 0.408f, 0.989f, 0.458f, 1.41f, 0.111f)
                 arcToRelative(0.953f, 0.953f, 0.0f, false, false, 0.327f, -0.954f)
                 lineToRelative(-1.975f, -6.815f)
-                close()
             }
         }
         .build()

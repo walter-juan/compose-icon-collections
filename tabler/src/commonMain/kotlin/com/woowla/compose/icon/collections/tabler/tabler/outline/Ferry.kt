@@ -28,7 +28,7 @@ public val OutlineGroup.Ferry: ImageVector
                 curveToRelative(1.02f, 0.0f, 1.972f, -0.503f, 2.536f, -1.34f)
                 lineToRelative(2.171f, -3.66f)
                 horizontalLineToRelative(-18.479f)
-                close()
+                lineToRelative(-1.521f, 5.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

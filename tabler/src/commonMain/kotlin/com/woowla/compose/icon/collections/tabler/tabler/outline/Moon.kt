@@ -25,7 +25,7 @@ public val OutlineGroup.Moon: ImageVector
                 curveToRelative(0.132f, 0.0f, 0.263f, 0.0f, 0.393f, 0.0f)
                 arcToRelative(7.5f, 7.5f, 0.0f, false, false, 7.92f, 12.446f)
                 arcToRelative(9.0f, 9.0f, 0.0f, true, true, -8.313f, -12.454f)
-                close()
+                lineToRelative(0.0f, 0.008f)
             }
         }
         .build()

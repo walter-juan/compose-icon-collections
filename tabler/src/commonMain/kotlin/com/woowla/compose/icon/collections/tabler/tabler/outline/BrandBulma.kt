@@ -28,7 +28,7 @@ public val OutlineGroup.BrandBulma: ImageVector
                 lineToRelative(-3.5f, 4.0f)
                 lineToRelative(5.0f, 5.0f)
                 lineToRelative(-8.0f, 5.0f)
-                close()
+                lineToRelative(-6.0f, -6.0f)
             }
         }
         .build()

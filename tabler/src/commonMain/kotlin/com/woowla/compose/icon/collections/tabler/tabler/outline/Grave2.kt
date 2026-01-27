@@ -52,7 +52,6 @@ public val OutlineGroup.Grave2: ImageVector
                 arcToRelative(3.0f, 3.0f, 0.0f, false, true, 3.0f, 3.0f)
                 verticalLineToRelative(2.0f)
                 horizontalLineToRelative(-14.0f)
-                close()
             }
         }
         .build()

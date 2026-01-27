@@ -32,7 +32,6 @@ public val OutlineGroup.BrandVinted: ImageVector
                 curveToRelative(-0.95f, -2.103f, -1.682f, -14.26f, -1.445f, -15.615f)
                 curveToRelative(0.05f, -0.523f, 0.143f, -1.851f, 2.491f, -2.0f)
                 curveToRelative(2.359f, -0.354f, 2.547f, 1.404f, 2.492f, 3.0f)
-                close()
             }
         }
         .build()

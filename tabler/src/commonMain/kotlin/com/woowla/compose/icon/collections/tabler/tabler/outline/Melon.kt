@@ -28,7 +28,6 @@ public val OutlineGroup.Melon: ImageVector
                 arcToRelative(4.0f, 4.0f, 0.0f, false, false, 5.76f, -5.51f)
                 lineToRelative(4.342f, -4.153f)
                 arcToRelative(9.963f, 9.963f, 0.0f, false, true, 2.539f, 6.658f)
-                close()
             }
         }
         .build()

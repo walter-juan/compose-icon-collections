@@ -29,7 +29,6 @@ public val OutlineGroup.BrandDolbyDigital: ImageVector
                 curveToRelative(-3.34f, 0.0f, -6.047f, -2.686f, -6.047f, -6.0f)
                 reflectiveCurveToRelative(2.707f, -6.0f, 6.046f, -6.0f)
                 horizontalLineToRelative(0.891f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -40,7 +39,6 @@ public val OutlineGroup.BrandDolbyDigital: ImageVector
                 curveToRelative(3.34f, 0.0f, 6.046f, -2.686f, 6.046f, -6.0f)
                 reflectiveCurveToRelative(-2.707f, -6.0f, -6.046f, -6.0f)
                 horizontalLineToRelative(-0.89f)
-                close()
             }
         }
         .build()

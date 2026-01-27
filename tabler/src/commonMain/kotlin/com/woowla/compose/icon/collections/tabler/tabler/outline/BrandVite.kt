@@ -30,7 +30,7 @@ public val OutlineGroup.BrandVite: ImageVector
                 lineToRelative(-4.0f, 7.0f)
                 verticalLineToRelative(-5.0f)
                 lineToRelative(-3.0f, 1.0f)
-                close()
+                lineToRelative(1.0f, -7.5f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

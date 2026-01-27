@@ -40,7 +40,6 @@ public val OutlineGroup.FileChart: ImageVector
                 lineToRelative(5.0f, 5.0f)
                 verticalLineToRelative(11.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, false, true, -2.0f, 2.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -52,8 +51,7 @@ public val OutlineGroup.FileChart: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(12.0f, 14.0f)
-                moveToRelative(-4.0f, 0.0f)
+                moveTo(8.0f, 14.0f)
                 arcToRelative(4.0f, 4.0f, 0.0f, true, false, 8.0f, 0.0f)
                 arcToRelative(4.0f, 4.0f, 0.0f, true, false, -8.0f, 0.0f)
             }

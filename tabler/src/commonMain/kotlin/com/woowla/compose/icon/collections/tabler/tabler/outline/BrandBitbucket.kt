@@ -32,7 +32,6 @@ public val OutlineGroup.BrandBitbucket: ImageVector
                 lineToRelative(3.35f, -14.71f)
                 arcToRelative(0.641f, 0.641f, 0.0f, false, false, -0.64f, -0.744f)
                 lineToRelative(-16.704f, -0.007f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -41,7 +40,7 @@ public val OutlineGroup.BrandBitbucket: ImageVector
                 horizontalLineToRelative(-4.0f)
                 lineToRelative(-1.0f, -6.0f)
                 horizontalLineToRelative(6.0f)
-                close()
+                lineToRelative(-1.0f, 6.0f)
             }
         }
         .build()

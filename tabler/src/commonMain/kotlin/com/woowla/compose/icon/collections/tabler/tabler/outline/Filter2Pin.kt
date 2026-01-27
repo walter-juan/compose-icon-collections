@@ -54,7 +54,7 @@ public val OutlineGroup.Filter2Pin: ImageVector
                 curveToRelative(0.116f, 0.582f, 0.402f, 1.116f, 0.821f, 1.536f)
                 curveToRelative(0.418f, 0.419f, 1.125f, 1.045f, 2.121f, 1.879f)
                 curveToRelative(1.051f, -0.89f, 1.759f, -1.516f, 2.121f, -1.879f)
-                close()
+                lineToRelative(-2.121f, -2.121f)
             }
         }
         .build()

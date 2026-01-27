@@ -29,7 +29,7 @@ public val OutlineGroup.Flare: ImageVector
                 lineToRelative(-3.0f, -6.0f)
                 lineToRelative(-6.0f, -3.0f)
                 lineToRelative(6.0f, -3.0f)
-                close()
+                lineToRelative(3.0f, -6.0f)
             }
         }
         .build()

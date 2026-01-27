@@ -36,7 +36,6 @@ public val OutlineGroup.Bat: ImageVector
                 curveToRelative(2.222f, -0.762f, 4.26f, 0.714f, 5.0f, 3.0f)
                 curveToRelative(2.593f, 0.0f, 3.889f, 0.952f, 5.0f, 4.0f)
                 curveToRelative(1.111f, -3.048f, 2.407f, -4.0f, 5.0f, -4.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

@@ -40,7 +40,6 @@ public val OutlineGroup.OctagonPlus: ImageVector
                 curveToRelative(0.206f, -0.48f, 0.589f, -0.863f, 1.07f, -1.07f)
                 lineToRelative(5.574f, -2.388f)
                 arcToRelative(2.036f, 2.036f, 0.0f, false, true, 1.604f, 0.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

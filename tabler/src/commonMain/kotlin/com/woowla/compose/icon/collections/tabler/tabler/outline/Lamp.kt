@@ -39,7 +39,7 @@ public val OutlineGroup.Lamp: ImageVector
                 horizontalLineToRelative(14.0f)
                 lineToRelative(-4.0f, -8.0f)
                 horizontalLineToRelative(-6.0f)
-                close()
+                lineToRelative(-4.0f, 8.0f)
             }
         }
         .build()

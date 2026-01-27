@@ -54,11 +54,9 @@ public val FilledGroup.ShoppingCart: ImageVector
                 moveTo(6.0f, 18.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, true, false, 0.0f, 2.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, false, false, 0.0f, -2.0f)
-                close()
-                moveTo(17.0f, 18.0f)
+                moveToRelative(11.0f, 0.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, true, false, 0.0f, 2.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, false, false, 0.0f, -2.0f)
-                close()
             }
         }
         .build()

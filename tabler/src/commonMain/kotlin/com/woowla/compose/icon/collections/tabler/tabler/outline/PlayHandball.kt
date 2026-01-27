@@ -57,7 +57,6 @@ public val OutlineGroup.PlayHandball: ImageVector
                 moveTo(9.5f, 5.0f)
                 arcToRelative(0.5f, 0.5f, 0.0f, true, false, 0.0f, -1.0f)
                 arcToRelative(0.5f, 0.5f, 0.0f, false, false, 0.0f, 1.0f)
-                close()
             }
         }
         .build()

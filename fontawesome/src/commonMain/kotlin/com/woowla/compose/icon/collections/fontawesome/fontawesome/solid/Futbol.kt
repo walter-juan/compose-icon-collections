@@ -50,7 +50,7 @@ public val SolidGroup.Futbol: ImageVector
                 curveToRelative(-1.9f, 34.4f, -12.8f, 66.4f, -30.4f, 93.6f)
                 close()
                 moveTo(256.0f, 512.0f)
-                arcTo(256.0f, 256.0f, 0.0f, true, false, 256.0f, 0.0f)
+                arcToRelative(256.0f, 256.0f, 0.0f, true, false, 0.0f, -512.0f)
                 arcToRelative(256.0f, 256.0f, 0.0f, true, false, 0.0f, 512.0f)
                 close()
                 moveTo(270.1f, 186.3f)

@@ -28,7 +28,6 @@ public val OutlineGroup.Eggs: ImageVector
                 curveToRelative(0.0f, -3.0f, 2.0f, -5.0f, 5.0f, -5.0f)
                 curveToRelative(4.0f, 0.0f, 8.01f, 2.5f, 8.0f, 5.0f)
                 curveToRelative(0.0f, 2.5f, -4.0f, 5.0f, -8.0f, 5.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

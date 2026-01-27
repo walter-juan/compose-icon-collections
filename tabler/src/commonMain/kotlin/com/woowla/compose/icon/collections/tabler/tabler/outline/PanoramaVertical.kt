@@ -30,7 +30,7 @@ public val OutlineGroup.PanoramaVertical: ImageVector
                 curveToRelative(-0.246f, -0.648f, 0.243f, -1.339f, 0.935f, -1.339f)
                 horizontalLineToRelative(11.028f)
                 curveToRelative(0.693f, 0.0f, 1.18f, 0.691f, 0.935f, 1.338f)
-                close()
+                lineToRelative(-0.002f, 0.0f)
             }
         }
         .build()

@@ -21,23 +21,23 @@ public val SolidGroup.Tape: ImageVector
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(380.8f, 416.0f)
+                moveTo(412.8f, 416.0f)
                 curveToRelative(41.5f, -40.7f, 67.2f, -97.3f, 67.2f, -160.0f)
-                curveTo(448.0f, 132.3f, 347.7f, 32.0f, 224.0f, 32.0f)
-                reflectiveCurveTo(0.0f, 132.3f, 0.0f, 256.0f)
-                reflectiveCurveTo(100.3f, 480.0f, 224.0f, 480.0f)
-                lineToRelative(320.0f, 0.0f)
+                curveToRelative(0.0f, -123.7f, -100.3f, -224.0f, -224.0f, -224.0f)
+                reflectiveCurveTo(32.0f, 132.3f, 32.0f, 256.0f)
+                reflectiveCurveTo(132.3f, 480.0f, 256.0f, 480.0f)
+                lineToRelative(288.0f, 0.0f)
                 curveToRelative(17.7f, 0.0f, 32.0f, -14.3f, 32.0f, -32.0f)
                 reflectiveCurveToRelative(-14.3f, -32.0f, -32.0f, -32.0f)
-                lineToRelative(-163.2f, 0.0f)
+                lineToRelative(-131.2f, 0.0f)
                 close()
-                moveTo(224.0f, 160.0f)
+                moveTo(256.0f, 160.0f)
                 arcToRelative(96.0f, 96.0f, 0.0f, true, true, 0.0f, 192.0f)
                 arcToRelative(96.0f, 96.0f, 0.0f, true, true, 0.0f, -192.0f)
                 close()
-                moveTo(288.0f, 256.0f)
-                arcToRelative(64.0f, 64.0f, 0.0f, true, false, -128.0f, 0.0f)
-                arcToRelative(64.0f, 64.0f, 0.0f, true, false, 128.0f, 0.0f)
+                moveTo(304.0f, 256.0f)
+                arcToRelative(48.0f, 48.0f, 0.0f, true, false, -96.0f, 0.0f)
+                arcToRelative(48.0f, 48.0f, 0.0f, true, false, 96.0f, 0.0f)
                 close()
             }
         }

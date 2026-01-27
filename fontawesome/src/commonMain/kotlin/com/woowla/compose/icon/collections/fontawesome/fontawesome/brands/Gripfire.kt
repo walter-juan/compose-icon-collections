@@ -16,16 +16,16 @@ public val BrandsGroup.Gripfire: ImageVector
         if (_gripfire != null) {
             return _gripfire!!
         }
-        _gripfire = Builder(name = "Gripfire", defaultWidth = 384.0.dp, defaultHeight = 512.0.dp,
-                viewportWidth = 384.0f, viewportHeight = 512.0f).apply {
+        _gripfire = Builder(name = "Gripfire", defaultWidth = 320.0.dp, defaultHeight = 512.0.dp,
+                viewportWidth = 320.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(112.5f, 301.4f)
+                moveTo(80.5f, 301.4f)
                 curveToRelative(0.0f, -73.8f, 105.1f, -122.5f, 105.1f, -203.0f)
                 curveToRelative(0.0f, -47.1f, -34.0f, -88.0f, -39.1f, -90.4f)
                 curveToRelative(0.4f, 3.3f, 0.6f, 6.7f, 0.6f, 10.0f)
-                curveTo(179.1f, 110.1f, 32.0f, 171.9f, 32.0f, 286.6f)
+                curveToRelative(0.0f, 92.1f, -147.1f, 153.9f, -147.1f, 268.6f)
                 curveToRelative(0.0f, 49.8f, 32.2f, 79.2f, 66.5f, 108.3f)
                 curveToRelative(65.1f, 46.7f, 78.1f, 71.4f, 78.1f, 86.6f)
                 curveToRelative(0.0f, 10.1f, -4.8f, 17.0f, -4.8f, 22.3f)
@@ -33,7 +33,7 @@ public val BrandsGroup.Gripfire: ImageVector
                 curveToRelative(0.0f, -29.6f, -21.7f, -56.3f, -44.2f, -86.5f)
                 curveToRelative(-16.0f, -22.3f, -32.6f, -42.6f, -32.6f, -69.5f)
                 close()
-                moveTo(317.8f, 262.4f)
+                moveTo(285.8f, 262.4f)
                 curveToRelative(-12.1f, -66.8f, -78.0f, -124.4f, -94.7f, -130.9f)
                 lineToRelative(4.0f, 7.2f)
                 curveToRelative(2.4f, 5.1f, 3.4f, 10.9f, 3.4f, 17.1f)

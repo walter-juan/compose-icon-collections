@@ -27,7 +27,7 @@ public val OutlineGroup.CarFan1: ImageVector
                 verticalLineToRelative(-9.0f)
                 lineToRelative(4.912f, 1.914f)
                 arcToRelative(1.7f, 1.7f, 0.0f, false, true, 0.428f, 2.925f)
-                close()
+                lineToRelative(-5.34f, 4.161f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -43,7 +43,7 @@ public val OutlineGroup.CarFan1: ImageVector
                 horizontalLineToRelative(-9.0f)
                 lineToRelative(1.914f, -4.912f)
                 arcToRelative(1.7f, 1.7f, 0.0f, false, true, 2.925f, -0.428f)
-                close()
+                lineToRelative(4.161f, 5.34f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -52,7 +52,7 @@ public val OutlineGroup.CarFan1: ImageVector
                 verticalLineToRelative(9.0f)
                 lineToRelative(-4.912f, -1.914f)
                 arcToRelative(1.7f, 1.7f, 0.0f, false, true, -0.428f, -2.925f)
-                close()
+                lineToRelative(5.34f, -4.161f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

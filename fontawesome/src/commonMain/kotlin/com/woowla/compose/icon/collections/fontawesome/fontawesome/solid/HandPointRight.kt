@@ -56,7 +56,7 @@ public val SolidGroup.HandPointRight: ImageVector
                 lineToRelative(0.6f, 0.0f)
                 curveToRelative(-5.4f, 9.4f, -8.6f, 20.3f, -8.6f, 32.0f)
                 curveToRelative(0.0f, 13.2f, 4.0f, 25.4f, 10.8f, 35.6f)
-                curveTo(177.9f, 364.3f, 160.0f, 388.1f, 160.0f, 416.0f)
+                curveToRelative(-24.9f, 8.7f, -42.8f, 32.5f, -42.8f, 60.4f)
                 curveToRelative(0.0f, 11.7f, 3.1f, 22.6f, 8.6f, 32.0f)
                 lineToRelative(-8.6f, 0.0f)
                 curveTo(71.6f, 448.0f, 0.0f, 376.4f, 0.0f, 288.0f)

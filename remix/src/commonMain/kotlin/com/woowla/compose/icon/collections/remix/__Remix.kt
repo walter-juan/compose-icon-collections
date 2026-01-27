@@ -13,6 +13,7 @@ import com.woowla.compose.icon.collections.remix.remix.Document
 import com.woowla.compose.icon.collections.remix.remix.Editor
 import com.woowla.compose.icon.collections.remix.remix.Finance
 import com.woowla.compose.icon.collections.remix.remix.Food
+import com.woowla.compose.icon.collections.remix.remix.GameAndSports
 import com.woowla.compose.icon.collections.remix.remix.HealthAndMedical
 import com.woowla.compose.icon.collections.remix.remix.Logos
 import com.woowla.compose.icon.collections.remix.remix.Map
@@ -32,10 +33,11 @@ public val Remix.AllIcons: ____KtList<ImageVector>
     if (__AllIcons != null) {
       return __AllIcons!!
     }
-    __AllIcons= Others.AllIcons + Business.AllIcons + Media.AllIcons + Finance.AllIcons +
-        UserAndFaces.AllIcons + Arrows.AllIcons + Map.AllIcons + Logos.AllIcons + System.AllIcons +
-        Editor.AllIcons + Device.AllIcons + Food.AllIcons + Communication.AllIcons +
-        Weather.AllIcons + Development.AllIcons + Buildings.AllIcons + HealthAndMedical.AllIcons +
-        Document.AllIcons + Design.AllIcons + listOf()
+    __AllIcons= Document.AllIcons + Communication.AllIcons + Development.AllIcons +
+        Arrows.AllIcons + Logos.AllIcons + Weather.AllIcons + HealthAndMedical.AllIcons +
+        GameAndSports.AllIcons + Business.AllIcons + System.AllIcons + Editor.AllIcons +
+        Map.AllIcons + Design.AllIcons + Others.AllIcons + Finance.AllIcons +
+        UserAndFaces.AllIcons + Device.AllIcons + Media.AllIcons + Food.AllIcons +
+        Buildings.AllIcons + listOf()
     return __AllIcons!!
   }

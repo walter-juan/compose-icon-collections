@@ -40,7 +40,6 @@ public val OutlineGroup.Campfire: ImageVector
                 curveToRelative(0.0f, -3.0f, -2.0f, -3.0f, -2.0f, -8.0f)
                 curveToRelative(-4.0f, 2.0f, -6.0f, 5.0f, -6.0f, 8.0f)
                 arcToRelative(4.0f, 4.0f, 0.0f, false, false, 4.0f, 4.0f)
-                close()
             }
         }
         .build()

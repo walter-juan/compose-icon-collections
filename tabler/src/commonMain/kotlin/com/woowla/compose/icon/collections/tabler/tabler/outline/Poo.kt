@@ -54,7 +54,7 @@ public val OutlineGroup.Poo: ImageVector
                 arcToRelative(2.5f, 2.5f, 0.0f, false, true, 2.195f, -3.32f)
                 lineToRelative(0.164f, 0.0f)
                 curveToRelative(1.5f, 0.0f, 2.5f, -2.0f, 1.5f, -4.0f)
-                close()
+                lineToRelative(0.0f, 0.005f)
             }
         }
         .build()

@@ -37,7 +37,7 @@ public val OutlineGroup.Hexagon3d: ImageVector
                 arcToRelative(2.05f, 2.05f, 0.0f, false, true, 2.0f, 0.0f)
                 lineToRelative(6.0f, 3.584f)
                 horizontalLineToRelative(-0.03f)
-                close()
+                lineToRelative(0.002f, 0.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -79,7 +79,7 @@ public val OutlineGroup.Hexagon3d: ImageVector
                 lineToRelative(-4.0f, -2.5f)
                 lineToRelative(-4.0f, 2.5f)
                 verticalLineToRelative(4.0f)
-                close()
+                lineToRelative(4.0f, 2.5f)
             }
         }
         .build()

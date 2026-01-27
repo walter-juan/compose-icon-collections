@@ -38,7 +38,6 @@ public val OutlineGroup.Theater: ImageVector
                 lineToRelative(4.0f, -6.0f)
                 curveToRelative(2.667f, 1.333f, 5.333f, 1.333f, 8.0f, 0.0f)
                 lineToRelative(4.0f, 6.0f)
-                close()
             }
         }
         .build()

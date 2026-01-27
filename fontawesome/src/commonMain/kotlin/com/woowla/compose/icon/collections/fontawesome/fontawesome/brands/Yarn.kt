@@ -16,12 +16,12 @@ public val BrandsGroup.Yarn: ImageVector
         if (_yarn != null) {
             return _yarn!!
         }
-        _yarn = Builder(name = "Yarn", defaultWidth = 496.0.dp, defaultHeight = 512.0.dp,
-                viewportWidth = 496.0f, viewportHeight = 512.0f).apply {
+        _yarn = Builder(name = "Yarn", defaultWidth = 512.0.dp, defaultHeight = 512.0.dp,
+                viewportWidth = 512.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(393.9f, 345.2f)
+                moveTo(401.9f, 345.2f)
                 curveToRelative(-39.0f, 9.3f, -48.4f, 32.1f, -104.0f, 47.4f)
                 curveToRelative(0.0f, 0.0f, -2.7f, 4.0f, -10.4f, 5.8f)
                 curveToRelative(-13.4f, 3.3f, -63.9f, 6.0f, -68.5f, 6.1f)
@@ -49,13 +49,11 @@ public val BrandsGroup.Yarn: ImageVector
                 curveToRelative(12.8f, -7.9f, 28.1f, -16.9f, 45.4f, -17.0f)
                 curveToRelative(16.7f, -0.5f, 17.6f, 19.2f, 4.9f, 22.2f)
                 close()
-                moveTo(496.0f, 256.0f)
-                curveToRelative(0.0f, 136.9f, -111.1f, 248.0f, -248.0f, 248.0f)
-                reflectiveCurveTo(0.0f, 392.9f, 0.0f, 256.0f)
-                reflectiveCurveTo(111.1f, 8.0f, 248.0f, 8.0f)
-                reflectiveCurveToRelative(248.0f, 111.1f, 248.0f, 248.0f)
+                moveTo(8.0f, 256.0f)
+                arcToRelative(248.0f, 248.0f, 0.0f, true, true, 496.0f, 0.0f)
+                arcToRelative(248.0f, 248.0f, 0.0f, true, true, -496.0f, 0.0f)
                 close()
-                moveTo(416.7f, 331.2f)
+                moveTo(424.7f, 331.2f)
                 curveToRelative(-1.7f, -13.6f, -13.2f, -23.0f, -28.0f, -22.8f)
                 curveToRelative(-22.0f, 0.3f, -40.5f, 11.7f, -52.8f, 19.2f)
                 curveToRelative(-4.8f, 3.0f, -8.9f, 5.2f, -12.4f, 6.8f)
@@ -67,7 +65,7 @@ public val BrandsGroup.Yarn: ImageVector
                 curveToRelative(-1.1f, -0.7f, -23.6f, -16.4f, -41.4f, 28.0f)
                 curveToRelative(-12.2f, 0.9f, -31.3f, 5.3f, -47.5f, 22.8f)
                 curveToRelative(-2.0f, 2.2f, -5.9f, 3.8f, -10.1f, 5.4f)
-                horizontalLineToRelative(0.1f)
+                lineToRelative(0.1f, 0.0f)
                 curveToRelative(-8.4f, 3.0f, -12.3f, 9.9f, -16.9f, 22.3f)
                 curveToRelative(-6.5f, 17.4f, 0.2f, 34.6f, 6.8f, 45.7f)
                 curveToRelative(-17.8f, 15.9f, -37.0f, 39.8f, -35.7f, 82.5f)

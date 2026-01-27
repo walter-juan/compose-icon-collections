@@ -43,7 +43,7 @@ public val OutlineGroup.CakeRoll: ImageVector
                 moveTo(21.0f, 9.333f)
                 verticalLineToRelative(5.334f)
                 curveToRelative(0.0f, 2.945f, -4.03f, 5.333f, -9.0f, 5.333f)
-                reflectiveCurveToRelative(-9.0f, -2.388f, -9.0f, -5.333f)
+                curveToRelative(-4.97f, 0.0f, -9.0f, -2.388f, -9.0f, -5.333f)
                 verticalLineToRelative(-5.334f)
             }
         }

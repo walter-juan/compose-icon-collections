@@ -28,7 +28,6 @@ public val OutlineGroup.Mountain: ImageVector
                 lineToRelative(-6.921f, -14.612f)
                 arcToRelative(2.3f, 2.3f, 0.0f, false, false, -4.158f, 0.0f)
                 lineToRelative(-6.921f, 14.612f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

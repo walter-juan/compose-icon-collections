@@ -50,7 +50,6 @@ public val OutlineGroup.BrandFeedly: ImageVector
                 lineToRelative(6.171f, 6.172f)
                 horizontalLineToRelative(3.314f)
                 lineToRelative(6.171f, -6.172f)
-                close()
             }
         }
         .build()

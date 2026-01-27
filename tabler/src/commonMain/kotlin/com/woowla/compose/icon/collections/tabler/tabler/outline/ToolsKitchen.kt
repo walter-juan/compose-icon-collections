@@ -27,7 +27,7 @@ public val OutlineGroup.ToolsKitchen: ImageVector
                 horizontalLineToRelative(8.0f)
                 lineToRelative(-1.0f, 9.0f)
                 horizontalLineToRelative(-6.0f)
-                close()
+                lineToRelative(-1.0f, -9.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -36,7 +36,7 @@ public val OutlineGroup.ToolsKitchen: ImageVector
                 horizontalLineToRelative(2.0f)
                 verticalLineToRelative(3.0f)
                 horizontalLineToRelative(-2.0f)
-                close()
+                lineToRelative(0.0f, -3.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -45,7 +45,6 @@ public val OutlineGroup.ToolsKitchen: ImageVector
                 verticalLineToRelative(12.0f)
                 horizontalLineToRelative(-5.0f)
                 curveToRelative(-0.023f, -3.681f, 0.184f, -7.406f, 5.0f, -12.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

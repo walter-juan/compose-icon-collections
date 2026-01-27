@@ -23,20 +23,21 @@ public val OutlineGroup.SquareMinus: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(12.5f, 21.0f)
-                horizontalLineToRelative(-7.5f)
-                arcToRelative(2.0f, 2.0f, 0.0f, false, true, -2.0f, -2.0f)
-                verticalLineToRelative(-14.0f)
-                arcToRelative(2.0f, 2.0f, 0.0f, false, true, 2.0f, -2.0f)
-                horizontalLineToRelative(14.0f)
-                arcToRelative(2.0f, 2.0f, 0.0f, false, true, 2.0f, 2.0f)
-                verticalLineToRelative(10.0f)
+                moveTo(9.0f, 12.0f)
+                horizontalLineToRelative(6.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(16.0f, 19.0f)
-                horizontalLineToRelative(6.0f)
+                moveTo(3.0f, 5.0f)
+                arcToRelative(2.0f, 2.0f, 0.0f, false, true, 2.0f, -2.0f)
+                horizontalLineToRelative(14.0f)
+                arcToRelative(2.0f, 2.0f, 0.0f, false, true, 2.0f, 2.0f)
+                verticalLineToRelative(14.0f)
+                arcToRelative(2.0f, 2.0f, 0.0f, false, true, -2.0f, 2.0f)
+                horizontalLineToRelative(-14.0f)
+                arcToRelative(2.0f, 2.0f, 0.0f, false, true, -2.0f, -2.0f)
+                verticalLineToRelative(-14.0f)
             }
         }
         .build()

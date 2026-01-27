@@ -26,7 +26,7 @@ public val SolidGroup.ShekelSign: ImageVector
                 lineTo(0.0f, 448.0f)
                 curveToRelative(0.0f, 17.7f, 14.3f, 32.0f, 32.0f, 32.0f)
                 reflectiveCurveToRelative(32.0f, -14.3f, 32.0f, -32.0f)
-                lineTo(64.0f, 96.0f)
+                lineToRelative(0.0f, -352.0f)
                 lineToRelative(128.0f, 0.0f)
                 curveToRelative(35.3f, 0.0f, 64.0f, 28.7f, 64.0f, 64.0f)
                 lineToRelative(0.0f, 160.0f)

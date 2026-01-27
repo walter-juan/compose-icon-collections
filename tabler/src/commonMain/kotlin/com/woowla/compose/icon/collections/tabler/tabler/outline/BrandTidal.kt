@@ -37,7 +37,7 @@ public val OutlineGroup.BrandTidal: ImageVector
                 lineToRelative(-3.333f, -3.25f)
                 lineToRelative(-3.334f, 3.25f)
                 lineToRelative(-3.333f, -3.25f)
-                close()
+                lineToRelative(3.333f, -3.25f)
             }
         }
         .build()

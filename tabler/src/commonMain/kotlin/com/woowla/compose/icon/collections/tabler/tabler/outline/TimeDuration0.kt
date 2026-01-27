@@ -100,7 +100,6 @@ public val OutlineGroup.TimeDuration0: ImageVector
                 arcToRelative(2.0f, 2.0f, 0.0f, true, false, 4.0f, 0.0f)
                 verticalLineToRelative(-2.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, true, false, -4.0f, 0.0f)
-                close()
             }
         }
         .build()

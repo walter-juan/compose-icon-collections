@@ -45,7 +45,6 @@ public val OutlineGroup.SortDescendingSmallBig: ImageVector
                 horizontalLineToRelative(-2.666f)
                 arcToRelative(0.667f, 0.667f, 0.0f, false, false, -0.667f, 0.667f)
                 verticalLineToRelative(2.666f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -59,7 +58,6 @@ public val OutlineGroup.SortDescendingSmallBig: ImageVector
                 horizontalLineToRelative(-4.666f)
                 curveToRelative(-0.645f, 0.0f, -1.167f, 0.522f, -1.167f, 1.167f)
                 verticalLineToRelative(4.666f)
-                close()
             }
         }
         .build()

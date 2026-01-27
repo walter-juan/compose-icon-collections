@@ -60,7 +60,7 @@ public val OutlineGroup.PlayCard10: ImageVector
                 verticalLineToRelative(-2.0f)
                 curveToRelative(0.0f, -1.105f, -0.672f, -2.0f, -1.5f, -2.0f)
                 reflectiveCurveToRelative(-1.5f, 0.895f, -1.5f, 2.0f)
-                close()
+                lineToRelative(0.0f, 2.0f)
             }
         }
         .build()

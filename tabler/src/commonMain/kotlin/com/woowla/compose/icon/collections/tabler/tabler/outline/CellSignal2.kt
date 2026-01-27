@@ -29,7 +29,6 @@ public val OutlineGroup.CellSignal2: ImageVector
                 lineToRelative(14.537f, -14.537f)
                 arcToRelative(0.731f, 0.731f, 0.0f, false, true, 1.249f, 0.517f)
                 verticalLineToRelative(15.269f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

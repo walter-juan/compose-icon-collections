@@ -30,7 +30,6 @@ public val OutlineGroup.AB2: ImageVector
                 curveToRelative(0.0f, -0.82f, -0.69f, -1.5f, -1.5f, -1.5f)
                 horizontalLineToRelative(-3.0f)
                 verticalLineToRelative(3.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -41,7 +40,6 @@ public val OutlineGroup.AB2: ImageVector
                 reflectiveCurveToRelative(-0.66f, 1.5f, -1.5f, 1.5f)
                 horizontalLineToRelative(-2.5f)
                 verticalLineToRelative(-3.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

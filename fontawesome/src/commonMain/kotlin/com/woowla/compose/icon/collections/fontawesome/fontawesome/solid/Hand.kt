@@ -34,7 +34,7 @@ public val SolidGroup.Hand: ImageVector
                 curveToRelative(0.0f, 1.5f, 0.0f, 3.1f, 0.1f, 4.6f)
                 lineTo(67.6f, 283.0f)
                 curveToRelative(-16.0f, -15.2f, -41.3f, -14.6f, -56.6f, 1.4f)
-                reflectiveCurveToRelative(-14.6f, 41.3f, 1.4f, 56.6f)
+                reflectiveCurveTo(-3.6f, 325.7f, 12.4f, 341.0f)
                 lineTo(124.8f, 448.0f)
                 curveToRelative(43.1f, 41.1f, 100.4f, 64.0f, 160.0f, 64.0f)
                 lineToRelative(19.2f, 0.0f)

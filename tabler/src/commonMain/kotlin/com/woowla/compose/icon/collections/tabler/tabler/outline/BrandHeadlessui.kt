@@ -32,7 +32,6 @@ public val OutlineGroup.BrandHeadlessui: ImageVector
                 arcToRelative(4.456f, 4.456f, 0.0f, false, true, -5.111f, -3.686f)
                 lineToRelative(-1.267f, -7.82f)
                 arcToRelative(4.456f, 4.456f, 0.0f, false, true, 3.686f, -5.111f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -44,7 +43,6 @@ public val OutlineGroup.BrandHeadlessui: ImageVector
                 lineToRelative(-9.562f, 3.51f)
                 lineToRelative(-0.67f, -4.134f)
                 arcToRelative(1.0f, 1.0f, 0.0f, false, true, 0.828f, -1.147f)
-                close()
             }
         }
         .build()

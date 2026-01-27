@@ -41,7 +41,7 @@ public val OutlineGroup.BrandJuejin: ImageVector
                 lineToRelative(1.0f, 0.8f)
                 lineToRelative(1.0f, -0.8f)
                 lineToRelative(-1.0f, -0.8f)
-                close()
+                lineToRelative(-1.0f, 0.8f)
             }
         }
         .build()

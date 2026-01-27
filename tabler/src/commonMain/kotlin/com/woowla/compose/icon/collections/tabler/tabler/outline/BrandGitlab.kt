@@ -28,7 +28,7 @@ public val OutlineGroup.BrandGitlab: ImageVector
                 lineToRelative(3.0f, 7.0f)
                 horizontalLineToRelative(6.0f)
                 lineToRelative(3.0f, -7.0f)
-                close()
+                lineToRelative(3.0f, 11.0f)
             }
         }
         .build()

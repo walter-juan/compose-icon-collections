@@ -56,7 +56,6 @@ public val OutlineGroup.TableAlias: ImageVector
                 horizontalLineToRelative(-4.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, false, true, -1.0f, -1.0f)
                 verticalLineToRelative(-4.0f)
-                close()
             }
         }
         .build()

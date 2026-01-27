@@ -33,7 +33,7 @@ public val OutlineGroup.BrandTwitter: ImageVector
                 curveToRelative(3.58f, -1.04f, 6.522f, -3.723f, 7.651f, -7.742f)
                 arcToRelative(13.84f, 13.84f, 0.0f, false, false, 0.497f, -3.753f)
                 curveToRelative(0.0f, -0.249f, 1.51f, -2.772f, 1.818f, -4.013f)
-                close()
+                lineToRelative(0.0f, 0.001f)
             }
         }
         .build()

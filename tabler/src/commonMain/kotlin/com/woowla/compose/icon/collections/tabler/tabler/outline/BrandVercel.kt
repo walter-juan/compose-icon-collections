@@ -24,7 +24,7 @@ public val OutlineGroup.BrandVercel: ImageVector
                 moveTo(3.0f, 19.0f)
                 horizontalLineToRelative(18.0f)
                 lineToRelative(-9.0f, -15.0f)
-                close()
+                lineToRelative(-9.0f, 15.0f)
             }
         }
         .build()

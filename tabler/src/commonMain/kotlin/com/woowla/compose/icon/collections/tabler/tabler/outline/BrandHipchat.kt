@@ -33,7 +33,7 @@ public val OutlineGroup.BrandHipchat: ImageVector
                 curveToRelative(1.262f, 0.82f, 3.104f, 1.493f, 4.716f, 1.493f)
                 curveToRelative(0.499f, 0.0f, 0.734f, -0.41f, 0.414f, -0.828f)
                 curveToRelative(-0.486f, -0.596f, -1.156f, -1.551f, -1.416f, -2.29f)
-                close()
+                lineToRelative(-0.002f, 0.001f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

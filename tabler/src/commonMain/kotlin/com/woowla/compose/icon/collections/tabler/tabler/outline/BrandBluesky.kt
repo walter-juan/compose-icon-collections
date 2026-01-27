@@ -38,7 +38,6 @@ public val OutlineGroup.BrandBluesky: ImageVector
                 curveToRelative(0.0f, -2.953f, -2.68f, -2.025f, -4.335f, -0.826f)
                 curveToRelative(-2.293f, 1.662f, -4.76f, 5.048f, -5.665f, 6.856f)
                 curveToRelative(-0.905f, -1.808f, -3.372f, -5.194f, -5.665f, -6.856f)
-                close()
             }
         }
         .build()
