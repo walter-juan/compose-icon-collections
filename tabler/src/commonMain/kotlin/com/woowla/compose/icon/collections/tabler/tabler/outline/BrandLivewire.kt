@@ -36,7 +36,6 @@ public val OutlineGroup.BrandLivewire: ImageVector
                 curveToRelative(0.0f, -5.669f, 4.477f, -10.262f, 10.0f, -10.262f)
                 curveToRelative(5.524f, 0.0f, 10.0f, 4.594f, 10.0f, 10.261f)
                 curveToRelative(0.0f, 1.62f, -0.366f, 3.152f, -1.018f, 4.516f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -54,7 +53,6 @@ public val OutlineGroup.BrandLivewire: ImageVector
                 curveToRelative(0.0f, -5.669f, 4.477f, -10.262f, 10.0f, -10.262f)
                 curveToRelative(5.524f, 0.0f, 10.0f, 4.594f, 10.0f, 10.261f)
                 curveToRelative(0.0f, 1.62f, -0.366f, 3.152f, -1.018f, 4.516f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -64,7 +62,6 @@ public val OutlineGroup.BrandLivewire: ImageVector
                 curveToRelative(0.0f, -2.484f, -2.014f, -4.769f, -4.5f, -4.769f)
                 curveToRelative(-2.485f, 0.0f, -4.5f, 2.286f, -4.5f, 4.769f)
                 reflectiveCurveToRelative(1.333f, 4.231f, 4.5f, 4.231f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -72,7 +69,6 @@ public val OutlineGroup.BrandLivewire: ImageVector
                 moveTo(10.0f, 11.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, true, false, 0.0f, -2.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, false, false, 0.0f, 2.0f)
-                close()
             }
         }
         .build()

@@ -25,10 +25,9 @@ public val OutlineGroup.BrandAdonisJs: ImageVector
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(12.0f, 3.0f)
                 curveToRelative(7.2f, 0.0f, 9.0f, 1.8f, 9.0f, 9.0f)
-                reflectiveCurveToRelative(-1.8f, 9.0f, -9.0f, 9.0f)
-                reflectiveCurveToRelative(-9.0f, -1.8f, -9.0f, -9.0f)
-                reflectiveCurveToRelative(1.8f, -9.0f, 9.0f, -9.0f)
-                close()
+                curveToRelative(0.0f, 7.2f, -1.8f, 9.0f, -9.0f, 9.0f)
+                curveToRelative(-7.2f, 0.0f, -9.0f, -1.8f, -9.0f, -9.0f)
+                curveToRelative(0.0f, -7.2f, 1.8f, -9.0f, 9.0f, -9.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -44,7 +43,7 @@ public val OutlineGroup.BrandAdonisJs: ImageVector
                 lineToRelative(-3.709f, 7.474f)
                 curveToRelative(-0.321f, 0.648f, -0.017f, 1.415f, 0.679f, 1.714f)
                 curveToRelative(0.332f, 0.143f, 0.715f, 0.167f, 1.056f, 0.04f)
-                close()
+                lineToRelative(0.0f, 0.001f)
             }
         }
         .build()

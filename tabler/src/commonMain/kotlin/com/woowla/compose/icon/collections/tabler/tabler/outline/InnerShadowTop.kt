@@ -26,7 +26,6 @@ public val OutlineGroup.InnerShadowTop: ImageVector
                 moveTo(5.636f, 5.636f)
                 arcToRelative(9.0f, 9.0f, 0.0f, true, false, 12.728f, 12.728f)
                 arcToRelative(9.0f, 9.0f, 0.0f, false, false, -12.728f, -12.728f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

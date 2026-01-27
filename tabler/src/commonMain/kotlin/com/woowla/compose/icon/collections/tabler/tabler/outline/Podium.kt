@@ -30,7 +30,6 @@ public val OutlineGroup.Podium: ImageVector
                 horizontalLineToRelative(-8.878f)
                 arcToRelative(2.0f, 2.0f, 0.0f, false, true, -1.94f, -1.515f)
                 lineToRelative(-0.621f, -2.485f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

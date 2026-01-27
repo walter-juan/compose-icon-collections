@@ -25,7 +25,7 @@ public val OutlineGroup.BrandBandcamp: ImageVector
                 horizontalLineToRelative(13.5f)
                 lineToRelative(-7.0f, 12.0f)
                 horizontalLineToRelative(-13.0f)
-                close()
+                lineToRelative(6.5f, -12.0f)
             }
         }
         .build()

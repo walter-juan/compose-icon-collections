@@ -44,7 +44,6 @@ public val OutlineGroup.PictureInPictureTop: ImageVector
                 arcToRelative(1.0f, 1.0f, 0.0f, false, false, -1.0f, 1.0f)
                 verticalLineToRelative(3.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, false, false, 1.0f, 1.0f)
-                close()
             }
         }
         .build()

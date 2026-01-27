@@ -49,7 +49,6 @@ public val OutlineGroup.UserSquare: ImageVector
                 horizontalLineToRelative(-14.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, false, true, -2.0f, -2.0f)
                 verticalLineToRelative(-14.0f)
-                close()
             }
         }
         .build()

@@ -26,7 +26,6 @@ public val OutlineGroup.Dna: ImageVector
                 moveTo(14.828f, 14.828f)
                 arcToRelative(4.0f, 4.0f, 0.0f, true, false, -5.656f, -5.656f)
                 arcToRelative(4.0f, 4.0f, 0.0f, false, false, 5.656f, 5.656f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

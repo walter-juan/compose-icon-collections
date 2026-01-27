@@ -44,7 +44,7 @@ public val OutlineGroup.Swipe: ImageVector
                 lineToRelative(-7.827f, -2.097f)
                 arcToRelative(2.04f, 2.04f, 0.0f, false, true, -1.441f, -2.496f)
                 lineToRelative(2.098f, -7.827f)
-                close()
+                lineToRelative(0.0f, 0.001f)
             }
         }
         .build()

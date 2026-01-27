@@ -27,7 +27,6 @@ public val OutlineGroup.BrandGatsby: ImageVector
                 lineToRelative(6.407f, 6.407f)
                 arcToRelative(9.018f, 9.018f, 0.0f, false, true, -6.325f, -6.116f)
                 lineToRelative(-0.082f, -0.291f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

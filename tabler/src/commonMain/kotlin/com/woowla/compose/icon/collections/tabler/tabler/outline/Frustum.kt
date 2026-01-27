@@ -36,7 +36,6 @@ public val OutlineGroup.Frustum: ImageVector
                 arcToRelative(1.95f, 1.95f, 0.0f, false, true, 1.59f, 0.0f)
                 lineToRelative(4.496f, 2.01f)
                 curveToRelative(0.554f, 0.246f, 0.963f, 0.736f, 1.112f, 1.328f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

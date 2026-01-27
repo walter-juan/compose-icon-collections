@@ -49,7 +49,7 @@ public val OutlineGroup.Highlight: ImageVector
                 verticalLineToRelative(4.0f)
                 horizontalLineToRelative(-8.0f)
                 lineToRelative(4.0f, -4.0f)
-                close()
+                lineToRelative(4.0f, 0.0f)
             }
         }
         .build()

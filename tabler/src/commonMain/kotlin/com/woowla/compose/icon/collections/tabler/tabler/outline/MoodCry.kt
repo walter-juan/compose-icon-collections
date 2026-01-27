@@ -45,7 +45,6 @@ public val OutlineGroup.MoodCry: ImageVector
                 arcToRelative(2.0f, 2.0f, 0.0f, true, false, 2.897f, 0.03f)
                 lineToRelative(-1.463f, -1.636f)
                 lineToRelative(-1.434f, 1.606f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

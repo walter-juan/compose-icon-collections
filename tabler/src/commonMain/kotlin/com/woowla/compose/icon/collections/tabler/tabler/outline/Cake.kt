@@ -30,7 +30,6 @@ public val OutlineGroup.Cake: ImageVector
                 horizontalLineToRelative(-12.0f)
                 arcToRelative(3.0f, 3.0f, 0.0f, false, false, -3.0f, 3.0f)
                 verticalLineToRelative(8.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -54,7 +53,6 @@ public val OutlineGroup.Cake: ImageVector
                 lineToRelative(1.465f, 1.638f)
                 arcToRelative(2.0f, 2.0f, 0.0f, true, true, -3.015f, 0.099f)
                 lineToRelative(1.55f, -1.737f)
-                close()
             }
         }
         .build()

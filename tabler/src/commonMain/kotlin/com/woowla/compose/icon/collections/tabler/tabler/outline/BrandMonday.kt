@@ -23,8 +23,7 @@ public val OutlineGroup.BrandMonday: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(19.5f, 15.5f)
-                moveToRelative(-1.5f, 0.0f)
+                moveTo(18.0f, 15.5f)
                 arcToRelative(1.5f, 1.5f, 0.0f, true, false, 3.0f, 0.0f)
                 arcToRelative(1.5f, 1.5f, 0.0f, true, false, -3.0f, 0.0f)
             }
@@ -38,7 +37,6 @@ public val OutlineGroup.BrandMonday: ImageVector
                 arcToRelative(1.5f, 1.5f, 0.0f, false, true, -1.271f, -2.297f)
                 lineToRelative(3.906f, -6.827f)
                 arcToRelative(1.5f, 1.5f, 0.0f, false, true, 1.365f, -0.876f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -50,7 +48,6 @@ public val OutlineGroup.BrandMonday: ImageVector
                 arcToRelative(1.5f, 1.5f, 0.0f, false, true, -1.271f, -2.297f)
                 lineToRelative(3.906f, -6.827f)
                 arcToRelative(1.5f, 1.5f, 0.0f, false, true, 1.365f, -0.876f)
-                close()
             }
         }
         .build()

@@ -34,7 +34,6 @@ public val OutlineGroup.Zeppelin: ImageVector
                 verticalLineToRelative(-3.33f)
                 lineToRelative(2.135f, 1.778f)
                 curveToRelative(2.78f, -1.852f, 5.235f, -2.778f, 7.365f, -2.778f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

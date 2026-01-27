@@ -27,7 +27,6 @@ public val OutlineGroup.BrandOpenSource: ImageVector
                 arcToRelative(3.0f, 3.0f, 0.0f, true, false, -2.849f, 0.0f)
                 lineToRelative(-2.193f, 5.603f)
                 arcToRelative(9.0f, 9.0f, 0.0f, false, true, 3.617f, -17.244f)
-                close()
             }
         }
         .build()

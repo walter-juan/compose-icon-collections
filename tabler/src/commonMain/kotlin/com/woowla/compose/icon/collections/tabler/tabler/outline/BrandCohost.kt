@@ -23,8 +23,7 @@ public val OutlineGroup.BrandCohost: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(17.0f, 14.0f)
-                moveToRelative(-3.0f, 0.0f)
+                moveTo(14.0f, 14.0f)
                 arcToRelative(3.0f, 2.0f, 0.0f, true, false, 6.0f, 0.0f)
                 arcToRelative(3.0f, 2.0f, 0.0f, true, false, -6.0f, 0.0f)
             }
@@ -44,7 +43,6 @@ public val OutlineGroup.BrandCohost: ImageVector
                 curveToRelative(-1.348f, 0.915f, -2.93f, 1.626f, -4.749f, 2.133f)
                 curveToRelative(-1.81f, 0.503f, -3.516f, 0.707f, -5.12f, 0.61f)
                 curveToRelative(-1.608f, -0.102f, -2.979f, -0.538f, -4.112f, -1.31f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

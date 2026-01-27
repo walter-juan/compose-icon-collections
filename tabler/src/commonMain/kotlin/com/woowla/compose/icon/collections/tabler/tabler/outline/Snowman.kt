@@ -27,7 +27,6 @@ public val OutlineGroup.Snowman: ImageVector
                 arcToRelative(4.0f, 4.0f, 0.0f, false, true, 2.906f, 6.75f)
                 arcToRelative(6.0f, 6.0f, 0.0f, true, true, -5.81f, 0.0f)
                 arcToRelative(4.0f, 4.0f, 0.0f, false, true, 2.904f, -6.75f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

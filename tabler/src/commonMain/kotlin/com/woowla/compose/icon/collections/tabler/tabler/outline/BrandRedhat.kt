@@ -37,7 +37,6 @@ public val OutlineGroup.BrandRedhat: ImageVector
                 curveToRelative(0.0f, 1.685f, -1.2f, 3.818f, -5.957f, 3.818f)
                 curveToRelative(-6.206f, 0.0f, -14.043f, -4.042f, -14.043f, -7.32f)
                 curveToRelative(0.0f, -1.044f, 1.333f, -1.77f, 4.0f, -2.18f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

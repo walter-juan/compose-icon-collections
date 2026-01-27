@@ -45,7 +45,6 @@ public val OutlineGroup.BinaryOff: ImageVector
                 arcToRelative(0.5f, 0.5f, 0.0f, false, true, -0.5f, -0.5f)
                 verticalLineToRelative(-4.0f)
                 arcToRelative(0.5f, 0.5f, 0.0f, false, true, 0.5f, -0.5f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -59,7 +58,6 @@ public val OutlineGroup.BinaryOff: ImageVector
                 arcToRelative(0.5f, 0.5f, 0.0f, false, true, -0.5f, -0.5f)
                 verticalLineToRelative(-4.0f)
                 arcToRelative(0.5f, 0.5f, 0.0f, false, true, 0.5f, -0.5f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

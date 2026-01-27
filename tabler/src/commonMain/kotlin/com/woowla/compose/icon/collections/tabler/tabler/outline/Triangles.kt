@@ -30,7 +30,6 @@ public val OutlineGroup.Triangles: ImageVector
                 arcToRelative(0.973f, 0.973f, 0.0f, false, false, -1.622f, 0.0f)
                 lineToRelative(-4.025f, 6.048f)
                 arcToRelative(0.977f, 0.977f, 0.0f, false, false, 0.81f, 1.517f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -44,7 +43,6 @@ public val OutlineGroup.Triangles: ImageVector
                 lineToRelative(-7.02f, 11.023f)
                 arcToRelative(1.0f, 1.0f, 0.0f, false, false, 0.294f, 1.366f)
                 arcToRelative(0.973f, 0.973f, 0.0f, false, false, 0.53f, 0.157f)
-                close()
             }
         }
         .build()

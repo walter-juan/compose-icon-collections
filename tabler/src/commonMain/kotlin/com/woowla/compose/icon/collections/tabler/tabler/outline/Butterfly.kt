@@ -30,7 +30,7 @@ public val OutlineGroup.Butterfly: ImageVector
                 curveToRelative(1.414f, 0.0f, 2.675f, 0.652f, 3.5f, 1.671f)
                 arcToRelative(4.5f, 4.5f, 0.0f, true, true, 4.983f, 7.079f)
                 arcToRelative(3.0f, 3.0f, 0.0f, true, true, -4.983f, 2.25f)
-                close()
+                lineToRelative(-0.005f, 0.176f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

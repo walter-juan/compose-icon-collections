@@ -32,7 +32,7 @@ public val OutlineGroup.BrandYatse: ImageVector
                 lineToRelative(-3.0f, 1.77f)
                 verticalLineToRelative(-5.565f)
                 lineToRelative(3.0f, -1.771f)
-                close()
+                lineToRelative(-0.002f, -10.664f)
             }
         }
         .build()

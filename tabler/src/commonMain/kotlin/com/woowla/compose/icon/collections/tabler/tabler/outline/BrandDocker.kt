@@ -31,7 +31,6 @@ public val OutlineGroup.BrandDocker: ImageVector
                 curveToRelative(0.0f, 5.208f, 3.164f, 7.0f, 6.196f, 7.0f)
                 curveToRelative(4.124f, 0.022f, 7.828f, -1.376f, 9.854f, -5.0f)
                 curveToRelative(1.146f, -0.101f, 2.296f, -1.505f, 2.95f, -2.46f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -40,7 +39,7 @@ public val OutlineGroup.BrandDocker: ImageVector
                 horizontalLineToRelative(3.0f)
                 verticalLineToRelative(3.0f)
                 horizontalLineToRelative(-3.0f)
-                close()
+                lineToRelative(0.0f, -3.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -49,7 +48,7 @@ public val OutlineGroup.BrandDocker: ImageVector
                 horizontalLineToRelative(3.0f)
                 verticalLineToRelative(3.0f)
                 horizontalLineToRelative(-3.0f)
-                close()
+                lineToRelative(0.0f, -3.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -58,7 +57,7 @@ public val OutlineGroup.BrandDocker: ImageVector
                 horizontalLineToRelative(3.0f)
                 verticalLineToRelative(3.0f)
                 horizontalLineToRelative(-3.0f)
-                close()
+                lineToRelative(0.0f, -3.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -67,7 +66,7 @@ public val OutlineGroup.BrandDocker: ImageVector
                 horizontalLineToRelative(3.0f)
                 verticalLineToRelative(3.0f)
                 horizontalLineToRelative(-3.0f)
-                close()
+                lineToRelative(0.0f, -3.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -76,7 +75,7 @@ public val OutlineGroup.BrandDocker: ImageVector
                 horizontalLineToRelative(3.0f)
                 verticalLineToRelative(3.0f)
                 horizontalLineToRelative(-3.0f)
-                close()
+                lineToRelative(0.0f, -3.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -85,7 +84,7 @@ public val OutlineGroup.BrandDocker: ImageVector
                 horizontalLineToRelative(3.0f)
                 verticalLineToRelative(3.0f)
                 horizontalLineToRelative(-3.0f)
-                close()
+                lineToRelative(0.0f, -3.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

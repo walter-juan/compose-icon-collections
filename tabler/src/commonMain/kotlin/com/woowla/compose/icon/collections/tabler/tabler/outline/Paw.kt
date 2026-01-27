@@ -34,7 +34,6 @@ public val OutlineGroup.Paw: ImageVector
                 curveToRelative(1.013f, 0.0f, 1.8f, -0.823f, 1.8f, -2.0f)
                 curveToRelative(0.0f, -0.285f, -0.049f, -0.697f, -0.146f, -0.962f)
                 curveToRelative(-0.475f, -1.451f, -2.512f, -1.835f, -3.454f, -3.538f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -47,7 +46,7 @@ public val OutlineGroup.Paw: ImageVector
                 curveToRelative(0.129f, 0.055f, 0.267f, 0.082f, 0.406f, 0.082f)
                 curveToRelative(0.739f, 0.0f, 1.575f, -0.742f, 2.011f, -1.866f)
                 curveToRelative(0.516f, -1.335f, 0.273f, -2.7f, -0.54f, -3.052f)
-                close()
+                lineToRelative(-0.001f, 0.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -59,7 +58,6 @@ public val OutlineGroup.Paw: ImageVector
                 curveToRelative(-0.055f, 0.0f, -0.109f, 0.0f, -0.163f, 0.011f)
                 curveToRelative(-0.944f, 0.128f, -1.533f, 1.346f, -1.32f, 2.722f)
                 curveToRelative(0.204f, 1.293f, 1.048f, 2.267f, 1.933f, 2.267f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -71,7 +69,6 @@ public val OutlineGroup.Paw: ImageVector
                 curveToRelative(-0.214f, 1.376f, 0.375f, 2.594f, 1.32f, 2.722f)
                 curveToRelative(0.054f, 0.007f, 0.108f, 0.011f, 0.162f, 0.011f)
                 curveToRelative(0.885f, 0.0f, 1.73f, -0.974f, 1.93f, -2.267f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -83,7 +80,6 @@ public val OutlineGroup.Paw: ImageVector
                 curveToRelative(-0.816f, 0.352f, -1.054f, 1.719f, -0.536f, 3.052f)
                 curveToRelative(0.436f, 1.124f, 1.271f, 1.866f, 2.009f, 1.866f)
                 curveToRelative(0.14f, 0.0f, 0.277f, -0.027f, 0.407f, -0.082f)
-                close()
             }
         }
         .build()

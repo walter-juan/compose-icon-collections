@@ -24,7 +24,7 @@ public val OutlineGroup.Delta: ImageVector
                 moveTo(4.0f, 20.0f)
                 horizontalLineToRelative(16.0f)
                 lineToRelative(-8.0f, -16.0f)
-                close()
+                lineToRelative(-8.0f, 16.0f)
             }
         }
         .build()

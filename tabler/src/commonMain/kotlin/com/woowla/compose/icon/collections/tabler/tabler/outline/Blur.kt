@@ -27,7 +27,6 @@ public val OutlineGroup.Blur: ImageVector
                 arcToRelative(9.01f, 9.01f, 0.0f, false, false, 2.32f, -0.302f)
                 arcToRelative(9.0f, 9.0f, 0.0f, false, false, 1.74f, -16.733f)
                 arcToRelative(9.0f, 9.0f, 0.0f, true, false, -4.06f, 17.035f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

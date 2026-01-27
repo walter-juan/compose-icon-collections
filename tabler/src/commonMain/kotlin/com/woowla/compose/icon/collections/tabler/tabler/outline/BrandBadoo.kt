@@ -30,7 +30,6 @@ public val OutlineGroup.BrandBadoo: ImageVector
                 curveToRelative(2.492f, -0.418f, 4.9f, 1.392f, 5.678f, 3.929f)
                 curveToRelative(0.768f, -2.54f, 3.177f, -4.354f, 5.668f, -3.931f)
                 curveToRelative(2.495f, 0.417f, 4.332f, 2.69f, 4.332f, 5.36f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

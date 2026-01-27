@@ -38,13 +38,11 @@ public val OutlineGroup.BrandApplePodcast: ImageVector
                 arcToRelative(2.0f, 2.0f, 0.0f, false, false, -1.985f, 2.248f)
                 lineToRelative(0.5f, 4.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, false, false, 1.985f, 1.752f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(12.0f, 9.0f)
-                moveToRelative(-2.0f, 0.0f)
+                moveTo(10.0f, 9.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, true, false, 4.0f, 0.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, true, false, -4.0f, 0.0f)
             }

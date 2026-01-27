@@ -67,7 +67,6 @@ public val OutlineGroup.FidgetSpinner: ImageVector
                 arcToRelative(4.0f, 4.0f, 0.0f, false, true, -1.995f, -3.265f)
                 lineToRelative(-0.005f, -0.2f)
                 arcToRelative(4.0f, 4.0f, 0.0f, false, true, 4.0f, -4.0f)
-                close()
             }
         }
         .build()

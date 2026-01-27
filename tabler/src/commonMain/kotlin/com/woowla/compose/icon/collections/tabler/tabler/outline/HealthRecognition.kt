@@ -64,7 +64,6 @@ public val OutlineGroup.HealthRecognition: ImageVector
                 lineToRelative(-3.397f, 3.44f)
                 lineToRelative(-3.397f, -3.44f)
                 arcToRelative(2.104f, 2.104f, 0.0f, false, true, 0.0f, -2.95f)
-                close()
             }
         }
         .build()

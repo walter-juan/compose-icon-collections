@@ -53,7 +53,7 @@ public val OutlineGroup.CashBanknoteEdit: ImageVector
                 lineToRelative(-3.39f, 3.42f)
                 horizontalLineToRelative(-3.0f)
                 verticalLineToRelative(-3.0f)
-                close()
+                lineToRelative(3.42f, -3.39f)
             }
         }
         .build()

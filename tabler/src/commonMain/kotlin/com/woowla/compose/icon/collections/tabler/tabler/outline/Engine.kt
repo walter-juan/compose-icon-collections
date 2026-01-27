@@ -70,7 +70,6 @@ public val OutlineGroup.Engine: ImageVector
                 lineToRelative(-1.703f, -2.555f)
                 horizontalLineToRelative(-2.0f)
                 verticalLineToRelative(-6.0f)
-                close()
             }
         }
         .build()

@@ -36,7 +36,6 @@ public val OutlineGroup.DentalBroken: ImageVector
                 curveToRelative(1.615f, -2.127f, 2.671f, -5.637f, 2.671f, -10.537f)
                 curveToRelative(0.0f, -3.74f, -1.908f, -5.0f, -4.0f, -5.0f)
                 curveToRelative(-1.423f, 0.0f, -2.92f, 0.911f, -4.0f, 1.5f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

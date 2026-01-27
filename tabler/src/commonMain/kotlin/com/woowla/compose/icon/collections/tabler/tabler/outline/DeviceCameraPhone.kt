@@ -23,8 +23,7 @@ public val OutlineGroup.DeviceCameraPhone: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(18.5f, 8.5f)
-                moveToRelative(-2.5f, 0.0f)
+                moveTo(16.0f, 8.5f)
                 arcToRelative(2.5f, 2.5f, 0.0f, true, false, 5.0f, 0.0f)
                 arcToRelative(2.5f, 2.5f, 0.0f, true, false, -5.0f, 0.0f)
             }

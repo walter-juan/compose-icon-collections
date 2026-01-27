@@ -26,7 +26,6 @@ public val OutlineGroup.OvalVertical: ImageVector
                 reflectiveCurveToRelative(9.0f, 2.686f, 9.0f, 6.0f)
                 reflectiveCurveToRelative(-4.03f, 6.0f, -9.0f, 6.0f)
                 reflectiveCurveToRelative(-9.0f, -2.686f, -9.0f, -6.0f)
-                close()
             }
         }
         .build()

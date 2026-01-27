@@ -28,7 +28,6 @@ public val OutlineGroup.BrandGolang: ImageVector
                 curveToRelative(1.272f, -1.273f, 1.444f, -3.165f, 0.384f, -4.226f)
                 curveToRelative(-1.061f, -1.06f, -2.953f, -0.888f, -4.226f, 0.384f)
                 curveToRelative(-1.272f, 1.273f, -1.444f, 3.165f, -0.384f, 4.226f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

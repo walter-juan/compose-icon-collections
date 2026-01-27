@@ -27,7 +27,7 @@ public val OutlineGroup.BrandAlpineJs: ImageVector
                 lineToRelative(4.5f, 4.5f)
                 horizontalLineToRelative(9.0f)
                 lineToRelative(-9.0f, -9.0f)
-                close()
+                lineToRelative(-4.5f, 4.5f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

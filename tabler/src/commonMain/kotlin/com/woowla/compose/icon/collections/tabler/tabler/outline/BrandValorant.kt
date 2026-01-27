@@ -27,7 +27,7 @@ public val OutlineGroup.BrandValorant: ImageVector
                 horizontalLineToRelative(4.5f)
                 lineToRelative(2.0f, -2.0f)
                 verticalLineToRelative(-6.0f)
-                close()
+                lineToRelative(-6.5f, 8.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -36,7 +36,7 @@ public val OutlineGroup.BrandValorant: ImageVector
                 horizontalLineToRelative(5.0f)
                 lineToRelative(-11.0f, -13.0f)
                 verticalLineToRelative(6.0f)
-                close()
+                lineToRelative(6.0f, 7.0f)
             }
         }
         .build()

@@ -27,7 +27,6 @@ public val OutlineGroup.BucketDroplet: ImageVector
                 lineToRelative(1.465f, 1.638f)
                 arcToRelative(2.0f, 2.0f, 0.0f, true, true, -3.015f, 0.099f)
                 lineToRelative(1.55f, -1.737f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -37,7 +36,6 @@ public val OutlineGroup.BucketDroplet: ImageVector
                 curveToRelative(-1.15f, -1.15f, -3.945f, -0.217f, -6.244f, 2.082f)
                 curveToRelative(-2.3f, 2.299f, -3.231f, 5.095f, -2.082f, 6.244f)
                 curveToRelative(1.15f, 1.15f, 3.946f, 0.218f, 6.245f, -2.081f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

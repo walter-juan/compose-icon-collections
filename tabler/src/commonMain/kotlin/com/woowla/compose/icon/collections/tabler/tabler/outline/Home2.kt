@@ -46,7 +46,7 @@ public val OutlineGroup.Home2: ImageVector
                 horizontalLineToRelative(4.0f)
                 verticalLineToRelative(4.0f)
                 horizontalLineToRelative(-4.0f)
-                close()
+                lineToRelative(0.0f, -4.0f)
             }
         }
         .build()

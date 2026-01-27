@@ -27,7 +27,7 @@ public val OutlineGroup.BrandDeezer: ImageVector
                 horizontalLineToRelative(2.0f)
                 verticalLineToRelative(0.5f)
                 horizontalLineToRelative(-2.0f)
-                close()
+                lineToRelative(0.0f, -0.5f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -36,7 +36,7 @@ public val OutlineGroup.BrandDeezer: ImageVector
                 horizontalLineToRelative(2.5f)
                 verticalLineToRelative(0.5f)
                 horizontalLineToRelative(-2.5f)
-                close()
+                lineToRelative(0.0f, -0.5f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -45,7 +45,7 @@ public val OutlineGroup.BrandDeezer: ImageVector
                 horizontalLineToRelative(-2.5f)
                 verticalLineToRelative(-0.5f)
                 horizontalLineToRelative(2.5f)
-                close()
+                lineToRelative(0.0f, 0.5f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -54,7 +54,7 @@ public val OutlineGroup.BrandDeezer: ImageVector
                 horizontalLineToRelative(-2.5f)
                 verticalLineToRelative(-0.5f)
                 horizontalLineToRelative(2.5f)
-                close()
+                lineToRelative(0.0f, 0.5f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -63,7 +63,7 @@ public val OutlineGroup.BrandDeezer: ImageVector
                 horizontalLineToRelative(-2.5f)
                 verticalLineToRelative(0.5f)
                 horizontalLineToRelative(2.5f)
-                close()
+                lineToRelative(0.0f, -0.5f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -72,7 +72,7 @@ public val OutlineGroup.BrandDeezer: ImageVector
                 horizontalLineToRelative(-2.5f)
                 verticalLineToRelative(0.5f)
                 horizontalLineToRelative(2.5f)
-                close()
+                lineToRelative(0.0f, -0.5f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -81,7 +81,7 @@ public val OutlineGroup.BrandDeezer: ImageVector
                 horizontalLineToRelative(-2.5f)
                 verticalLineToRelative(0.5f)
                 horizontalLineToRelative(2.5f)
-                close()
+                lineToRelative(0.0f, -0.5f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -90,7 +90,7 @@ public val OutlineGroup.BrandDeezer: ImageVector
                 horizontalLineToRelative(-2.5f)
                 verticalLineToRelative(0.5f)
                 horizontalLineToRelative(2.5f)
-                close()
+                lineToRelative(0.0f, -0.5f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -99,7 +99,7 @@ public val OutlineGroup.BrandDeezer: ImageVector
                 horizontalLineToRelative(2.5f)
                 verticalLineToRelative(-0.5f)
                 horizontalLineToRelative(-2.5f)
-                close()
+                lineToRelative(0.0f, 0.5f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -108,7 +108,7 @@ public val OutlineGroup.BrandDeezer: ImageVector
                 horizontalLineToRelative(2.5f)
                 verticalLineToRelative(0.5f)
                 horizontalLineToRelative(-2.5f)
-                close()
+                lineToRelative(0.0f, -0.5f)
             }
         }
         .build()

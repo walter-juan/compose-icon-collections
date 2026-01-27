@@ -39,7 +39,6 @@ public val OutlineGroup.PlaneTilt: ImageVector
                 lineToRelative(-6.5f, -3.5f)
                 lineToRelative(2.5f, -2.5f)
                 lineToRelative(7.5f, 2.5f)
-                close()
             }
         }
         .build()

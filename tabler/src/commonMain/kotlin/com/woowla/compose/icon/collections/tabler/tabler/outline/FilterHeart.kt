@@ -46,7 +46,6 @@ public val OutlineGroup.FilterHeart: ImageVector
                 arcToRelative(2.242f, 2.242f, 0.0f, false, false, -3.128f, -0.006f)
                 arcToRelative(2.143f, 2.143f, 0.0f, false, false, -0.006f, 3.071f)
                 lineToRelative(3.355f, 3.296f)
-                close()
             }
         }
         .build()

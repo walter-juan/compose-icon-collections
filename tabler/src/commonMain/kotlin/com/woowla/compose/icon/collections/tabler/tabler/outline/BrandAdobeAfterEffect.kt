@@ -58,7 +58,7 @@ public val OutlineGroup.BrandAdobeAfterEffect: ImageVector
                 verticalLineToRelative(-0.824f)
                 arcToRelative(1.895f, 1.895f, 0.0f, true, true, 3.79f, 0.0f)
                 verticalLineToRelative(0.824f)
-                close()
+                lineToRelative(-3.79f, 0.0f)
             }
         }
         .build()

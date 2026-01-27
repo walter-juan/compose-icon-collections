@@ -26,7 +26,6 @@ public val OutlineGroup.RegexOff: ImageVector
                 moveTo(6.5f, 15.0f)
                 arcToRelative(2.5f, 2.5f, 0.0f, true, true, 0.0f, 5.0f)
                 arcToRelative(2.5f, 2.5f, 0.0f, false, true, 0.0f, -5.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

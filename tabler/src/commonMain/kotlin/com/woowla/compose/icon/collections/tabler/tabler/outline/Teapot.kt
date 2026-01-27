@@ -32,7 +32,6 @@ public val OutlineGroup.Teapot: ImageVector
                 arcToRelative(2.0f, 2.0f, 0.0f, false, true, -1.988f, -2.22f)
                 lineToRelative(1.555f, -14.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, false, true, 1.988f, -1.78f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

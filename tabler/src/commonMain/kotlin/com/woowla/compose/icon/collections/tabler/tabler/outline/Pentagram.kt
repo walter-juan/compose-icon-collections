@@ -26,7 +26,6 @@ public val OutlineGroup.Pentagram: ImageVector
                 moveTo(5.636f, 5.636f)
                 arcToRelative(9.0f, 9.0f, 0.0f, true, true, 12.728f, 12.728f)
                 arcToRelative(9.0f, 9.0f, 0.0f, false, true, -12.728f, -12.728f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -41,7 +40,7 @@ public val OutlineGroup.Pentagram: ImageVector
                 lineToRelative(-2.056f, -6.28f)
                 lineToRelative(5.28f, 3.78f)
                 lineToRelative(5.28f, -3.78f)
-                close()
+                lineToRelative(-2.044f, 6.28f)
             }
         }
         .build()

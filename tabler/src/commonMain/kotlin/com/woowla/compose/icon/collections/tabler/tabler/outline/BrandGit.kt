@@ -23,24 +23,21 @@ public val OutlineGroup.BrandGit: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(16.0f, 12.0f)
-                moveToRelative(-1.0f, 0.0f)
+                moveTo(15.0f, 12.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, true, false, 2.0f, 0.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, true, false, -2.0f, 0.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(12.0f, 8.0f)
-                moveToRelative(-1.0f, 0.0f)
+                moveTo(11.0f, 8.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, true, false, 2.0f, 0.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, true, false, -2.0f, 0.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(12.0f, 16.0f)
-                moveToRelative(-1.0f, 0.0f)
+                moveTo(11.0f, 16.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, true, false, 2.0f, 0.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, true, false, -2.0f, 0.0f)
             }
@@ -74,7 +71,6 @@ public val OutlineGroup.BrandGit: ImageVector
                 arcToRelative(2.045f, 2.045f, 0.0f, false, true, 0.0f, -2.892f)
                 lineToRelative(7.955f, -7.955f)
                 arcToRelative(2.045f, 2.045f, 0.0f, false, true, 2.892f, 0.0f)
-                close()
             }
         }
         .build()

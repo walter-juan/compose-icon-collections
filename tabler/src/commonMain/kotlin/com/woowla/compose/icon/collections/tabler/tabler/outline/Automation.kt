@@ -51,7 +51,7 @@ public val OutlineGroup.Automation: ImageVector
                 moveTo(17.0f, 22.0f)
                 lineToRelative(5.0f, -3.0f)
                 lineToRelative(-5.0f, -3.0f)
-                close()
+                lineToRelative(0.0f, 6.0f)
             }
         }
         .build()

@@ -36,15 +36,13 @@ public val OutlineGroup.BrandSteam: ImageVector
                 arcToRelative(2.989f, 2.989f, 0.0f, false, true, 2.834f, -0.635f)
                 lineToRelative(2.727f, -3.818f)
                 arcToRelative(4.5f, 4.5f, 0.0f, false, true, 4.429f, -5.302f)
-                close()
             }
             path(fill = SolidColor(Color(0xFF000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(16.5f, 9.5f)
-                moveToRelative(-1.0f, 0.0f)
-                arcToRelative(1.0f, 1.0f, 0.0f, true, true, 2.0f, 0.0f)
-                arcToRelative(1.0f, 1.0f, 0.0f, true, true, -2.0f, 0.0f)
+                moveTo(15.5f, 9.5f)
+                arcToRelative(1.0f, 1.0f, 0.0f, true, false, 2.0f, 0.0f)
+                arcToRelative(1.0f, 1.0f, 0.0f, true, false, -2.0f, 0.0f)
             }
         }
         .build()

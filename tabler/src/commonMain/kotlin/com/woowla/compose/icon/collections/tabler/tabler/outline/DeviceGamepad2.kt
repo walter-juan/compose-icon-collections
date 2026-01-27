@@ -32,7 +32,6 @@ public val OutlineGroup.DeviceGamepad2: ImageVector
                 lineToRelative(1.634f, -8.173f)
                 arcToRelative(5.0f, 5.0f, 0.0f, false, true, 4.904f, -4.019f)
                 horizontalLineToRelative(3.4f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

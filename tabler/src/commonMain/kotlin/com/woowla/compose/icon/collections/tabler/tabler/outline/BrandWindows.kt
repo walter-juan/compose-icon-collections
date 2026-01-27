@@ -32,7 +32,7 @@ public val OutlineGroup.BrandWindows: ImageVector
                 curveToRelative(1.2f, -0.1f, 2.2f, 0.8f, 2.2f, 1.9f)
                 verticalLineToRelative(12.1f)
                 curveToRelative(0.0f, 1.2f, -1.1f, 2.1f, -2.2f, 1.9f)
-                close()
+                lineToRelative(0.0f, 0.1f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

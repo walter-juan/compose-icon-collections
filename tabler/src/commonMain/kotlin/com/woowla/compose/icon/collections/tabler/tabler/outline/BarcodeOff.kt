@@ -57,7 +57,7 @@ public val OutlineGroup.BarcodeOff: ImageVector
                 horizontalLineToRelative(1.0f)
                 verticalLineToRelative(2.0f)
                 horizontalLineToRelative(-1.0f)
-                close()
+                lineToRelative(0.0f, -2.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

@@ -31,7 +31,6 @@ public val OutlineGroup.BrandVlc: ImageVector
                 lineToRelative(3.1f, -9.305f)
                 curveToRelative(0.267f, -0.8f, 0.985f, -1.337f, 1.791f, -1.337f)
                 curveToRelative(0.807f, 0.0f, 1.525f, 0.537f, 1.79f, 1.337f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

@@ -33,8 +33,7 @@ public val OutlineGroup.Devices2: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(13.0f, 4.0f)
-                moveToRelative(0.0f, 1.0f)
+                moveTo(13.0f, 5.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, false, true, 1.0f, -1.0f)
                 horizontalLineToRelative(6.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, false, true, 1.0f, 1.0f)
@@ -42,7 +41,7 @@ public val OutlineGroup.Devices2: ImageVector
                 arcToRelative(1.0f, 1.0f, 0.0f, false, true, -1.0f, 1.0f)
                 horizontalLineToRelative(-6.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, false, true, -1.0f, -1.0f)
-                close()
+                lineToRelative(0.0f, -14.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -59,8 +58,7 @@ public val OutlineGroup.Devices2: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(17.0f, 16.0f)
-                moveToRelative(-1.0f, 0.0f)
+                moveTo(16.0f, 16.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, true, false, 2.0f, 0.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, true, false, -2.0f, 0.0f)
             }

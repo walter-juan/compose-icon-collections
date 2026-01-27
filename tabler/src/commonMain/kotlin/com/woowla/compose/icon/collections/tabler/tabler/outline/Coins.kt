@@ -28,7 +28,6 @@ public val OutlineGroup.Coins: ImageVector
                 reflectiveCurveToRelative(6.0f, -1.343f, 6.0f, -3.0f)
                 reflectiveCurveToRelative(-2.686f, -3.0f, -6.0f, -3.0f)
                 reflectiveCurveToRelative(-6.0f, 1.343f, -6.0f, 3.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -49,7 +48,6 @@ public val OutlineGroup.Coins: ImageVector
                 curveToRelative(0.0f, -1.072f, -1.144f, -2.062f, -3.0f, -2.598f)
                 reflectiveCurveToRelative(-4.144f, -0.536f, -6.0f, 0.0f)
                 curveToRelative(-1.856f, 0.536f, -3.0f, 1.526f, -3.0f, 2.598f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

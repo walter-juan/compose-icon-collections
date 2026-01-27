@@ -31,7 +31,7 @@ public val OutlineGroup.BrandFortnite: ImageVector
                 horizontalLineToRelative(-3.0f)
                 verticalLineToRelative(6.5f)
                 lineToRelative(-4.0f, 1.0f)
-                close()
+                lineToRelative(0.0f, -18.0f)
             }
         }
         .build()

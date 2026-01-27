@@ -26,7 +26,6 @@ public val OutlineGroup.TopologyStarRing3: ImageVector
                 moveTo(10.0f, 19.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, true, false, -4.0f, 0.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, false, false, 4.0f, 0.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -34,7 +33,6 @@ public val OutlineGroup.TopologyStarRing3: ImageVector
                 moveTo(18.0f, 5.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, true, false, -4.0f, 0.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, false, false, 4.0f, 0.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -42,7 +40,6 @@ public val OutlineGroup.TopologyStarRing3: ImageVector
                 moveTo(10.0f, 5.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, true, false, -4.0f, 0.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, false, false, 4.0f, 0.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -50,7 +47,6 @@ public val OutlineGroup.TopologyStarRing3: ImageVector
                 moveTo(6.0f, 12.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, true, false, -4.0f, 0.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, false, false, 4.0f, 0.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -58,7 +54,6 @@ public val OutlineGroup.TopologyStarRing3: ImageVector
                 moveTo(18.0f, 19.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, true, false, -4.0f, 0.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, false, false, 4.0f, 0.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -66,7 +61,6 @@ public val OutlineGroup.TopologyStarRing3: ImageVector
                 moveTo(14.0f, 12.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, true, false, -4.0f, 0.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, false, false, 4.0f, 0.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -74,7 +68,6 @@ public val OutlineGroup.TopologyStarRing3: ImageVector
                 moveTo(22.0f, 12.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, true, false, -4.0f, 0.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, false, false, 4.0f, 0.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

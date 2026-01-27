@@ -37,7 +37,7 @@ public val OutlineGroup.HexagonNumber7: ImageVector
                 arcToRelative(2.062f, 2.062f, 0.0f, false, true, 2.0f, 0.0f)
                 lineToRelative(6.017f, 3.583f)
                 horizontalLineToRelative(-0.029f)
-                close()
+                lineToRelative(0.008f, 0.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

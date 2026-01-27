@@ -29,7 +29,7 @@ public val OutlineGroup.BrandPrintables: ImageVector
                 lineToRelative(6.0f, 3.5f)
                 verticalLineToRelative(7.5f)
                 lineToRelative(-6.0f, -3.5f)
-                close()
+                lineToRelative(0.0f, 7.0f)
             }
         }
         .build()

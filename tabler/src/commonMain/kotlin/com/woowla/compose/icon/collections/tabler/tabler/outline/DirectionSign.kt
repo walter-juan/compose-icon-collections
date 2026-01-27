@@ -32,7 +32,6 @@ public val OutlineGroup.DirectionSign: ImageVector
                 arcToRelative(1.095f, 1.095f, 0.0f, false, false, -1.548f, 0.0f)
                 lineToRelative(-7.905f, 7.905f)
                 arcToRelative(1.095f, 1.095f, 0.0f, false, false, 0.0f, 1.548f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

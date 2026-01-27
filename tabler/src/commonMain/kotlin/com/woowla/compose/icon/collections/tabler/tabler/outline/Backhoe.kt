@@ -23,16 +23,14 @@ public val OutlineGroup.Backhoe: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(4.0f, 17.0f)
-                moveToRelative(-2.0f, 0.0f)
+                moveTo(2.0f, 17.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, true, false, 4.0f, 0.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, true, false, -4.0f, 0.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(13.0f, 17.0f)
-                moveToRelative(-2.0f, 0.0f)
+                moveTo(11.0f, 17.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, true, false, 4.0f, 0.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, true, false, -4.0f, 0.0f)
             }
@@ -79,7 +77,6 @@ public val OutlineGroup.Backhoe: ImageVector
                 arcToRelative(3.0f, 3.0f, 0.0f, false, true, -2.12f, 5.12f)
                 arcToRelative(3.0f, 3.0f, 0.0f, false, true, -2.12f, -0.88f)
                 lineToRelative(4.24f, -4.24f)
-                close()
             }
         }
         .build()

@@ -28,7 +28,6 @@ public val OutlineGroup.Share3: ImageVector
                 verticalLineToRelative(4.0f)
                 lineToRelative(8.0f, -7.0f)
                 lineToRelative(-8.0f, -7.0f)
-                close()
             }
         }
         .build()

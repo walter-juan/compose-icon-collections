@@ -36,7 +36,6 @@ public val OutlineGroup.Wheat: ImageVector
                 verticalLineToRelative(-3.44f)
                 curveToRelative(-0.164f, -2.105f, -1.637f, -3.879f, -3.676f, -4.426f)
                 lineToRelative(-2.408f, -0.644f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -63,7 +62,6 @@ public val OutlineGroup.Wheat: ImageVector
                 verticalLineToRelative(-3.44f)
                 curveToRelative(0.164f, -2.105f, 1.637f, -3.879f, 3.677f, -4.426f)
                 lineToRelative(2.408f, -0.644f)
-                close()
             }
         }
         .build()

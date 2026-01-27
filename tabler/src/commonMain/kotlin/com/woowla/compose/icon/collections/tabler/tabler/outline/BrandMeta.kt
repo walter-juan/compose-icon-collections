@@ -29,7 +29,6 @@ public val OutlineGroup.BrandMeta: ImageVector
                 curveToRelative(0.704f, 2.869f, 0.5f, 6.783f, -2.0f, 6.783f)
                 curveToRelative(-1.114f, 0.0f, -2.648f, -1.565f, -4.148f, -3.652f)
                 arcToRelative(27.627f, 27.627f, 0.0f, false, true, -2.5f, -4.174f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -40,7 +39,6 @@ public val OutlineGroup.BrandMeta: ImageVector
                 curveToRelative(-0.704f, 2.869f, -0.5f, 6.783f, 2.0f, 6.783f)
                 curveToRelative(1.114f, 0.0f, 2.648f, -1.565f, 4.148f, -3.652f)
                 curveToRelative(1.0f, -1.391f, 1.833f, -2.783f, 2.5f, -4.174f)
-                close()
             }
         }
         .build()

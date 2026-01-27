@@ -32,7 +32,6 @@ public val OutlineGroup.SquareRotatedForbid2: ImageVector
                 arcToRelative(2.045f, 2.045f, 0.0f, false, true, 0.0f, -2.892f)
                 lineToRelative(7.955f, -7.955f)
                 arcToRelative(2.045f, 2.045f, 0.0f, false, true, 2.892f, 0.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

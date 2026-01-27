@@ -57,7 +57,6 @@ public val OutlineGroup.PumpkinScary: ImageVector
                 curveToRelative(0.716f, -0.554f, 1.54f, -0.869f, 2.415f, -0.869f)
                 curveToRelative(0.876f, 0.0f, 1.699f, 0.315f, 2.415f, 0.87f)
                 curveToRelative(1.01f, -0.722f, 1.5f, -1.032f, 2.585f, -0.788f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

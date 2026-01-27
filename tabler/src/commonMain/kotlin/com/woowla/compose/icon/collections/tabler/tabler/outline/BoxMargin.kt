@@ -27,7 +27,7 @@ public val OutlineGroup.BoxMargin: ImageVector
                 horizontalLineToRelative(8.0f)
                 verticalLineToRelative(8.0f)
                 horizontalLineToRelative(-8.0f)
-                close()
+                lineToRelative(0.0f, -8.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

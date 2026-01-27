@@ -31,7 +31,6 @@ public val OutlineGroup.BrandMyOppo: ImageVector
                 lineToRelative(9.715f, -10.49f)
                 arcToRelative(1.09f, 1.09f, 0.0f, false, false, 0.024f, -1.444f)
                 lineToRelative(-3.422f, -4.066f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

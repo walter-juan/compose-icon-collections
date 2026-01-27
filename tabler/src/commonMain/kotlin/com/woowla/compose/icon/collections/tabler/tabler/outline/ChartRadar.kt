@@ -28,7 +28,7 @@ public val OutlineGroup.ChartRadar: ImageVector
                 lineToRelative(-3.5f, 11.0f)
                 horizontalLineToRelative(-12.0f)
                 lineToRelative(-3.5f, -11.0f)
-                close()
+                lineToRelative(9.5f, -7.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -38,7 +38,7 @@ public val OutlineGroup.ChartRadar: ImageVector
                 lineToRelative(-2.5f, 5.5f)
                 horizontalLineToRelative(-6.5f)
                 lineToRelative(-2.0f, -5.5f)
-                close()
+                lineToRelative(5.5f, -4.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

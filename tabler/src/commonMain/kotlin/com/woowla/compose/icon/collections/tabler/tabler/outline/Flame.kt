@@ -24,9 +24,9 @@ public val OutlineGroup.Flame: ImageVector
                 moveTo(12.0f, 10.941f)
                 curveToRelative(2.333f, -3.308f, 0.167f, -7.823f, -1.0f, -8.941f)
                 curveToRelative(0.0f, 3.395f, -2.235f, 5.299f, -3.667f, 6.706f)
-                curveToRelative(-1.43f, 1.408f, -2.333f, 3.621f, -2.333f, 5.588f)
+                curveToRelative(-1.43f, 1.408f, -2.333f, 3.294f, -2.333f, 5.588f)
                 curveToRelative(0.0f, 3.704f, 3.134f, 6.706f, 7.0f, 6.706f)
-                reflectiveCurveToRelative(7.0f, -3.002f, 7.0f, -6.706f)
+                curveToRelative(3.866f, 0.0f, 7.0f, -3.002f, 7.0f, -6.706f)
                 curveToRelative(0.0f, -1.712f, -1.232f, -4.403f, -2.333f, -5.588f)
                 curveToRelative(-2.084f, 3.353f, -3.257f, 3.353f, -4.667f, 2.235f)
             }

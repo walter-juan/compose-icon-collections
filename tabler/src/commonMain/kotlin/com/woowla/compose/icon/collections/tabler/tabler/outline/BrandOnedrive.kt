@@ -28,7 +28,7 @@ public val OutlineGroup.BrandOnedrive: ImageVector
                 horizontalLineToRelative(10.751f)
                 arcToRelative(3.771f, 3.771f, 0.0f, false, false, 3.99f, -3.54f)
                 arcToRelative(3.772f, 3.772f, 0.0f, false, false, -3.538f, -3.992f)
-                close()
+                lineToRelative(0.001f, -0.002f)
             }
         }
         .build()

@@ -26,7 +26,7 @@ public val OutlineGroup.UmbrellaClosed2: ImageVector
                 moveTo(6.697f, 12.071f)
                 lineToRelative(11.313f, -7.071f)
                 lineToRelative(-7.07f, 11.314f)
-                close()
+                lineToRelative(-4.243f, -4.243f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

@@ -35,7 +35,6 @@ public val OutlineGroup.Spade: ImageVector
                 arcToRelative(5.527f, 5.527f, 0.0f, false, true, 0.264f, -6.979f)
                 arcToRelative(30.883f, 30.883f, 0.0f, false, true, 1.703f, -1.771f)
                 arcToRelative(1541.72f, 1541.72f, 0.0f, false, true, 4.919f, -4.5f)
-                close()
             }
         }
         .build()

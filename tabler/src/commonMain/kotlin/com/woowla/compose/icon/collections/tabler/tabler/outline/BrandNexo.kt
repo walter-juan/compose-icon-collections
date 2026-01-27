@@ -32,7 +32,7 @@ public val OutlineGroup.BrandNexo: ImageVector
                 lineToRelative(10.0f, 6.0f)
                 verticalLineToRelative(-6.0f)
                 lineToRelative(-5.0f, -3.0f)
-                close()
+                lineToRelative(5.0f, -3.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

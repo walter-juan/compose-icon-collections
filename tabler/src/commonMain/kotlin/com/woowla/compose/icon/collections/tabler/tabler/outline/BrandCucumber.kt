@@ -31,7 +31,6 @@ public val OutlineGroup.BrandCucumber: ImageVector
                 arcToRelative(8.0f, 8.0f, 0.0f, false, true, 9.74f, -5.76f)
                 curveToRelative(3.53f, 0.91f, 6.03f, 4.13f, 6.03f, 7.78f)
                 verticalLineToRelative(-0.01f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

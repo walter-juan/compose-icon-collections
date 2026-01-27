@@ -26,7 +26,7 @@ public val OutlineGroup.BrandAppleNews: ImageVector
                 moveTo(4.0f, 14.0f)
                 lineToRelative(6.0f, 6.0f)
                 horizontalLineToRelative(-6.0f)
-                close()
+                lineToRelative(0.0f, -6.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -34,7 +34,7 @@ public val OutlineGroup.BrandAppleNews: ImageVector
                 moveTo(20.0f, 10.0f)
                 lineToRelative(-6.0f, -6.0f)
                 horizontalLineToRelative(6.0f)
-                close()
+                lineToRelative(0.0f, 6.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -45,7 +45,7 @@ public val OutlineGroup.BrandAppleNews: ImageVector
                 horizontalLineToRelative(4.0f)
                 verticalLineToRelative(-4.0f)
                 lineToRelative(-12.0f, -12.0f)
-                close()
+                lineToRelative(-4.0f, 0.0f)
             }
         }
         .build()

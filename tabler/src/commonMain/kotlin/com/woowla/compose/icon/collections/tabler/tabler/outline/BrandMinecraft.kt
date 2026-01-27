@@ -36,7 +36,6 @@ public val OutlineGroup.BrandMinecraft: ImageVector
                 curveToRelative(0.62f, 0.354f, 1.38f, 0.354f, 2.0f, 0.0f)
                 lineToRelative(7.0f, -4.008f)
                 curveToRelative(0.619f, -0.355f, 1.0f, -1.01f, 1.0f, -1.718f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -73,7 +72,7 @@ public val OutlineGroup.BrandMinecraft: ImageVector
                 lineToRelative(3.0f, -1.67f)
                 verticalLineToRelative(-3.0f)
                 lineToRelative(-3.0f, 1.67f)
-                close()
+                lineToRelative(0.0f, 3.0f)
             }
         }
         .build()

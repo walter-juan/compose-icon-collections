@@ -35,7 +35,6 @@ public val OutlineGroup.BrandWebflow: ImageVector
                 curveToRelative(2.758f, 0.0f, 4.694f, -1.626f, 5.5f, -3.5f)
                 lineToRelative(3.5f, -9.5f)
                 curveToRelative(-2.732f, 0.0f, -4.253f, 2.055f, -5.0f, 4.0f)
-                close()
             }
         }
         .build()

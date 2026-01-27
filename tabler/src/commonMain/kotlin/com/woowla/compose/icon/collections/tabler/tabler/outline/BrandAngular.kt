@@ -36,7 +36,7 @@ public val OutlineGroup.BrandAngular: ImageVector
                 arcToRelative(1.0f, 1.0f, 0.0f, false, false, -0.658f, 1.078f)
                 lineToRelative(1.323f, 9.704f)
                 arcToRelative(1.0f, 1.0f, 0.0f, false, false, 0.495f, 0.734f)
-                close()
+                lineToRelative(0.0f, -0.001f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

@@ -35,7 +35,7 @@ public val OutlineGroup.BrandLinqpad: ImageVector
                 lineToRelative(2.5f, 0.5f)
                 lineToRelative(1.0f, 2.5f)
                 lineToRelative(-7.0f, 8.0f)
-                close()
+                lineToRelative(1.0f, 3.0f)
             }
         }
         .build()

@@ -39,7 +39,7 @@ public val OutlineGroup.BrandAmie: ImageVector
                 verticalLineToRelative(5.0f)
                 curveToRelative(0.0f, 0.828f, -0.895f, 1.5f, -2.0f, 1.5f)
                 reflectiveCurveToRelative(-2.0f, -0.672f, -2.0f, -1.5f)
-                close()
+                lineToRelative(0.0f, -5.0f)
             }
         }
         .build()

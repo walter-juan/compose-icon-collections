@@ -53,7 +53,6 @@ public val OutlineGroup.WashHand: ImageVector
                 arcToRelative(3.857f, 3.857f, 0.0f, false, false, 2.608f, 4.138f)
                 arcToRelative(2.28f, 2.28f, 0.0f, false, false, 3.0f, -2.162f)
                 verticalLineToRelative(-2.338f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

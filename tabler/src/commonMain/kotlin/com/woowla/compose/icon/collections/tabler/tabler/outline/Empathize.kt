@@ -23,8 +23,7 @@ public val OutlineGroup.Empathize: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(12.0f, 5.5f)
-                moveToRelative(-2.5f, 0.0f)
+                moveTo(9.5f, 5.5f)
                 arcToRelative(2.5f, 2.5f, 0.0f, true, false, 5.0f, 0.0f)
                 arcToRelative(2.5f, 2.5f, 0.0f, true, false, -5.0f, 0.0f)
             }
@@ -38,7 +37,6 @@ public val OutlineGroup.Empathize: ImageVector
                 lineToRelative(-0.728f, -0.727f)
                 arcToRelative(3.088f, 3.088f, 0.0f, true, false, -4.367f, 4.367f)
                 lineToRelative(5.095f, 5.096f)
-                close()
             }
         }
         .build()

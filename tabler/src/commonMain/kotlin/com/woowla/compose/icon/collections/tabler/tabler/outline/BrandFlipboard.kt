@@ -36,7 +36,6 @@ public val OutlineGroup.BrandFlipboard: ImageVector
                 arcToRelative(0.973f, 0.973f, 0.0f, false, true, -0.973f, -0.973f)
                 verticalLineToRelative(-16.054f)
                 curveToRelative(0.0f, -0.537f, 0.436f, -0.973f, 0.973f, -0.973f)
-                close()
             }
         }
         .build()

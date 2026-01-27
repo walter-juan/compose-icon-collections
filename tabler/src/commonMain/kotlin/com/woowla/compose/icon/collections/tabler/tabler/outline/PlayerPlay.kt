@@ -24,7 +24,7 @@ public val OutlineGroup.PlayerPlay: ImageVector
                 moveTo(7.0f, 4.0f)
                 verticalLineToRelative(16.0f)
                 lineToRelative(13.0f, -8.0f)
-                close()
+                lineToRelative(-13.0f, -8.0f)
             }
         }
         .build()

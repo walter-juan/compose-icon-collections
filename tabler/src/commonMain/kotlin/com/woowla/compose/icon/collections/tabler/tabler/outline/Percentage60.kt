@@ -26,7 +26,7 @@ public val OutlineGroup.Percentage60: ImageVector
                 moveTo(12.0f, 3.0f)
                 arcToRelative(9.0f, 9.0f, 0.0f, true, true, -5.162f, 16.373f)
                 lineToRelative(5.162f, -7.373f)
-                close()
+                verticalLineToRelative(-9.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

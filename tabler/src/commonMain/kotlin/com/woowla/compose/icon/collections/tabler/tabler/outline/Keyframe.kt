@@ -32,7 +32,6 @@ public val OutlineGroup.Keyframe: ImageVector
                 lineToRelative(4.361f, 5.248f)
                 arcToRelative(1.844f, 1.844f, 0.0f, false, true, 0.0f, 2.328f)
                 lineToRelative(-4.361f, 5.248f)
-                close()
             }
         }
         .build()

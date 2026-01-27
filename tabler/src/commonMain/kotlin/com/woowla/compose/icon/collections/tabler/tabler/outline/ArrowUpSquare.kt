@@ -40,7 +40,7 @@ public val OutlineGroup.ArrowUpSquare: ImageVector
                 verticalLineToRelative(-4.0f)
                 horizontalLineToRelative(4.0f)
                 verticalLineToRelative(4.0f)
-                close()
+                lineToRelative(-4.0f, 0.0f)
             }
         }
         .build()

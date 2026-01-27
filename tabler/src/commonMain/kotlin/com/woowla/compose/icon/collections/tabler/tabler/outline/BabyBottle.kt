@@ -43,7 +43,6 @@ public val OutlineGroup.BabyBottle: ImageVector
                 arcToRelative(2.0f, 2.0f, 0.0f, false, true, -2.0f, -2.0f)
                 verticalLineToRelative(-11.0f)
                 arcToRelative(5.0f, 5.0f, 0.0f, false, true, 5.0f, -5.0f)
-                close()
             }
         }
         .build()

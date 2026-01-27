@@ -42,7 +42,7 @@ public val OutlineGroup.Ad2: ImageVector
                 horizontalLineToRelative(5.0f)
                 verticalLineToRelative(-4.0f)
                 horizontalLineToRelative(-5.0f)
-                close()
+                verticalLineToRelative(4.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

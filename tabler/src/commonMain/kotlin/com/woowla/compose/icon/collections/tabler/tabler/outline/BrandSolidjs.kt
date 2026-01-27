@@ -28,7 +28,6 @@ public val OutlineGroup.BrandSolidjs: ImageVector
                 curveToRelative(2.5f, 0.0f, 4.0f, -1.5f, 4.0f, -3.5f)
                 reflectiveCurveToRelative(-1.5f, -3.5f, -4.0f, -3.5f)
                 curveToRelative(-2.0f, 0.0f, -5.333f, 0.833f, -10.0f, 2.5f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

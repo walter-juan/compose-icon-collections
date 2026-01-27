@@ -34,7 +34,6 @@ public val OutlineGroup.PlaneArrival: ImageVector
                 lineToRelative(-0.12f, -7.279f)
                 lineToRelative(2.898f, 0.777f)
                 lineToRelative(2.052f, 7.797f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

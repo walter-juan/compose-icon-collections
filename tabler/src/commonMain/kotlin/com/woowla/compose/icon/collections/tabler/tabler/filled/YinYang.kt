@@ -42,7 +42,6 @@ public val FilledGroup.YinYang: ImageVector
                 moveTo(12.0f, 6.5f)
                 arcToRelative(1.5f, 1.5f, 0.0f, true, false, 0.0f, 3.0f)
                 arcToRelative(1.5f, 1.5f, 0.0f, false, false, 0.0f, -3.0f)
-                close()
             }
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
@@ -50,7 +49,6 @@ public val FilledGroup.YinYang: ImageVector
                 moveTo(12.0f, 14.5f)
                 arcToRelative(1.5f, 1.5f, 0.0f, true, true, 0.0f, 3.0f)
                 arcToRelative(1.5f, 1.5f, 0.0f, false, true, 0.0f, -3.0f)
-                close()
             }
         }
         .build()

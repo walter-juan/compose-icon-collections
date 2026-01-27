@@ -27,7 +27,6 @@ public val OutlineGroup.NeedleThread: ImageVector
                 curveToRelative(-0.667f, -0.667f, 3.262f, -6.236f, 11.785f, -16.709f)
                 arcToRelative(3.5f, 3.5f, 0.0f, true, true, 5.078f, 4.791f)
                 curveToRelative(-10.575f, 8.612f, -16.196f, 12.585f, -16.863f, 11.918f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

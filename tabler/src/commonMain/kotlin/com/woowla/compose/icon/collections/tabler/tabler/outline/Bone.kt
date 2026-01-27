@@ -31,7 +31,7 @@ public val OutlineGroup.Bone: ImageVector
                 arcToRelative(3.0f, 3.0f, 0.0f, true, true, 2.298f, -5.115f)
                 lineToRelative(4.758f, -4.758f)
                 arcToRelative(3.0f, 3.0f, 0.0f, false, true, 2.12f, -5.122f)
-                close()
+                lineToRelative(-0.005f, -0.005f)
             }
         }
         .build()

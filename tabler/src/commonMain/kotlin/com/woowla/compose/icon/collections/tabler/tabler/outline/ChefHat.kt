@@ -31,7 +31,6 @@ public val OutlineGroup.ChefHat: ImageVector
                 verticalLineToRelative(-7.126f)
                 arcToRelative(4.0f, 4.0f, 0.0f, true, true, 2.092f, -7.723f)
                 arcToRelative(4.0f, 4.0f, 0.0f, false, true, 3.908f, -3.151f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

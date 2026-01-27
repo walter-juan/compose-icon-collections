@@ -35,7 +35,7 @@ public val OutlineGroup.BrandAdobe: ImageVector
                 curveToRelative(0.0f, -0.171f, 0.045f, -0.34f, 0.13f, -0.49f)
                 lineToRelative(7.977f, -13.993f)
                 arcToRelative(1.034f, 1.034f, 0.0f, false, true, 1.786f, 0.0f)
-                close()
+                lineToRelative(0.0f, -0.009f)
             }
         }
         .build()

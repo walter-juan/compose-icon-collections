@@ -40,7 +40,7 @@ public val OutlineGroup.ArrowUpRhombus: ImageVector
                 lineToRelative(-2.5f, 2.5f)
                 lineToRelative(-2.5f, -2.5f)
                 lineToRelative(2.5f, -2.5f)
-                close()
+                lineToRelative(2.5f, 2.5f)
             }
         }
         .build()

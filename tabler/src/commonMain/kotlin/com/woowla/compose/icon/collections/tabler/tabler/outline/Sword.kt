@@ -30,7 +30,7 @@ public val OutlineGroup.Sword: ImageVector
                 lineToRelative(-3.0f, -3.0f)
                 lineToRelative(4.0f, -4.0f)
                 lineToRelative(7.0f, -9.0f)
-                close()
+                lineToRelative(5.0f, 0.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

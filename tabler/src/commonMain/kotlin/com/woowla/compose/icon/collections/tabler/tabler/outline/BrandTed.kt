@@ -56,7 +56,6 @@ public val OutlineGroup.BrandTed: ImageVector
                 verticalLineToRelative(-2.0f)
                 arcToRelative(3.0f, 3.0f, 0.0f, false, false, -3.0f, -3.0f)
                 horizontalLineToRelative(-2.0f)
-                close()
             }
         }
         .build()

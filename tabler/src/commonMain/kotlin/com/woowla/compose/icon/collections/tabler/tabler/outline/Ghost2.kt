@@ -51,7 +51,7 @@ public val OutlineGroup.Ghost2: ImageVector
                 lineToRelative(1.0f, 0.0f)
                 verticalLineToRelative(-1.0f)
                 arcToRelative(7.0f, 7.0f, 0.0f, false, true, 7.0f, -7.0f)
-                close()
+                lineToRelative(0.0f, 0.001f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -59,7 +59,6 @@ public val OutlineGroup.Ghost2: ImageVector
                 moveTo(11.0f, 14.0f)
                 horizontalLineToRelative(2.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, false, false, -2.0f, 0.0f)
-                close()
             }
         }
         .build()

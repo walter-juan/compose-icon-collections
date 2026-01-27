@@ -34,7 +34,7 @@ public val OutlineGroup.BrandFoursquare: ImageVector
                 curveToRelative(-0.599f, 0.752f, -1.809f, 0.331f, -1.809f, -0.632f)
                 verticalLineToRelative(-16.0f)
                 curveToRelative(0.0f, -0.564f, 0.44f, -1.0f, 1.0f, -1.0f)
-                close()
+                lineToRelative(0.006f, 0.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

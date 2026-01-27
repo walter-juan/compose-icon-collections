@@ -32,7 +32,7 @@ public val OutlineGroup.CircuitGroundDigital: ImageVector
                 moveTo(12.0f, 21.0f)
                 lineToRelative(-6.0f, -8.0f)
                 horizontalLineToRelative(12.0f)
-                close()
+                lineToRelative(-6.0f, 8.0f)
             }
         }
         .build()

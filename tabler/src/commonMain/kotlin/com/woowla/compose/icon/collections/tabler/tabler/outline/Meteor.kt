@@ -31,13 +31,11 @@ public val OutlineGroup.Meteor: ImageVector
                 lineToRelative(7.746f, -6.58f)
                 lineToRelative(-1.0f, 5.0f)
                 lineToRelative(9.0f, -5.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(9.5f, 14.5f)
-                moveToRelative(-2.5f, 0.0f)
+                moveTo(7.0f, 14.5f)
                 arcToRelative(2.5f, 2.5f, 0.0f, true, false, 5.0f, 0.0f)
                 arcToRelative(2.5f, 2.5f, 0.0f, true, false, -5.0f, 0.0f)
             }

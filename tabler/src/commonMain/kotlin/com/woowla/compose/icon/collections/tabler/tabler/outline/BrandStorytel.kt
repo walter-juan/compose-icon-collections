@@ -26,7 +26,6 @@ public val OutlineGroup.BrandStorytel: ImageVector
                 curveToRelative(0.0f, -6.298f, -4.974f, -8.462f, -8.451f, -8.462f)
                 curveToRelative(-3.477f, 0.0f, -9.477f, 3.036f, -9.477f, 11.241f)
                 curveToRelative(0.0f, 6.374f, 1.103f, 8.759f, 1.103f, 8.759f)
-                close()
             }
         }
         .build()

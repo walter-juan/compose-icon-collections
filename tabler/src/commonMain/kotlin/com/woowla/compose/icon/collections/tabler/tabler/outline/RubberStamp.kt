@@ -30,7 +30,6 @@ public val OutlineGroup.RubberStamp: ImageVector
                 arcToRelative(4.0f, 4.0f, 0.0f, true, true, 8.0f, 0.0f)
                 curveToRelative(0.0f, 2.21f, -4.0f, 6.8f, 1.21f, 6.8f)
                 curveToRelative(2.369f, 0.0f, 3.79f, 0.0f, 3.79f, 4.05f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

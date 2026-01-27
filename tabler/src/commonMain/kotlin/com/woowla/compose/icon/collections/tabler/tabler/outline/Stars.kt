@@ -39,7 +39,6 @@ public val OutlineGroup.Stars: ImageVector
                 lineToRelative(0.414f, 2.41f)
                 arcToRelative(0.39f, 0.39f, 0.0f, false, true, -0.567f, 0.411f)
                 lineToRelative(-2.172f, -1.138f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -60,7 +59,6 @@ public val OutlineGroup.Stars: ImageVector
                 lineToRelative(0.414f, 2.41f)
                 arcToRelative(0.39f, 0.39f, 0.0f, false, true, -0.567f, 0.411f)
                 lineToRelative(-2.172f, -1.138f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -81,7 +79,6 @@ public val OutlineGroup.Stars: ImageVector
                 lineToRelative(0.414f, 2.41f)
                 arcToRelative(0.39f, 0.39f, 0.0f, false, true, -0.567f, 0.411f)
                 lineToRelative(-2.172f, -1.138f)
-                close()
             }
         }
         .build()

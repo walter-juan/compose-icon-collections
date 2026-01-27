@@ -29,8 +29,7 @@ public val OutlineGroup.Matchstick: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(17.0f, 12.0f)
-                moveToRelative(-1.0f, 0.0f)
+                moveTo(16.0f, 12.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, true, false, 2.0f, 0.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, true, false, -2.0f, 0.0f)
             }
@@ -42,7 +41,6 @@ public val OutlineGroup.Matchstick: ImageVector
                 arcToRelative(4.007f, 4.007f, 0.0f, false, true, -0.764f, 4.51f)
                 arcToRelative(4.0f, 4.0f, 0.0f, false, true, -6.493f, -4.464f)
                 lineToRelative(3.637f, -7.336f)
-                close()
             }
         }
         .build()

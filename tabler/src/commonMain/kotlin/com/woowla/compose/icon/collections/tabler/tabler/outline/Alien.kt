@@ -37,7 +37,7 @@ public val OutlineGroup.Alien: ImageVector
                 arcToRelative(10.777f, 10.777f, 0.0f, false, false, 3.199f, -3.064f)
                 arcToRelative(11.89f, 11.89f, 0.0f, false, false, 2.0f, -8.592f)
                 curveToRelative(-0.466f, -3.265f, -3.198f, -5.595f, -7.862f, -5.595f)
-                close()
+                lineToRelative(-0.004f, 0.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

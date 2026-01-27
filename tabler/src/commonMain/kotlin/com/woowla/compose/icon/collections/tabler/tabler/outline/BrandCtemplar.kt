@@ -37,7 +37,6 @@ public val OutlineGroup.BrandCtemplar: ImageVector
                 arcToRelative(1.668f, 1.668f, 0.0f, false, false, -0.934f, 1.767f)
                 curveToRelative(0.844f, 5.766f, 3.875f, 10.95f, 8.426f, 14.406f)
                 arcToRelative(0.948f, 0.948f, 0.0f, false, false, 1.11f, 0.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

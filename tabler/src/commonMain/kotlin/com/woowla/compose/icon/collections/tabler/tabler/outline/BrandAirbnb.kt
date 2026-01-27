@@ -36,7 +36,6 @@ public val OutlineGroup.BrandAirbnb: ImageVector
                 reflectiveCurveToRelative(1.5f, -1.0f, 2.5f, -2.0f)
                 curveToRelative(1.506f, -1.965f, 3.0f, -4.0f, 3.0f, -5.5f)
                 curveToRelative(0.0f, -2.0f, -1.0f, -3.0f, -3.0f, -3.0f)
-                close()
             }
         }
         .build()

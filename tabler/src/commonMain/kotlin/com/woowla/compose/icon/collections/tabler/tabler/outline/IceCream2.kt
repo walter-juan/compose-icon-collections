@@ -32,7 +32,7 @@ public val OutlineGroup.IceCream2: ImageVector
                 moveTo(6.342f, 11.0f)
                 lineToRelative(5.658f, 11.0f)
                 lineToRelative(5.657f, -11.0f)
-                close()
+                lineToRelative(-11.315f, 0.0f)
             }
         }
         .build()

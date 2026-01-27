@@ -32,7 +32,6 @@ public val OutlineGroup.MasksTheater: ImageVector
                 arcToRelative(4.0f, 4.0f, 0.0f, false, true, -3.983f, -3.635f)
                 lineToRelative(-0.567f, -6.182f)
                 arcToRelative(2.0f, 2.0f, 0.0f, false, true, 1.992f, -2.183f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

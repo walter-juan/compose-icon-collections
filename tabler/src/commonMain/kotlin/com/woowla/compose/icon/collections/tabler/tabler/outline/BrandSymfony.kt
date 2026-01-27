@@ -48,7 +48,6 @@ public val OutlineGroup.BrandSymfony: ImageVector
                 reflectiveCurveToRelative(-10.0f, -4.477f, -10.0f, -10.0f)
                 reflectiveCurveToRelative(4.477f, -10.0f, 10.0f, -10.0f)
                 arcToRelative(10.0f, 10.0f, 0.0f, false, true, 10.0f, 10.0f)
-                close()
             }
         }
         .build()

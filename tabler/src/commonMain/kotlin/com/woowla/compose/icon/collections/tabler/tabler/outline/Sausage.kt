@@ -29,7 +29,6 @@ public val OutlineGroup.Sausage: ImageVector
                 arcToRelative(2.5f, 2.5f, 0.0f, true, false, 0.0f, -5.0f)
                 arcToRelative(8.0f, 8.0f, 0.0f, false, true, -8.0f, -8.0f)
                 arcToRelative(2.5f, 2.5f, 0.0f, false, false, -2.5f, -2.5f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

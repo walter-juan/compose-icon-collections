@@ -62,7 +62,6 @@ public val OutlineGroup.PhotoEdit: ImageVector
                 horizontalLineToRelative(-3.0f)
                 verticalLineToRelative(-3.0f)
                 lineToRelative(3.42f, -3.39f)
-                close()
             }
         }
         .build()

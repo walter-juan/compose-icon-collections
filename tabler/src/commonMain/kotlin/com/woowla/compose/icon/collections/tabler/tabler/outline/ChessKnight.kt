@@ -32,7 +32,6 @@ public val OutlineGroup.ChessKnight: ImageVector
                 arcToRelative(1.0f, 1.0f, 0.0f, false, false, -0.553f, -0.894f)
                 lineToRelative(-1.447f, -0.724f)
                 horizontalLineToRelative(-8.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -47,7 +46,6 @@ public val OutlineGroup.ChessKnight: ImageVector
                 lineToRelative(0.112f, -5.0f)
                 curveToRelative(0.0f, -3.0f, -1.09f, -5.983f, -4.0f, -7.0f)
                 curveToRelative(-1.94f, -0.678f, -2.94f, -1.011f, -3.0f, -1.0f)
-                close()
             }
         }
         .build()

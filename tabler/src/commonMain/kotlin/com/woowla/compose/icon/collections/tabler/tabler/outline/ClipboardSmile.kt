@@ -62,7 +62,6 @@ public val OutlineGroup.ClipboardSmile: ImageVector
                 arcToRelative(2.0f, 2.0f, 0.0f, false, true, -2.0f, 2.0f)
                 horizontalLineToRelative(-2.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, false, true, -2.0f, -2.0f)
-                close()
             }
         }
         .build()

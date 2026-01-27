@@ -50,7 +50,6 @@ public val OutlineGroup.Filter2Search: ImageVector
                 curveToRelative(-0.563f, -0.563f, -1.326f, -0.879f, -2.121f, -0.879f)
                 curveToRelative(-0.796f, 0.0f, -1.559f, 0.316f, -2.121f, 0.879f)
                 curveToRelative(-0.563f, 0.563f, -0.879f, 1.326f, -0.879f, 2.121f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

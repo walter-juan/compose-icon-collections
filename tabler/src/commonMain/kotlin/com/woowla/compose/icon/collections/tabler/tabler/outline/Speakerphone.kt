@@ -40,7 +40,6 @@ public val OutlineGroup.Speakerphone: ImageVector
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(12.0f, 8.0f)
-                horizontalLineToRelative(0.0f)
                 lineToRelative(4.524f, -3.77f)
                 arcToRelative(0.9f, 0.9f, 0.0f, false, true, 1.476f, 0.692f)
                 verticalLineToRelative(12.156f)

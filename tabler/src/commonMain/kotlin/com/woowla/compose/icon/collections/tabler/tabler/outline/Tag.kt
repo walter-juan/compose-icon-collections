@@ -23,8 +23,7 @@ public val OutlineGroup.Tag: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(7.5f, 7.5f)
-                moveToRelative(-1.0f, 0.0f)
+                moveTo(6.5f, 7.5f)
                 arcToRelative(1.0f, 1.0f, 0.0f, true, false, 2.0f, 0.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, true, false, -2.0f, 0.0f)
             }
@@ -42,7 +41,6 @@ public val OutlineGroup.Tag: ImageVector
                 arcToRelative(2.0f, 2.0f, 0.0f, false, false, -1.414f, -0.586f)
                 horizontalLineToRelative(-5.172f)
                 arcToRelative(3.0f, 3.0f, 0.0f, false, false, -3.0f, 3.0f)
-                close()
             }
         }
         .build()

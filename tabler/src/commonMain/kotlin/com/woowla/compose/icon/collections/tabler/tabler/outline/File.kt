@@ -40,7 +40,6 @@ public val OutlineGroup.File: ImageVector
                 lineToRelative(5.0f, 5.0f)
                 verticalLineToRelative(11.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, false, true, -2.0f, 2.0f)
-                close()
             }
         }
         .build()

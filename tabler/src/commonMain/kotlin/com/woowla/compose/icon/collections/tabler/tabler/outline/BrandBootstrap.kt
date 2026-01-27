@@ -55,7 +55,6 @@ public val OutlineGroup.BrandBootstrap: ImageVector
                 horizontalLineToRelative(4.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, true, true, 0.0f, 4.0f)
                 horizontalLineToRelative(-4.0f)
-                close()
             }
         }
         .build()

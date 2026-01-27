@@ -50,7 +50,6 @@ public val OutlineGroup.Filter2Spark: ImageVector
                 curveToRelative(-0.617f, 0.617f, -1.393f, 1.053f, -2.242f, 1.258f)
                 curveToRelative(0.849f, 0.205f, 1.625f, 0.641f, 2.242f, 1.258f)
                 curveToRelative(0.617f, 0.617f, 1.053f, 1.393f, 1.258f, 2.242f)
-                close()
             }
         }
         .build()

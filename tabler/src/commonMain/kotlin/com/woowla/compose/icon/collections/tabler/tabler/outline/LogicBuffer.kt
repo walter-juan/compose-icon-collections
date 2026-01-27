@@ -44,7 +44,7 @@ public val OutlineGroup.LogicBuffer: ImageVector
                 moveTo(7.0f, 5.0f)
                 lineToRelative(10.0f, 7.0f)
                 lineToRelative(-10.0f, 7.0f)
-                close()
+                lineToRelative(0.0f, -14.0f)
             }
         }
         .build()

@@ -28,7 +28,7 @@ public val OutlineGroup.Carrot: ImageVector
                 arcToRelative(4.487f, 4.487f, 0.0f, false, false, 0.0f, -6.344f)
                 arcToRelative(4.483f, 4.483f, 0.0f, false, false, -6.342f, 0.0f)
                 curveToRelative(-2.86f, 2.861f, -6.347f, 12.689f, -6.347f, 12.689f)
-                close()
+                lineToRelative(0.005f, -0.005f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -50,7 +50,6 @@ public val OutlineGroup.Carrot: ImageVector
                 curveToRelative(-1.406f, 0.0f, -3.0f, 2.0f, -3.0f, 2.0f)
                 reflectiveCurveToRelative(1.14f, 2.0f, 3.0f, 2.0f)
                 reflectiveCurveToRelative(3.0f, -2.0f, 3.0f, -2.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -60,7 +59,6 @@ public val OutlineGroup.Carrot: ImageVector
                 reflectiveCurveToRelative(2.0f, 3.0f, 2.0f, 3.0f)
                 reflectiveCurveToRelative(2.0f, -1.577f, 2.0f, -3.0f)
                 curveToRelative(0.0f, -1.86f, -2.0f, -3.0f, -2.0f, -3.0f)
-                close()
             }
         }
         .build()

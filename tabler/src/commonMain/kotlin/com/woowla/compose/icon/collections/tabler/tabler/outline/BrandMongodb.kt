@@ -34,7 +34,6 @@ public val OutlineGroup.BrandMongodb: ImageVector
                 curveToRelative(-4.188f, -4.503f, -6.0f, -6.0f, -6.0f, -9.273f)
                 curveToRelative(0.0f, -4.454f, 3.071f, -6.927f, 6.0f, -9.227f)
                 curveToRelative(2.929f, 2.3f, 6.0f, 4.773f, 6.0f, 9.227f)
-                close()
             }
         }
         .build()

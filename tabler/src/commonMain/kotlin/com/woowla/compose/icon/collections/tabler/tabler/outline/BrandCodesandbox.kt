@@ -33,7 +33,7 @@ public val OutlineGroup.BrandCodesandbox: ImageVector
                 lineToRelative(4.0f, -2.25f)
                 lineToRelative(4.0f, -2.25f)
                 lineToRelative(4.0f, 2.25f)
-                close()
+                lineToRelative(4.0f, 2.25f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

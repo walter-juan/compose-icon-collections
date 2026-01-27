@@ -27,7 +27,6 @@ public val OutlineGroup.BrandDrupal: ImageVector
                 curveToRelative(0.0f, 4.308f, -7.0f, 6.0f, -7.0f, 12.0f)
                 arcToRelative(7.0f, 7.0f, 0.0f, false, false, 14.0f, 0.0f)
                 curveToRelative(0.0f, -6.0f, -7.0f, -7.697f, -7.0f, -12.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -40,7 +39,6 @@ public val OutlineGroup.BrandDrupal: ImageVector
                 curveToRelative(0.0f, -1.676f, -0.989f, -2.685f, -1.983f, -3.642f)
                 curveToRelative(-0.42f, -0.404f, -2.259f, -2.357f, -5.517f, -5.858f)
                 lineToRelative(3.5f, 3.83f)
-                close()
             }
         }
         .build()

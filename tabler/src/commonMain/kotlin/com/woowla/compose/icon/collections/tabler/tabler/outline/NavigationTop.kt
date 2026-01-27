@@ -32,7 +32,6 @@ public val OutlineGroup.NavigationTop: ImageVector
                 arcToRelative(0.34f, 0.34f, 0.0f, false, false, 0.357f, 0.07f)
                 lineToRelative(4.541f, -1.477f)
                 lineToRelative(4.54f, 1.477f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

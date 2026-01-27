@@ -28,7 +28,6 @@ public val OutlineGroup.Burger: ImageVector
                 arcToRelative(4.0f, 4.0f, 0.0f, false, true, -4.0f, 4.0f)
                 horizontalLineToRelative(-8.0f)
                 arcToRelative(4.0f, 4.0f, 0.0f, false, true, -4.0f, -4.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -37,7 +36,6 @@ public val OutlineGroup.Burger: ImageVector
                 curveToRelative(3.783f, 0.0f, 6.953f, 2.133f, 7.786f, 5.0f)
                 horizontalLineToRelative(-15.572f)
                 curveToRelative(0.833f, -2.867f, 4.003f, -5.0f, 7.786f, -5.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

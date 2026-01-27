@@ -34,7 +34,6 @@ public val OutlineGroup.BrandPowershell: ImageVector
                 lineToRelative(-2.358f, 12.0f)
                 curveToRelative(-0.212f, 1.081f, 0.442f, 2.14f, 1.462f, 2.366f)
                 curveToRelative(0.127f, 0.028f, 0.256f, 0.042f, 0.385f, 0.042f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

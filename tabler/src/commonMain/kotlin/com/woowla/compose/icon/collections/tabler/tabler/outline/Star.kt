@@ -31,7 +31,7 @@ public val OutlineGroup.Star: ImageVector
                 lineToRelative(6.9f, 1.0f)
                 lineToRelative(-5.0f, 4.867f)
                 lineToRelative(1.179f, 6.873f)
-                close()
+                lineToRelative(-6.158f, -3.245f)
             }
         }
         .build()

@@ -34,7 +34,7 @@ public val OutlineGroup.ChristmasTree: ImageVector
                 lineToRelative(-3.0f, -1.0f)
                 lineToRelative(4.0f, -4.0f)
                 lineToRelative(-2.0f, -1.0f)
-                close()
+                lineToRelative(4.0f, -4.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

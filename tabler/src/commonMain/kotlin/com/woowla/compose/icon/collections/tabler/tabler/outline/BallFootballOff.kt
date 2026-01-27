@@ -40,7 +40,7 @@ public val OutlineGroup.BallFootballOff: ImageVector
                 lineToRelative(-1.755f, -5.545f)
                 lineToRelative(1.86f, -1.351f)
                 lineToRelative(2.313f, -1.681f)
-                close()
+                lineToRelative(0.582f, -0.423f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

@@ -27,7 +27,7 @@ public val OutlineGroup.BrandSublimeText: ImageVector
                 lineToRelative(-14.0f, 4.5f)
                 verticalLineToRelative(-5.5f)
                 lineToRelative(14.0f, -4.5f)
-                close()
+                lineToRelative(0.0f, 5.5f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -36,7 +36,7 @@ public val OutlineGroup.BrandSublimeText: ImageVector
                 lineToRelative(-14.0f, 4.5f)
                 verticalLineToRelative(-5.5f)
                 lineToRelative(14.0f, -4.5f)
-                close()
+                lineToRelative(0.0f, 5.5f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

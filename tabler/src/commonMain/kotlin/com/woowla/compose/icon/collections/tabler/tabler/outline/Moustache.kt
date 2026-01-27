@@ -25,7 +25,6 @@ public val OutlineGroup.Moustache: ImageVector
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(15.0f, 9.0f)
                 arcToRelative(3.0f, 3.0f, 0.0f, false, true, 2.599f, 1.5f)
-                horizontalLineToRelative(0.0f)
                 curveToRelative(0.933f, 1.333f, 2.133f, 1.556f, 3.126f, 1.556f)
                 lineToRelative(0.291f, 0.0f)
                 lineToRelative(0.77f, -0.044f)
@@ -34,14 +33,13 @@ public val OutlineGroup.Moustache: ImageVector
                 lineToRelative(-0.4f, 0.0f)
                 lineToRelative(-0.165f, 0.0f)
                 arcToRelative(3.0f, 3.0f, 0.0f, false, true, 0.165f, -6.0f)
-                close()
+                lineToRelative(0.001f, -0.012f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(9.0f, 9.0f)
                 arcToRelative(3.0f, 3.0f, 0.0f, false, false, -2.599f, 1.5f)
-                horizontalLineToRelative(0.0f)
                 curveToRelative(-0.933f, 1.333f, -2.133f, 1.556f, -3.126f, 1.556f)
                 lineToRelative(-0.291f, 0.0f)
                 lineToRelative(-0.77f, -0.044f)
@@ -50,7 +48,7 @@ public val OutlineGroup.Moustache: ImageVector
                 lineToRelative(0.4f, 0.0f)
                 lineToRelative(0.165f, 0.0f)
                 arcToRelative(3.0f, 3.0f, 0.0f, false, false, -0.165f, -6.0f)
-                close()
+                lineToRelative(-0.001f, -0.012f)
             }
         }
         .build()

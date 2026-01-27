@@ -34,7 +34,6 @@ public val OutlineGroup.PentagonNumber9: ImageVector
                 arcToRelative(1.978f, 1.978f, 0.0f, false, true, 0.719f, -2.212f)
                 lineToRelative(8.021f, -5.828f)
                 arcToRelative(1.978f, 1.978f, 0.0f, false, true, 2.326f, 0.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

@@ -41,7 +41,6 @@ public val OutlineGroup.Hammer: ImageVector
                 arcToRelative(1.0f, 1.0f, 0.0f, false, false, 0.0f, 1.414f)
                 lineToRelative(7.586f, 7.586f)
                 arcToRelative(1.0f, 1.0f, 0.0f, false, false, 1.414f, 0.0f)
-                close()
             }
         }
         .build()

@@ -29,7 +29,6 @@ public val OutlineGroup.LetterBSmall: ImageVector
                 arcToRelative(2.0f, 2.0f, 0.0f, true, false, 0.0f, -4.0f)
                 horizontalLineToRelative(-2.0f)
                 verticalLineToRelative(8.0f)
-                close()
             }
         }
         .build()

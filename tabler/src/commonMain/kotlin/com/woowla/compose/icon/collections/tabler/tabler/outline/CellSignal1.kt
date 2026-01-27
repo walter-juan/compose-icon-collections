@@ -27,7 +27,6 @@ public val OutlineGroup.CellSignal1: ImageVector
                 lineToRelative(14.537f, -14.537f)
                 arcToRelative(0.731f, 0.731f, 0.0f, false, true, 1.249f, 0.517f)
                 verticalLineToRelative(15.269f)
-                close()
             }
         }
         .build()

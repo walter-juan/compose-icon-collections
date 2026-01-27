@@ -48,7 +48,6 @@ public val OutlineGroup.Bow: ImageVector
                 curveToRelative(0.0f, -4.81f, -3.69f, -8.5f, -8.5f, -8.5f)
                 curveToRelative(-2.415f, 0.0f, -4.922f, 0.913f, -6.5f, 2.5f)
                 lineToRelative(12.5f, 12.5f)
-                close()
             }
         }
         .build()

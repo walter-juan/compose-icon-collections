@@ -27,7 +27,7 @@ public val OutlineGroup.BrandEnvato: ImageVector
                 curveToRelative(-0.534f, -1.339f, -1.35f, -4.178f, 0.129f, -6.47f)
                 curveToRelative(1.415f, -2.193f, 3.769f, -3.608f, 5.099f, -4.278f)
                 lineToRelative(-5.229f, 10.748f)
-                close()
+                lineToRelative(0.001f, 0.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -39,7 +39,6 @@ public val OutlineGroup.BrandEnvato: ImageVector
                 curveToRelative(2.714f, -3.737f, 5.864f, -5.978f, 6.565f, -6.077f)
                 curveToRelative(0.0f, 0.201f, 0.03f, 0.55f, 0.071f, 1.03f)
                 curveToRelative(0.144f, 1.709f, 0.443f, 5.264f, -0.066f, 8.478f)
-                close()
             }
         }
         .build()

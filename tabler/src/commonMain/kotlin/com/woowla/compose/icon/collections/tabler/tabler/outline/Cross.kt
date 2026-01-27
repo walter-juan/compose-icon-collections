@@ -33,7 +33,7 @@ public val OutlineGroup.Cross: ImageVector
                 horizontalLineToRelative(-5.0f)
                 verticalLineToRelative(4.0f)
                 horizontalLineToRelative(5.0f)
-                close()
+                lineToRelative(0.0f, 9.0f)
             }
         }
         .build()

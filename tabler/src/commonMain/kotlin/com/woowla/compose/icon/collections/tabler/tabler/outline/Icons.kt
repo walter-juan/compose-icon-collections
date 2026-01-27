@@ -23,8 +23,7 @@ public val OutlineGroup.Icons: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(6.5f, 6.5f)
-                moveToRelative(-3.5f, 0.0f)
+                moveTo(3.0f, 6.5f)
                 arcToRelative(3.5f, 3.5f, 0.0f, true, false, 7.0f, 0.0f)
                 arcToRelative(3.5f, 3.5f, 0.0f, true, false, -7.0f, 0.0f)
             }
@@ -34,7 +33,7 @@ public val OutlineGroup.Icons: ImageVector
                 moveTo(2.5f, 21.0f)
                 horizontalLineToRelative(8.0f)
                 lineToRelative(-4.0f, -7.0f)
-                close()
+                lineToRelative(-4.0f, 7.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -55,7 +54,7 @@ public val OutlineGroup.Icons: ImageVector
                 horizontalLineToRelative(7.0f)
                 verticalLineToRelative(7.0f)
                 horizontalLineToRelative(-7.0f)
-                close()
+                lineToRelative(0.0f, -7.0f)
             }
         }
         .build()

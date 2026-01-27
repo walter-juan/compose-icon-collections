@@ -29,7 +29,6 @@ public val OutlineGroup.BrandSkype: ImageVector
                 arcToRelative(9.0f, 9.0f, 0.0f, false, true, -11.253f, -11.253f)
                 arcToRelative(4.5f, 4.5f, 0.0f, false, true, 5.953f, -5.954f)
                 arcToRelative(8.987f, 8.987f, 0.0f, false, true, 2.65f, -0.396f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

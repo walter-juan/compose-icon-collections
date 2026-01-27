@@ -47,7 +47,6 @@ public val OutlineGroup.LogicAnd: ImageVector
                 horizontalLineToRelative(-2.0f)
                 verticalLineToRelative(-14.0f)
                 horizontalLineToRelative(2.0f)
-                close()
             }
         }
         .build()

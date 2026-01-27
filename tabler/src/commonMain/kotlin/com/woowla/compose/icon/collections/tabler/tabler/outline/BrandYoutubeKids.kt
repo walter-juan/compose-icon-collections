@@ -39,7 +39,7 @@ public val OutlineGroup.BrandYoutubeKids: ImageVector
                 arcToRelative(3.677f, 3.677f, 0.0f, false, true, -0.697f, 3.086f)
                 arcToRelative(4.007f, 4.007f, 0.0f, false, true, -2.89f, 1.512f)
                 verticalLineToRelative(0.002f)
-                close()
+                lineToRelative(-0.001f, 0.002f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -47,7 +47,7 @@ public val OutlineGroup.BrandYoutubeKids: ImageVector
                 moveTo(9.0f, 10.0f)
                 lineToRelative(1.208f, 5.0f)
                 lineToRelative(4.292f, -4.0f)
-                close()
+                lineToRelative(-5.5f, -1.0f)
             }
         }
         .build()

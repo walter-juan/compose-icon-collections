@@ -26,7 +26,7 @@ public val OutlineGroup.CircleCaretLeft: ImageVector
                 moveTo(9.0f, 12.0f)
                 lineToRelative(4.0f, -4.0f)
                 verticalLineToRelative(8.0f)
-                close()
+                lineToRelative(-4.0f, -4.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -34,7 +34,6 @@ public val OutlineGroup.CircleCaretLeft: ImageVector
                 moveTo(12.0f, 21.0f)
                 arcToRelative(9.0f, 9.0f, 0.0f, true, true, 0.0f, -18.0f)
                 arcToRelative(9.0f, 9.0f, 0.0f, false, true, 0.0f, 18.0f)
-                close()
             }
         }
         .build()

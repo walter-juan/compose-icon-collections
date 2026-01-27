@@ -34,7 +34,6 @@ public val OutlineGroup.Keyframes: ImageVector
                 lineToRelative(4.361f, 5.248f)
                 arcToRelative(1.844f, 1.844f, 0.0f, false, true, 0.0f, 2.328f)
                 lineToRelative(-4.361f, 5.248f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

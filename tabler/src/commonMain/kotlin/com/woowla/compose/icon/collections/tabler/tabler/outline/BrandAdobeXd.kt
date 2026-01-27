@@ -36,21 +36,25 @@ public val OutlineGroup.BrandAdobeXd: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(6.316f, 8.21f)
-                lineToRelative(5.684f, 7.58f)
-                moveToRelative(-5.684f, 0.0f)
-                lineToRelative(5.684f, -7.58f)
+                moveTo(6.0f, 8.0f)
+                lineToRelative(5.0f, 8.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(17.684f, 11.053f)
-                verticalLineToRelative(3.79f)
-                curveToRelative(0.0f, 1.044f, -0.49f, 0.946f, -1.42f, 0.946f)
-                arcToRelative(2.368f, 2.368f, 0.0f, false, true, 0.0f, -4.736f)
-                close()
-                moveTo(17.684f, 11.053f)
-                verticalLineToRelative(-2.843f)
+                moveTo(6.0f, 16.0f)
+                lineToRelative(5.0f, -8.0f)
+            }
+            path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
+                    strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
+                    StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
+                moveTo(18.0f, 11.0f)
+                verticalLineToRelative(4.0f)
+                curveToRelative(0.0f, 1.1f, -0.517f, 0.997f, -1.5f, 0.997f)
+                arcToRelative(2.5f, 2.5f, 0.0f, false, true, -2.5f, -2.497f)
+                arcToRelative(2.5f, 2.5f, 0.0f, false, true, 2.5f, -2.5f)
+                lineToRelative(1.5f, 0.0f)
+                verticalLineToRelative(-3.0f)
             }
         }
         .build()

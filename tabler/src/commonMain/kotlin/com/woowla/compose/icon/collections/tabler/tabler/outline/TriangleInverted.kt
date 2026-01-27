@@ -28,7 +28,6 @@ public val OutlineGroup.TriangleInverted: ImageVector
                 arcToRelative(1.914f, 1.914f, 0.0f, false, true, 1.636f, 2.871f)
                 lineToRelative(-8.106f, 13.534f)
                 arcToRelative(1.914f, 1.914f, 0.0f, false, true, -3.274f, 0.0f)
-                close()
             }
         }
         .build()

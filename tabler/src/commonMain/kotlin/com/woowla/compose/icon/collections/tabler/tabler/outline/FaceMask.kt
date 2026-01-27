@@ -66,7 +66,6 @@ public val OutlineGroup.FaceMask: ImageVector
                 arcToRelative(2.0f, 2.0f, 0.0f, false, false, 1.45f, 1.923f)
                 lineToRelative(5.0f, 1.429f)
                 arcToRelative(2.0f, 2.0f, 0.0f, false, false, 1.1f, 0.0f)
-                close()
             }
         }
         .build()

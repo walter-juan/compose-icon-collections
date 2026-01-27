@@ -26,7 +26,6 @@ public val OutlineGroup.Egg: ImageVector
                 curveToRelative(-4.2f, 0.0f, -7.0f, -2.763f, -7.0f, -6.917f)
                 curveToRelative(0.0f, -5.538f, 3.5f, -11.09f, 7.0f, -11.083f)
                 curveToRelative(3.5f, 0.007f, 7.0f, 5.545f, 7.0f, 11.083f)
-                close()
             }
         }
         .build()

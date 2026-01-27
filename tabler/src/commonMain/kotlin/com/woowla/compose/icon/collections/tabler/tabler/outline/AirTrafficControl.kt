@@ -44,7 +44,6 @@ public val OutlineGroup.AirTrafficControl: ImageVector
                 arcToRelative(2.0f, 2.0f, 0.0f, false, true, -1.916f, -1.425f)
                 lineToRelative(-1.8f, -6.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, false, true, 1.916f, -2.575f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

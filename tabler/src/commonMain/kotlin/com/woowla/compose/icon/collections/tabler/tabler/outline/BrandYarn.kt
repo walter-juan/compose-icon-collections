@@ -50,7 +50,6 @@ public val OutlineGroup.BrandYarn: ImageVector
                 curveToRelative(0.735f, -0.066f, 0.988f, -0.035f, 1.22f, 1.0f)
                 curveToRelative(0.232f, 1.035f, -0.346f, 1.406f, -0.744f, 1.506f)
                 curveToRelative(0.0f, 0.0f, -2.09f, 0.675f, -2.911f, 1.302f)
-                close()
             }
         }
         .build()

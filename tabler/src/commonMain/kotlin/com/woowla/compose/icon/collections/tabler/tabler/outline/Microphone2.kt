@@ -34,7 +34,6 @@ public val OutlineGroup.Microphone2: ImageVector
                 lineToRelative(-7.513f, 8.584f)
                 arcToRelative(2.0f, 2.0f, 0.0f, true, false, 2.827f, 2.83f)
                 lineToRelative(8.588f, -7.515f)
-                close()
             }
         }
         .build()

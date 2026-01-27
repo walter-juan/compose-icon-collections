@@ -36,7 +36,6 @@ public val OutlineGroup.Horseshoe: ImageVector
                 lineToRelative(2.406f, 1.147f)
                 lineToRelative(2.0f, -3.0f)
                 lineToRelative(-2.0f, -1.0f)
-                close()
             }
         }
         .build()

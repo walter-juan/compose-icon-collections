@@ -48,22 +48,18 @@ public val OutlineGroup.Report: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(8.0f, 3.0f)
-                moveToRelative(0.0f, 2.0f)
+                moveTo(8.0f, 5.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, false, true, 2.0f, -2.0f)
                 horizontalLineToRelative(2.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, false, true, 2.0f, 2.0f)
-                verticalLineToRelative(0.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, false, true, -2.0f, 2.0f)
                 horizontalLineToRelative(-2.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, false, true, -2.0f, -2.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(18.0f, 18.0f)
-                moveToRelative(-4.0f, 0.0f)
+                moveTo(14.0f, 18.0f)
                 arcToRelative(4.0f, 4.0f, 0.0f, true, false, 8.0f, 0.0f)
                 arcToRelative(4.0f, 4.0f, 0.0f, true, false, -8.0f, 0.0f)
             }

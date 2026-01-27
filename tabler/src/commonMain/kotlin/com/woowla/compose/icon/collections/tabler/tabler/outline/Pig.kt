@@ -51,7 +51,6 @@ public val OutlineGroup.Pig: ImageVector
                 arcToRelative(6.0f, 6.0f, 0.0f, false, true, 4.0f, -10.473f)
                 horizontalLineToRelative(2.5f)
                 lineToRelative(4.5f, -3.0f)
-                close()
             }
         }
         .build()

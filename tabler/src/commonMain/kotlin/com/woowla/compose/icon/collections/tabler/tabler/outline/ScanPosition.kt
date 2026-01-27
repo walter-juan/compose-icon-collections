@@ -59,7 +59,7 @@ public val OutlineGroup.ScanPosition: ImageVector
                 lineToRelative(3.0f, -8.0f)
                 lineToRelative(-8.0f, 3.0f)
                 lineToRelative(3.5f, 1.5f)
-                close()
+                lineToRelative(1.5f, 3.5f)
             }
         }
         .build()

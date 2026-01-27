@@ -23,8 +23,7 @@ public val OutlineGroup.Books: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(5.0f, 4.0f)
-                moveToRelative(0.0f, 1.0f)
+                moveTo(5.0f, 5.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, false, true, 1.0f, -1.0f)
                 horizontalLineToRelative(2.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, false, true, 1.0f, 1.0f)
@@ -32,13 +31,12 @@ public val OutlineGroup.Books: ImageVector
                 arcToRelative(1.0f, 1.0f, 0.0f, false, true, -1.0f, 1.0f)
                 horizontalLineToRelative(-2.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, false, true, -1.0f, -1.0f)
-                close()
+                lineToRelative(0.0f, -14.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(9.0f, 4.0f)
-                moveToRelative(0.0f, 1.0f)
+                moveTo(9.0f, 5.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, false, true, 1.0f, -1.0f)
                 horizontalLineToRelative(2.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, false, true, 1.0f, 1.0f)
@@ -46,7 +44,7 @@ public val OutlineGroup.Books: ImageVector
                 arcToRelative(1.0f, 1.0f, 0.0f, false, true, -1.0f, 1.0f)
                 horizontalLineToRelative(-2.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, false, true, -1.0f, -1.0f)
-                close()
+                lineToRelative(0.0f, -14.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -74,7 +72,6 @@ public val OutlineGroup.Books: ImageVector
                 lineToRelative(-3.695f, -13.418f)
                 arcToRelative(1.02f, 1.02f, 0.0f, false, true, 0.634f, -1.219f)
                 lineToRelative(0.133f, -0.041f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

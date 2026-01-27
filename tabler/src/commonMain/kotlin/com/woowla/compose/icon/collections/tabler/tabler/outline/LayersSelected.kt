@@ -31,7 +31,7 @@ public val OutlineGroup.LayersSelected: ImageVector
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
                 moveTo(13.496f, 16.0f)
                 lineToRelative(6.504f, -6.504f)
-                close()
+                lineToRelative(-6.504f, 6.504f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -50,7 +50,7 @@ public val OutlineGroup.LayersSelected: ImageVector
                 arcToRelative(2.0f, 2.0f, 0.0f, false, true, -2.0f, 2.0f)
                 horizontalLineToRelative(-8.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, false, true, -2.0f, -2.0f)
-                close()
+                lineToRelative(0.0f, -8.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

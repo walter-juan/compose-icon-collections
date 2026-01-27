@@ -54,7 +54,6 @@ public val OutlineGroup.BrandCashapp: ImageVector
                 lineToRelative(0.023f, 0.022f)
                 curveToRelative(0.216f, 0.228f, 0.216f, 0.569f, 0.0f, 0.773f)
                 lineToRelative(-1.057f, 1.057f)
-                close()
             }
         }
         .build()

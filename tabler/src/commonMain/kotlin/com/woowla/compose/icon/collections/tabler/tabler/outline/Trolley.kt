@@ -23,8 +23,7 @@ public val OutlineGroup.Trolley: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(11.0f, 19.0f)
-                moveToRelative(-2.0f, 0.0f)
+                moveTo(9.0f, 19.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, true, false, 4.0f, 0.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, true, false, -4.0f, 0.0f)
             }
@@ -58,7 +57,6 @@ public val OutlineGroup.Trolley: ImageVector
                 arcToRelative(1.3f, 1.3f, 0.0f, false, true, -0.396f, -1.8f)
                 lineToRelative(3.094f, -4.81f)
                 arcToRelative(1.3f, 1.3f, 0.0f, false, true, 1.792f, -0.394f)
-                close()
             }
         }
         .build()

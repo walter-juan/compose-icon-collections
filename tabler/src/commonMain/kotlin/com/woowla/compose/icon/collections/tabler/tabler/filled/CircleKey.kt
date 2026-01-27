@@ -57,7 +57,6 @@ public val FilledGroup.CircleKey: ImageVector
                 moveTo(14.0f, 9.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, true, true, 0.0f, 2.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, false, true, 0.0f, -2.0f)
-                close()
             }
         }
         .build()

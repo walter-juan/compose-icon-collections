@@ -29,7 +29,6 @@ public val OutlineGroup.Lemon2: ImageVector
                 curveToRelative(-1.55f, -2.94f, -0.873f, -6.917f, 1.892f, -9.682f)
                 curveToRelative(2.765f, -2.765f, 6.743f, -3.442f, 9.682f, -1.892f)
                 arcToRelative(2.0f, 2.0f, 0.0f, false, true, 1.611f, -0.815f)
-                close()
             }
         }
         .build()

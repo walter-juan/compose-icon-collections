@@ -33,7 +33,6 @@ public val OutlineGroup.BounceRight: ImageVector
                 moveTo(18.0f, 9.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, true, true, 0.0f, -4.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, false, true, 0.0f, 4.0f)
-                close()
             }
         }
         .build()

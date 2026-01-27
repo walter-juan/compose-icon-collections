@@ -28,7 +28,6 @@ public val OutlineGroup.Pizza: ImageVector
                 lineToRelative(8.5f, -16.517f)
                 lineToRelative(8.5f, 16.517f)
                 arcToRelative(19.09f, 19.09f, 0.0f, false, true, -8.5f, 1.983f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

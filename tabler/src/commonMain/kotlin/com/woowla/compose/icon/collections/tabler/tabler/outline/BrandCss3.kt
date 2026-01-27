@@ -28,7 +28,7 @@ public val OutlineGroup.BrandCss3: ImageVector
                 lineToRelative(-6.0f, 2.0f)
                 lineToRelative(-6.0f, -2.0f)
                 lineToRelative(-2.0f, -14.5f)
-                close()
+                lineToRelative(16.0f, 0.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

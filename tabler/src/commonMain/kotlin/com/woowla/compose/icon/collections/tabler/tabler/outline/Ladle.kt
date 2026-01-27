@@ -45,7 +45,6 @@ public val OutlineGroup.Ladle: ImageVector
                 curveToRelative(0.0f, 0.82f, -1.482f, 1.526f, -3.603f, 1.834f)
                 lineToRelative(-0.5f, 0.064f)
                 arcToRelative(17.27f, 17.27f, 0.0f, false, true, -1.897f, 0.102f)
-                close()
             }
         }
         .build()

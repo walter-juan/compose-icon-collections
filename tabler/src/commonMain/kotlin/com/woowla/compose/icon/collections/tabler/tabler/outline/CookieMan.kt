@@ -57,7 +57,7 @@ public val OutlineGroup.CookieMan: ImageVector
                 arcToRelative(5.0f, 5.0f, 0.0f, false, true, -2.15f, -3.895f)
                 verticalLineToRelative(-0.217f)
                 arcToRelative(5.0f, 5.0f, 0.0f, false, true, 5.0f, -5.0f)
-                close()
+                lineToRelative(-0.005f, 0.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

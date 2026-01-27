@@ -40,7 +40,6 @@ public val OutlineGroup.Lamp2: ImageVector
                 curveToRelative(-2.148f, -2.148f, -2.148f, -5.852f, 0.0f, -8.0f)
                 curveToRelative(2.088f, -2.088f, 5.842f, -1.972f, 8.0f, 0.0f)
                 lineToRelative(-8.0f, 8.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

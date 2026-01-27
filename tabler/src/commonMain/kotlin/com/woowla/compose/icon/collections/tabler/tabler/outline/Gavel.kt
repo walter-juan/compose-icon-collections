@@ -67,7 +67,6 @@ public val OutlineGroup.Gavel: ImageVector
                 lineToRelative(0.5f, 0.5f)
                 lineToRelative(-2.293f, 2.293f)
                 arcToRelative(1.0f, 1.0f, 0.0f, false, true, -1.414f, 0.0f)
-                close()
             }
         }
         .build()

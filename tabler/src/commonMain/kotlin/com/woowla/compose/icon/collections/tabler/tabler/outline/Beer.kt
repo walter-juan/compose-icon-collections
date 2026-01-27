@@ -40,7 +40,6 @@ public val OutlineGroup.Beer: ImageVector
                 arcToRelative(9.931f, 9.931f, 0.0f, false, true, 0.845f, 4.025f)
                 verticalLineToRelative(3.625f)
                 arcToRelative(1.0f, 1.0f, 0.0f, false, false, 1.0f, 1.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

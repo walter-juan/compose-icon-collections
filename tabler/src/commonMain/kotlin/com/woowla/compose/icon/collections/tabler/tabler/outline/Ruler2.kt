@@ -27,7 +27,7 @@ public val OutlineGroup.Ruler2: ImageVector
                 lineToRelative(4.0f, 4.0f)
                 lineToRelative(-14.0f, 14.0f)
                 lineToRelative(-4.0f, -4.0f)
-                close()
+                lineToRelative(14.0f, -14.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

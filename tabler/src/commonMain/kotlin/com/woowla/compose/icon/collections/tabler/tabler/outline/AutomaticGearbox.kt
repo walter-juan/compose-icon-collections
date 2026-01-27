@@ -28,7 +28,6 @@ public val OutlineGroup.AutomaticGearbox: ImageVector
                 horizontalLineToRelative(1.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, true, false, 0.0f, -4.0f)
                 horizontalLineToRelative(-1.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -42,8 +41,7 @@ public val OutlineGroup.AutomaticGearbox: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(5.0f, 5.0f)
-                moveToRelative(-2.0f, 0.0f)
+                moveTo(3.0f, 5.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, true, false, 4.0f, 0.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, true, false, -4.0f, 0.0f)
             }

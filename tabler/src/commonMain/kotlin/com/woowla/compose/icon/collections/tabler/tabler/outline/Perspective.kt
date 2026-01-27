@@ -30,7 +30,6 @@ public val OutlineGroup.Perspective: ImageVector
                 arcToRelative(1.0f, 1.0f, 0.0f, false, true, -1.141f, -0.99f)
                 verticalLineToRelative(-13.694f)
                 arcToRelative(1.0f, 1.0f, 0.0f, false, true, 1.141f, -0.99f)
-                close()
             }
         }
         .build()

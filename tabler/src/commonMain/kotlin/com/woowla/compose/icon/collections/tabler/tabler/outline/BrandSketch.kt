@@ -32,7 +32,7 @@ public val OutlineGroup.BrandSketch: ImageVector
                 arcToRelative(1.0f, 1.0f, 0.0f, false, false, -0.823f, 0.436f)
                 lineToRelative(-3.54f, 5.192f)
                 curveToRelative(-0.263f, 0.385f, -0.227f, 0.901f, 0.087f, 1.246f)
-                close()
+                lineToRelative(-0.016f, 0.0f)
             }
         }
         .build()

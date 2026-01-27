@@ -31,7 +31,6 @@ public val OutlineGroup.DropletHalf2: ImageVector
                 arcToRelative(1.376f, 1.376f, 0.0f, false, false, -0.41f, 0.397f)
                 lineToRelative(-4.893f, 7.26f)
                 curveToRelative(-1.695f, 2.838f, -1.035f, 6.441f, 1.567f, 8.546f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

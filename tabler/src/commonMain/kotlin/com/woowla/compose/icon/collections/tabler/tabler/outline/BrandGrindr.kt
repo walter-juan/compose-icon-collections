@@ -28,7 +28,6 @@ public val OutlineGroup.BrandGrindr: ImageVector
                 curveToRelative(1.318f, 0.0f, 2.898f, -0.966f, 2.898f, -2.062f)
                 curveToRelative(0.0f, -0.817f, -0.932f, -0.938f, -1.409f, -0.938f)
                 curveToRelative(-0.228f, 0.0f, -3.591f, 0.111f, -3.591f, 1.282f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -42,7 +41,6 @@ public val OutlineGroup.BrandGrindr: ImageVector
                 lineToRelative(1.446f, 1.315f)
                 reflectiveCurveToRelative(-0.24f, 10.213f, -2.37f, 13.704f)
                 curveToRelative(-0.16f, 0.26f, -3.646f, 2.981f, -6.63f, 2.981f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -52,7 +50,6 @@ public val OutlineGroup.BrandGrindr: ImageVector
                 curveToRelative(-1.318f, 0.0f, -2.898f, -0.966f, -2.898f, -2.062f)
                 curveToRelative(0.0f, -0.817f, 0.932f, -0.938f, 1.409f, -0.938f)
                 curveToRelative(0.228f, 0.0f, 3.591f, 0.111f, 3.591f, 1.282f)
-                close()
             }
         }
         .build()

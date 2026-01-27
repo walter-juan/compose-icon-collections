@@ -46,7 +46,6 @@ public val OutlineGroup.DogBowl: ImageVector
                 curveToRelative(-0.175f, -1.671f, -0.046f, -3.345f, -2.0f, -5.0f)
                 horizontalLineToRelative(-14.0f)
                 curveToRelative(-1.333f, 1.0f, -2.0f, 2.667f, -2.0f, 5.0f)
-                close()
             }
         }
         .build()

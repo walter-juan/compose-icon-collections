@@ -33,7 +33,6 @@ public val OutlineGroup.Beach: ImageVector
                 arcToRelative(6.0f, 6.0f, 0.0f, false, false, -8.196f, 2.196f)
                 lineToRelative(10.392f, 6.0f)
                 arcToRelative(6.0f, 6.0f, 0.0f, false, false, -2.196f, -8.196f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

@@ -31,7 +31,7 @@ public val OutlineGroup.DeviceIpad: ImageVector
                 arcToRelative(2.0f, 2.0f, 0.0f, false, true, -2.0f, -2.0f)
                 verticalLineToRelative(-14.0f)
                 arcToRelative(2.0f, 2.0f, 0.0f, false, true, 2.0f, -2.0f)
-                close()
+                lineToRelative(12.0f, 0.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

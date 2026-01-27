@@ -27,7 +27,7 @@ public val OutlineGroup.BrandRevolut: ImageVector
                 horizontalLineToRelative(3.0f)
                 verticalLineToRelative(10.0f)
                 horizontalLineToRelative(-3.0f)
-                close()
+                lineToRelative(0.0f, -10.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -44,7 +44,6 @@ public val OutlineGroup.BrandRevolut: ImageVector
                 lineToRelative(-5.0f, -7.0f)
                 horizontalLineToRelative(0.5f)
                 arcToRelative(4.5f, 4.5f, 0.0f, true, false, 0.0f, -9.0f)
-                close()
             }
         }
         .build()

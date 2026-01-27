@@ -31,7 +31,6 @@ public val OutlineGroup.BrandWechat: ImageVector
                 arcToRelative(6.649f, 6.649f, 0.0f, false, true, -1.536f, 0.178f)
                 curveToRelative(-3.038f, 0.0f, -5.5f, -2.015f, -5.5f, -4.5f)
                 reflectiveCurveToRelative(2.462f, -4.5f, 5.5f, -4.5f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

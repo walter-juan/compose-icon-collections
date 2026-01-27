@@ -30,8 +30,7 @@ public val OutlineGroup.BrandTailwind: ImageVector
                 curveToRelative(-0.933f, 1.223f, -2.023f, 1.68f, -3.267f, 1.375f)
                 curveToRelative(-0.71f, -0.174f, -1.217f, -0.68f, -1.778f, -1.24f)
                 curveToRelative(-0.916f, -0.912f, -1.975f, -1.968f, -4.288f, -1.968f)
-                close()
-                moveTo(7.667f, 12.5f)
+                moveToRelative(-4.0f, 6.5f)
                 curveToRelative(-2.49f, 0.0f, -4.044f, 1.222f, -4.667f, 3.667f)
                 curveToRelative(0.933f, -1.223f, 2.023f, -1.68f, 3.267f, -1.375f)
                 curveToRelative(0.71f, 0.174f, 1.217f, 0.68f, 1.778f, 1.24f)
@@ -40,7 +39,6 @@ public val OutlineGroup.BrandTailwind: ImageVector
                 curveToRelative(-0.933f, 1.223f, -2.023f, 1.68f, -3.267f, 1.375f)
                 curveToRelative(-0.71f, -0.174f, -1.217f, -0.68f, -1.778f, -1.24f)
                 curveToRelative(-0.916f, -0.912f, -1.975f, -1.968f, -4.288f, -1.968f)
-                close()
             }
         }
         .build()

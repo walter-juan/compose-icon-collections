@@ -36,7 +36,7 @@ public val OutlineGroup.Assembly: ImageVector
                 lineToRelative(6.75f, -3.98f)
                 arcToRelative(2.33f, 2.33f, 0.0f, false, true, 2.25f, 0.0f)
                 lineToRelative(6.75f, 3.98f)
-                close()
+                lineToRelative(-0.033f, 0.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -55,7 +55,7 @@ public val OutlineGroup.Assembly: ImageVector
                 curveToRelative(0.311f, -0.174f, 0.69f, -0.174f, 1.0f, 0.0f)
                 lineToRelative(3.0f, 1.79f)
                 horizontalLineToRelative(-0.014f)
-                close()
+                lineToRelative(0.0f, 0.001f)
             }
         }
         .build()

@@ -31,7 +31,6 @@ public val OutlineGroup.PencilQuestion: ImageVector
                 lineToRelative(-10.5f, 10.5f)
                 verticalLineToRelative(4.0f)
                 horizontalLineToRelative(4.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

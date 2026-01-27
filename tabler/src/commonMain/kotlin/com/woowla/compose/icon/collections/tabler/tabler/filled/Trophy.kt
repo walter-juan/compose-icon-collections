@@ -51,11 +51,9 @@ public val FilledGroup.Trophy: ImageVector
                 moveTo(5.0f, 8.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, true, false, 0.0f, 2.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, false, false, 0.0f, -2.0f)
-                close()
-                moveTo(19.0f, 8.0f)
+                moveToRelative(14.0f, 0.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, true, false, 0.0f, 2.0f)
                 arcToRelative(1.0f, 1.0f, 0.0f, false, false, 0.0f, -2.0f)
-                close()
             }
         }
         .build()

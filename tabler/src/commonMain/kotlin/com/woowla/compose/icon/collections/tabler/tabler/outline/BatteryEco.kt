@@ -47,7 +47,6 @@ public val OutlineGroup.BatteryEco: ImageVector
                 curveToRelative(0.0f, 2.84f, -2.09f, 5.143f, -4.667f, 5.143f)
                 horizontalLineToRelative(-2.333f)
                 verticalLineToRelative(-0.857f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

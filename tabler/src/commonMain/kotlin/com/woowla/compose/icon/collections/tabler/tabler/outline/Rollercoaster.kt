@@ -60,7 +60,7 @@ public val OutlineGroup.Rollercoaster: ImageVector
                 horizontalLineToRelative(5.0f)
                 verticalLineToRelative(3.0f)
                 horizontalLineToRelative(-5.0f)
-                close()
+                lineToRelative(0.0f, -3.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -70,7 +70,7 @@ public val OutlineGroup.Rollercoaster: ImageVector
                 lineToRelative(2.0f, 2.5f)
                 lineToRelative(-4.0f, 3.0f)
                 lineToRelative(-1.8f, -0.5f)
-                close()
+                lineToRelative(-0.2f, -2.0f)
             }
         }
         .build()

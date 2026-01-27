@@ -31,7 +31,6 @@ public val OutlineGroup.BrandTiktok: ImageVector
                 verticalLineToRelative(-11.5f)
                 horizontalLineToRelative(4.083f)
                 arcToRelative(6.005f, 6.005f, 0.0f, false, false, 4.917f, 4.917f)
-                close()
             }
         }
         .build()

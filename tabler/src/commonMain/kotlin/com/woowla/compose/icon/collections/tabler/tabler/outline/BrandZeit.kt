@@ -24,7 +24,7 @@ public val OutlineGroup.BrandZeit: ImageVector
                 moveTo(3.0f, 20.0f)
                 horizontalLineToRelative(18.0f)
                 lineToRelative(-9.0f, -16.0f)
-                close()
+                lineToRelative(-9.0f, 16.0f)
             }
         }
         .build()

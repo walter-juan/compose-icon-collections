@@ -27,7 +27,6 @@ public val OutlineGroup.Exposure0: ImageVector
                 arcToRelative(4.0f, 4.0f, 0.0f, true, false, -8.0f, 0.0f)
                 verticalLineToRelative(6.0f)
                 arcToRelative(4.0f, 4.0f, 0.0f, false, false, 4.0f, 4.0f)
-                close()
             }
         }
         .build()

@@ -23,8 +23,7 @@ public val OutlineGroup.DeviceWatchStats2: ImageVector
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
                     StrokeJoin.Companion.Round, strokeLineMiter = 4.0f, pathFillType = NonZero) {
-                moveTo(6.0f, 6.0f)
-                moveToRelative(0.0f, 3.0f)
+                moveTo(6.0f, 9.0f)
                 arcToRelative(3.0f, 3.0f, 0.0f, false, true, 3.0f, -3.0f)
                 horizontalLineToRelative(6.0f)
                 arcToRelative(3.0f, 3.0f, 0.0f, false, true, 3.0f, 3.0f)
@@ -32,7 +31,7 @@ public val OutlineGroup.DeviceWatchStats2: ImageVector
                 arcToRelative(3.0f, 3.0f, 0.0f, false, true, -3.0f, 3.0f)
                 horizontalLineToRelative(-6.0f)
                 arcToRelative(3.0f, 3.0f, 0.0f, false, true, -3.0f, -3.0f)
-                close()
+                lineToRelative(0.0f, -6.0f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

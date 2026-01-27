@@ -34,7 +34,6 @@ public val OutlineGroup.Barrel: ImageVector
                 curveToRelative(-0.958f, -2.26f, -1.437f, -4.52f, -1.437f, -6.78f)
                 curveToRelative(0.0f, -2.26f, 0.479f, -4.52f, 1.437f, -6.78f)
                 arcToRelative(2.0f, 2.0f, 0.0f, false, true, 1.841f, -1.22f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =

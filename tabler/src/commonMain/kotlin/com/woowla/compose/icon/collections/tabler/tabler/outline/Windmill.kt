@@ -27,7 +27,6 @@ public val OutlineGroup.Windmill: ImageVector
                 curveToRelative(2.76f, 0.0f, 5.0f, -2.01f, 5.0f, -4.5f)
                 reflectiveCurveToRelative(-2.24f, -4.5f, -5.0f, -4.5f)
                 verticalLineToRelative(9.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -36,7 +35,6 @@ public val OutlineGroup.Windmill: ImageVector
                 curveToRelative(0.0f, 2.76f, 2.01f, 5.0f, 4.5f, 5.0f)
                 reflectiveCurveToRelative(4.5f, -2.24f, 4.5f, -5.0f)
                 horizontalLineToRelative(-9.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -45,7 +43,6 @@ public val OutlineGroup.Windmill: ImageVector
                 curveToRelative(-2.76f, 0.0f, -5.0f, 2.01f, -5.0f, 4.5f)
                 reflectiveCurveToRelative(2.24f, 4.5f, 5.0f, 4.5f)
                 verticalLineToRelative(-9.0f)
-                close()
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
@@ -54,7 +51,6 @@ public val OutlineGroup.Windmill: ImageVector
                 curveToRelative(0.0f, -2.76f, -2.01f, -5.0f, -4.5f, -5.0f)
                 reflectiveCurveToRelative(-4.5f, 2.24f, -4.5f, 5.0f)
                 horizontalLineToRelative(9.0f)
-                close()
             }
         }
         .build()

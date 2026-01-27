@@ -30,7 +30,6 @@ public val OutlineGroup.BrandLine: ImageVector
                 curveToRelative(0.96f, -0.42f, 5.18f, -3.201f, 7.073f, -5.48f)
                 curveToRelative(1.304f, -1.504f, 1.927f, -3.029f, 1.927f, -4.715f)
                 verticalLineToRelative(-0.01f)
-                close()
             }
         }
         .build()

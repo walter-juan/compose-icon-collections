@@ -57,7 +57,6 @@ public val OutlineGroup.HomeHand: ImageVector
                 curveToRelative(0.0f, -0.754f, -0.672f, -1.364f, -1.5f, -1.364f)
                 reflectiveCurveToRelative(-1.5f, 0.61f, -1.5f, 1.364f)
                 verticalLineToRelative(4.136f)
-                close()
             }
         }
         .build()

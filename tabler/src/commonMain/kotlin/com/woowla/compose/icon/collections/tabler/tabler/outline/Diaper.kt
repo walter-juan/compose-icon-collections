@@ -33,7 +33,7 @@ public val OutlineGroup.Diaper: ImageVector
                 curveToRelative(0.044f, 0.24f, 0.044f, 0.53f, 0.044f, 1.11f)
                 verticalLineToRelative(2.676f)
                 arcToRelative(9.0f, 9.0f, 0.0f, false, true, -18.0f, 0.0f)
-                close()
+                lineToRelative(0.001f, -2.677f)
             }
             path(fill = SolidColor(Color(0x00000000)), stroke = SolidColor(Color(0xFF000000)),
                     strokeLineWidth = 2.0f, strokeLineCap = Round, strokeLineJoin =
