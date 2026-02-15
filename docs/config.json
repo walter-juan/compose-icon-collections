@@ -33,32 +33,6 @@
             ]
         },
         {
-            "name": "Remix icons",
-            "value": "remix",
-            "categories": [
-                "document",
-                "communication",
-                "development",
-                "arrows",
-                "logos",
-                "weather",
-                "healthandmedical",
-                "gameandsports",
-                "business",
-                "system",
-                "editor",
-                "map",
-                "design",
-                "others",
-                "finance",
-                "userandfaces",
-                "device",
-                "media",
-                "food",
-                "buildings"
-            ]
-        },
-        {
             "name": "Tabler",
             "value": "tabler",
             "categories": [
@@ -96,6 +70,32 @@
             "value": "octicons",
             "categories": [
                 ""
+            ]
+        },
+        {
+            "name": "Remix icons",
+            "value": "remix",
+            "categories": [
+                "healthandmedical",
+                "userandfaces",
+                "weather",
+                "editor",
+                "gameandsports",
+                "communication",
+                "device",
+                "others",
+                "system",
+                "document",
+                "design",
+                "business",
+                "buildings",
+                "arrows",
+                "map",
+                "development",
+                "logos",
+                "food",
+                "media",
+                "finance"
             ]
         }
     ]

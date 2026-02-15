@@ -34,6 +34,8 @@ import com.woowla.compose.icon.collections.remix.remix.device.CellphoneFill
 import com.woowla.compose.icon.collections.remix.remix.device.CellphoneLine
 import com.woowla.compose.icon.collections.remix.remix.device.ComputerFill
 import com.woowla.compose.icon.collections.remix.remix.device.ComputerLine
+import com.woowla.compose.icon.collections.remix.remix.device.ConnectorFill
+import com.woowla.compose.icon.collections.remix.remix.device.ConnectorLine
 import com.woowla.compose.icon.collections.remix.remix.device.CpuFill
 import com.woowla.compose.icon.collections.remix.remix.device.CpuLine
 import com.woowla.compose.icon.collections.remix.remix.device.Dashboard2Fill
@@ -211,32 +213,33 @@ public val DeviceGroup.AllIcons: ____KtList<ImageVector>
         Battery2Fill, Battery2Line, BatteryChargeFill, BatteryChargeLine, BatteryFill, BatteryLine,
         BatteryLowFill, BatteryLowLine, BatterySaverFill, BatterySaverLine, BatteryShareFill,
         BatteryShareLine, BluetoothConnectFill, BluetoothConnectLine, BluetoothFill, BluetoothLine,
-        CastFill, CastLine, CellphoneFill, CellphoneLine, ComputerFill, ComputerLine, CpuFill,
-        CpuLine, Dashboard2Fill, Dashboard2Line, Dashboard3Fill, Dashboard3Line, Database2Fill,
-        Database2Line, DatabaseFill, DatabaseLine, DeviceFill, DeviceLine, DeviceRecoverFill,
-        DeviceRecoverLine, DualSim1Fill, DualSim1Line, DualSim2Fill, DualSim2Line, Fingerprint2Fill,
-        Fingerprint2Line, FingerprintFill, FingerprintLine, GamepadFill, GamepadLine, GpsFill,
-        GpsLine, GradienterFill, GradienterLine, HardDrive2Fill, HardDrive2Line, HardDrive3Fill,
-        HardDrive3Line, HardDriveFill, HardDriveLine, HotspotFill, HotspotLine, InstallFill,
-        InstallLine, InstanceFill, InstanceLine, KeyboardBoxFill, KeyboardBoxLine, KeyboardFill,
-        KeyboardLine, MacFill, MacLine, MacbookFill, MacbookLine, MobileDownloadFill,
-        MobileDownloadLine, MouseFill, MouseLine, NetworkErrorFill, NetworkErrorLine, NetworkFill,
-        NetworkLine, NetworkOffFill, NetworkOffLine, PhoneFill, PhoneFindFill, PhoneFindLine,
-        PhoneLine, PhoneLockFill, PhoneLockLine, QrCodeFill, QrCodeLine, QrScan2Fill, QrScan2Line,
-        QrScanAiFill, QrScanAiLine, QrScanFill, QrScanLine, RadarFill, RadarLine, Ram2Fill,
-        Ram2Line, RamFill, RamLine, RemoteControl2Fill, RemoteControl2Line, RemoteControlFill,
-        RemoteControlLine, RestartFill, RestartLine, RfidFill, RfidLine, RotateLockFill,
-        RotateLockLine, RouterFill, RouterLine, RssFill, RssLine, Save2Fill, Save2Line, Save3Fill,
-        Save3Line, SaveFill, SaveLine, Scan2Fill, Scan2Line, ScanFill, ScanLine, SdCardFill,
-        SdCardLine, SdCardMiniFill, SdCardMiniLine, SensorFill, SensorLine, ServerFill, ServerLine,
-        ShutDownFill, ShutDownLine, SignalCellular1Fill, SignalCellular1Line, SignalCellular2Fill,
-        SignalCellular2Line, SignalCellular3Fill, SignalCellular3Line, SignalCellularOffFill,
-        SignalCellularOffLine, SignalWifi1Fill, SignalWifi1Line, SignalWifi2Fill, SignalWifi2Line,
-        SignalWifi3Fill, SignalWifi3Line, SignalWifiErrorFill, SignalWifiErrorLine, SignalWifiFill,
-        SignalWifiLine, SignalWifiOffFill, SignalWifiOffLine, SimCard2Fill, SimCard2Line,
-        SimCardFill, SimCardLine, SimCardWarningFill, SimCardWarningLine, SmartphoneFill,
-        SmartphoneLine, TabletFill, TabletLine, Tv2Fill, Tv2Line, TvFill, TvLine, UDiskFill,
-        UDiskLine, UninstallFill, UninstallLine, UsbFill, UsbLine, WifiFill, WifiLine, WifiOffFill,
-        WifiOffLine, WirelessChargingFill, WirelessChargingLine)
+        CastFill, CastLine, CellphoneFill, CellphoneLine, ComputerFill, ComputerLine, ConnectorFill,
+        ConnectorLine, CpuFill, CpuLine, Dashboard2Fill, Dashboard2Line, Dashboard3Fill,
+        Dashboard3Line, Database2Fill, Database2Line, DatabaseFill, DatabaseLine, DeviceFill,
+        DeviceLine, DeviceRecoverFill, DeviceRecoverLine, DualSim1Fill, DualSim1Line, DualSim2Fill,
+        DualSim2Line, Fingerprint2Fill, Fingerprint2Line, FingerprintFill, FingerprintLine,
+        GamepadFill, GamepadLine, GpsFill, GpsLine, GradienterFill, GradienterLine, HardDrive2Fill,
+        HardDrive2Line, HardDrive3Fill, HardDrive3Line, HardDriveFill, HardDriveLine, HotspotFill,
+        HotspotLine, InstallFill, InstallLine, InstanceFill, InstanceLine, KeyboardBoxFill,
+        KeyboardBoxLine, KeyboardFill, KeyboardLine, MacFill, MacLine, MacbookFill, MacbookLine,
+        MobileDownloadFill, MobileDownloadLine, MouseFill, MouseLine, NetworkErrorFill,
+        NetworkErrorLine, NetworkFill, NetworkLine, NetworkOffFill, NetworkOffLine, PhoneFill,
+        PhoneFindFill, PhoneFindLine, PhoneLine, PhoneLockFill, PhoneLockLine, QrCodeFill,
+        QrCodeLine, QrScan2Fill, QrScan2Line, QrScanAiFill, QrScanAiLine, QrScanFill, QrScanLine,
+        RadarFill, RadarLine, Ram2Fill, Ram2Line, RamFill, RamLine, RemoteControl2Fill,
+        RemoteControl2Line, RemoteControlFill, RemoteControlLine, RestartFill, RestartLine,
+        RfidFill, RfidLine, RotateLockFill, RotateLockLine, RouterFill, RouterLine, RssFill,
+        RssLine, Save2Fill, Save2Line, Save3Fill, Save3Line, SaveFill, SaveLine, Scan2Fill,
+        Scan2Line, ScanFill, ScanLine, SdCardFill, SdCardLine, SdCardMiniFill, SdCardMiniLine,
+        SensorFill, SensorLine, ServerFill, ServerLine, ShutDownFill, ShutDownLine,
+        SignalCellular1Fill, SignalCellular1Line, SignalCellular2Fill, SignalCellular2Line,
+        SignalCellular3Fill, SignalCellular3Line, SignalCellularOffFill, SignalCellularOffLine,
+        SignalWifi1Fill, SignalWifi1Line, SignalWifi2Fill, SignalWifi2Line, SignalWifi3Fill,
+        SignalWifi3Line, SignalWifiErrorFill, SignalWifiErrorLine, SignalWifiFill, SignalWifiLine,
+        SignalWifiOffFill, SignalWifiOffLine, SimCard2Fill, SimCard2Line, SimCardFill, SimCardLine,
+        SimCardWarningFill, SimCardWarningLine, SmartphoneFill, SmartphoneLine, TabletFill,
+        TabletLine, Tv2Fill, Tv2Line, TvFill, TvLine, UDiskFill, UDiskLine, UninstallFill,
+        UninstallLine, UsbFill, UsbLine, WifiFill, WifiLine, WifiOffFill, WifiOffLine,
+        WirelessChargingFill, WirelessChargingLine)
     return __AllIcons!!
   }

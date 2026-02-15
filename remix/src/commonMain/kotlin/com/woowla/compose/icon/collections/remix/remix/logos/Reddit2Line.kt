@@ -1,9 +1,8 @@
 package com.woowla.compose.icon.collections.remix.remix.logos
 
-import androidx.compose.ui.geometry.Offset
-import androidx.compose.ui.graphics.Brush.Companion.radialGradient
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.PathFillType.Companion.NonZero
+import androidx.compose.ui.graphics.SolidColor
 import androidx.compose.ui.graphics.StrokeCap.Companion.Butt
 import androidx.compose.ui.graphics.StrokeJoin.Companion.Miter
 import androidx.compose.ui.graphics.vector.ImageVector
@@ -19,10 +18,8 @@ public val LogosGroup.Reddit2Line: ImageVector
         }
         _reddit2Line = Builder(name = "Reddit2Line", defaultWidth = 24.0.dp, defaultHeight =
                 24.0.dp, viewportWidth = 24.0f, viewportHeight = 24.0f).apply {
-            path(fill = radialGradient(0.0f to Color(0xFF172E35), 0.29f to Color(0xFF0E1C21), 0.73f
-                    to Color(0xFF030708), 1.0f to Color(0xFF000000), center =
-                    Offset(11.991f,18.123f), radius = 5.274f), stroke = null, strokeLineWidth =
-                    0.0f, strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
+            path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
+                    strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
                 moveTo(16.597f, 2.287f)
                 curveTo(17.746f, 2.287f, 18.677f, 3.218f, 18.677f, 4.367f)
