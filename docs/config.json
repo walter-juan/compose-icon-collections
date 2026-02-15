@@ -33,13 +33,6 @@
             ]
         },
         {
-            "name": "Octicons",
-            "value": "octicons",
-            "categories": [
-                ""
-            ]
-        },
-        {
             "name": "Remix icons",
             "value": "remix",
             "categories": [
@@ -94,6 +87,13 @@
         {
             "name": "Simpleicons",
             "value": "simpleicons",
+            "categories": [
+                ""
+            ]
+        },
+        {
+            "name": "Octicons",
+            "value": "octicons",
             "categories": [
                 ""
             ]

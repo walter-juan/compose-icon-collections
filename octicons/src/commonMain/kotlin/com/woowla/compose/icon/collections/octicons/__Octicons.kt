@@ -52,6 +52,7 @@ import com.woowla.compose.icon.collections.octicons.octicons.Bold16
 import com.woowla.compose.icon.collections.octicons.octicons.Bold24
 import com.woowla.compose.icon.collections.octicons.octicons.Book16
 import com.woowla.compose.icon.collections.octicons.octicons.Book24
+import com.woowla.compose.icon.collections.octicons.octicons.BookLocked16
 import com.woowla.compose.icon.collections.octicons.octicons.Bookmark16
 import com.woowla.compose.icon.collections.octicons.octicons.Bookmark24
 import com.woowla.compose.icon.collections.octicons.octicons.BookmarkFill24
@@ -137,6 +138,7 @@ import com.woowla.compose.icon.collections.octicons.octicons.CommentAi16
 import com.woowla.compose.icon.collections.octicons.octicons.CommentAi24
 import com.woowla.compose.icon.collections.octicons.octicons.CommentDiscussion16
 import com.woowla.compose.icon.collections.octicons.octicons.CommentDiscussion24
+import com.woowla.compose.icon.collections.octicons.octicons.CommentLocked16
 import com.woowla.compose.icon.collections.octicons.octicons.Compose16
 import com.woowla.compose.icon.collections.octicons.octicons.Compose24
 import com.woowla.compose.icon.collections.octicons.octicons.Container16
@@ -306,6 +308,7 @@ import com.woowla.compose.icon.collections.octicons.octicons.GitPullRequestClose
 import com.woowla.compose.icon.collections.octicons.octicons.GitPullRequestClosed24
 import com.woowla.compose.icon.collections.octicons.octicons.GitPullRequestDraft16
 import com.woowla.compose.icon.collections.octicons.octicons.GitPullRequestDraft24
+import com.woowla.compose.icon.collections.octicons.octicons.GitPullRequestLocked16
 import com.woowla.compose.icon.collections.octicons.octicons.Globe16
 import com.woowla.compose.icon.collections.octicons.octicons.Globe24
 import com.woowla.compose.icon.collections.octicons.octicons.Goal16
@@ -354,6 +357,7 @@ import com.woowla.compose.icon.collections.octicons.octicons.IssueClosed16
 import com.woowla.compose.icon.collections.octicons.octicons.IssueClosed24
 import com.woowla.compose.icon.collections.octicons.octicons.IssueDraft16
 import com.woowla.compose.icon.collections.octicons.octicons.IssueDraft24
+import com.woowla.compose.icon.collections.octicons.octicons.IssueLocked16
 import com.woowla.compose.icon.collections.octicons.octicons.IssueOpened16
 import com.woowla.compose.icon.collections.octicons.octicons.IssueOpened24
 import com.woowla.compose.icon.collections.octicons.octicons.IssueReopened16
@@ -739,7 +743,7 @@ public val Octicons.AllIcons: ____KtList<ImageVector>
         ArrowLeft16, ArrowLeft24, ArrowRight16, ArrowRight24, ArrowSwitch16, ArrowSwitch24,
         ArrowUp16, ArrowUp24, ArrowUpLeft16, ArrowUpLeft24, ArrowUpRight16, ArrowUpRight24,
         Beaker16, Beaker24, Bell16, Bell24, BellFill16, BellFill24, BellSlash16, BellSlash24,
-        Blocked16, Blocked24, Bold16, Bold24, Book16, Book24, Bookmark16, Bookmark24,
+        Blocked16, Blocked24, Bold16, Bold24, Book16, Book24, BookLocked16, Bookmark16, Bookmark24,
         BookmarkFill24, BookmarkFilled16, BookmarkSlash16, BookmarkSlash24, BookmarkSlashFill16,
         BookmarkSlashFill24, BooleanOff16, BooleanOff24, BooleanOn16, BooleanOn24, Briefcase16,
         Briefcase24, Broadcast16, Broadcast24, Browser16, Browser24, Bug16, Bug24, Cache16, Cache24,
@@ -753,41 +757,42 @@ public val Octicons.AllIcons: ____KtList<ImageVector>
         CodeReview24, CodeSquare16, CodeSquare24, Codescan16, Codescan24, CodescanCheckmark16,
         CodescanCheckmark24, Codespaces16, Codespaces24, Columns16, Columns24, CommandPalette16,
         CommandPalette24, Comment16, Comment24, CommentAi16, CommentAi24, CommentDiscussion16,
-        CommentDiscussion24, Compose16, Compose24, Container16, Container24, Copilot16, Copilot24,
-        Copilot48, Copilot96, CopilotError16, CopilotWarning16, Copy16, Copy24, Cpu16, Cpu24,
-        CreditCard16, CreditCard24, CrossReference16, CrossReference24, Crosshairs16, Crosshairs24,
-        Dash16, Dash24, Database16, Database24, Dependabot16, Dependabot24, DesktopDownload16,
-        DesktopDownload24, DeviceCamera16, DeviceCamera24, DeviceCameraVideo16, DeviceCameraVideo24,
-        DeviceDesktop16, DeviceDesktop24, DeviceMobile16, DeviceMobile24, Devices16, Devices24,
-        Diamond16, Diamond24, Dice16, Dice24, Diff16, Diff24, DiffAdded16, DiffAdded24,
-        DiffIgnored16, DiffIgnored24, DiffModified16, DiffModified24, DiffRemoved16, DiffRemoved24,
-        DiffRenamed16, DiffRenamed24, DiscussionClosed16, DiscussionClosed24, DiscussionDuplicate16,
-        DiscussionDuplicate24, DiscussionOutdated16, DiscussionOutdated24, Dot16, Dot24, DotFill16,
-        DotFill24, Download16, Download24, Duplicate16, Duplicate24, Ellipsis16, Ellipsis24,
-        Exclamation16, Exclamation24, Eye16, Eye24, EyeClosed16, EyeClosed24, FeedDiscussion16,
-        FeedForked16, FeedHeart16, FeedIssueClosed16, FeedIssueDraft16, FeedIssueOpen16,
-        FeedIssueReopen16, FeedMerged16, FeedPerson16, FeedPlus16, FeedPublic16,
-        FeedPullRequestClosed16, FeedPullRequestDraft16, FeedPullRequestOpen16, FeedRepo16,
-        FeedRocket16, FeedStar16, FeedTag16, FeedTrophy16, File16, File24, FileAdded16, FileAdded24,
-        FileBadge16, FileBadge24, FileBinary16, FileBinary24, FileCheck16, FileCheck24, FileCode16,
-        FileCode24, FileDiff16, FileDiff24, FileDirectory16, FileDirectory24, FileDirectoryFill16,
-        FileDirectoryFill24, FileDirectoryOpenFill16, FileDirectoryOpenFill24,
-        FileDirectorySymlink16, FileDirectorySymlink24, FileMedia16, FileMedia24, FileMoved16,
-        FileMoved24, FileRemoved16, FileRemoved24, FileSubmodule16, FileSubmodule24,
-        FileSymlinkFile16, FileSymlinkFile24, FileZip16, FileZip24, Filter16, Filter24,
-        FilterRemove16, FilterRemove24, FiscalHost16, FiscalHost24, Flame16, Flame24, Flowchart16,
-        Flowchart24, FocusCenter16, FocusCenter24, Fold16, Fold24, FoldDown16, FoldDown24, FoldUp16,
-        FoldUp24, Gear16, Gear24, Gift16, Gift24, GitBranch16, GitBranch24, GitBranchCheck16,
-        GitBranchCheck24, GitCommit16, GitCommit24, GitCompare16, GitCompare24, GitMerge16,
-        GitMerge24, GitMergeQueue16, GitMergeQueue24, GitPullRequest16, GitPullRequest24,
-        GitPullRequestClosed16, GitPullRequestClosed24, GitPullRequestDraft16,
-        GitPullRequestDraft24, Globe16, Globe24, Goal16, Goal24, Grabber16, Grabber24, Graph16,
-        Graph24, GraphBarHorizontal16, GraphBarHorizontal24, GraphBarVertical16, GraphBarVertical24,
-        Hash16, Hash24, Heading16, Heading24, Heart16, Heart24, HeartFill16, HeartFill24, History16,
-        History24, Home16, Home24, HomeFill16, HomeFill24, HorizontalRule16, HorizontalRule24,
-        Hourglass16, Hourglass24, Hubot16, Hubot24, IdBadge16, IdBadge24, Image16, Image24, Inbox16,
-        Inbox24, InboxFill16, InboxFill24, Infinity16, Infinity24, Info16, Info24, IssueClosed16,
-        IssueClosed24, IssueDraft16, IssueDraft24, IssueOpened16, IssueOpened24, IssueReopened16,
+        CommentDiscussion24, CommentLocked16, Compose16, Compose24, Container16, Container24,
+        Copilot16, Copilot24, Copilot48, Copilot96, CopilotError16, CopilotWarning16, Copy16,
+        Copy24, Cpu16, Cpu24, CreditCard16, CreditCard24, CrossReference16, CrossReference24,
+        Crosshairs16, Crosshairs24, Dash16, Dash24, Database16, Database24, Dependabot16,
+        Dependabot24, DesktopDownload16, DesktopDownload24, DeviceCamera16, DeviceCamera24,
+        DeviceCameraVideo16, DeviceCameraVideo24, DeviceDesktop16, DeviceDesktop24, DeviceMobile16,
+        DeviceMobile24, Devices16, Devices24, Diamond16, Diamond24, Dice16, Dice24, Diff16, Diff24,
+        DiffAdded16, DiffAdded24, DiffIgnored16, DiffIgnored24, DiffModified16, DiffModified24,
+        DiffRemoved16, DiffRemoved24, DiffRenamed16, DiffRenamed24, DiscussionClosed16,
+        DiscussionClosed24, DiscussionDuplicate16, DiscussionDuplicate24, DiscussionOutdated16,
+        DiscussionOutdated24, Dot16, Dot24, DotFill16, DotFill24, Download16, Download24,
+        Duplicate16, Duplicate24, Ellipsis16, Ellipsis24, Exclamation16, Exclamation24, Eye16,
+        Eye24, EyeClosed16, EyeClosed24, FeedDiscussion16, FeedForked16, FeedHeart16,
+        FeedIssueClosed16, FeedIssueDraft16, FeedIssueOpen16, FeedIssueReopen16, FeedMerged16,
+        FeedPerson16, FeedPlus16, FeedPublic16, FeedPullRequestClosed16, FeedPullRequestDraft16,
+        FeedPullRequestOpen16, FeedRepo16, FeedRocket16, FeedStar16, FeedTag16, FeedTrophy16,
+        File16, File24, FileAdded16, FileAdded24, FileBadge16, FileBadge24, FileBinary16,
+        FileBinary24, FileCheck16, FileCheck24, FileCode16, FileCode24, FileDiff16, FileDiff24,
+        FileDirectory16, FileDirectory24, FileDirectoryFill16, FileDirectoryFill24,
+        FileDirectoryOpenFill16, FileDirectoryOpenFill24, FileDirectorySymlink16,
+        FileDirectorySymlink24, FileMedia16, FileMedia24, FileMoved16, FileMoved24, FileRemoved16,
+        FileRemoved24, FileSubmodule16, FileSubmodule24, FileSymlinkFile16, FileSymlinkFile24,
+        FileZip16, FileZip24, Filter16, Filter24, FilterRemove16, FilterRemove24, FiscalHost16,
+        FiscalHost24, Flame16, Flame24, Flowchart16, Flowchart24, FocusCenter16, FocusCenter24,
+        Fold16, Fold24, FoldDown16, FoldDown24, FoldUp16, FoldUp24, Gear16, Gear24, Gift16, Gift24,
+        GitBranch16, GitBranch24, GitBranchCheck16, GitBranchCheck24, GitCommit16, GitCommit24,
+        GitCompare16, GitCompare24, GitMerge16, GitMerge24, GitMergeQueue16, GitMergeQueue24,
+        GitPullRequest16, GitPullRequest24, GitPullRequestClosed16, GitPullRequestClosed24,
+        GitPullRequestDraft16, GitPullRequestDraft24, GitPullRequestLocked16, Globe16, Globe24,
+        Goal16, Goal24, Grabber16, Grabber24, Graph16, Graph24, GraphBarHorizontal16,
+        GraphBarHorizontal24, GraphBarVertical16, GraphBarVertical24, Hash16, Hash24, Heading16,
+        Heading24, Heart16, Heart24, HeartFill16, HeartFill24, History16, History24, Home16, Home24,
+        HomeFill16, HomeFill24, HorizontalRule16, HorizontalRule24, Hourglass16, Hourglass24,
+        Hubot16, Hubot24, IdBadge16, IdBadge24, Image16, Image24, Inbox16, Inbox24, InboxFill16,
+        InboxFill24, Infinity16, Infinity24, Info16, Info24, IssueClosed16, IssueClosed24,
+        IssueDraft16, IssueDraft24, IssueLocked16, IssueOpened16, IssueOpened24, IssueReopened16,
         IssueReopened24, IssueTrackedBy16, IssueTrackedBy24, IssueTracks16, IssueTracks24, Italic16,
         Italic24, Iterations16, Iterations24, KebabHorizontal16, KebabHorizontal24, Key16, Key24,
         KeyAsterisk16, KeyAsterisk24, Law16, Law24, LightBulb16, LightBulb24, Link16, Link24,
