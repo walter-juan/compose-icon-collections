@@ -21,13 +21,13 @@ public val SolidGroup.ArrowUp: ImageVector
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(214.6f, 17.4f)
+                moveTo(214.6f, 9.4f)
                 curveToRelative(-12.5f, -12.5f, -32.8f, -12.5f, -45.3f, 0.0f)
                 lineToRelative(-160.0f, 160.0f)
                 curveToRelative(-12.5f, 12.5f, -12.5f, 32.8f, 0.0f, 45.3f)
                 reflectiveCurveToRelative(32.8f, 12.5f, 45.3f, 0.0f)
-                lineTo(160.0f, 117.3f)
-                lineTo(160.0f, 488.0f)
+                lineTo(160.0f, 109.3f)
+                lineTo(160.0f, 480.0f)
                 curveToRelative(0.0f, 17.7f, 14.3f, 32.0f, 32.0f, 32.0f)
                 reflectiveCurveToRelative(32.0f, -14.3f, 32.0f, -32.0f)
                 lineToRelative(0.0f, -370.7f)

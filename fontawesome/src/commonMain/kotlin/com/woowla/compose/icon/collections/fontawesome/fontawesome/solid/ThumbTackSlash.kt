@@ -11,12 +11,12 @@ import androidx.compose.ui.graphics.vector.path
 import androidx.compose.ui.unit.dp
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.SolidGroup
 
-public val SolidGroup.ThumbtackSlash: ImageVector
+public val SolidGroup.ThumbTackSlash: ImageVector
     get() {
-        if (_thumbtackSlash != null) {
-            return _thumbtackSlash!!
+        if (_thumbTackSlash != null) {
+            return _thumbTackSlash!!
         }
-        _thumbtackSlash = Builder(name = "ThumbtackSlash", defaultWidth = 576.0.dp, defaultHeight =
+        _thumbTackSlash = Builder(name = "ThumbTackSlash", defaultWidth = 576.0.dp, defaultHeight =
                 512.0.dp, viewportWidth = 576.0f, viewportHeight = 512.0f).apply {
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
@@ -61,7 +61,7 @@ public val SolidGroup.ThumbtackSlash: ImageVector
             }
         }
         .build()
-        return _thumbtackSlash!!
+        return _thumbTackSlash!!
     }
 
-private var _thumbtackSlash: ImageVector? = null
+private var _thumbTackSlash: ImageVector? = null

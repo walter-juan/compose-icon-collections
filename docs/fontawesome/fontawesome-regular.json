@@ -1,1094 +1,1094 @@
 [
     {
-        "name": "FontAwesome.Regular.CheckCircle",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/check-circle.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Envelope",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/envelope.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FaceGrinBeamSweat",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/face-grin-beam-sweat.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Smile",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/smile.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Home",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/home.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.CheckSquare",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/check-square.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FaceGrinTongueSquint",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/face-grin-tongue-squint.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FrownOpen",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/frown-open.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.CircleUser",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/circle-user.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.HourglassHalf",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/hourglass-half.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FaceGrinSquint",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/face-grin-squint.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.SadCry",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/sad-cry.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.CaretSquareLeft",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/caret-square-left.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.SquareCheck",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/square-check.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.ClosedCaptioning",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/closed-captioning.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.GrinHearts",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/grin-hearts.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.NoteSticky",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/note-sticky.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.AddressBook",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/address-book.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.AlarmClock",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/alarm-clock.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FilePdf",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/file-pdf.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FaceLaughSquint",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/face-laugh-squint.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Copyright",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/copyright.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Circle",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/circle.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.SquareCaretRight",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/square-caret-right.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Grimace",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/grimace.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.ArrowAltCircleLeft",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/arrow-alt-circle-left.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.ShareFromSquare",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/share-from-square.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Lemon",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/lemon.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Hdd",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/hdd.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.GrinSquintTears",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/grin-squint-tears.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.CaretSquareRight",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/caret-square-right.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Folder",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/folder.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.SmileBeam",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/smile-beam.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.TrashAlt",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/trash-alt.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.RectangleXmark",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/rectangle-xmark.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Handshake",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/handshake.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.HandPointUp",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/hand-point-up.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.StopCircle",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/stop-circle.svg"
+        "name": "FontAwesome.Regular.Eye",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/eye.svg"
     },
     {
         "name": "FontAwesome.Regular.FileText",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/file-text.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.EyeSlash",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/eye-slash.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.LaughSquint",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/laugh-squint.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FaceKissBeam",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/face-kiss-beam.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FaceSmileWink",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/face-smile-wink.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FaceAngry",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/face-angry.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.ArrowAltCircleDown",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/arrow-alt-circle-down.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.HandshakeAlt",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/handshake-alt.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FaceLaughWink",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/face-laugh-wink.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.ContactBook",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/contact-book.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.GrinStars",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/grin-stars.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.CommentAlt",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/comment-alt.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.PlayCircle",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/play-circle.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.HospitalWide",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/hospital-wide.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.StarHalfStroke",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/star-half-stroke.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.CreditCardAlt",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/credit-card-alt.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.CirclePause",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/circle-pause.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FolderBlank",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/folder-blank.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FaceSadCry",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/face-sad-cry.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Bell",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/bell.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Kiss",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/kiss.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Compass",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/compass.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FaceLaugh",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/face-laugh.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FutbolBall",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/futbol-ball.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.MoneyBillAlt",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/money-bill-alt.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Flushed",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/flushed.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.MehRollingEyes",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/meh-rolling-eyes.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.ThumbsUp",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/thumbs-up.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FaceGrinTongueWink",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/face-grin-tongue-wink.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Truck",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/truck.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Tired",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/tired.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.HandBackFist",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/hand-back-fist.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FileLines",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/file-lines.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.WindowMinimize",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/window-minimize.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.SquareCaretUp",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/square-caret-up.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FileImage",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/file-image.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.HourglassEmpty",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/hourglass-empty.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Clone",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/clone.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.HandScissors",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/hand-scissors.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.StickyNote",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/sticky-note.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.HandPaper",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/hand-paper.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.HandPointLeft",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/hand-point-left.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.SquareCaretDown",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/square-caret-down.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.CalendarMinus",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/calendar-minus.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Clock",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/clock.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.PauseCircle",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/pause-circle.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Newspaper",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/newspaper.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FileAudio",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/file-audio.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.ObjectUngroup",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/object-ungroup.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Hourglass2",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/hourglass-2.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Calendar",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/calendar.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FileClipboard",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/file-clipboard.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FaceGrinTongue",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/face-grin-tongue.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Vcard",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/vcard.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.LaughWink",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/laugh-wink.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.CalendarDays",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/calendar-days.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FloppyDisk",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/floppy-disk.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.CalendarCheck",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/calendar-check.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FileCode",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/file-code.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FaceGrinWink",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/face-grin-wink.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FaceGrinBeam",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/face-grin-beam.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.House",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/house.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.BarChart",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/bar-chart.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Cloud",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/cloud.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Comments",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/comments.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.CircleXmark",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/circle-xmark.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FileZipper",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/file-zipper.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.WindowMaximize",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/window-maximize.svg"
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/file-text.svg"
     },
     {
         "name": "FontAwesome.Regular.GrinBeamSweat",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/grin-beam-sweat.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Surprise",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/surprise.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Commenting",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/commenting.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.ChessKing",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/chess-king.svg"
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/grin-beam-sweat.svg"
     },
     {
         "name": "FontAwesome.Regular.FaceSurprise",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/face-surprise.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.PenToSquare",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/pen-to-square.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.HandshakeSimple",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/handshake-simple.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.File",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/file.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Images",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/images.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.PlusSquare",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/plus-square.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FaceTired",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/face-tired.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.HandPointer",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/hand-pointer.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Copy",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/copy.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.IdBadge",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/id-badge.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.CaretSquareUp",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/caret-square-up.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.User",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/user.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FilePowerpoint",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/file-powerpoint.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.SadTear",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/sad-tear.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FaceKiss",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/face-kiss.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.RectangleTimes",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/rectangle-times.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.HandLizard",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/hand-lizard.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.CreditCard",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/credit-card.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FaceMehBlank",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/face-meh-blank.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.SquarePlus",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/square-plus.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Meh",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/meh.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.CircleRight",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/circle-right.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Frown",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/frown.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FaceGrimace",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/face-grimace.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.ChessQueen",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/chess-queen.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Eye",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/eye.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.CirclePlay",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/circle-play.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Registered",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/registered.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.UserCircle",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/user-circle.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.GrinTongue",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/grin-tongue.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Comment",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/comment.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.ObjectGroup",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/object-group.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Heart",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/heart.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Star",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/star.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.DriversLicense",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/drivers-license.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FolderClosed",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/folder-closed.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.CaretSquareDown",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/caret-square-down.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FileVideo",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/file-video.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Keyboard",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/keyboard.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.CalendarTimes",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/calendar-times.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.HandPointRight",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/hand-point-right.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.HandSpock",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/hand-spock.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.ChessBishop",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/chess-bishop.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.SquareMinus",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/square-minus.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.XmarkCircle",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/xmark-circle.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Lightbulb",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/lightbulb.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.HandPointDown",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/hand-point-down.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.CalendarPlus",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/calendar-plus.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.CircleQuestion",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/circle-question.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.TrashCan",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/trash-can.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Map",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/map.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.CircleCheck",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/circle-check.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FaceGrinSquintTears",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/face-grin-squint-tears.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FontAwesomeFlag",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/font-awesome-flag.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Hospital",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/hospital.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.CalendarXmark",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/calendar-xmark.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Square",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/square.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FaceDizzy",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/face-dizzy.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.ArrowAltCircleRight",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/arrow-alt-circle-right.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.UserAlt",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/user-alt.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.SmileWink",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/smile-wink.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.UserLarge",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/user-large.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Dizzy",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/dizzy.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FaceSadTear",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/face-sad-tear.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.HandPeace",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/hand-peace.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.ChessRook",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/chess-rook.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Edit",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/edit.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FaceRollingEyes",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/face-rolling-eyes.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.EnvelopeOpen",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/envelope-open.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Sun",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/sun.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.MehBlank",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/meh-blank.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.CalendarAlt",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/calendar-alt.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FaceFrownOpen",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/face-frown-open.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.HeadphonesAlt",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/headphones-alt.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.LifeRing",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/life-ring.svg"
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/face-surprise.svg"
     },
     {
         "name": "FontAwesome.Regular.CircleDot",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/circle-dot.svg"
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/circle-dot.svg"
     },
     {
-        "name": "FontAwesome.Regular.GrinTongueWink",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/grin-tongue-wink.svg"
+        "name": "FontAwesome.Regular.CheckCircle",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/check-circle.svg"
     },
     {
-        "name": "FontAwesome.Regular.ClockFour",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/clock-four.svg"
+        "name": "FontAwesome.Regular.CirclePlay",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/circle-play.svg"
     },
     {
-        "name": "FontAwesome.Regular.StarHalf",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/star-half.svg"
+        "name": "FontAwesome.Regular.CircleXmark",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/circle-xmark.svg"
     },
     {
-        "name": "FontAwesome.Regular.FontAwesomeLogoFull",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/font-awesome-logo-full.svg"
+        "name": "FontAwesome.Regular.ArrowAltCircleRight",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/arrow-alt-circle-right.svg"
     },
     {
-        "name": "FontAwesome.Regular.Building",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/building.svg"
+        "name": "FontAwesome.Regular.EnvelopeOpen",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/envelope-open.svg"
     },
     {
-        "name": "FontAwesome.Regular.GrinTears",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/grin-tears.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.TimesCircle",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/times-circle.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FaceGrinStars",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/face-grin-stars.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.CircleStop",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/circle-stop.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.GrinTongueSquint",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/grin-tongue-squint.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.IdCard",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/id-card.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.WindowClose",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/window-close.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.WindowRestore",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/window-restore.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FileWord",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/file-word.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FaceFrown",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/face-frown.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Moon",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/moon.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FaceFlushed",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/face-flushed.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.HardDrive",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/hard-drive.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.BellSlash",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/bell-slash.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Flag",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/flag.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.CameraAlt",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/camera-alt.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.CircleDown",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/circle-down.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FileArchive",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/file-archive.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.LaughBeam",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/laugh-beam.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Paste",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/paste.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FaceGrinWide",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/face-grin-wide.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FaceGrinTears",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/face-grin-tears.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.PaperPlane",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/paper-plane.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Headphones",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/headphones.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FontAwesomeBrand",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/font-awesome.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FaceMeh",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/face-meh.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Hourglass",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/hourglass.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.ChessPawn",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/chess-pawn.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FaceKissWinkHeart",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/face-kiss-wink-heart.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.ShareSquare",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/share-square.svg"
+        "name": "FontAwesome.Regular.FontAwesomeFlag",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/font-awesome-flag.svg"
     },
     {
         "name": "FontAwesome.Regular.Hand",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/hand.svg"
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/hand.svg"
     },
     {
-        "name": "FontAwesome.Regular.Message",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/message.svg"
+        "name": "FontAwesome.Regular.TrashCan",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/trash-can.svg"
     },
     {
-        "name": "FontAwesome.Regular.FaceSmileBeam",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/face-smile-beam.svg"
+        "name": "FontAwesome.Regular.CommentAlt",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/comment-alt.svg"
     },
     {
-        "name": "FontAwesome.Regular.CircleUp",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/circle-up.svg"
+        "name": "FontAwesome.Regular.FileLines",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/file-lines.svg"
     },
     {
-        "name": "FontAwesome.Regular.Clipboard",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/clipboard.svg"
+        "name": "FontAwesome.Regular.ContactBook",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/contact-book.svg"
     },
     {
-        "name": "FontAwesome.Regular.CommentDots",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/comment-dots.svg"
+        "name": "FontAwesome.Regular.FaceGrinBeamSweat",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/face-grin-beam-sweat.svg"
     },
     {
-        "name": "FontAwesome.Regular.ListAlt",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/list-alt.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.ArrowAltCircleUp",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/arrow-alt-circle-up.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FaceGrin",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/face-grin.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Snowflake",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/snowflake.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Image",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/image.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.KissBeam",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/kiss-beam.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.Laugh",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/laugh.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.FaceLaughBeam",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/face-laugh-beam.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.SquareCaretLeft",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/square-caret-left.svg"
+        "name": "FontAwesome.Regular.CalendarPlus",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/calendar-plus.svg"
     },
     {
         "name": "FontAwesome.Regular.CircleLeft",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/circle-left.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.RectangleList",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/rectangle-list.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.HomeLgAlt",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/home-lg-alt.svg"
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/circle-left.svg"
     },
     {
         "name": "FontAwesome.Regular.Angry",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/angry.svg"
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/angry.svg"
     },
     {
-        "name": "FontAwesome.Regular.ChessKnight",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/chess-knight.svg"
+        "name": "FontAwesome.Regular.ArrowAltCircleUp",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/arrow-alt-circle-up.svg"
     },
     {
-        "name": "FontAwesome.Regular.MinusSquare",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/minus-square.svg"
+        "name": "FontAwesome.Regular.SquareCaretUp",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/square-caret-up.svg"
     },
     {
-        "name": "FontAwesome.Regular.StarHalfAlt",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/star-half-alt.svg"
+        "name": "FontAwesome.Regular.HandPointDown",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/hand-point-down.svg"
     },
     {
-        "name": "FontAwesome.Regular.SoccerBall",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/soccer-ball.svg"
+        "name": "FontAwesome.Regular.Edit",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/edit.svg"
     },
     {
-        "name": "FontAwesome.Regular.Camera",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/camera.svg"
+        "name": "FontAwesome.Regular.HandshakeSimple",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/handshake-simple.svg"
     },
     {
-        "name": "FontAwesome.Regular.TimesRectangle",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/times-rectangle.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.ContactCard",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/contact-card.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.HomeAlt",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/home-alt.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.GrinSquint",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/grin-squint.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.MoneyBill1",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/money-bill-1.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.ChartBar",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/chart-bar.svg"
-    },
-    {
-        "name": "FontAwesome.Regular.DotCircle",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/dot-circle.svg"
+        "name": "FontAwesome.Regular.HeadphonesAlt",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/headphones-alt.svg"
     },
     {
         "name": "FontAwesome.Regular.GrinWink",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/grin-wink.svg"
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/grin-wink.svg"
     },
     {
-        "name": "FontAwesome.Regular.FolderOpen",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/folder-open.svg"
+        "name": "FontAwesome.Regular.Square",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/square.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.CircleCheck",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/circle-check.svg"
     },
     {
         "name": "FontAwesome.Regular.Bookmark",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/bookmark.svg"
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/bookmark.svg"
     },
     {
-        "name": "FontAwesome.Regular.GrinAlt",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/grin-alt.svg"
+        "name": "FontAwesome.Regular.CommentDots",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/comment-dots.svg"
     },
     {
-        "name": "FontAwesome.Regular.GrinBeam",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/grin-beam.svg"
+        "name": "FontAwesome.Regular.IdBadge",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/id-badge.svg"
     },
     {
-        "name": "FontAwesome.Regular.QuestionCircle",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/question-circle.svg"
+        "name": "FontAwesome.Regular.FaceKissWinkHeart",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/face-kiss-wink-heart.svg"
     },
     {
-        "name": "FontAwesome.Regular.Gem",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/gem.svg"
+        "name": "FontAwesome.Regular.FaceGrinSquint",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/face-grin-squint.svg"
     },
     {
-        "name": "FontAwesome.Regular.FaceSmile",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/face-smile.svg"
+        "name": "FontAwesome.Regular.FolderBlank",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/folder-blank.svg"
     },
     {
-        "name": "FontAwesome.Regular.FileAlt",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/file-alt.svg"
+        "name": "FontAwesome.Regular.Comment",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/comment.svg"
     },
     {
-        "name": "FontAwesome.Regular.HeadphonesSimple",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/headphones-simple.svg"
+        "name": "FontAwesome.Regular.StopCircle",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/stop-circle.svg"
     },
     {
-        "name": "FontAwesome.Regular.SquareFull",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/square-full.svg"
+        "name": "FontAwesome.Regular.RectangleTimes",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/rectangle-times.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.ShareFromSquare",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/share-from-square.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FileVideo",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/file-video.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.HandshakeAlt",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/handshake-alt.svg"
     },
     {
         "name": "FontAwesome.Regular.Futbol",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/futbol.svg"
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/futbol.svg"
     },
     {
-        "name": "FontAwesome.Regular.HospitalAlt",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/hospital-alt.svg"
+        "name": "FontAwesome.Regular.User",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/user.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.KissBeam",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/kiss-beam.svg"
     },
     {
         "name": "FontAwesome.Regular.FileExcel",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/file-excel.svg"
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/file-excel.svg"
     },
     {
-        "name": "FontAwesome.Regular.Grin",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/grin.svg"
+        "name": "FontAwesome.Regular.Comments",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/comments.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.House",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/house.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Vcard",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/vcard.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.HandScissors",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/hand-scissors.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FileZipper",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/file-zipper.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Message",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/message.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.CalendarCheck",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/calendar-check.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.UserCircle",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/user-circle.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.CaretSquareUp",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/caret-square-up.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.UserAlt",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/user-alt.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FilePowerpoint",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/file-powerpoint.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.WindowMaximize",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/window-maximize.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FontAwesomeBrand",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/font-awesome.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.HospitalWide",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/hospital-wide.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.GrinAlt",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/grin-alt.svg"
     },
     {
         "name": "FontAwesome.Regular.FaceGrinHearts",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/face-grin-hearts.svg"
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/face-grin-hearts.svg"
     },
     {
-        "name": "FontAwesome.Regular.KissWinkHeart",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/kiss-wink-heart.svg"
+        "name": "FontAwesome.Regular.ChessKnight",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/chess-knight.svg"
     },
     {
-        "name": "FontAwesome.Regular.ThumbsDown",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/thumbs-down.svg"
+        "name": "FontAwesome.Regular.DriversLicense",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/drivers-license.svg"
     },
     {
-        "name": "FontAwesome.Regular.HandRock",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/hand-rock.svg"
+        "name": "FontAwesome.Regular.NoteSticky",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/note-sticky.svg"
     },
     {
-        "name": "FontAwesome.Regular.AddressCard",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/address-card.svg"
+        "name": "FontAwesome.Regular.File",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/file.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.HourglassHalf",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/hourglass-half.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FaceLaugh",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/face-laugh.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FaceSadCry",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/face-sad-cry.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FaceSmileWink",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/face-smile-wink.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.MoneyBillAlt",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/money-bill-alt.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FaceRollingEyes",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/face-rolling-eyes.svg"
     },
     {
         "name": "FontAwesome.Regular.Save",
-        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.1.0/svgs/regular/save.svg"
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/save.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.RectangleXmark",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/rectangle-xmark.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.HandRock",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/hand-rock.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Commenting",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/commenting.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FaceMehBlank",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/face-meh-blank.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.StarHalfStroke",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/star-half-stroke.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Surprise",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/surprise.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.CreditCard",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/credit-card.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.ListAlt",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/list-alt.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Clock",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/clock.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.LifeRing",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/life-ring.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.WindowClose",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/window-close.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FaceFlushed",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/face-flushed.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.UserLarge",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/user-large.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FaceMeh",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/face-meh.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.TimesCircle",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/times-circle.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.QuestionCircle",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/question-circle.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FileArchive",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/file-archive.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Gem",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/gem.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FaceAngry",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/face-angry.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Flushed",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/flushed.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.XmarkCircle",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/xmark-circle.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Building",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/building.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Hourglass",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/hourglass.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Newspaper",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/newspaper.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Frown",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/frown.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FaceGrinBeam",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/face-grin-beam.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.PauseCircle",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/pause-circle.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.AddressBook",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/address-book.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.SoccerBall",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/soccer-ball.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Grin",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/grin.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.HardDrive",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/hard-drive.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Headphones",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/headphones.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FileCode",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/file-code.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.StarHalfAlt",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/star-half-alt.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.MehBlank",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/meh-blank.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.GrinTongueSquint",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/grin-tongue-squint.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.ObjectGroup",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/object-group.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.GrinTongueWink",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/grin-tongue-wink.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.SquareCaretDown",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/square-caret-down.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Laugh",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/laugh.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.CaretSquareLeft",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/caret-square-left.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FaceSadTear",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/face-sad-tear.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.RectangleList",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/rectangle-list.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.ThumbsDown",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/thumbs-down.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.HomeAlt",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/home-alt.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Camera",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/camera.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.CircleUser",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/circle-user.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.DotCircle",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/dot-circle.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FolderOpen",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/folder-open.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.HomeLgAlt",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/home-lg-alt.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.SadCry",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/sad-cry.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.CirclePause",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/circle-pause.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FontAwesomeLogoFull",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/font-awesome-logo-full.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.LaughWink",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/laugh-wink.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FaceGrinSquintTears",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/face-grin-squint-tears.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FloppyDisk",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/floppy-disk.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.ArrowAltCircleLeft",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/arrow-alt-circle-left.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.StarHalf",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/star-half.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.AlarmClock",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/alarm-clock.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.CreditCardAlt",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/credit-card-alt.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Star",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/star.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.CircleDown",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/circle-down.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FileImage",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/file-image.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Tired",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/tired.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.SmileBeam",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/smile-beam.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FileWord",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/file-word.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.KissWinkHeart",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/kiss-wink-heart.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.HeadphonesSimple",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/headphones-simple.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.CalendarMinus",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/calendar-minus.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.GrinSquint",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/grin-squint.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Hospital",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/hospital.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.HandPointUp",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/hand-point-up.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.IdCard",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/id-card.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FolderClosed",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/folder-closed.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FaceFrown",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/face-frown.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.PaperPlane",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/paper-plane.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FaceGrinTongue",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/face-grin-tongue.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.CameraAlt",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/camera-alt.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.MoneyBill1",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/money-bill-1.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.PlayCircle",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/play-circle.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Images",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/images.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.CalendarTimes",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/calendar-times.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Home",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/home.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Lemon",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/lemon.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FileAlt",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/file-alt.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.ContactCard",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/contact-card.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FaceLaughBeam",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/face-laugh-beam.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FaceGrinTongueWink",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/face-grin-tongue-wink.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FaceKiss",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/face-kiss.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.LaughSquint",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/laugh-squint.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.ChessQueen",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/chess-queen.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.ChessBishop",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/chess-bishop.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.WindowMinimize",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/window-minimize.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Hdd",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/hdd.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.CaretSquareDown",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/caret-square-down.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Keyboard",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/keyboard.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FaceSmileBeam",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/face-smile-beam.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.ArrowAltCircleDown",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/arrow-alt-circle-down.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FaceGrinWide",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/face-grin-wide.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FaceKissBeam",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/face-kiss-beam.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Image",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/image.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.GrinTears",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/grin-tears.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.CalendarDays",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/calendar-days.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Paste",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/paste.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Folder",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/folder.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.SquareCheck",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/square-check.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FileAudio",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/file-audio.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Moon",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/moon.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Flag",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/flag.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FrownOpen",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/frown-open.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Calendar",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/calendar.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Copyright",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/copyright.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.SquarePlus",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/square-plus.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.GrinTongue",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/grin-tongue.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FaceFrownOpen",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/face-frown-open.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FaceGrinStars",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/face-grin-stars.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.EyeSlash",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/eye-slash.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.WindowRestore",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/window-restore.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.SquareFull",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/square-full.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.ChessKing",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/chess-king.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.GrinStars",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/grin-stars.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.GrinHearts",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/grin-hearts.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.CircleUp",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/circle-up.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.MehRollingEyes",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/meh-rolling-eyes.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Copy",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/copy.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.LaughBeam",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/laugh-beam.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Circle",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/circle.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.ChessPawn",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/chess-pawn.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Hourglass2",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/hourglass-2.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.PlusSquare",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/plus-square.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Snowflake",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/snowflake.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.MinusSquare",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/minus-square.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.CircleQuestion",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/circle-question.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FaceLaughWink",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/face-laugh-wink.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.SmileWink",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/smile-wink.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FaceGrinTears",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/face-grin-tears.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.TimesRectangle",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/times-rectangle.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FutbolBall",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/futbol-ball.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.SquareCaretRight",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/square-caret-right.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FaceDizzy",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/face-dizzy.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FaceGrinTongueSquint",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/face-grin-tongue-squint.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FaceLaughSquint",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/face-laugh-squint.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.ClockFour",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/clock-four.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.HourglassEmpty",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/hourglass-empty.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.CircleStop",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/circle-stop.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.ChessRook",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/chess-rook.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.SquareMinus",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/square-minus.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.BellSlash",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/bell-slash.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.ThumbsUp",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/thumbs-up.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Kiss",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/kiss.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Smile",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/smile.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.StickyNote",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/sticky-note.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.HospitalAlt",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/hospital-alt.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.PenToSquare",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/pen-to-square.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.GrinSquintTears",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/grin-squint-tears.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.AddressCard",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/address-card.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.CircleRight",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/circle-right.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Dizzy",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/dizzy.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FaceSmile",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/face-smile.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Heart",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/heart.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.HandPointRight",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/hand-point-right.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FaceTired",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/face-tired.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.GrinBeam",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/grin-beam.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Cloud",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/cloud.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.HandLizard",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/hand-lizard.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FaceGrin",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/face-grin.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.HandPointLeft",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/hand-point-left.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Handshake",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/handshake.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Meh",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/meh.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.CaretSquareRight",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/caret-square-right.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Clipboard",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/clipboard.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.HandPeace",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/hand-peace.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FaceGrinWink",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/face-grin-wink.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.ChartBar",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/chart-bar.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Sun",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/sun.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.SquareCaretLeft",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/square-caret-left.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Bell",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/bell.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Compass",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/compass.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.CalendarXmark",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/calendar-xmark.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.ShareSquare",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/share-square.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.CalendarAlt",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/calendar-alt.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Envelope",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/envelope.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Truck",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/truck.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FaceGrimace",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/face-grimace.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.SadTear",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/sad-tear.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Lightbulb",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/lightbulb.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.HandSpock",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/hand-spock.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Map",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/map.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.HandPointer",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/hand-pointer.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.TrashAlt",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/trash-alt.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FileClipboard",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/file-clipboard.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Grimace",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/grimace.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.ObjectUngroup",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/object-ungroup.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.HandBackFist",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/hand-back-fist.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.FilePdf",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/file-pdf.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.ClosedCaptioning",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/closed-captioning.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.BarChart",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/bar-chart.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.HandPaper",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/hand-paper.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Registered",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/registered.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.Clone",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/clone.svg"
+    },
+    {
+        "name": "FontAwesome.Regular.CheckSquare",
+        "svg": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7.2.0/svgs/regular/check-square.svg"
     }
 ]

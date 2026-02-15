@@ -1,0 +1,151 @@
+package com.woowla.compose.icon.collections.fontawesome.fontawesome.brands
+
+import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.graphics.PathFillType.Companion.NonZero
+import androidx.compose.ui.graphics.SolidColor
+import androidx.compose.ui.graphics.StrokeCap.Companion.Butt
+import androidx.compose.ui.graphics.StrokeJoin.Companion.Miter
+import androidx.compose.ui.graphics.vector.ImageVector
+import androidx.compose.ui.graphics.vector.ImageVector.Builder
+import androidx.compose.ui.graphics.vector.path
+import androidx.compose.ui.unit.dp
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.BrandsGroup
+
+public val BrandsGroup.Julia: ImageVector
+    get() {
+        if (_julia != null) {
+            return _julia!!
+        }
+        _julia = Builder(name = "Julia", defaultWidth = 640.0.dp, defaultHeight = 512.0.dp,
+                viewportWidth = 640.0f, viewportHeight = 512.0f).apply {
+            path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
+                    strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
+                    pathFillType = NonZero) {
+                moveTo(124.0f, 406.5f)
+                curveToRelative(0.0f, 16.1f, -1.8f, 29.1f, -5.4f, 39.0f)
+                reflectiveCurveToRelative(-8.8f, 17.6f, -15.5f, 23.1f)
+                reflectiveCurveToRelative(-14.7f, 9.1f, -24.1f, 11.0f)
+                reflectiveCurveToRelative(-19.8f, 2.8f, -31.2f, 2.8f)
+                curveToRelative(-15.5f, 0.0f, -27.3f, -2.4f, -35.5f, -7.3f)
+                reflectiveCurveTo(0.0f, 464.5f, 0.0f, 457.7f)
+                curveToRelative(0.0f, -5.6f, 2.3f, -10.4f, 6.9f, -14.3f)
+                reflectiveCurveToRelative(10.8f, -5.8f, 18.5f, -5.8f)
+                curveToRelative(5.8f, 0.0f, 10.4f, 1.6f, 13.9f, 4.7f)
+                reflectiveCurveToRelative(6.3f, 6.2f, 8.6f, 9.3f)
+                curveToRelative(2.6f, 3.4f, 4.8f, 5.6f, 6.5f, 6.8f)
+                reflectiveCurveToRelative(3.4f, 1.7f, 4.8f, 1.7f)
+                curveToRelative(3.1f, 0.0f, 5.4f, -1.8f, 7.0f, -5.4f)
+                reflectiveCurveToRelative(2.4f, -10.7f, 2.4f, -21.2f)
+                lineToRelative(0.0f, -198.7f)
+                lineToRelative(55.4f, -15.2f)
+                lineToRelative(0.0f, 186.9f)
+                close()
+                moveTo(202.9f, 224.9f)
+                lineToRelative(0.0f, 127.9f)
+                curveToRelative(0.0f, 3.6f, 0.7f, 6.9f, 2.1f, 10.0f)
+                reflectiveCurveToRelative(3.3f, 5.8f, 5.7f, 8.1f)
+                reflectiveCurveToRelative(5.2f, 4.1f, 8.5f, 5.4f)
+                reflectiveCurveToRelative(6.7f, 2.1f, 10.4f, 2.1f)
+                curveToRelative(4.2f, 0.0f, 8.9f, -2.3f, 14.7f, -6.4f)
+                curveToRelative(9.2f, -6.4f, 14.7f, -10.9f, 14.7f, -16.1f)
+                lineToRelative(0.0f, -131.0f)
+                lineToRelative(55.1f, 0.0f)
+                lineToRelative(0.0f, 181.6f)
+                lineToRelative(-55.1f, 0.0f)
+                lineToRelative(0.0f, -16.9f)
+                curveToRelative(-7.3f, 6.1f, -15.0f, 11.0f, -23.2f, 14.7f)
+                reflectiveCurveToRelative(-16.2f, 5.6f, -23.9f, 5.6f)
+                curveToRelative(-9.0f, 0.0f, -17.4f, -1.5f, -25.1f, -4.5f)
+                reflectiveCurveToRelative(-14.5f, -7.0f, -20.3f, -12.2f)
+                reflectiveCurveToRelative(-10.4f, -11.2f, -13.7f, -18.1f)
+                curveToRelative(-3.3f, -6.9f, -5.0f, -14.3f, -5.0f, -22.2f)
+                lineToRelative(0.0f, -127.9f)
+                lineToRelative(55.1f, 0.0f)
+                close()
+                moveTo(391.4f, 406.5f)
+                lineToRelative(-54.9f, 0.0f)
+                lineToRelative(0.0f, -254.6f)
+                lineToRelative(54.9f, -15.2f)
+                lineToRelative(0.0f, 269.8f)
+                close()
+                moveTo(414.3f, 234.8f)
+                lineToRelative(55.1f, -15.2f)
+                lineToRelative(0.0f, 186.9f)
+                lineToRelative(-55.1f, 0.0f)
+                lineToRelative(0.0f, -171.7f)
+                close()
+                moveTo(584.6f, 312.7f)
+                curveToRelative(-5.3f, 2.3f, -10.7f, 4.9f, -16.1f, 7.9f)
+                reflectiveCurveToRelative(-10.3f, 6.2f, -14.7f, 9.8f)
+                reflectiveCurveToRelative(-8.0f, 7.3f, -10.8f, 11.4f)
+                reflectiveCurveToRelative(-4.1f, 8.2f, -4.1f, 12.6f)
+                curveToRelative(0.0f, 3.4f, 0.4f, 6.6f, 1.3f, 9.8f)
+                reflectiveCurveToRelative(2.1f, 5.8f, 3.8f, 8.1f)
+                reflectiveCurveToRelative(3.4f, 4.1f, 5.3f, 5.4f)
+                reflectiveCurveToRelative(4.0f, 2.1f, 6.3f, 2.1f)
+                curveToRelative(4.5f, 0.0f, 9.1f, -1.4f, 13.7f, -4.1f)
+                reflectiveCurveToRelative(9.7f, -6.2f, 15.4f, -10.4f)
+                lineToRelative(0.0f, -52.5f)
+                close()
+                moveTo(640.0f, 406.5f)
+                lineToRelative(-55.4f, 0.0f)
+                lineToRelative(0.0f, -14.5f)
+                curveToRelative(-3.1f, 2.6f, -6.0f, 5.0f, -8.9f, 7.1f)
+                reflectiveCurveToRelative(-6.2f, 4.1f, -9.8f, 5.7f)
+                reflectiveCurveToRelative(-7.7f, 2.9f, -12.2f, 3.8f)
+                curveToRelative(-4.5f, 0.9f, -9.8f, 1.3f, -15.9f, 1.3f)
+                curveToRelative(-8.4f, 0.0f, -15.9f, -1.2f, -22.6f, -3.6f)
+                curveToRelative(-6.7f, -2.4f, -12.4f, -5.7f, -17.0f, -9.9f)
+                reflectiveCurveToRelative(-8.3f, -9.1f, -10.8f, -14.9f)
+                curveToRelative(-2.5f, -5.7f, -3.8f, -12.0f, -3.8f, -18.7f)
+                curveToRelative(0.0f, -6.9f, 1.3f, -13.2f, 4.0f, -18.9f)
+                curveToRelative(2.7f, -5.6f, 6.3f, -10.7f, 10.9f, -15.2f)
+                curveToRelative(4.6f, -4.5f, 9.9f, -8.5f, 16.1f, -12.1f)
+                reflectiveCurveToRelative(12.7f, -6.8f, 19.7f, -9.8f)
+                reflectiveCurveToRelative(14.3f, -5.7f, 21.9f, -8.2f)
+                reflectiveCurveToRelative(15.1f, -4.9f, 22.5f, -7.1f)
+                lineToRelative(6.0f, -1.5f)
+                lineToRelative(0.0f, -17.9f)
+                curveToRelative(0.0f, -11.6f, -2.2f, -19.8f, -6.6f, -24.7f)
+                reflectiveCurveToRelative(-10.4f, -7.3f, -17.8f, -7.3f)
+                curveToRelative(-8.7f, 0.0f, -14.8f, 2.1f, -18.1f, 6.3f)
+                reflectiveCurveToRelative(-5.1f, 9.3f, -5.1f, 15.2f)
+                curveToRelative(0.0f, 3.4f, -0.4f, 6.7f, -1.1f, 9.9f)
+                curveToRelative(-0.7f, 3.2f, -2.0f, 6.0f, -3.7f, 8.5f)
+                reflectiveCurveToRelative(-4.3f, 4.4f, -7.6f, 5.8f)
+                curveToRelative(-3.3f, 1.5f, -7.5f, 2.2f, -12.5f, 2.2f)
+                curveToRelative(-7.7f, 0.0f, -14.0f, -2.2f, -18.9f, -6.6f)
+                curveToRelative(-4.8f, -4.4f, -7.3f, -10.0f, -7.3f, -16.8f)
+                curveToRelative(0.0f, -6.3f, 2.1f, -12.1f, 6.4f, -17.5f)
+                curveToRelative(4.3f, -5.4f, 10.0f, -10.0f, 17.3f, -13.9f)
+                curveToRelative(7.3f, -3.9f, 15.6f, -6.9f, 25.1f, -9.2f)
+                reflectiveCurveToRelative(19.6f, -3.4f, 30.2f, -3.4f)
+                curveToRelative(13.1f, 0.0f, 24.3f, 1.2f, 33.7f, 3.5f)
+                reflectiveCurveToRelative(17.2f, 5.7f, 23.3f, 10.0f)
+                reflectiveCurveToRelative(10.6f, 9.6f, 13.5f, 15.7f)
+                reflectiveCurveToRelative(4.4f, 13.0f, 4.4f, 20.6f)
+                lineToRelative(0.0f, 136.1f)
+                close()
+                moveTo(60.0f, 172.9f)
+                arcToRelative(37.4f, 37.4f, 0.0f, true, true, 74.9f, 0.0f)
+                arcToRelative(37.4f, 37.4f, 0.0f, true, true, -74.9f, 0.0f)
+                close()
+                moveTo(452.2f, 95.0f)
+                arcToRelative(37.4f, 37.4f, 0.0f, true, true, 74.9f, 0.0f)
+                arcToRelative(37.4f, 37.4f, 0.0f, true, true, -74.9f, 0.0f)
+                close()
+                moveTo(497.2f, 172.9f)
+                arcToRelative(37.4f, 37.4f, 0.0f, true, true, 74.9f, 0.0f)
+                arcToRelative(37.4f, 37.4f, 0.0f, true, true, -74.9f, 0.0f)
+                close()
+                moveTo(407.3f, 172.9f)
+                arcToRelative(37.4f, 37.4f, 0.0f, true, true, 74.9f, 0.0f)
+                arcToRelative(37.4f, 37.4f, 0.0f, true, true, -74.9f, 0.0f)
+                close()
+            }
+        }
+        .build()
+        return _julia!!
+    }
+
+private var _julia: ImageVector? = null

@@ -50,15 +50,6 @@
             ]
         },
         {
-            "name": "FontAwesome",
-            "value": "fontawesome",
-            "categories": [
-                "solid",
-                "regular",
-                "brands"
-            ]
-        },
-        {
             "name": "Simpleicons",
             "value": "simpleicons",
             "categories": [
@@ -96,6 +87,15 @@
                 "food",
                 "media",
                 "finance"
+            ]
+        },
+        {
+            "name": "FontAwesome",
+            "value": "fontawesome",
+            "categories": [
+                "brands",
+                "solid",
+                "regular"
             ]
         }
     ]

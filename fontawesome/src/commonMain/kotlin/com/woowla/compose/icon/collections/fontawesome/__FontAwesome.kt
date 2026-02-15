@@ -16,6 +16,6 @@ public val FontAwesome.AllIcons: ____KtList<ImageVector>
     if (__AllIcons != null) {
       return __AllIcons!!
     }
-    __AllIcons= Solid.AllIcons + Regular.AllIcons + Brands.AllIcons + listOf()
+    __AllIcons= Brands.AllIcons + Solid.AllIcons + Regular.AllIcons + listOf()
     return __AllIcons!!
   }

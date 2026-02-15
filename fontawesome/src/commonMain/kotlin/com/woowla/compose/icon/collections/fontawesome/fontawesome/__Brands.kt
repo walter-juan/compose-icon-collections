@@ -22,6 +22,7 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.AppSto
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Apper
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Apple
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.ApplePay
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.ArchLinux
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Artstation
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Asymmetrik
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Atlassian
@@ -34,6 +35,7 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Bandca
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.BattleNet
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Behance
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.BehanceSquare
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Bgg
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Bilibili
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Bimobject
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Bitbucket
@@ -46,6 +48,7 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Blogge
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Bluesky
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Bluetooth
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.BluetoothB
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.BoardGameGeek
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Bootstrap
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Bots
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Brave
@@ -71,6 +74,8 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Center
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Centos
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Chrome
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Chromecast
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.CircleZulip
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Claude
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Cloudflare
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Cloudscale
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Cloudsmith
@@ -151,6 +156,7 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Facebo
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.FacebookSquare
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.FantasyFlightGames
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Fedex
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Fediverse
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Fedora
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Figma
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.FilesPinwheel
@@ -169,6 +175,7 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.FontAw
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.FontAwesomeLogoFull
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Fonticons
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.FonticonsFi
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Forgejo
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.FortAwesome
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.FortAwesomeAlt
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Forumbee
@@ -184,6 +191,7 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.GgCirc
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Git
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.GitAlt
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.GitSquare
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Gitee
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Github
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.GithubAlt
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.GithubSquare
@@ -193,6 +201,7 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Gitlab
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Gitter
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Glide
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.GlideG
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Globaleaks
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Gofore
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Golang
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Goodreads
@@ -225,6 +234,7 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Hotjar
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Houzz
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Html5
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Hubspot
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.HuggingFace
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Ideal
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Imdb
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Innosoft
@@ -247,6 +257,7 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Joomla
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Js
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.JsSquare
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Jsfiddle
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Julia
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Jxl
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Kaggle
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.KakaoTalk
@@ -254,11 +265,14 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Keybas
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Keycdn
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Kickstarter
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.KickstarterK
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.KoFi
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Korvue
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Kubernetes
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Laravel
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Lastfm
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.LastfmSquare
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Leanpub
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Leetcode
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Less
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Letterboxd
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Line
@@ -308,6 +322,7 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Number
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Number42Group
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Number500Px
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Nutritionix
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Obsidian
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.OctopusDeploy
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Odnoklassniki
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.OdnoklassnikiSquare
@@ -316,6 +331,7 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.OldRep
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Openai
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Opencart
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Openid
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Openstreetmap
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Opensuse
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Opera
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.OptinMonster
@@ -346,6 +362,7 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Pix
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Pixelfed
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Pixiv
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Playstation
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Postgresql
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.ProductHunt
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Pushed
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Python
@@ -376,6 +393,7 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Rust
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Safari
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Salesforce
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Sass
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Scaleway
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Schlix
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Screenpal
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Scribd
@@ -401,6 +419,7 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Slides
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Snapchat
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.SnapchatGhost
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.SnapchatSquare
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Solana
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Soundcloud
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Sourcetree
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.SpaceAwesome
@@ -409,6 +428,7 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Speake
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Spotify
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.SquareBehance
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.SquareBluesky
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.SquareDeskpro
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.SquareDribbble
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.SquareFacebook
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.SquareFigma
@@ -461,9 +481,13 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Stumbl
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.StumbleuponCircle
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Superpowers
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Supple
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Supportnow
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Suse
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Svelte
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Swift
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Symfony
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Symfonycasts
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.TailwindCss
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Teamspeak
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Telegram
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.TelegramPlane
@@ -474,8 +498,10 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Themec
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Themeisle
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.ThinkPeaks
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Threads
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Threema
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Tidal
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Tiktok
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.TorBrowser
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.TradeFederation
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Trello
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Tumblr
@@ -483,14 +509,20 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Tumblr
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Twitch
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Twitter
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.TwitterSquare
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Typescript
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Typo3
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Uber
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Ubuntu
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Uikit
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Ultralytics
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.UltralyticsHub
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.UltralyticsYolo
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Umbraco
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Uncharted
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Uniregistry
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Unison
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Unity
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.UnrealEngine
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Unsplash
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Untappd
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Ups
@@ -499,10 +531,13 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Usb
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Usps
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Ussunnah
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Vaadin
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Venmo
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.VenmoV
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Viacoin
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Viadeo
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.ViadeoSquare
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Viber
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Vim
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Vimeo
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.VimeoSquare
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.VimeoV
@@ -540,6 +575,7 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.XTwitt
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Xbox
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Xing
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.XingSquare
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Xmpp
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.YCombinator
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Yahoo
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Yammer
@@ -551,6 +587,8 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Yoast
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Youtube
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.YoutubeSquare
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Zhihu
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Zoom
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.brands.Zulip
 import kotlin.collections.List as ____KtList
 
 public object BrandsGroup
@@ -567,72 +605,76 @@ public val BrandsGroup.AllIcons: ____KtList<ImageVector>
     }
     __AllIcons= listOf(AccessibleIcon, Accusoft, Adn, Adversal, Affiliatetheme, Airbnb, Algolia,
         Alipay, Amazon, AmazonPay, Amilia, Android, Angellist, Angrycreative, Angular, AppStore,
-        AppStoreIos, Apper, Apple, ApplePay, Artstation, Asymmetrik, Atlassian, Audible,
-        Autoprefixer, Avianex, Aviato, Aws, Bandcamp, BattleNet, Behance, BehanceSquare, Bilibili,
-        Bimobject, Bitbucket, Bitcoin, Bity, BlackTie, Blackberry, Blogger, BloggerB, Bluesky,
-        Bluetooth, BluetoothB, Bootstrap, Bots, Brave, BraveReverse, Btc, Buffer, Buromobelexperte,
-        BuyNLarge, Buysellads, CanadianMapleLeaf, CashApp, CcAmazonPay, CcAmex, CcApplePay,
-        CcDinersClub, CcDiscover, CcJcb, CcMastercard, CcPaypal, CcStripe, CcVisa, Centercode,
-        Centos, Chrome, Chromecast, Cloudflare, Cloudscale, Cloudsmith, Cloudversify, Cmplid,
-        Codepen, Codiepie, Confluence, Connectdevelop, Contao, CottonBureau, Cpanel,
-        CreativeCommons, CreativeCommonsBy, CreativeCommonsNc, CreativeCommonsNcEu,
-        CreativeCommonsNcJp, CreativeCommonsNd, CreativeCommonsPd, CreativeCommonsPdAlt,
-        CreativeCommonsRemix, CreativeCommonsSa, CreativeCommonsSampling,
+        AppStoreIos, Apper, Apple, ApplePay, ArchLinux, Artstation, Asymmetrik, Atlassian, Audible,
+        Autoprefixer, Avianex, Aviato, Aws, Bandcamp, BattleNet, Behance, BehanceSquare, Bgg,
+        Bilibili, Bimobject, Bitbucket, Bitcoin, Bity, BlackTie, Blackberry, Blogger, BloggerB,
+        Bluesky, Bluetooth, BluetoothB, BoardGameGeek, Bootstrap, Bots, Brave, BraveReverse, Btc,
+        Buffer, Buromobelexperte, BuyNLarge, Buysellads, CanadianMapleLeaf, CashApp, CcAmazonPay,
+        CcAmex, CcApplePay, CcDinersClub, CcDiscover, CcJcb, CcMastercard, CcPaypal, CcStripe,
+        CcVisa, Centercode, Centos, Chrome, Chromecast, CircleZulip, Claude, Cloudflare, Cloudscale,
+        Cloudsmith, Cloudversify, Cmplid, Codepen, Codiepie, Confluence, Connectdevelop, Contao,
+        CottonBureau, Cpanel, CreativeCommons, CreativeCommonsBy, CreativeCommonsNc,
+        CreativeCommonsNcEu, CreativeCommonsNcJp, CreativeCommonsNd, CreativeCommonsPd,
+        CreativeCommonsPdAlt, CreativeCommonsRemix, CreativeCommonsSa, CreativeCommonsSampling,
         CreativeCommonsSamplingPlus, CreativeCommonsShare, CreativeCommonsZero, CriticalRole, Css,
         Css3, Css3Alt, Cuttlefish, DAndD, DAndDBeyond, Dailymotion, DartLang, Dashcube, Debian,
         Deezer, Delicious, Deploydog, Deskpro, Dev, Deviantart, Dhl, Diaspora, Digg, DigitalOcean,
         Discord, Discourse, Disqus, Dochub, Docker, Draft2digital, Dribbble, DribbbleSquare,
         Dropbox, Drupal, Duolingo, Dyalog, Earlybirds, Ebay, Edge, EdgeLegacy, Elementor, Eleventy,
         Ello, Ember, Empire, Envira, Erlang, Ethereum, Etsy, Evernote, Expeditedssl, Facebook,
-        FacebookF, FacebookMessenger, FacebookSquare, FantasyFlightGames, Fedex, Fedora, Figma,
-        FilesPinwheel, Firefox, FirefoxBrowser, FirstOrder, FirstOrderAlt, Firstdraft, Flickr,
-        Flipboard, Flutter, Fly, FontAwesomeAlt, FontAwesomeBrand, FontAwesomeFlag,
-        FontAwesomeLogoFull, Fonticons, FonticonsFi, FortAwesome, FortAwesomeAlt, Forumbee,
+        FacebookF, FacebookMessenger, FacebookSquare, FantasyFlightGames, Fedex, Fediverse, Fedora,
+        Figma, FilesPinwheel, Firefox, FirefoxBrowser, FirstOrder, FirstOrderAlt, Firstdraft,
+        Flickr, Flipboard, Flutter, Fly, FontAwesomeAlt, FontAwesomeBrand, FontAwesomeFlag,
+        FontAwesomeLogoFull, Fonticons, FonticonsFi, Forgejo, FortAwesome, FortAwesomeAlt, Forumbee,
         Foursquare, FreeCodeCamp, Freebsd, Fulcrum, GalacticRepublic, GalacticSenate, GetPocket, Gg,
-        GgCircle, Git, GitAlt, GitSquare, Github, GithubAlt, GithubSquare, Gitkraken, Gitlab,
-        GitlabSquare, Gitter, Glide, GlideG, Gofore, Golang, Goodreads, GoodreadsG, Google,
-        GoogleDrive, GooglePay, GooglePlay, GooglePlus, GooglePlusG, GooglePlusSquare,
+        GgCircle, Git, GitAlt, GitSquare, Gitee, Github, GithubAlt, GithubSquare, Gitkraken, Gitlab,
+        GitlabSquare, Gitter, Glide, GlideG, Globaleaks, Gofore, Golang, Goodreads, GoodreadsG,
+        Google, GoogleDrive, GooglePay, GooglePlay, GooglePlus, GooglePlusG, GooglePlusSquare,
         GoogleScholar, GoogleWallet, Gratipay, Grav, Gripfire, Grunt, Guilded, Gulp, HackerNews,
         HackerNewsSquare, Hackerrank, Hashnode, Hips, HireAHelper, Hive, Hooli, Hornbill, Hotjar,
-        Houzz, Html5, Hubspot, Ideal, Imdb, Innosoft, Instagram, InstagramSquare, Instalod,
-        Intercom, InternetExplorer, Invision, Ioxhost, ItchIo, Itunes, ItunesNote, Java, JediOrder,
-        Jenkins, Jira, Joget, Joomla, Js, JsSquare, Jsfiddle, Jxl, Kaggle, KakaoTalk, Keybase,
-        Keycdn, Kickstarter, KickstarterK, Korvue, Laravel, Lastfm, LastfmSquare, Leanpub, Less,
-        Letterboxd, Line, Linkedin, LinkedinIn, Linktree, Linode, Linux, Lumon, LumonDrop, Lyft,
-        Magento, Mailchimp, Mandalorian, Markdown, Mastodon, Maxcdn, Mdb, Medapps, Medium, MediumM,
-        Medrt, Meetup, Megaport, Mendeley, Meta, Microblog, Microsoft, Mintbit, Mix, Mixcloud,
-        Mixer, Mizuni, Modx, Monero, Napster, Neos, NfcDirectional, NfcSymbol, Nimblr, Node, NodeJs,
-        Notion, Npm, Ns8, Number11Ty, Number42Group, Number500Px, Nutritionix, OctopusDeploy,
-        Odnoklassniki, OdnoklassnikiSquare, Odysee, OldRepublic, Openai, Opencart, Openid, Opensuse,
+        Houzz, Html5, Hubspot, HuggingFace, Ideal, Imdb, Innosoft, Instagram, InstagramSquare,
+        Instalod, Intercom, InternetExplorer, Invision, Ioxhost, ItchIo, Itunes, ItunesNote, Java,
+        JediOrder, Jenkins, Jira, Joget, Joomla, Js, JsSquare, Jsfiddle, Julia, Jxl, Kaggle,
+        KakaoTalk, Keybase, Keycdn, Kickstarter, KickstarterK, KoFi, Korvue, Kubernetes, Laravel,
+        Lastfm, LastfmSquare, Leanpub, Leetcode, Less, Letterboxd, Line, Linkedin, LinkedinIn,
+        Linktree, Linode, Linux, Lumon, LumonDrop, Lyft, Magento, Mailchimp, Mandalorian, Markdown,
+        Mastodon, Maxcdn, Mdb, Medapps, Medium, MediumM, Medrt, Meetup, Megaport, Mendeley, Meta,
+        Microblog, Microsoft, Mintbit, Mix, Mixcloud, Mixer, Mizuni, Modx, Monero, Napster, Neos,
+        NfcDirectional, NfcSymbol, Nimblr, Node, NodeJs, Notion, Npm, Ns8, Number11Ty,
+        Number42Group, Number500Px, Nutritionix, Obsidian, OctopusDeploy, Odnoklassniki,
+        OdnoklassnikiSquare, Odysee, OldRepublic, Openai, Opencart, Openid, Openstreetmap, Opensuse,
         Opera, OptinMonster, Orcid, Osi, Padlet, Page4, Pagelines, Palfed, Pandora, Patreon, Paypal,
         Perbyte, Periscope, Phabricator, PhoenixFramework, PhoenixSquadron, Php, PiedPiper,
         PiedPiperAlt, PiedPiperHat, PiedPiperPp, PiedPiperSquare, Pinterest, PinterestP,
-        PinterestSquare, Pix, Pixelfed, Pixiv, Playstation, ProductHunt, Pushed, Python, Qq,
-        Quinscape, Quora, RProject, RaspberryPi, Ravelry, React, Reacteurope, Readme, Rebel,
+        PinterestSquare, Pix, Pixelfed, Pixiv, Playstation, Postgresql, ProductHunt, Pushed, Python,
+        Qq, Quinscape, Quora, RProject, RaspberryPi, Ravelry, React, Reacteurope, Readme, Rebel,
         RedRiver, Reddit, RedditAlien, RedditSquare, Redhat, Rendact, Renren, Replyd, Researchgate,
-        Resolving, Rev, Rocketchat, Rockrms, Rust, Safari, Salesforce, Sass, Schlix, Screenpal,
-        Scribd, Searchengin, Sellcast, Sellsy, Servicestack, Shirtsinbulk, Shoelace, Shopify,
-        Shopware, SignalMessenger, Simplybuilt, Sistrix, Sith, Sitrox, Sketch, Skyatlas, Skype,
-        Slack, SlackHash, Slideshare, Snapchat, SnapchatGhost, SnapchatSquare, Soundcloud,
-        Sourcetree, SpaceAwesome, Speakap, SpeakerDeck, Spotify, SquareBehance, SquareBluesky,
-        SquareDribbble, SquareFacebook, SquareFigma, SquareFontAwesome, SquareFontAwesomeStroke,
-        SquareGit, SquareGithub, SquareGitlab, SquareGooglePlus, SquareHackerNews, SquareInstagram,
-        SquareJs, SquareKickstarter, SquareLastfm, SquareLetterboxd, SquareLinkedin,
-        SquareOdnoklassniki, SquarePiedPiper, SquarePinterest, SquareReddit, SquareSnapchat,
-        SquareSteam, SquareThreads, SquareTumblr, SquareTwitter, SquareUpwork, SquareViadeo,
-        SquareVimeo, SquareWebAwesome, SquareWebAwesomeStroke, SquareWhatsapp, SquareXTwitter,
-        SquareXing, SquareYoutube, Squarespace, StackExchange, StackOverflow, Stackpath, Staylinked,
-        Steam, SteamSquare, SteamSymbol, StickerMule, Strava, Stripe, StripeS, Stubber,
-        Studiovinari, Stumbleupon, StumbleuponCircle, Superpowers, Supple, Suse, Swift, Symfony,
-        Teamspeak, Telegram, TelegramPlane, TencentWeibo, Tex, TheRedYeti, Themeco, Themeisle,
-        ThinkPeaks, Threads, Tidal, Tiktok, TradeFederation, Trello, Tumblr, TumblrSquare, Twitch,
-        Twitter, TwitterSquare, Typo3, Uber, Ubuntu, Uikit, Umbraco, Uncharted, Uniregistry, Unity,
-        Unsplash, Untappd, Ups, Upwork, Usb, Usps, Ussunnah, Vaadin, Viacoin, Viadeo, ViadeoSquare,
-        Viber, Vimeo, VimeoSquare, VimeoV, Vine, Vk, Vnv, Vsco, Vuejs, W3c, WatchmanMonitoring,
-        Waze, WebAwesome, Webflow, Weebly, Weibo, Weixin, Whatsapp, WhatsappSquare, Whmcs,
-        WikipediaW, Windows, Wirsindhandwerk, Wix, WizardsOfTheCoast, Wodu, WolfPackBattalion,
-        Wordpress, WordpressSimple, Wpbeginner, Wpexplorer, Wpforms, Wpressr, Wsh, XTwitter, Xbox,
-        Xing, XingSquare, YCombinator, Yahoo, Yammer, Yandex, YandexInternational, Yarn, Yelp,
-        Yoast, Youtube, YoutubeSquare, Zhihu)
+        Resolving, Rev, Rocketchat, Rockrms, Rust, Safari, Salesforce, Sass, Scaleway, Schlix,
+        Screenpal, Scribd, Searchengin, Sellcast, Sellsy, Servicestack, Shirtsinbulk, Shoelace,
+        Shopify, Shopware, SignalMessenger, Simplybuilt, Sistrix, Sith, Sitrox, Sketch, Skyatlas,
+        Skype, Slack, SlackHash, Slideshare, Snapchat, SnapchatGhost, SnapchatSquare, Solana,
+        Soundcloud, Sourcetree, SpaceAwesome, Speakap, SpeakerDeck, Spotify, SquareBehance,
+        SquareBluesky, SquareDeskpro, SquareDribbble, SquareFacebook, SquareFigma,
+        SquareFontAwesome, SquareFontAwesomeStroke, SquareGit, SquareGithub, SquareGitlab,
+        SquareGooglePlus, SquareHackerNews, SquareInstagram, SquareJs, SquareKickstarter,
+        SquareLastfm, SquareLetterboxd, SquareLinkedin, SquareOdnoklassniki, SquarePiedPiper,
+        SquarePinterest, SquareReddit, SquareSnapchat, SquareSteam, SquareThreads, SquareTumblr,
+        SquareTwitter, SquareUpwork, SquareViadeo, SquareVimeo, SquareWebAwesome,
+        SquareWebAwesomeStroke, SquareWhatsapp, SquareXTwitter, SquareXing, SquareYoutube,
+        Squarespace, StackExchange, StackOverflow, Stackpath, Staylinked, Steam, SteamSquare,
+        SteamSymbol, StickerMule, Strava, Stripe, StripeS, Stubber, Studiovinari, Stumbleupon,
+        StumbleuponCircle, Superpowers, Supple, Supportnow, Suse, Svelte, Swift, Symfony,
+        Symfonycasts, TailwindCss, Teamspeak, Telegram, TelegramPlane, TencentWeibo, Tex,
+        TheRedYeti, Themeco, Themeisle, ThinkPeaks, Threads, Threema, Tidal, Tiktok, TorBrowser,
+        TradeFederation, Trello, Tumblr, TumblrSquare, Twitch, Twitter, TwitterSquare, Typescript,
+        Typo3, Uber, Ubuntu, Uikit, Ultralytics, UltralyticsHub, UltralyticsYolo, Umbraco,
+        Uncharted, Uniregistry, Unison, Unity, UnrealEngine, Unsplash, Untappd, Ups, Upwork, Usb,
+        Usps, Ussunnah, Vaadin, Venmo, VenmoV, Viacoin, Viadeo, ViadeoSquare, Viber, Vim, Vimeo,
+        VimeoSquare, VimeoV, Vine, Vk, Vnv, Vsco, Vuejs, W3c, WatchmanMonitoring, Waze, WebAwesome,
+        Webflow, Weebly, Weibo, Weixin, Whatsapp, WhatsappSquare, Whmcs, WikipediaW, Windows,
+        Wirsindhandwerk, Wix, WizardsOfTheCoast, Wodu, WolfPackBattalion, Wordpress,
+        WordpressSimple, Wpbeginner, Wpexplorer, Wpforms, Wpressr, Wsh, XTwitter, Xbox, Xing,
+        XingSquare, Xmpp, YCombinator, Yahoo, Yammer, Yandex, YandexInternational, Yarn, Yelp,
+        Yoast, Youtube, YoutubeSquare, Zhihu, Zoom, Zulip)
     return __AllIcons!!
   }

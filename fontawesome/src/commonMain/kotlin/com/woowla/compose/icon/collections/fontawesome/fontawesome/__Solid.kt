@@ -38,9 +38,11 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Angry
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Ankh
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.AppleAlt
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.AppleWhole
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Aquarius
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Archive
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Archway
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.AreaChart
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Aries
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.ArrowAltCircleDown
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.ArrowAltCircleLeft
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.ArrowAltCircleRight
@@ -296,8 +298,10 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.CameraR
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.CameraRotate
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Campground
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Cancel
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Cancer
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.CandyCane
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Cannabis
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Capricorn
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Capsules
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Car
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.CarAlt
@@ -420,6 +424,7 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.ClockRo
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Clone
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Close
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.ClosedCaptioning
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.ClosedCaptioningSlash
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Cloud
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.CloudArrowDown
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.CloudArrowUp
@@ -603,6 +608,7 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Externa
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.ExternalLinkSquare
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.ExternalLinkSquareAlt
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Eye
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.EyeDropper
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.EyeDropperEmpty
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.EyeLowVision
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.EyeSlash
@@ -762,6 +768,7 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Gbp
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Gear
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Gears
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Gem
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Gemini
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Genderless
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Ghost
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Gift
@@ -1033,12 +1040,14 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.LeftLon
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.LeftRight
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Legal
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Lemon
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Leo
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.LessThan
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.LessThanEqual
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.LevelDown
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.LevelDownAlt
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.LevelUp
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.LevelUpAlt
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Libra
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.LifeRing
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Lightbulb
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.LineChart
@@ -1220,6 +1229,7 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Otter
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Outdent
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.P
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Pager
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.PaintBrush
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.PaintRoller
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Paintbrush
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Palette
@@ -1319,10 +1329,12 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.PhoneSq
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.PhoneVolume
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.PhotoFilm
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.PhotoVideo
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.PictureInPicture
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.PieChart
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.PiggyBank
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Pills
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.PingPongPaddleBall
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Pisces
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.PizzaSlice
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.PlaceOfWorship
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Plane
@@ -1455,6 +1467,7 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.SackDol
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.SackXmark
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.SadCry
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.SadTear
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Sagittarius
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Sailboat
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Satellite
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.SatelliteDish
@@ -1469,6 +1482,7 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.SchoolC
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.SchoolFlag
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.SchoolLock
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Scissors
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Scorpio
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Screwdriver
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.ScrewdriverWrench
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Scroll
@@ -1670,6 +1684,7 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Sync
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.SyncAlt
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Syringe
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.T
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.TShirt
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Table
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.TableCells
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.TableCellsColumnLock
@@ -1701,6 +1716,7 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Tarp
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.TarpDroplet
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Tasks
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.TasksAlt
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Taurus
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Taxi
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Teeth
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.TeethOpen
@@ -1749,6 +1765,8 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Thermom
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.ThermometerHalf
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.ThermometerQuarter
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.ThermometerThreeQuarters
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.ThumbTack
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.ThumbTackSlash
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.ThumbsDown
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.ThumbsUp
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Thumbtack
@@ -1822,6 +1840,7 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.TruckPi
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.TruckPlane
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.TruckRampBox
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Try
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Tshirt
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Tty
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.TurkishLira
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.TurkishLiraSign
@@ -1909,6 +1928,7 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Video
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.VideoCamera
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.VideoSlash
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Vihara
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Virgo
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Virus
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.VirusCovid
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.VirusCovidSlash
@@ -1918,10 +1938,12 @@ import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Voicema
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Volcano
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Volleyball
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.VolleyballBall
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.Volume
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.VolumeControlPhone
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.VolumeDown
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.VolumeHigh
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.VolumeLow
+import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.VolumeMedium
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.VolumeMute
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.VolumeOff
 import com.woowla.compose.icon.collections.fontawesome.fontawesome.solid.VolumeTimes
@@ -1999,16 +2021,17 @@ public val SolidGroup.AllIcons: ____KtList<ImageVector>
         AmericanSignLanguageInterpreting, Anchor, AnchorCircleCheck, AnchorCircleExclamation,
         AnchorCircleXmark, AnchorLock, AngleDoubleDown, AngleDoubleLeft, AngleDoubleRight,
         AngleDoubleUp, AngleDown, AngleLeft, AngleRight, AngleUp, AnglesDown, AnglesLeft,
-        AnglesRight, AnglesUp, Angry, Ankh, AppleAlt, AppleWhole, Archive, Archway, AreaChart,
-        ArrowAltCircleDown, ArrowAltCircleLeft, ArrowAltCircleRight, ArrowAltCircleUp,
-        ArrowCircleDown, ArrowCircleLeft, ArrowCircleRight, ArrowCircleUp, ArrowDown, ArrowDown19,
-        ArrowDown91, ArrowDownAZ, ArrowDownLong, ArrowDownShortWide, ArrowDownUpAcrossLine,
-        ArrowDownUpLock, ArrowDownWideShort, ArrowDownZA, ArrowLeft, ArrowLeftLong, ArrowLeftRotate,
-        ArrowPointer, ArrowRight, ArrowRightArrowLeft, ArrowRightFromBracket, ArrowRightFromFile,
-        ArrowRightLong, ArrowRightRotate, ArrowRightToBracket, ArrowRightToCity, ArrowRightToFile,
-        ArrowRotateBack, ArrowRotateBackward, ArrowRotateForward, ArrowRotateLeft, ArrowRotateRight,
-        ArrowTrendDown, ArrowTrendUp, ArrowTurnDown, ArrowTurnUp, ArrowUp, ArrowUp19, ArrowUp91,
-        ArrowUpAZ, ArrowUpFromBracket, ArrowUpFromGroundWater, ArrowUpFromWaterPump, ArrowUpLong,
+        AnglesRight, AnglesUp, Angry, Ankh, AppleAlt, AppleWhole, Aquarius, Archive, Archway,
+        AreaChart, Aries, ArrowAltCircleDown, ArrowAltCircleLeft, ArrowAltCircleRight,
+        ArrowAltCircleUp, ArrowCircleDown, ArrowCircleLeft, ArrowCircleRight, ArrowCircleUp,
+        ArrowDown, ArrowDown19, ArrowDown91, ArrowDownAZ, ArrowDownLong, ArrowDownShortWide,
+        ArrowDownUpAcrossLine, ArrowDownUpLock, ArrowDownWideShort, ArrowDownZA, ArrowLeft,
+        ArrowLeftLong, ArrowLeftRotate, ArrowPointer, ArrowRight, ArrowRightArrowLeft,
+        ArrowRightFromBracket, ArrowRightFromFile, ArrowRightLong, ArrowRightRotate,
+        ArrowRightToBracket, ArrowRightToCity, ArrowRightToFile, ArrowRotateBack,
+        ArrowRotateBackward, ArrowRotateForward, ArrowRotateLeft, ArrowRotateRight, ArrowTrendDown,
+        ArrowTrendUp, ArrowTurnDown, ArrowTurnUp, ArrowUp, ArrowUp19, ArrowUp91, ArrowUpAZ,
+        ArrowUpFromBracket, ArrowUpFromGroundWater, ArrowUpFromWaterPump, ArrowUpLong,
         ArrowUpRightDots, ArrowUpRightFromSquare, ArrowUpShortWide, ArrowUpWideShort, ArrowUpZA,
         Arrows, ArrowsAlt, ArrowsAltH, ArrowsAltV, ArrowsDownToLine, ArrowsDownToPeople, ArrowsH,
         ArrowsLeftRight, ArrowsLeftRightToLine, ArrowsRotate, ArrowsSpin, ArrowsSplitUpAndLeft,
@@ -2037,88 +2060,88 @@ public val SolidGroup.AllIcons: ____KtList<ImageVector>
         Burger, Burn, Burst, Bus, BusAlt, BusSide, BusSimple, BusinessTime, C, Cab, CableCar, Cake,
         CakeCandles, Calculator, Calendar, CalendarAlt, CalendarCheck, CalendarDay, CalendarDays,
         CalendarMinus, CalendarPlus, CalendarTimes, CalendarWeek, CalendarXmark, Camera, CameraAlt,
-        CameraRetro, CameraRotate, Campground, Cancel, CandyCane, Cannabis, Capsules, Car, CarAlt,
-        CarBattery, CarBurst, CarCrash, CarOn, CarRear, CarSide, CarTunnel, Caravan, CaretDown,
-        CaretLeft, CaretRight, CaretSquareDown, CaretSquareLeft, CaretSquareRight, CaretSquareUp,
-        CaretUp, CarriageBaby, Carrot, CartArrowDown, CartFlatbed, CartFlatbedSuitcase, CartPlus,
-        CartShopping, CashRegister, Cat, CediSign, CentSign, Certificate, Chain, ChainBroken,
-        ChainSlash, Chair, Chalkboard, ChalkboardTeacher, ChalkboardUser, ChampagneGlasses,
-        ChargingStation, ChartArea, ChartBar, ChartColumn, ChartDiagram, ChartGantt, ChartLine,
-        ChartPie, ChartSimple, Check, CheckCircle, CheckDouble, CheckSquare, CheckToSlot, Cheese,
-        Chess, ChessBishop, ChessBoard, ChessKing, ChessKnight, ChessPawn, ChessQueen, ChessRook,
-        ChevronCircleDown, ChevronCircleLeft, ChevronCircleRight, ChevronCircleUp, ChevronDown,
-        ChevronLeft, ChevronRight, ChevronUp, Child, ChildCombatant, ChildDress, ChildReaching,
-        ChildRifle, Children, Church, Circle, CircleArrowDown, CircleArrowLeft, CircleArrowRight,
-        CircleArrowUp, CircleCheck, CircleChevronDown, CircleChevronLeft, CircleChevronRight,
-        CircleChevronUp, CircleDollarToSlot, CircleDot, CircleDown, CircleExclamation, CircleH,
-        CircleHalfStroke, CircleInfo, CircleLeft, CircleMinus, CircleNodes, CircleNotch,
-        CirclePause, CirclePlay, CirclePlus, CircleQuestion, CircleRadiation, CircleRight,
-        CircleStop, CircleUp, CircleUser, CircleXmark, City, Clapperboard, ClinicMedical, Clipboard,
-        ClipboardCheck, ClipboardList, ClipboardQuestion, ClipboardUser, Clock, ClockFour,
-        ClockRotateLeft, Clone, Close, ClosedCaptioning, Cloud, CloudArrowDown, CloudArrowUp,
-        CloudBolt, CloudDownload, CloudDownloadAlt, CloudMeatball, CloudMoon, CloudMoonRain,
-        CloudRain, CloudShowersHeavy, CloudShowersWater, CloudSun, CloudSunRain, CloudUpload,
-        CloudUploadAlt, Clover, Cny, Cocktail, Code, CodeBranch, CodeCommit, CodeCompare, CodeFork,
-        CodeMerge, CodePullRequest, Coffee, Cog, Cogs, Coins, ColonSign, Columns, Comment,
-        CommentAlt, CommentDollar, CommentDots, CommentMedical, CommentNodes, CommentSlash,
-        CommentSms, Commenting, Comments, CommentsDollar, CompactDisc, Compass, CompassDrafting,
-        Compress, CompressAlt, CompressArrowsAlt, Computer, ComputerMouse, ConciergeBell,
-        ContactBook, ContactCard, Cookie, CookieBite, Copy, Copyright, Couch, Cow, CreditCard,
-        CreditCardAlt, Crop, CropAlt, CropSimple, Cross, Crosshairs, Crow, Crown, Crutch,
-        CruzeiroSign, Cube, Cubes, CubesStacked, Cut, Cutlery, D, Dashboard, Database, Deaf,
-        Deafness, Dedent, DeleteLeft, Democrat, Desktop, DesktopAlt, Dharmachakra, Diagnoses,
-        DiagramNext, DiagramPredecessor, DiagramProject, DiagramSuccessor, Diamond,
-        DiamondTurnRight, Dice, DiceD20, DiceD6, DiceFive, DiceFour, DiceOne, DiceSix, DiceThree,
-        DiceTwo, Digging, DigitalTachograph, Directions, Disease, Display, Divide, Dizzy, Dna, Dog,
-        Dollar, DollarSign, Dolly, DollyBox, DollyFlatbed, Donate, DongSign, DoorClosed, DoorOpen,
-        DotCircle, Dove, DownLeftAndUpRightToCenter, DownLong, Download, DraftingCompass, Dragon,
-        DrawPolygon, DriversLicense, Droplet, DropletSlash, Drum, DrumSteelpan, DrumstickBite,
-        Dumbbell, Dumpster, DumpsterFire, Dungeon, E, EarDeaf, EarListen, Earth, EarthAfrica,
-        EarthAmerica, EarthAmericas, EarthAsia, EarthEurope, EarthOceania, Edit, Egg, Eject,
-        Elevator, Ellipsis, EllipsisH, EllipsisV, EllipsisVertical, Envelope, EnvelopeCircleCheck,
-        EnvelopeOpen, EnvelopeOpenText, EnvelopeSquare, EnvelopesBulk, Equals, Eraser, Ethernet,
-        Eur, Euro, EuroSign, Exchange, ExchangeAlt, Exclamation, ExclamationCircle,
-        ExclamationTriangle, Expand, ExpandAlt, ExpandArrowsAlt, Explosion, ExternalLink,
-        ExternalLinkAlt, ExternalLinkSquare, ExternalLinkSquareAlt, Eye,
-        EyeDropperEmpty, EyeLowVision, EyeSlash, Eyedropper, F, FaceAngry, FaceDizzy, FaceFlushed,
-        FaceFrown, FaceFrownOpen, FaceGrimace, FaceGrin, FaceGrinBeam, FaceGrinBeamSweat,
-        FaceGrinHearts, FaceGrinSquint, FaceGrinSquintTears, FaceGrinStars, FaceGrinTears,
-        FaceGrinTongue, FaceGrinTongueSquint, FaceGrinTongueWink, FaceGrinWide, FaceGrinWink,
-        FaceKiss, FaceKissBeam, FaceKissWinkHeart, FaceLaugh, FaceLaughBeam, FaceLaughSquint,
-        FaceLaughWink, FaceMeh, FaceMehBlank, FaceRollingEyes, FaceSadCry, FaceSadTear, FaceSmile,
-        FaceSmileBeam, FaceSmileWink, FaceSurprise, FaceTired, Fan, FastBackward, FastForward,
-        Faucet, FaucetDrip, Fax, Feather, FeatherAlt, FeatherPointed, Feed, Female, Ferry,
-        FighterJet, File, FileAlt, FileArchive, FileArrowDown, FileArrowUp, FileAudio,
-        FileCircleCheck, FileCircleExclamation, FileCircleMinus, FileCirclePlus, FileCircleQuestion,
-        FileCircleXmark, FileClipboard, FileCode, FileContract, FileCsv, FileDownload, FileEdit,
-        FileExcel, FileExport, FileFragment, FileHalfDashed, FileImage, FileImport, FileInvoice,
-        FileInvoiceDollar, FileLines, FileMedical, FileMedicalAlt, FilePdf, FilePen, FilePowerpoint,
-        FilePrescription, FileShield, FileSignature, FileText, FileUpload, FileVideo, FileWaveform,
-        FileWord, FileZipper, Fill, FillDrip, Film, FilmAlt, FilmSimple, Filter, FilterCircleDollar,
-        FilterCircleXmark, Fingerprint, Fire, FireAlt, FireBurner, FireExtinguisher,
-        FireFlameCurved, FireFlameSimple, FirstAid, Fish, FishFins, FistRaised, Flag, FlagCheckered,
-        FlagUsa, Flask, FlaskVial, FloppyDisk, FlorinSign, Flushed, Folder, FolderBlank,
-        FolderClosed, FolderMinus, FolderOpen, FolderPlus, FolderTree, Font, FontAwesomeBrand,
-        FontAwesomeFlag, FontAwesomeLogoFull, Football, FootballBall, Forward, ForwardFast,
-        ForwardStep, FrancSign, Frog, Frown, FrownOpen, FunnelDollar, Futbol, FutbolBall, G,
-        Gamepad, GasPump, Gauge, GaugeHigh, GaugeMed, GaugeSimple, GaugeSimpleHigh, GaugeSimpleMed,
-        Gavel, Gbp, Gear, Gears, Gem, Genderless, Ghost, Gift, Gifts, GlassCheers, GlassMartini,
-        GlassMartiniAlt, GlassWater, GlassWaterDroplet, GlassWhiskey, Glasses, Globe, GlobeAfrica,
-        GlobeAmericas, GlobeAsia, GlobeEurope, GlobeOceania, GolfBall, GolfBallTee, Gopuram,
-        GraduationCap, GreaterThan, GreaterThanEqual, GridHorizontal, GridVertical, Grimace, Grin,
-        GrinAlt, GrinBeam, GrinBeamSweat, GrinHearts, GrinSquint, GrinSquintTears, GrinStars,
-        GrinTears, GrinTongue, GrinTongueSquint, GrinTongueWink, GrinWink, Grip, GripHorizontal,
-        GripLines, GripLinesVertical, GripVertical, GroupArrowsRotate, GuaraniSign, Guitar, Gun, H,
-        HSquare, Hamburger, Hammer, Hamsa, Hand, HandBackFist, HandDots, HandFist, HandHolding,
-        HandHoldingDollar, HandHoldingDroplet, HandHoldingHand, HandHoldingHeart,
-        HandHoldingMedical, HandHoldingUsd, HandHoldingWater, HandLizard, HandMiddleFinger,
-        HandPaper, HandPeace, HandPointDown, HandPointLeft, HandPointRight, HandPointUp,
-        HandPointer, HandRock, HandScissors, HandSparkles, HandSpock, Handcuffs, Hands,
-        HandsAmericanSignLanguageInterpreting, HandsAslInterpreting, HandsBound, HandsBubbles,
-        HandsClapping, HandsHelping, HandsHolding, HandsHoldingChild, HandsHoldingCircle,
-        HandsPraying, HandsWash, Handshake, HandshakeAlt, HandshakeAltSlash, HandshakeAngle,
-        HandshakeSimple, HandshakeSimpleSlash, HandshakeSlash, Hanukiah, HardDrive, HardHat,
-        HardOfHearing, Hashtag, HatCowboy, HatCowboySide, HatHard, HatWizard, Haykal, Hdd,
+        CameraRetro, CameraRotate, Campground, Cancel, Cancer, CandyCane, Cannabis, Capricorn,
+        Capsules, Car, CarAlt, CarBattery, CarBurst, CarCrash, CarOn, CarRear, CarSide, CarTunnel,
+        Caravan, CaretDown, CaretLeft, CaretRight, CaretSquareDown, CaretSquareLeft,
+        CaretSquareRight, CaretSquareUp, CaretUp, CarriageBaby, Carrot, CartArrowDown, CartFlatbed,
+        CartFlatbedSuitcase, CartPlus, CartShopping, CashRegister, Cat, CediSign, CentSign,
+        Certificate, Chain, ChainBroken, ChainSlash, Chair, Chalkboard, ChalkboardTeacher,
+        ChalkboardUser, ChampagneGlasses, ChargingStation, ChartArea, ChartBar, ChartColumn,
+        ChartDiagram, ChartGantt, ChartLine, ChartPie, ChartSimple, Check, CheckCircle, CheckDouble,
+        CheckSquare, CheckToSlot, Cheese, Chess, ChessBishop, ChessBoard, ChessKing, ChessKnight,
+        ChessPawn, ChessQueen, ChessRook, ChevronCircleDown, ChevronCircleLeft, ChevronCircleRight,
+        ChevronCircleUp, ChevronDown, ChevronLeft, ChevronRight, ChevronUp, Child, ChildCombatant,
+        ChildDress, ChildReaching, ChildRifle, Children, Church, Circle, CircleArrowDown,
+        CircleArrowLeft, CircleArrowRight, CircleArrowUp, CircleCheck, CircleChevronDown,
+        CircleChevronLeft, CircleChevronRight, CircleChevronUp, CircleDollarToSlot, CircleDot,
+        CircleDown, CircleExclamation, CircleH, CircleHalfStroke, CircleInfo, CircleLeft,
+        CircleMinus, CircleNodes, CircleNotch, CirclePause, CirclePlay, CirclePlus, CircleQuestion,
+        CircleRadiation, CircleRight, CircleStop, CircleUp, CircleUser, CircleXmark, City,
+        Clapperboard, ClinicMedical, Clipboard, ClipboardCheck, ClipboardList, ClipboardQuestion,
+        ClipboardUser, Clock, ClockFour, ClockRotateLeft, Clone, Close, ClosedCaptioning,
+        ClosedCaptioningSlash, Cloud, CloudArrowDown, CloudArrowUp, CloudBolt, CloudDownload,
+        CloudDownloadAlt, CloudMeatball, CloudMoon, CloudMoonRain, CloudRain, CloudShowersHeavy,
+        CloudShowersWater, CloudSun, CloudSunRain, CloudUpload, CloudUploadAlt, Clover, Cny,
+        Cocktail, Code, CodeBranch, CodeCommit, CodeCompare, CodeFork, CodeMerge, CodePullRequest,
+        Coffee, Cog, Cogs, Coins, ColonSign, Columns, Comment, CommentAlt, CommentDollar,
+        CommentDots, CommentMedical, CommentNodes, CommentSlash, CommentSms, Commenting, Comments,
+        CommentsDollar, CompactDisc, Compass, CompassDrafting, Compress, CompressAlt,
+        CompressArrowsAlt, Computer, ComputerMouse, ConciergeBell, ContactBook, ContactCard, Cookie,
+        CookieBite, Copy, Copyright, Couch, Cow, CreditCard, CreditCardAlt, Crop, CropAlt,
+        CropSimple, Cross, Crosshairs, Crow, Crown, Crutch, CruzeiroSign, Cube, Cubes, CubesStacked,
+        Cut, Cutlery, D, Dashboard, Database, Deaf, Deafness, Dedent, DeleteLeft, Democrat, Desktop,
+        DesktopAlt, Dharmachakra, Diagnoses, DiagramNext, DiagramPredecessor, DiagramProject,
+        DiagramSuccessor, Diamond, DiamondTurnRight, Dice, DiceD20, DiceD6, DiceFive, DiceFour,
+        DiceOne, DiceSix, DiceThree, DiceTwo, Digging, DigitalTachograph, Directions, Disease,
+        Display, Divide, Dizzy, Dna, Dog, Dollar, DollarSign, Dolly, DollyBox, DollyFlatbed, Donate,
+        DongSign, DoorClosed, DoorOpen, DotCircle, Dove, DownLeftAndUpRightToCenter, DownLong,
+        Download, DraftingCompass, Dragon, DrawPolygon, DriversLicense, Droplet, DropletSlash, Drum,
+        DrumSteelpan, DrumstickBite, Dumbbell, Dumpster, DumpsterFire, Dungeon, E, EarDeaf,
+        EarListen, Earth, EarthAfrica, EarthAmerica, EarthAmericas, EarthAsia, EarthEurope,
+        EarthOceania, Edit, Egg, Eject, Elevator, Ellipsis, EllipsisH, EllipsisV, EllipsisVertical,
+        Envelope, EnvelopeCircleCheck, EnvelopeOpen, EnvelopeOpenText, EnvelopeSquare,
+        EnvelopesBulk, Equals, Eraser, Ethernet, Eur, Euro, EuroSign, Exchange, ExchangeAlt,
+        Exclamation, ExclamationCircle, ExclamationTriangle, Expand, ExpandAlt, ExpandArrowsAlt,
+        Explosion, ExternalLink, ExternalLinkAlt, ExternalLinkSquare, ExternalLinkSquareAlt, Eye,
+        EyeDropper, EyeDropperEmpty, EyeLowVision, EyeSlash, Eyedropper, F, FaceAngry, FaceDizzy,
+        FaceFlushed, FaceFrown, FaceFrownOpen, FaceGrimace, FaceGrin, FaceGrinBeam,
+        FaceGrinBeamSweat, FaceGrinHearts, FaceGrinSquint, FaceGrinSquintTears, FaceGrinStars,
+        FaceGrinTears, FaceGrinTongue, FaceGrinTongueSquint, FaceGrinTongueWink, FaceGrinWide,
+        FaceGrinWink, FaceKiss, FaceKissBeam, FaceKissWinkHeart, FaceLaugh, FaceLaughBeam,
+        FaceLaughSquint, FaceLaughWink, FaceMeh, FaceMehBlank, FaceRollingEyes, FaceSadCry,
+        FaceSadTear, FaceSmile, FaceSmileBeam, FaceSmileWink, FaceSurprise, FaceTired, Fan,
+        FastBackward, FastForward, Faucet, FaucetDrip, Fax, Feather, FeatherAlt, FeatherPointed,
+        Feed, Female, Ferry, FighterJet, File, FileAlt, FileArchive, FileArrowDown, FileArrowUp,
+        FileAudio, FileCircleCheck, FileCircleExclamation, FileCircleMinus, FileCirclePlus,
+        FileCircleQuestion, FileCircleXmark, FileClipboard, FileCode, FileContract, FileCsv,
+        FileDownload, FileEdit, FileExcel, FileExport, FileFragment, FileHalfDashed, FileImage,
+        FileImport, FileInvoice, FileInvoiceDollar, FileLines, FileMedical, FileMedicalAlt, FilePdf,
+        FilePen, FilePowerpoint, FilePrescription, FileShield, FileSignature, FileText, FileUpload,
+        FileVideo, FileWaveform, FileWord, FileZipper, Fill, FillDrip, Film, FilmAlt, FilmSimple,
+        Filter, FilterCircleDollar, FilterCircleXmark, Fingerprint, Fire, FireAlt, FireBurner,
+        FireExtinguisher, FireFlameCurved, FireFlameSimple, FirstAid, Fish, FishFins, FistRaised,
+        Flag, FlagCheckered, FlagUsa, Flask, FlaskVial, FloppyDisk, FlorinSign, Flushed, Folder,
+        FolderBlank, FolderClosed, FolderMinus, FolderOpen, FolderPlus, FolderTree, Font,
+        FontAwesomeBrand, FontAwesomeFlag, FontAwesomeLogoFull, Football, FootballBall, Forward,
+        ForwardFast, ForwardStep, FrancSign, Frog, Frown, FrownOpen, FunnelDollar, Futbol,
+        FutbolBall, G, Gamepad, GasPump, Gauge, GaugeHigh, GaugeMed, GaugeSimple, GaugeSimpleHigh,
+        GaugeSimpleMed, Gavel, Gbp, Gear, Gears, Gem, Gemini, Genderless, Ghost, Gift, Gifts,
+        GlassCheers, GlassMartini, GlassMartiniAlt, GlassWater, GlassWaterDroplet, GlassWhiskey,
+        Glasses, Globe, GlobeAfrica, GlobeAmericas, GlobeAsia, GlobeEurope, GlobeOceania, GolfBall,
+        GolfBallTee, Gopuram, GraduationCap, GreaterThan, GreaterThanEqual, GridHorizontal,
+        GridVertical, Grimace, Grin, GrinAlt, GrinBeam, GrinBeamSweat, GrinHearts, GrinSquint,
+        GrinSquintTears, GrinStars, GrinTears, GrinTongue, GrinTongueSquint, GrinTongueWink,
+        GrinWink, Grip, GripHorizontal, GripLines, GripLinesVertical, GripVertical,
+        GroupArrowsRotate, GuaraniSign, Guitar, Gun, H, HSquare, Hamburger, Hammer, Hamsa, Hand,
+        HandBackFist, HandDots, HandFist, HandHolding, HandHoldingDollar, HandHoldingDroplet,
+        HandHoldingHand, HandHoldingHeart, HandHoldingMedical, HandHoldingUsd, HandHoldingWater,
+        HandLizard, HandMiddleFinger, HandPaper, HandPeace, HandPointDown, HandPointLeft,
+        HandPointRight, HandPointUp, HandPointer, HandRock, HandScissors, HandSparkles, HandSpock,
+        Handcuffs, Hands, HandsAmericanSignLanguageInterpreting, HandsAslInterpreting, HandsBound,
+        HandsBubbles, HandsClapping, HandsHelping, HandsHolding, HandsHoldingChild,
+        HandsHoldingCircle, HandsPraying, HandsWash, Handshake, HandshakeAlt, HandshakeAltSlash,
+        HandshakeAngle, HandshakeSimple, HandshakeSimpleSlash, HandshakeSlash, Hanukiah, HardDrive,
+        HardHat, HardOfHearing, Hashtag, HatCowboy, HatCowboySide, HatHard, HatWizard, Haykal, Hdd,
         HeadSideCough, HeadSideCoughSlash, HeadSideMask, HeadSideVirus, Header, Heading, Headphones,
         HeadphonesAlt, HeadphonesSimple, Headset, Heart, HeartBroken, HeartCircleBolt,
         HeartCircleCheck, HeartCircleExclamation, HeartCircleMinus, HeartCirclePlus,
@@ -2141,10 +2164,10 @@ public val SolidGroup.AllIcons: ____KtList<ImageVector>
         KipSign, Kiss, KissBeam, KissWinkHeart, KitMedical, KitchenSet, KiwiBird, Krw, L,
         LadderWater, LandMineOn, Landmark, LandmarkAlt, LandmarkDome, LandmarkFlag, Language,
         Laptop, LaptopCode, LaptopFile, LaptopHouse, LaptopMedical, LariSign, Laugh, LaughBeam,
-        LaughSquint, LaughWink, LayerGroup, Leaf, LeftLong, LeftRight, Legal, Lemon, LessThan,
-        LessThanEqual, LevelDown, LevelDownAlt, LevelUp, LevelUpAlt, LifeRing, Lightbulb, LineChart,
-        LinesLeaning, Link, LinkSlash, LiraSign, List, List12, ListAlt, ListCheck, ListDots,
-        ListNumeric, ListOl, ListSquares, ListUl, LitecoinSign, Location, LocationArrow,
+        LaughSquint, LaughWink, LayerGroup, Leaf, LeftLong, LeftRight, Legal, Lemon, Leo, LessThan,
+        LessThanEqual, LevelDown, LevelDownAlt, LevelUp, LevelUpAlt, Libra, LifeRing, Lightbulb,
+        LineChart, LinesLeaning, Link, LinkSlash, LiraSign, List, List12, ListAlt, ListCheck,
+        ListDots, ListNumeric, ListOl, ListSquares, ListUl, LitecoinSign, Location, LocationArrow,
         LocationCrosshairs, LocationDot, LocationPin, LocationPinLock, Lock, LockOpen, Locust,
         LongArrowAltDown, LongArrowAltLeft, LongArrowAltRight, LongArrowAltUp, LongArrowDown,
         LongArrowLeft, LongArrowRight, LongArrowUp, LowVision, LuggageCart, Lungs, LungsVirus, M,
@@ -2167,7 +2190,7 @@ public val SolidGroup.AllIcons: ____KtList<ImageVector>
         MugSaucer, Multiply, Museum, Music, N, NairaSign, Navicon, NetworkWired, Neuter, Newspaper,
         NonBinary, NotEqual, Notdef, NoteSticky, NotesMedical, Number0, Number1, Number2, Number3,
         Number4, Number5, Number6, Number7, Number8, Number9, O, ObjectGroup, ObjectUngroup,
-        Octagon, OilCan, OilWell, Om, Otter, Outdent, P, Pager, PaintRoller, Paintbrush,
+        Octagon, OilCan, OilWell, Om, Otter, Outdent, P, Pager, PaintBrush, PaintRoller, Paintbrush,
         Palette, Pallet, Panorama, PaperPlane, Paperclip, ParachuteBox, Paragraph, Parking,
         Passport, Pastafarianism, Paste, Pause, PauseCircle, Paw, Peace, Pen, PenAlt, PenClip,
         PenFancy, PenNib, PenRuler, PenSquare, PenToSquare, Pencil, PencilAlt, PencilRuler,
@@ -2184,39 +2207,40 @@ public val SolidGroup.AllIcons: ____KtList<ImageVector>
         PersonThroughWindow, PersonWalking, PersonWalkingArrowLoopLeft, PersonWalkingArrowRight,
         PersonWalkingDashedLineArrowRight, PersonWalkingLuggage, PersonWalkingWithCane, PesetaSign,
         PesoSign, Phone, PhoneAlt, PhoneFlip, PhoneSlash, PhoneSquare, PhoneSquareAlt, PhoneVolume,
-        PhotoFilm, PhotoVideo, PieChart, PiggyBank, Pills, PingPongPaddleBall, PizzaSlice,
-        PlaceOfWorship, Plane, PlaneArrival, PlaneCircleCheck, PlaneCircleExclamation,
-        PlaneCircleXmark, PlaneDeparture, PlaneLock, PlaneSlash, PlaneUp, PlantWilt, PlateWheat,
-        Play, PlayCircle, Plug, PlugCircleBolt, PlugCircleCheck, PlugCircleExclamation,
-        PlugCircleMinus, PlugCirclePlus, PlugCircleXmark, Plus, PlusCircle, PlusMinus, PlusSquare,
-        Podcast, Poll, PollH, Poo, PooBolt, PooStorm, Poop, Portrait, PoundSign, PowerOff, Pray,
-        PrayingHands, Prescription, PrescriptionBottle, PrescriptionBottleAlt,
-        PrescriptionBottleMedical, Print, Procedures, ProjectDiagram, PumpMedical, PumpSoap,
-        PuzzlePiece, Q, Qrcode, Question, QuestionCircle, Quidditch, QuidditchBroomBall, QuoteLeft,
-        QuoteLeftAlt, QuoteRight, QuoteRightAlt, Quran, R, Radiation, RadiationAlt, Radio, Rainbow,
-        Random, RankingStar, Receipt, RecordVinyl, RectangleAd, RectangleList, RectangleTimes,
-        RectangleXmark, Recycle, Redo, RedoAlt, Refresh, Registered, Remove, RemoveFormat, Reorder,
-        Repeat, Reply, ReplyAll, Republican, Restroom, Retweet, Ribbon, RightFromBracket, RightLeft,
-        RightLong, RightToBracket, Ring, Rmb, Road, RoadBarrier, RoadBridge, RoadCircleCheck,
-        RoadCircleExclamation, RoadCircleXmark, RoadLock, RoadSpikes, Robot, Rocket, RodAsclepius,
-        RodSnake, Rotate, RotateBack, RotateBackward, RotateForward, RotateLeft, RotateRight,
-        Rouble, Route, Rss, RssSquare, Rub, Ruble, RubleSign, Rug, Ruler, RulerCombined,
-        RulerHorizontal, RulerVertical, Running, Rupee, RupeeSign, RupiahSign, S, SackDollar,
-        SackXmark, SadCry, SadTear, Sailboat, Satellite, SatelliteDish, Save, ScaleBalanced,
-        ScaleUnbalanced, ScaleUnbalancedFlip, School, SchoolCircleCheck, SchoolCircleExclamation,
-        SchoolCircleXmark, SchoolFlag, SchoolLock, Scissors, Screwdriver, ScrewdriverWrench, Scroll,
-        ScrollTorah, SdCard, Search, SearchDollar, SearchLocation, SearchMinus, SearchPlus, Section,
-        Seedling, Septagon, Server, Shapes, Share, ShareAlt, ShareAltSquare, ShareFromSquare,
-        ShareNodes, ShareSquare, SheetPlastic, Shekel, ShekelSign, Sheqel, SheqelSign, Shield,
-        ShieldAlt, ShieldBlank, ShieldCat, ShieldDog, ShieldHalved, ShieldHeart, ShieldVirus, Ship,
-        ShippingFast, Shirt, ShoePrints, Shop, ShopLock, ShopSlash, ShoppingBag, ShoppingBasket,
-        ShoppingCart, Shower, Shrimp, Shuffle, ShuttleSpace, ShuttleVan, Sign, SignHanging, SignIn,
-        SignInAlt, SignLanguage, SignOut, SignOutAlt, Signal, Signal5, SignalPerfect, Signature,
-        Signing, SignsPost, SimCard, SingleQuoteLeft, SingleQuoteRight, Sink, Sitemap, Skating,
-        Skiing, SkiingNordic, Skull, SkullCrossbones, Slash, Sleigh, Sliders, SlidersH, Smile,
-        SmileBeam, SmileWink, Smog, Smoking, SmokingBan, Sms, Snowboarding, Snowflake, Snowman,
-        Snowplow, Soap, SoccerBall, Socks, SolarPanel, Sort, SortAlphaAsc, SortAlphaDesc,
-        SortAlphaDown, SortAlphaDownAlt, SortAlphaUp, SortAlphaUpAlt, SortAmountAsc, SortAmountDesc,
+        PhotoFilm, PhotoVideo, PictureInPicture, PieChart, PiggyBank, Pills, PingPongPaddleBall,
+        Pisces, PizzaSlice, PlaceOfWorship, Plane, PlaneArrival, PlaneCircleCheck,
+        PlaneCircleExclamation, PlaneCircleXmark, PlaneDeparture, PlaneLock, PlaneSlash, PlaneUp,
+        PlantWilt, PlateWheat, Play, PlayCircle, Plug, PlugCircleBolt, PlugCircleCheck,
+        PlugCircleExclamation, PlugCircleMinus, PlugCirclePlus, PlugCircleXmark, Plus, PlusCircle,
+        PlusMinus, PlusSquare, Podcast, Poll, PollH, Poo, PooBolt, PooStorm, Poop, Portrait,
+        PoundSign, PowerOff, Pray, PrayingHands, Prescription, PrescriptionBottle,
+        PrescriptionBottleAlt, PrescriptionBottleMedical, Print, Procedures, ProjectDiagram,
+        PumpMedical, PumpSoap, PuzzlePiece, Q, Qrcode, Question, QuestionCircle, Quidditch,
+        QuidditchBroomBall, QuoteLeft, QuoteLeftAlt, QuoteRight, QuoteRightAlt, Quran, R, Radiation,
+        RadiationAlt, Radio, Rainbow, Random, RankingStar, Receipt, RecordVinyl, RectangleAd,
+        RectangleList, RectangleTimes, RectangleXmark, Recycle, Redo, RedoAlt, Refresh, Registered,
+        Remove, RemoveFormat, Reorder, Repeat, Reply, ReplyAll, Republican, Restroom, Retweet,
+        Ribbon, RightFromBracket, RightLeft, RightLong, RightToBracket, Ring, Rmb, Road,
+        RoadBarrier, RoadBridge, RoadCircleCheck, RoadCircleExclamation, RoadCircleXmark, RoadLock,
+        RoadSpikes, Robot, Rocket, RodAsclepius, RodSnake, Rotate, RotateBack, RotateBackward,
+        RotateForward, RotateLeft, RotateRight, Rouble, Route, Rss, RssSquare, Rub, Ruble,
+        RubleSign, Rug, Ruler, RulerCombined, RulerHorizontal, RulerVertical, Running, Rupee,
+        RupeeSign, RupiahSign, S, SackDollar, SackXmark, SadCry, SadTear, Sagittarius, Sailboat,
+        Satellite, SatelliteDish, Save, ScaleBalanced, ScaleUnbalanced, ScaleUnbalancedFlip, School,
+        SchoolCircleCheck, SchoolCircleExclamation, SchoolCircleXmark, SchoolFlag, SchoolLock,
+        Scissors, Scorpio, Screwdriver, ScrewdriverWrench, Scroll, ScrollTorah, SdCard, Search,
+        SearchDollar, SearchLocation, SearchMinus, SearchPlus, Section, Seedling, Septagon, Server,
+        Shapes, Share, ShareAlt, ShareAltSquare, ShareFromSquare, ShareNodes, ShareSquare,
+        SheetPlastic, Shekel, ShekelSign, Sheqel, SheqelSign, Shield, ShieldAlt, ShieldBlank,
+        ShieldCat, ShieldDog, ShieldHalved, ShieldHeart, ShieldVirus, Ship, ShippingFast, Shirt,
+        ShoePrints, Shop, ShopLock, ShopSlash, ShoppingBag, ShoppingBasket, ShoppingCart, Shower,
+        Shrimp, Shuffle, ShuttleSpace, ShuttleVan, Sign, SignHanging, SignIn, SignInAlt,
+        SignLanguage, SignOut, SignOutAlt, Signal, Signal5, SignalPerfect, Signature, Signing,
+        SignsPost, SimCard, SingleQuoteLeft, SingleQuoteRight, Sink, Sitemap, Skating, Skiing,
+        SkiingNordic, Skull, SkullCrossbones, Slash, Sleigh, Sliders, SlidersH, Smile, SmileBeam,
+        SmileWink, Smog, Smoking, SmokingBan, Sms, Snowboarding, Snowflake, Snowman, Snowplow, Soap,
+        SoccerBall, Socks, SolarPanel, Sort, SortAlphaAsc, SortAlphaDesc, SortAlphaDown,
+        SortAlphaDownAlt, SortAlphaUp, SortAlphaUpAlt, SortAmountAsc, SortAmountDesc,
         SortAmountDown, SortAmountDownAlt, SortAmountUp, SortAmountUpAlt, SortAsc, SortDesc,
         SortDown, SortNumericAsc, SortNumericDesc, SortNumericDown, SortNumericDownAlt,
         SortNumericUp, SortNumericUpAlt, SortUp, Spa, SpaceShuttle, SpaghettiMonsterFlying,
@@ -2232,30 +2256,30 @@ public val SolidGroup.AllIcons: ____KtList<ImageVector>
         StoreAlt, StoreAltSlash, StoreSlash, Stream, StreetView, Strikethrough, Stroopwafel,
         Subscript, Subtract, Subway, Suitcase, SuitcaseMedical, SuitcaseRolling, Sun, SunPlantWilt,
         Superscript, Surprise, Swatchbook, Swimmer, SwimmingPool, Synagogue, Sync, SyncAlt, Syringe,
-        T, Table, TableCells, TableCellsColumnLock, TableCellsLarge, TableCellsRowLock,
+        T, TShirt, Table, TableCells, TableCellsColumnLock, TableCellsLarge, TableCellsRowLock,
         TableCellsRowUnlock, TableColumns, TableList, TableTennis, TableTennisPaddleBall, Tablet,
         TabletAlt, TabletAndroid, TabletButton, TabletScreenButton, Tablets, TachographDigital,
         Tachometer, TachometerAlt, TachometerAltAverage, TachometerAltFast, TachometerAverage,
-        TachometerFast, Tag, Tags, Tanakh, Tape, Tarp, TarpDroplet, Tasks, TasksAlt, Taxi, Teeth,
-        TeethOpen, Teletype, Television, Temperature0, Temperature1, Temperature2, Temperature3,
-        Temperature4, TemperatureArrowDown, TemperatureArrowUp, TemperatureDown, TemperatureEmpty,
-        TemperatureFull, TemperatureHalf, TemperatureHigh, TemperatureLow, TemperatureQuarter,
-        TemperatureThreeQuarters, TemperatureUp, Tenge, TengeSign, Tent, TentArrowDownToLine,
-        TentArrowLeftRight, TentArrowTurnLeft, TentArrowsDown, Tents, Terminal, TextHeight,
-        TextSlash, TextWidth, Th, ThLarge, ThList, TheaterMasks, Thermometer, Thermometer0,
-        Thermometer1, Thermometer2, Thermometer3, Thermometer4, ThermometerEmpty, ThermometerFull,
-        ThermometerHalf, ThermometerQuarter, ThermometerThreeQuarters,
-        ThumbsDown, ThumbsUp, Thumbtack, ThumbtackSlash, Thunderstorm, Ticket, TicketAlt,
-        TicketSimple, Timeline, Times, TimesCircle, TimesRectangle, TimesSquare, Tint, TintSlash,
-        Tired, ToggleOff, ToggleOn, Toilet, ToiletPaper, ToiletPaperAlt, ToiletPaperBlank,
-        ToiletPaperSlash, ToiletPortable, ToiletsPortable, Toolbox, Tools, Tooth, Torah, ToriiGate,
-        Tornado, TowerBroadcast, TowerCell, TowerObservation, Tractor, Trademark, TrafficLight,
-        Trailer, Train, TrainSubway, TrainTram, Tram, Transgender, TransgenderAlt, Trash, TrashAlt,
-        TrashArrowUp, TrashCan, TrashCanArrowUp, TrashRestore, TrashRestoreAlt, Tree, TreeCity,
-        TriangleCircleSquare, TriangleExclamation, Trophy, Trowel, TrowelBricks, Truck,
-        TruckArrowRight, TruckDroplet, TruckFast, TruckField, TruckFieldUn, TruckFront,
+        TachometerFast, Tag, Tags, Tanakh, Tape, Tarp, TarpDroplet, Tasks, TasksAlt, Taurus, Taxi,
+        Teeth, TeethOpen, Teletype, Television, Temperature0, Temperature1, Temperature2,
+        Temperature3, Temperature4, TemperatureArrowDown, TemperatureArrowUp, TemperatureDown,
+        TemperatureEmpty, TemperatureFull, TemperatureHalf, TemperatureHigh, TemperatureLow,
+        TemperatureQuarter, TemperatureThreeQuarters, TemperatureUp, Tenge, TengeSign, Tent,
+        TentArrowDownToLine, TentArrowLeftRight, TentArrowTurnLeft, TentArrowsDown, Tents, Terminal,
+        TextHeight, TextSlash, TextWidth, Th, ThLarge, ThList, TheaterMasks, Thermometer,
+        Thermometer0, Thermometer1, Thermometer2, Thermometer3, Thermometer4, ThermometerEmpty,
+        ThermometerFull, ThermometerHalf, ThermometerQuarter, ThermometerThreeQuarters, ThumbTack,
+        ThumbTackSlash, ThumbsDown, ThumbsUp, Thumbtack, ThumbtackSlash, Thunderstorm, Ticket,
+        TicketAlt, TicketSimple, Timeline, Times, TimesCircle, TimesRectangle, TimesSquare, Tint,
+        TintSlash, Tired, ToggleOff, ToggleOn, Toilet, ToiletPaper, ToiletPaperAlt,
+        ToiletPaperBlank, ToiletPaperSlash, ToiletPortable, ToiletsPortable, Toolbox, Tools, Tooth,
+        Torah, ToriiGate, Tornado, TowerBroadcast, TowerCell, TowerObservation, Tractor, Trademark,
+        TrafficLight, Trailer, Train, TrainSubway, TrainTram, Tram, Transgender, TransgenderAlt,
+        Trash, TrashAlt, TrashArrowUp, TrashCan, TrashCanArrowUp, TrashRestore, TrashRestoreAlt,
+        Tree, TreeCity, TriangleCircleSquare, TriangleExclamation, Trophy, Trowel, TrowelBricks,
+        Truck, TruckArrowRight, TruckDroplet, TruckFast, TruckField, TruckFieldUn, TruckFront,
         TruckLoading, TruckMedical, TruckMonster, TruckMoving, TruckPickup, TruckPlane,
-        TruckRampBox, Try, Tty, TurkishLira, TurkishLiraSign, TurnDown, TurnUp, Tv, TvAlt,
+        TruckRampBox, Try, Tshirt, Tty, TurkishLira, TurkishLiraSign, TurnDown, TurnUp, Tv, TvAlt,
         U, Umbrella, UmbrellaBeach, Underline, Undo, UndoAlt, UniversalAccess, University, Unlink,
         Unlock, UnlockAlt, UnlockKeyhole, Unsorted, UpDown, UpDownLeftRight, UpLong,
         UpRightAndDownLeftFromCenter, UpRightFromSquare, Upload, Usd, User, UserAlt, UserAltSlash,
@@ -2266,15 +2290,15 @@ public val SolidGroup.AllIcons: ____KtList<ImageVector>
         UsersLine, UsersRays, UsersRectangle, UsersSlash, UsersViewfinder, UtensilSpoon, Utensils,
         V, VanShuttle, Vault, Vcard, VectorPolygon, Venus, VenusDouble, VenusMars, Vest,
         VestPatches, Vial, VialCircleCheck, VialVirus, Vials, Video, VideoCamera, VideoSlash,
-        Vihara, Virus, VirusCovid, VirusCovidSlash, VirusSlash, Viruses, Voicemail, Volcano,
-        Volleyball, VolleyballBall, VolumeControlPhone, VolumeDown, VolumeHigh, VolumeLow,
-        VolumeMute, VolumeOff, VolumeTimes, VolumeUp, VolumeXmark, VoteYea, VrCardboard, W,
-        WalkieTalkie, Walking, Wallet, WandMagic, WandMagicSparkles, WandSparkles, Warehouse,
-        Warning, Water, WaterLadder, WaveSquare, WebAwesome, Weight, WeightHanging, WeightScale,
-        WheatAlt, WheatAwn, WheatAwnCircleExclamation, Wheelchair, WheelchairAlt, WheelchairMove,
-        WhiskeyGlass, Wifi, Wifi3, WifiStrong, Wind, WindowClose, WindowMaximize, WindowMinimize,
-        WindowRestore, WineBottle, WineGlass, WineGlassAlt, WineGlassEmpty, Won, WonSign, Worm,
-        Wrench, X, XRay, Xmark, XmarkCircle, XmarkSquare, XmarksLines, Y, Yen, YenSign, YinYang, Z,
-        Zap)
+        Vihara, Virgo, Virus, VirusCovid, VirusCovidSlash, VirusSlash, Viruses, Voicemail, Volcano,
+        Volleyball, VolleyballBall, Volume, VolumeControlPhone, VolumeDown, VolumeHigh, VolumeLow,
+        VolumeMedium, VolumeMute, VolumeOff, VolumeTimes, VolumeUp, VolumeXmark, VoteYea,
+        VrCardboard, W, WalkieTalkie, Walking, Wallet, WandMagic, WandMagicSparkles, WandSparkles,
+        Warehouse, Warning, Water, WaterLadder, WaveSquare, WebAwesome, Weight, WeightHanging,
+        WeightScale, WheatAlt, WheatAwn, WheatAwnCircleExclamation, Wheelchair, WheelchairAlt,
+        WheelchairMove, WhiskeyGlass, Wifi, Wifi3, WifiStrong, Wind, WindowClose, WindowMaximize,
+        WindowMinimize, WindowRestore, WineBottle, WineGlass, WineGlassAlt, WineGlassEmpty, Won,
+        WonSign, Worm, Wrench, X, XRay, Xmark, XmarkCircle, XmarkSquare, XmarksLines, Y, Yen,
+        YenSign, YinYang, Z, Zap)
     return __AllIcons!!
   }

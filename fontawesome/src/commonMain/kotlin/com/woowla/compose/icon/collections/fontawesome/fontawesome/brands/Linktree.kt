@@ -21,7 +21,7 @@ public val BrandsGroup.Linktree: ImageVector
             path(fill = SolidColor(Color(0xFF000000)), stroke = null, strokeLineWidth = 0.0f,
                     strokeLineCap = Butt, strokeLineJoin = Miter, strokeLineMiter = 4.0f,
                     pathFillType = NonZero) {
-                moveTo(32.0f, 173.4f)
+                moveTo(16.0f, 173.4f)
                 lineToRelative(125.8f, 0.0f)
                 lineToRelative(-89.4f, -85.4f)
                 lineToRelative(49.5f, -51.0f)
@@ -44,7 +44,7 @@ public val BrandsGroup.Linktree: ImageVector
                 lineToRelative(-126.4f, 0.0f)
                 lineToRelative(0.0f, -70.5f)
                 close()
-                moveTo(202.9f, 344.8f)
+                moveTo(186.9f, 344.8f)
                 lineToRelative(73.9f, 0.0f)
                 lineToRelative(0.0f, 167.2f)
                 lineToRelative(-73.9f, 0.0f)
