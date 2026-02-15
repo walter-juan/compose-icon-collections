@@ -50,13 +50,6 @@
             ]
         },
         {
-            "name": "Simpleicons",
-            "value": "simpleicons",
-            "categories": [
-                ""
-            ]
-        },
-        {
             "name": "Octicons",
             "value": "octicons",
             "categories": [
@@ -96,6 +89,13 @@
                 "brands",
                 "solid",
                 "regular"
+            ]
+        },
+        {
+            "name": "Simpleicons",
+            "value": "simpleicons",
+            "categories": [
+                ""
             ]
         }
     ]
