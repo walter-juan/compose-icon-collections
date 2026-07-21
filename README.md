@@ -1,3 +1,7 @@
+> [!WARNING]  
+> Project archived, as an alternative you can use [Valkyrie's web import](https://github.com/ComposeGears/Valkyrie#web-import)
+
+
 # Compose icon collections
 
 Open source icons sets for Compose Multiplatform — supporting Android, iOS, Desktop (JVM), and Web (Wasm).
